@@ -1,0 +1,4082 @@
+[
+  {
+    "questionId": "NDA-2025-MATHS-2-Q1",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 1,
+    "section": "Algebra",
+    "question": {
+      "type": "latex",
+      "content": "If $p^x=q^y=r^z$, where $x,y,z$ are in GP, then consider the following statements: I. $p,q,r$ are in AP. II. $\\ln p,\\ln q,\\ln r$ are in GP. Which of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "I only"
+      },
+      {
+        "option": "B",
+        "content": "II only"
+      },
+      {
+        "option": "C",
+        "content": "Both I and II"
+      },
+      {
+        "option": "D",
+        "content": "Neither I nor II"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "II only"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q2",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 2,
+    "section": "Set Theory",
+    "question": {
+      "type": "latex",
+      "content": "If $A$ and $B$ are non-empty subsets of a set, and $A^c$ and $B^c$ represent their complements, then which of the following is/are correct? I. $A-B=B^c-A^c$. II. $A-B^c=A^c-B$. Select the answer using the code given below."
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "I only"
+      },
+      {
+        "option": "B",
+        "content": "II only"
+      },
+      {
+        "option": "C",
+        "content": "Both I and II"
+      },
+      {
+        "option": "D",
+        "content": "Neither I nor II"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "I only"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q3",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 3,
+    "section": "Algebra",
+    "question": {
+      "type": "latex",
+      "content": "Let $y=x!$ and $z=(2x)!$. If $z/y=120$, then what is the value of $(3x)!$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "362880"
+      },
+      {
+        "option": "B",
+        "content": "181440"
+      },
+      {
+        "option": "C",
+        "content": "90720"
+      },
+      {
+        "option": "D",
+        "content": "45360"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "362880"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q4",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 4,
+    "section": "Number System",
+    "question": {
+      "type": "latex",
+      "content": "Let $n$ be a natural number. The number of consecutive zeros at the end of the expansion of $n!$ is exactly 2. How many values of $n$ are possible?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "3"
+      },
+      {
+        "option": "B",
+        "content": "4"
+      },
+      {
+        "option": "C",
+        "content": "5"
+      },
+      {
+        "option": "D",
+        "content": "More than 5"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "5"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q5",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 5,
+    "section": "Logarithms",
+    "question": {
+      "type": "latex",
+      "content": "If $(10+\\log_{10}x)$, $(10+\\log_{10}y)$ and $(10+\\log_{10}z)$ are in AP, then consider: I. The GM of $x$ and $z$ is $y^2$. II. The AM of $\\log_{10}x$ and $\\log_{10}z$ is $\\log_{10}y$. Which statements are correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "I only"
+      },
+      {
+        "option": "B",
+        "content": "II only"
+      },
+      {
+        "option": "C",
+        "content": "Both I and II"
+      },
+      {
+        "option": "D",
+        "content": "Neither I nor II"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "II only"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q6",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 6,
+    "section": "Sequences and Series",
+    "question": {
+      "type": "latex",
+      "content": "How many terms of the series $1+3+5+7+\\cdots$ amount to a sum equal to $12345678987654321$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "11111111"
+      },
+      {
+        "option": "B",
+        "content": "110000011"
+      },
+      {
+        "option": "C",
+        "content": "111101111"
+      },
+      {
+        "option": "D",
+        "content": "111111111"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "111111111"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q7",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 7,
+    "section": "Sequences and Series",
+    "question": {
+      "type": "latex",
+      "content": "How many terms are identical in the two APs $19,21,23,\\ldots$ up to 110 terms and $19,22,25,28,\\ldots$ up to 75 terms?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "35"
+      },
+      {
+        "option": "B",
+        "content": "36"
+      },
+      {
+        "option": "C",
+        "content": "37"
+      },
+      {
+        "option": "D",
+        "content": "38"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "37"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q8",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 8,
+    "section": "Complex Numbers",
+    "question": {
+      "type": "latex",
+      "content": "If $\\alpha=\\frac{-1+\\sqrt{-3}}{2}$, then what is the value of $(1+\\alpha^{19}-\\alpha^{35})^{100}-(1-3\\alpha^{25}+\\alpha^{38})^{50}$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$-2$"
+      },
+      {
+        "option": "B",
+        "content": "$-1$"
+      },
+      {
+        "option": "C",
+        "content": "$0$"
+      },
+      {
+        "option": "D",
+        "content": "$2$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$0$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q9",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 9,
+    "section": "Number System",
+    "question": {
+      "type": "latex",
+      "content": "What is the remainder when $5^{99}$ is divided by 13?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "10"
+      },
+      {
+        "option": "B",
+        "content": "9"
+      },
+      {
+        "option": "C",
+        "content": "8"
+      },
+      {
+        "option": "D",
+        "content": "6"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "8"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q10",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 10,
+    "section": "Matrices",
+    "question": {
+      "type": "latex",
+      "content": "What is the value of the determinant of the inverse of the matrix $\\begin{bmatrix}-4&-5\\\\2&2\\end{bmatrix}$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\frac12$"
+      },
+      {
+        "option": "B",
+        "content": "1"
+      },
+      {
+        "option": "C",
+        "content": "2"
+      },
+      {
+        "option": "D",
+        "content": "4"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$\\frac12$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q11",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 11,
+    "section": "Set Theory",
+    "question": {
+      "type": "latex",
+      "content": "In a class of 45 students, 34 like to play cricket and 26 like to play football. Further, each student likes to play at least one of the two games. How many students like to play exactly one game?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "45"
+      },
+      {
+        "option": "B",
+        "content": "30"
+      },
+      {
+        "option": "C",
+        "content": "25"
+      },
+      {
+        "option": "D",
+        "content": "15"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "30"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q12",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 12,
+    "section": "Algebra",
+    "question": {
+      "type": "latex",
+      "content": "The system of equations $2x-3y-5=0$ and $15y-10x+50=0$ is:"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "has a unique solution"
+      },
+      {
+        "option": "B",
+        "content": "has infinitely many solutions"
+      },
+      {
+        "option": "C",
+        "content": "is inconsistent"
+      },
+      {
+        "option": "D",
+        "content": "is consistent and has exactly two solutions"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "is inconsistent"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q13",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 13,
+    "section": "Complex Numbers",
+    "question": {
+      "type": "latex",
+      "content": "If $\\left(\\frac{1-i}{1+i}\\right)^{2m}\\left(\\frac{1+i}{1-i}\\right)^{2n}=1$, where $i=\\sqrt{-1}$, then what is the smallest positive value of $(m-n)$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "1"
+      },
+      {
+        "option": "B",
+        "content": "2"
+      },
+      {
+        "option": "C",
+        "content": "4"
+      },
+      {
+        "option": "D",
+        "content": "8"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "2"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q14",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 14,
+    "section": "Matrices",
+    "question": {
+      "type": "latex",
+      "content": "In obtaining the solution of $x+y+z=7$, $x+2y+3z=16$, $x+3y+4z=22$ by Cramer's rule, $y$ is obtained by dividing $D$ by $D_2$, where $D=\\begin{vmatrix}1&1&1\\\\1&2&3\\\\1&3&4\\end{vmatrix}$. What is the value of $D_2$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$-13$"
+      },
+      {
+        "option": "B",
+        "content": "$-3$"
+      },
+      {
+        "option": "C",
+        "content": "3"
+      },
+      {
+        "option": "D",
+        "content": "13"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "$-3$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q15",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 15,
+    "section": "Matrices",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for non-singular matrices $A$ and $B$: I. $(AB)^{-1}=A^{-1}B^{-1}$. II. $(BA)(AB)^{-1}=I$. III. $(AB)^T=A^TB^T$. How many of the above are correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "None"
+      },
+      {
+        "option": "B",
+        "content": "One"
+      },
+      {
+        "option": "C",
+        "content": "Two"
+      },
+      {
+        "option": "D",
+        "content": "All three"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "None"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q16",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 16,
+    "section": "Determinants",
+    "question": {
+      "type": "latex",
+      "content": "The value of $\\begin{vmatrix}a&b&c\\\\l&m&n\\\\p&q&r\\end{vmatrix}$ is equal to which of the following?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\begin{vmatrix}a&b&c\\\\p&q&r\\\\l&m&n\\end{vmatrix}$"
+      },
+      {
+        "option": "B",
+        "content": "$\\begin{vmatrix}l&m&n\\\\a&b&c\\\\p&q&r\\end{vmatrix}$"
+      },
+      {
+        "option": "C",
+        "content": "$\\begin{vmatrix}p&q&r\\\\a&b&c\\\\l&m&n\\end{vmatrix}$"
+      },
+      {
+        "option": "D",
+        "content": "$\\begin{vmatrix}a&p&l\\\\b&q&m\\\\c&r&n\\end{vmatrix}$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$\\begin{vmatrix}p&q&r\\\\a&b&c\\\\l&m&n\\end{vmatrix}$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q17",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 17,
+    "section": "Complex Numbers",
+    "question": {
+      "type": "latex",
+      "content": "Let $1,\\omega,\\omega^2$ be three cube roots of unity. If $x=a+b$, $y=a\\omega+b\\omega^2$, $z=a\\omega^2+b\\omega$, then what is $x^2+y^2+z^2$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$6ab$"
+      },
+      {
+        "option": "B",
+        "content": "$3ab$"
+      },
+      {
+        "option": "C",
+        "content": "$a^2+b^2$"
+      },
+      {
+        "option": "D",
+        "content": "1"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$6ab$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q18",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 18,
+    "section": "Permutation and Combination",
+    "question": {
+      "type": "latex",
+      "content": "How many 4-digit numbers divisible by 4 can be formed using the digits 1, 2, 3 and 4, without repetition?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "3"
+      },
+      {
+        "option": "B",
+        "content": "6"
+      },
+      {
+        "option": "C",
+        "content": "9"
+      },
+      {
+        "option": "D",
+        "content": "12"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "6"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q19",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 19,
+    "section": "Determinants",
+    "question": {
+      "type": "latex",
+      "content": "If $a,b,c$ are the sides of a triangle $ABC$ and $p$ is the perimeter of the triangle, then what is $\\begin{vmatrix}p+c&a&b\\\\c&p+a&b\\\\c&a&p+b\\end{vmatrix}$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$p^3$"
+      },
+      {
+        "option": "B",
+        "content": "$2p^3$"
+      },
+      {
+        "option": "C",
+        "content": "$3p^3$"
+      },
+      {
+        "option": "D",
+        "content": "$4p^3$"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "$2p^3$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q20",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 20,
+    "section": "Binomial Theorem",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the greatest coefficient in the expansion of $(1+x)^{100}$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "The coefficient of $x^{100}$"
+      },
+      {
+        "option": "B",
+        "content": "The coefficient of $x^{99}$"
+      },
+      {
+        "option": "C",
+        "content": "The coefficient of $x^{51}$"
+      },
+      {
+        "option": "D",
+        "content": "The coefficient of $x^{50}$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "The coefficient of $x^{50}$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q21",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 21,
+    "section": "Logarithms",
+    "question": {
+      "type": "latex",
+      "content": "Let $\\alpha$ and $\\beta$ be the roots of $x^2+(\\log_{0.5}(a^2))x+(\\log_{0.5}(a^2))^4=0$, where $a^2\\ne1$, $\\log_{0.5}(a^2)>0$, and $\\beta^2=\\alpha\\log_{a^2}(0.5)$. What is $\\beta$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\log_{a^2}(0.5)$"
+      },
+      {
+        "option": "B",
+        "content": "$\\log_{0.5}(a^2)$"
+      },
+      {
+        "option": "C",
+        "content": "$2\\log_{a^2}(0.5)$"
+      },
+      {
+        "option": "D",
+        "content": "$2\\log_{0.5}(a^2)$"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "$\\log_{0.5}(a^2)$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q22",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 22,
+    "section": "Logarithms",
+    "question": {
+      "type": "latex",
+      "content": "Let $\\alpha$ and $\\beta$ be the roots of $x^2+(\\log_{0.5}(a^2))x+(\\log_{0.5}(a^2))^4=0$, where $a^2\\ne1$, $\\log_{0.5}(a^2)>0$, and $\\beta^2=\\alpha\\log_{a^2}(0.5)$. What is the relation between $\\alpha$ and $\\beta$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\alpha=2\\beta$"
+      },
+      {
+        "option": "B",
+        "content": "$2\\alpha=\\beta$"
+      },
+      {
+        "option": "C",
+        "content": "$\\alpha=-2\\beta$"
+      },
+      {
+        "option": "D",
+        "content": "$2\\alpha=-\\beta$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$\\alpha=-2\\beta$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q23",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 23,
+    "section": "Logarithms",
+    "question": {
+      "type": "latex",
+      "content": "Let $p=\\sum_{j=1}^{n}\\log_{10}(2^j)$ and $q=\\sum_{j=1}^{n}\\log_{10}(5^j)$. If $p+q=66$, which is correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$n<7$"
+      },
+      {
+        "option": "B",
+        "content": "$7<n<9$"
+      },
+      {
+        "option": "C",
+        "content": "$9<n<12$"
+      },
+      {
+        "option": "D",
+        "content": "$n>12$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$9<n<12$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q24",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 24,
+    "section": "Logarithms",
+    "question": {
+      "type": "latex",
+      "content": "Let $p=\\sum_{j=1}^{n}\\log_{10}(2^j)$ and $q=\\sum_{j=1}^{n}\\log_{10}(5^j)$. If $p+q=15$, then what is $q-p$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\log_{10}2.5$"
+      },
+      {
+        "option": "B",
+        "content": "$5\\log_{10}2.5$"
+      },
+      {
+        "option": "C",
+        "content": "$10\\log_{10}2.5$"
+      },
+      {
+        "option": "D",
+        "content": "$15\\log_{10}2.5$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$15\\log_{10}2.5$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q25",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 25,
+    "section": "Trigonometry",
+    "question": {
+      "type": "latex",
+      "content": "Let $\\sin A+\\sin B=p$ and $\\cos A+\\cos B=q$. What is $p/q$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\tan\\frac{A-B}{2}$"
+      },
+      {
+        "option": "B",
+        "content": "$\\cot\\frac{A-B}{2}$"
+      },
+      {
+        "option": "C",
+        "content": "$\\tan\\frac{A+B}{2}$"
+      },
+      {
+        "option": "D",
+        "content": "$\\cot\\frac{A+B}{2}$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$\\tan\\frac{A+B}{2}$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q26",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 26,
+    "section": "Trigonometry",
+    "question": {
+      "type": "latex",
+      "content": "Let $\\sin A+\\sin B=p$ and $\\cos A+\\cos B=q$. What is $\\frac{p^2-q^2}{p^2+q^2}$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\cos(A+B)$"
+      },
+      {
+        "option": "B",
+        "content": "$\\cos(A-B)$"
+      },
+      {
+        "option": "C",
+        "content": "$\\cos\\left(\\frac\\pi2-A-B\\right)$"
+      },
+      {
+        "option": "D",
+        "content": "$\\cos(\\pi-A-B)$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$\\cos(\\pi-A-B)$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q27",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 27,
+    "section": "Trigonometry",
+    "question": {
+      "type": "latex",
+      "content": "Let $p=\\csc20^\\circ$ and $q=\\csc70^\\circ$. What is $\\frac{\\sqrt3p}{4}-\\frac q4$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$-1$"
+      },
+      {
+        "option": "B",
+        "content": "0"
+      },
+      {
+        "option": "C",
+        "content": "1"
+      },
+      {
+        "option": "D",
+        "content": "2"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "1"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q28",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 28,
+    "section": "Trigonometry",
+    "question": {
+      "type": "latex",
+      "content": "Let $\\sin A+\\sin B=p$ and $\\cos A+\\cos B=q$. What is $\\frac{p^2+q^2}{p^2q^2}$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\frac12$"
+      },
+      {
+        "option": "B",
+        "content": "1"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac32$"
+      },
+      {
+        "option": "D",
+        "content": "2"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "1"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q29",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 29,
+    "section": "Trigonometry",
+    "question": {
+      "type": "latex",
+      "content": "Let $\\cos(2x+3y)=\\frac12$ and $\\cos(3x+2y)=\\frac{\\sqrt3}{2}$, where $-\\pi<(2x+3y)<\\pi$ and $-\\pi<(3x+2y)<\\pi$. How many values does $(x+y)$ have?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "Two"
+      },
+      {
+        "option": "B",
+        "content": "Three"
+      },
+      {
+        "option": "C",
+        "content": "Four"
+      },
+      {
+        "option": "D",
+        "content": "More than four"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "Four"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q30",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 30,
+    "section": "Trigonometry",
+    "question": {
+      "type": "latex",
+      "content": "Let $\\cos(2x+3y)=\\frac12$ and $\\cos(3x+2y)=\\frac{\\sqrt3}{2}$, where $-\\pi<(2x+3y)<\\pi$ and $-\\pi<(3x+2y)<\\pi$. How many values does $(y-x)$ have?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "Two"
+      },
+      {
+        "option": "B",
+        "content": "Three"
+      },
+      {
+        "option": "C",
+        "content": "Four"
+      },
+      {
+        "option": "D",
+        "content": "More than four"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "Four"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q31",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 31,
+    "section": "Quadratic Equations",
+    "question": {
+      "type": "latex",
+      "content": "Consider $abx^2+bcx+ca=cax^2+abx+bc$. If the roots are equal, which is correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$ac=b^2$"
+      },
+      {
+        "option": "B",
+        "content": "$a+c=2b$"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac1a+\\frac1c=\\frac1{2b}$"
+      },
+      {
+        "option": "D",
+        "content": "$\\frac1a+\\frac1c=\\frac2b$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$\\frac1a+\\frac1c=\\frac1{2b}$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q32",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 32,
+    "section": "Quadratic Equations",
+    "question": {
+      "type": "latex",
+      "content": "Consider $abx^2+bcx+ca=cax^2+abx+bc$. If the roots are equal, then $a,b,c$ are in:"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "AP"
+      },
+      {
+        "option": "B",
+        "content": "GP"
+      },
+      {
+        "option": "C",
+        "content": "HP"
+      },
+      {
+        "option": "D",
+        "content": "None of the above"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "HP"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q33",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 33,
+    "section": "Sequences and Series",
+    "question": {
+      "type": "latex",
+      "content": "Let $(6+10+14+\\cdots)$ up to $m$ terms equal $(1+3+5+7+\\cdots)$ up to $n$ terms, where $m<25$ and $n<25$. What is the relation between $m$ and $n$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$n^2=m(m+1)$"
+      },
+      {
+        "option": "B",
+        "content": "$n^2=m(m+2)$"
+      },
+      {
+        "option": "C",
+        "content": "$n^2=2m(m+1)$"
+      },
+      {
+        "option": "D",
+        "content": "$n^2=2m(m+2)$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$n^2=2m(m+2)$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q34",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 34,
+    "section": "Sequences and Series",
+    "question": {
+      "type": "latex",
+      "content": "Let $(6+10+14+\\cdots)$ up to $m$ terms equal $(1+3+5+7+\\cdots)$ up to $n$ terms, where $m<25$ and $n<25$. How many values of $m$ are possible?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "None"
+      },
+      {
+        "option": "B",
+        "content": "One"
+      },
+      {
+        "option": "C",
+        "content": "Two"
+      },
+      {
+        "option": "D",
+        "content": "More than two"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "Two"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q35",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 35,
+    "section": "Permutation and Combination",
+    "question": {
+      "type": "latex",
+      "content": "There are 8 points on a plane, out of which 4 points are collinear. How many triangles can be formed by joining these points?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "56"
+      },
+      {
+        "option": "B",
+        "content": "54"
+      },
+      {
+        "option": "C",
+        "content": "53"
+      },
+      {
+        "option": "D",
+        "content": "52"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "52"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q36",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 36,
+    "section": "Permutation and Combination",
+    "question": {
+      "type": "latex",
+      "content": "There are 8 points on a plane, out of which 4 points are collinear. How many quadrilaterals can be formed by joining these points?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "70"
+      },
+      {
+        "option": "B",
+        "content": "69"
+      },
+      {
+        "option": "C",
+        "content": "53"
+      },
+      {
+        "option": "D",
+        "content": "None of the above"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "69"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q37",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 37,
+    "section": "Quadratic Equations",
+    "question": {
+      "type": "latex",
+      "content": "Let $f(x)=ax^2+bx+c$ be a quadratic polynomial such that $f(1)=f(4)=2$. Further, 2 is a root of $f(x)=0$. What is the other root?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "1"
+      },
+      {
+        "option": "B",
+        "content": "2"
+      },
+      {
+        "option": "C",
+        "content": "3"
+      },
+      {
+        "option": "D",
+        "content": "Cannot be determined"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "3"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q38",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 38,
+    "section": "Quadratic Equations",
+    "question": {
+      "type": "latex",
+      "content": "Let $f(x)=ax^2+bx+c$ be a quadratic polynomial such that $f(1)=f(4)=2$ and 2 is a root of $f(x)=0$. What is $(a+b+c)$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "0"
+      },
+      {
+        "option": "B",
+        "content": "1"
+      },
+      {
+        "option": "C",
+        "content": "2"
+      },
+      {
+        "option": "D",
+        "content": "Cannot be determined"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "2"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q39",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 39,
+    "section": "Matrices",
+    "question": {
+      "type": "latex",
+      "content": "Let $A=\\begin{bmatrix}\\cos\\theta&\\sin\\theta\\\\-\\sin\\theta&\\cos\\theta\\end{bmatrix}$. What is the determinant of $A^4$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "0"
+      },
+      {
+        "option": "B",
+        "content": "1"
+      },
+      {
+        "option": "C",
+        "content": "$\\cos4\\theta-\\sin4\\theta$"
+      },
+      {
+        "option": "D",
+        "content": "$\\cos^24\\theta-\\sin^24\\theta$"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "1"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q40",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 40,
+    "section": "Matrices",
+    "question": {
+      "type": "latex",
+      "content": "Let $A=\\begin{bmatrix}\\cos\\theta&\\sin\\theta\\\\-\\sin\\theta&\\cos\\theta\\end{bmatrix}$. What is $[\\operatorname{adj}A]^{-1}$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$-A$"
+      },
+      {
+        "option": "B",
+        "content": "$-A^T$"
+      },
+      {
+        "option": "C",
+        "content": "$A$"
+      },
+      {
+        "option": "D",
+        "content": "$A^T$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$A$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q41",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 41,
+    "section": "Number System",
+    "question": {
+      "type": "latex",
+      "content": "What is the sum of the binary numbers $(101101101)_2$ and $(100011)_2$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$(110010000)_2$"
+      },
+      {
+        "option": "B",
+        "content": "$(110001000)_2$"
+      },
+      {
+        "option": "C",
+        "content": "$(110000100)_2$"
+      },
+      {
+        "option": "D",
+        "content": "$(100100000)_2$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$(110010000)_2$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q42",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 42,
+    "section": "Set Theory",
+    "question": {
+      "type": "latex",
+      "content": "Set $X$ contains $3n$ elements and set $Y$ contains $2n$ elements, and they have $n$ elements in common. How many elements does $(X-Y)\\times(Y-X)$ have?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$5n^2$"
+      },
+      {
+        "option": "B",
+        "content": "$4n^2$"
+      },
+      {
+        "option": "C",
+        "content": "$3n^2$"
+      },
+      {
+        "option": "D",
+        "content": "$2n^2$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$2n^2$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q43",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 43,
+    "section": "Set Theory",
+    "question": {
+      "type": "latex",
+      "content": "Let $A=\\{-3,-2,-1,0,1,2,3\\}$ and $B=\\{0,1,4,9\\}$. How many elements does the subset of $A\\times B$ corresponding to $R=\\{(x,y):|x|<y\\}$ have?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "9"
+      },
+      {
+        "option": "B",
+        "content": "12"
+      },
+      {
+        "option": "C",
+        "content": "15"
+      },
+      {
+        "option": "D",
+        "content": "16"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "15"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q44",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 44,
+    "section": "Matrices",
+    "question": {
+      "type": "latex",
+      "content": "Consider: Statement-I: If $X$ is an $n\\times n$ matrix, then $\\det(mX)=m^n\\det(X)$. Statement-II: If $Y$ is obtained from $X$ by multiplying any row or column by scalar $m$, then $\\det(Y)=m\\det(X)$. Which is correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "Both correct and II explains I"
+      },
+      {
+        "option": "B",
+        "content": "Both correct but II does not explain I"
+      },
+      {
+        "option": "C",
+        "content": "I correct but II not correct"
+      },
+      {
+        "option": "D",
+        "content": "I not correct but II correct"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "Both correct and II explains I"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q45",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 45,
+    "section": "Matrices",
+    "question": {
+      "type": "latex",
+      "content": "For $M=\\begin{bmatrix}71&23&48\\\\57&28&29\\\\65&17&48\\end{bmatrix}$, consider: I. The inverse of $M$ does not exist. II. $M$ is non-singular. Which is correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "Both correct and II explains I"
+      },
+      {
+        "option": "B",
+        "content": "Both correct but II does not explain I"
+      },
+      {
+        "option": "C",
+        "content": "I correct but II not correct"
+      },
+      {
+        "option": "D",
+        "content": "I not correct but II correct"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "I correct but II not correct"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q46",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 46,
+    "section": "Trigonometry",
+    "question": {
+      "type": "latex",
+      "content": "What is $\\cot^{-1}9+\\cosec^{-1}\\left(\\frac{\\sqrt{41}}4\\right)$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\frac\\pi4$"
+      },
+      {
+        "option": "B",
+        "content": "$\\frac\\pi3$"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac\\pi2$"
+      },
+      {
+        "option": "D",
+        "content": "$\\pi$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$\\frac\\pi4$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q47",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 47,
+    "section": "Trigonometry",
+    "question": {
+      "type": "latex",
+      "content": "How many values of $\\theta$, where $-\\pi<\\theta<\\pi$, satisfy both $\\cot\\theta=-\\sqrt3$ and $\\csc\\theta=-2$ simultaneously?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "4"
+      },
+      {
+        "option": "B",
+        "content": "2"
+      },
+      {
+        "option": "C",
+        "content": "1"
+      },
+      {
+        "option": "D",
+        "content": "None"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "1"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q48",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 48,
+    "section": "Trigonometry",
+    "question": {
+      "type": "latex",
+      "content": "If $x+\\frac1x=2\\cos\\theta$, then what is $x^3+\\frac1{x^3}$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\cos^3\\theta$"
+      },
+      {
+        "option": "B",
+        "content": "$\\cos3\\theta$"
+      },
+      {
+        "option": "C",
+        "content": "$2\\cos3\\theta$"
+      },
+      {
+        "option": "D",
+        "content": "$3\\cos3\\theta$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$2\\cos3\\theta$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q49",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 49,
+    "section": "Trigonometry",
+    "question": {
+      "type": "latex",
+      "content": "If $0\\le x\\le\\frac\\pi2$, then what is the number of values of $x$ satisfying $\\tan x+\\sec x=2\\cos x$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "0"
+      },
+      {
+        "option": "B",
+        "content": "1"
+      },
+      {
+        "option": "C",
+        "content": "2"
+      },
+      {
+        "option": "D",
+        "content": "3"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "1"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q50",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 50,
+    "section": "Trigonometry",
+    "question": {
+      "type": "latex",
+      "content": "What is $\\tan\\left[\\frac12\\sec^{-1}\\left(\\frac2{\\sqrt3}\\right)\\right]$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$2-\\sqrt3$"
+      },
+      {
+        "option": "B",
+        "content": "$2+\\sqrt3$"
+      },
+      {
+        "option": "C",
+        "content": "$\\sqrt3-1$"
+      },
+      {
+        "option": "D",
+        "content": "$\\sqrt3+1$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$2-\\sqrt3$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q51",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 51,
+    "section": "Three-Dimensional Geometry",
+    "question": {
+      "type": "latex",
+      "content": "A plane $P$ is parallel to the line having direction ratios $(1,3,2)$ and contains the line of intersection of the planes $6x+4y-5z=2$ and $x-2y+3z=0$. Which are the direction ratios of the line of intersection?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$(2,23,16)$"
+      },
+      {
+        "option": "B",
+        "content": "$(2,-23,-16)$"
+      },
+      {
+        "option": "C",
+        "content": "$(2,3,2)$"
+      },
+      {
+        "option": "D",
+        "content": "$(-1,3,-2)$"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "$(2,-23,-16)$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q52",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 52,
+    "section": "Three-Dimensional Geometry",
+    "question": {
+      "type": "latex",
+      "content": "For the plane $P$ in Question 51, what is its equation?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$2x-20y+29z+2=0$"
+      },
+      {
+        "option": "B",
+        "content": "$2x-20y+29z-2=0$"
+      },
+      {
+        "option": "C",
+        "content": "$2x+3y+2z-4=0$"
+      },
+      {
+        "option": "D",
+        "content": "$x-3y+2z+5=0$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$2x-20y+29z+2=0$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q53",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 53,
+    "section": "Three-Dimensional Geometry",
+    "question": {
+      "type": "latex",
+      "content": "Suppose $S$ is the sphere with the smallest radius that passes through $A(1,0,0)$, $B(0,1,0)$ and $C(0,0,1)$. What is the radius of $S$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\frac1{\\sqrt3}$"
+      },
+      {
+        "option": "B",
+        "content": "$\\sqrt{\\frac23}$"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac13$"
+      },
+      {
+        "option": "D",
+        "content": "1"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "$\\sqrt{\\frac23}$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q54",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 54,
+    "section": "Three-Dimensional Geometry",
+    "question": {
+      "type": "latex",
+      "content": "On which plane does the centre of the sphere in Question 53 lie?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$x+y+z-1=0$"
+      },
+      {
+        "option": "B",
+        "content": "$x+y+z+1=0$"
+      },
+      {
+        "option": "C",
+        "content": "$3x+3y+3z-1=0$"
+      },
+      {
+        "option": "D",
+        "content": "$3x+3y+3z+1=0$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$x+y+z-1=0$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q55",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 55,
+    "section": "Three-Dimensional Geometry",
+    "question": {
+      "type": "latex",
+      "content": "Let $A(1,-1,0)$, $B(-2,1,8)$ and $C(-1,2,7)$ be three consecutive vertices of parallelogram $ABCD$. What is the fourth vertex $D$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$(0,-2,1)$"
+      },
+      {
+        "option": "B",
+        "content": "$(2,0,-1)$"
+      },
+      {
+        "option": "C",
+        "content": "$(1,0,1)$"
+      },
+      {
+        "option": "D",
+        "content": "$(1,2,0)$"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "$(2,0,-1)$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q56",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 56,
+    "section": "Three-Dimensional Geometry",
+    "question": {
+      "type": "latex",
+      "content": "If angle $BCD$ is $\\theta$, then what is $\\cos^2\\theta$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$26/77$"
+      },
+      {
+        "option": "B",
+        "content": "$27/77$"
+      },
+      {
+        "option": "C",
+        "content": "$82/237$"
+      },
+      {
+        "option": "D",
+        "content": "$83/237$"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "$27/77$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q57",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 57,
+    "section": "Coordinate Geometry",
+    "question": {
+      "type": "latex",
+      "content": "For different values of $m$, the equation $4y=mx-m+2$ represents:"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "parallel lines"
+      },
+      {
+        "option": "B",
+        "content": "concurrent lines"
+      },
+      {
+        "option": "C",
+        "content": "lines at a fixed distance from the origin"
+      },
+      {
+        "option": "D",
+        "content": "the same line"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "concurrent lines"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q58",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 58,
+    "section": "Coordinate Geometry",
+    "question": {
+      "type": "latex",
+      "content": "The equation of the locus of a point equidistant from $(a,b)$ and $(c,d)$ is $(a-c)x+(b-d)y+k=0$. What is $k$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$a^2-c^2+b^2-d^2$"
+      },
+      {
+        "option": "B",
+        "content": "$c^2+d^2-a^2-b^2$"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac{a^2-c^2+b^2-d^2}{2}$"
+      },
+      {
+        "option": "D",
+        "content": "$\\frac{c^2+d^2-a^2-b^2}{2}$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$\\frac{c^2+d^2-a^2-b^2}{2}$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q59",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 59,
+    "section": "Coordinate Geometry",
+    "question": {
+      "type": "latex",
+      "content": "Consider $x^2+3y=0$: I. It is a parabola opening upwards. II. Its axis is $x=0$. III. Its latus rectum is $4y-3=0$. How many statements are correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "None"
+      },
+      {
+        "option": "B",
+        "content": "One"
+      },
+      {
+        "option": "C",
+        "content": "Two"
+      },
+      {
+        "option": "D",
+        "content": "All three"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "One"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q60",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 60,
+    "section": "Coordinate Geometry",
+    "question": {
+      "type": "latex",
+      "content": "What is the sum of the intercepts of the line $\\frac{x}{a^2}+\\frac{y}{b^2}=\\frac{2}{a^2+b^2}$ on the coordinate axes?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "2"
+      },
+      {
+        "option": "B",
+        "content": "1"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac12$"
+      },
+      {
+        "option": "D",
+        "content": "$a^2+b^2$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "2"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q61",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 61,
+    "section": "Coordinate Geometry",
+    "question": {
+      "type": "latex",
+      "content": "Which is the perpendicular form of the straight line $\\sqrt3x+2y=7$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$y=-\\frac{\\sqrt3}{2}x+\\frac72$"
+      },
+      {
+        "option": "B",
+        "content": "$\\frac{x}{7/\\sqrt3}+\\frac{y}{7/2}=1$"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac{\\sqrt3}{\\sqrt7}x+\\frac2{\\sqrt7}y=\\sqrt7$"
+      },
+      {
+        "option": "D",
+        "content": "$\\frac{\\sqrt3}{\\sqrt7}x+\\frac2{\\sqrt7}y=7$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$\\frac{\\sqrt3}{\\sqrt7}x+\\frac2{\\sqrt7}y=\\sqrt7$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q62",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 62,
+    "section": "Coordinate Geometry",
+    "question": {
+      "type": "latex",
+      "content": "If the vertices $B$ and $D$ of a square $ABCD$ are $(2,3)$ and $(4,1)$ respectively, what is the area of the square?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "2 square units"
+      },
+      {
+        "option": "B",
+        "content": "3 square units"
+      },
+      {
+        "option": "C",
+        "content": "4 square units"
+      },
+      {
+        "option": "D",
+        "content": "8 square units"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "4 square units"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q63",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 63,
+    "section": "Trigonometry",
+    "question": {
+      "type": "latex",
+      "content": "What is the value of $\\sin\\theta$ if $\\theta$ is the acute angle between the lines $px+qy=p+q$ and $p(x-y)+q(x+y)=2q$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\frac{\\sqrt3}{2}$"
+      },
+      {
+        "option": "B",
+        "content": "$\\frac34$"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac12$"
+      },
+      {
+        "option": "D",
+        "content": "$\\frac1{\\sqrt2}$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$\\frac1{\\sqrt2}$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q64",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 64,
+    "section": "Coordinate Geometry",
+    "question": {
+      "type": "latex",
+      "content": "The circle $x^2+y^2-2kx-2ky+k^2=0$ touches the x-axis at $P$ and y-axis at $Q$. What is $PQ$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\sqrt2k$"
+      },
+      {
+        "option": "B",
+        "content": "$2k$"
+      },
+      {
+        "option": "C",
+        "content": "$2\\sqrt2k$"
+      },
+      {
+        "option": "D",
+        "content": "$4k$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$\\sqrt2k$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q65",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 65,
+    "section": "Conic Sections",
+    "question": {
+      "type": "latex",
+      "content": "What is the distance between the foci of the hyperbola $x^2-4y^2=1$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\sqrt3$"
+      },
+      {
+        "option": "B",
+        "content": "$\\sqrt5$"
+      },
+      {
+        "option": "C",
+        "content": "$2\\sqrt3$"
+      },
+      {
+        "option": "D",
+        "content": "$2\\sqrt5$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$2\\sqrt5$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q66",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 66,
+    "section": "Vector Algebra",
+    "question": {
+      "type": "latex",
+      "content": "Let $\\vec p=\\vec a-\\vec b$, $\\vec q=\\vec a+\\vec b$. If $|\\vec a|=|\\vec b|=2$ and $\\vec a\\cdot\\vec b=2$, what is $|\\vec p\\times\\vec q|$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\sqrt3$"
+      },
+      {
+        "option": "B",
+        "content": "$\\sqrt6$"
+      },
+      {
+        "option": "C",
+        "content": "$2\\sqrt3$"
+      },
+      {
+        "option": "D",
+        "content": "$4\\sqrt3$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$4\\sqrt3$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q67",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 67,
+    "section": "Vector Algebra",
+    "question": {
+      "type": "latex",
+      "content": "How many of the following can be a vector perpendicular to both $2\\hat i-\\hat j+\\hat k$ and $\\hat i+\\hat j+3\\hat k$? I. $4\\hat i+5\\hat j-3\\hat k$ II. $-8\\hat i-10\\hat j+6\\hat k$ III. $\\frac1{50}(-4\\hat i-5\\hat j+3\\hat k)$."
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "None"
+      },
+      {
+        "option": "B",
+        "content": "One"
+      },
+      {
+        "option": "C",
+        "content": "Two"
+      },
+      {
+        "option": "D",
+        "content": "All three"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "All three"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q68",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 68,
+    "section": "Vector Algebra",
+    "question": {
+      "type": "latex",
+      "content": "What is the area of the parallelogram whose sides are represented by $\\hat i+2\\hat j+3\\hat k$ and $2\\hat i+\\hat j+2\\hat k$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\frac12\\sqrt{26}$ square units"
+      },
+      {
+        "option": "B",
+        "content": "$\\frac12\\sqrt{27}$ square units"
+      },
+      {
+        "option": "C",
+        "content": "$\\sqrt{26}$ square units"
+      },
+      {
+        "option": "D",
+        "content": "$\\sqrt{27}$ square units"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$\\sqrt{26}$ square units"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q69",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 69,
+    "section": "Vector Algebra",
+    "question": {
+      "type": "latex",
+      "content": "The position vectors of $A,B,C,D$ are $3\\hat i+4\\hat j-2\\hat k$, $4\\hat i-4\\hat j-3\\hat k$, $2\\hat i-3\\hat j+2\\hat k$ and $6\\hat i-2\\hat j+\\hat k$ respectively. What is the angle between diagonals $AC$ and $BD$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$90^\\circ$"
+      },
+      {
+        "option": "B",
+        "content": "$75^\\circ$"
+      },
+      {
+        "option": "C",
+        "content": "$60^\\circ$"
+      },
+      {
+        "option": "D",
+        "content": "$45^\\circ$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$90^\\circ$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q70",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 70,
+    "section": "Vector Algebra",
+    "question": {
+      "type": "latex",
+      "content": "A force $\\vec F=2\\hat i-\\lambda\\hat j+5\\hat k$ is applied at $A(1,2,5)$. If its moment about $B(-1,-2,3)$ is $16\\hat i-6\\hat j+2\\lambda\\hat k$, what is $\\lambda$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$-2$"
+      },
+      {
+        "option": "B",
+        "content": "0"
+      },
+      {
+        "option": "C",
+        "content": "1"
+      },
+      {
+        "option": "D",
+        "content": "2"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$-2$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q71",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 71,
+    "section": "Limits and Continuity",
+    "question": {
+      "type": "latex",
+      "content": "Let $f(x)=\\begin{cases}\\frac{1-\\cos2x}{x^2},&x<0\\\\9,&x=0\\\\\\frac{\\sqrt{x}}{\\sqrt{16+\\sqrt{x}}-4},&x>0\\end{cases}$. What is $\\lim_{x\\to0^-}f(x)$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "2"
+      },
+      {
+        "option": "B",
+        "content": "4"
+      },
+      {
+        "option": "C",
+        "content": "6"
+      },
+      {
+        "option": "D",
+        "content": "8"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "2"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q72",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 72,
+    "section": "Limits and Continuity",
+    "question": {
+      "type": "latex",
+      "content": "Let $f(x)=\\begin{cases}\\frac{1-\\cos2x}{x^2},&x<0\\\\9,&x=0\\\\\\frac{\\sqrt{x}}{\\sqrt{16+\\sqrt{x}}-4},&x>0\\end{cases}$. What is $\\lim_{x\\to0^+}f(x)$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "6"
+      },
+      {
+        "option": "B",
+        "content": "7"
+      },
+      {
+        "option": "C",
+        "content": "8"
+      },
+      {
+        "option": "D",
+        "content": "9"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "8"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q73",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 73,
+    "section": "Limits",
+    "question": {
+      "type": "latex",
+      "content": "Consider $f(x)=x|x|$. What is $\\lim_{x\\to-1}f(x)$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "-1"
+      },
+      {
+        "option": "B",
+        "content": "0"
+      },
+      {
+        "option": "C",
+        "content": "1"
+      },
+      {
+        "option": "D",
+        "content": "Limit does not exist"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "-1"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q74",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 74,
+    "section": "Integration",
+    "question": {
+      "type": "latex",
+      "content": "For $f(x)=x|x|$, what is the area bounded by the curve $f(x)$, the x-axis and the lines $x=-2$ and $x=1$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\frac13$"
+      },
+      {
+        "option": "B",
+        "content": "$\\frac23$"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac52$"
+      },
+      {
+        "option": "D",
+        "content": "3"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "3"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q75",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 75,
+    "section": "Differentiation",
+    "question": {
+      "type": "latex",
+      "content": "For $f(x)=x|x|$, consider: I. The function is increasing in $(-\\infty,\\infty)$. II. The function is differentiable at $x=0$. Which statements are correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "I only"
+      },
+      {
+        "option": "B",
+        "content": "II only"
+      },
+      {
+        "option": "C",
+        "content": "Both I and II"
+      },
+      {
+        "option": "D",
+        "content": "Neither I nor II"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "Both I and II"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q76",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 76,
+    "section": "Functions",
+    "question": {
+      "type": "latex",
+      "content": "Consider $f(x)=\\frac{x}{1-x}$ for $x>0$, $x\\ne1$. What is $\\frac{f(x)}{f(x+1)}$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$-f(x^2)$"
+      },
+      {
+        "option": "B",
+        "content": "$-f(\\sqrt{x})$"
+      },
+      {
+        "option": "C",
+        "content": "$f(x^2)$"
+      },
+      {
+        "option": "D",
+        "content": "$f(x-1)$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$-f(x^2)$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q77",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 77,
+    "section": "Functions",
+    "question": {
+      "type": "latex",
+      "content": "For $f(x)=\\frac{x}{1-x}$, what is $(1-x)f(\\sqrt{x})+xf(\\sqrt{x}+1)$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$-f(x)$"
+      },
+      {
+        "option": "B",
+        "content": "$f(x)$"
+      },
+      {
+        "option": "C",
+        "content": "$x$"
+      },
+      {
+        "option": "D",
+        "content": "0"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "0"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q78",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 78,
+    "section": "Differentiation",
+    "question": {
+      "type": "latex",
+      "content": "Let $y=f(x)=\\frac{x\\sin^{-1}x}{\\sqrt{1-x^2}}+\\ln\\sqrt{1-x^2}$. What is the slope of the tangent at $x=0.5$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\frac{4\\pi\\sqrt3}{27}$"
+      },
+      {
+        "option": "B",
+        "content": "$\\frac{8\\pi\\sqrt3}{27}$"
+      },
+      {
+        "option": "C",
+        "content": "$4\\pi$"
+      },
+      {
+        "option": "D",
+        "content": "$8\\pi$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$\\frac{4\\pi\\sqrt3}{27}$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q79",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 79,
+    "section": "Differentiation",
+    "question": {
+      "type": "latex",
+      "content": "Let $y=f(x)=\\frac{x\\sin^{-1}x}{\\sqrt{1-x^2}}+\\ln\\sqrt{1-x^2}$. What is $\\frac{d^2y}{dx^2}$ at $x=0$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "0"
+      },
+      {
+        "option": "B",
+        "content": "0.5"
+      },
+      {
+        "option": "C",
+        "content": "1"
+      },
+      {
+        "option": "D",
+        "content": "1.5"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "1"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q80",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 80,
+    "section": "Differentiation",
+    "question": {
+      "type": "latex",
+      "content": "Let $y=f(x)=\\frac{x\\sin^{-1}x}{\\sqrt{1-x^2}}+\\ln\\sqrt{1-x^2}$. If $x=\\sin\\theta$, what is $\\frac{dy}{dx}$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\theta\\sec\\theta$"
+      },
+      {
+        "option": "B",
+        "content": "$\\theta\\sec^2\\theta$"
+      },
+      {
+        "option": "C",
+        "content": "$\\theta\\sec^3\\theta$"
+      },
+      {
+        "option": "D",
+        "content": "$2\\tan\\theta+\\theta\\sec^2\\theta$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$\\theta\\sec^3\\theta$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q81",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 81,
+    "section": "Functions",
+    "question": {
+      "type": "latex",
+      "content": "Consider $f(x)=1-\\sqrt[3]{(x-1)^2}$. What is the domain of the function?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$(1,\\infty)$"
+      },
+      {
+        "option": "B",
+        "content": "$(-\\infty,\\infty)$"
+      },
+      {
+        "option": "C",
+        "content": "$(0,\\infty)$"
+      },
+      {
+        "option": "D",
+        "content": "$(-\\infty,\\infty)\\setminus\\{1\\}$"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "$(-\\infty,\\infty)$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q82",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 82,
+    "section": "Maxima and Minima",
+    "question": {
+      "type": "latex",
+      "content": "For $f(x)=1-\\sqrt[3]{(x-1)^2}$, the function has:"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "a minimum at $x=1$"
+      },
+      {
+        "option": "B",
+        "content": "a maximum at $x=1$"
+      },
+      {
+        "option": "C",
+        "content": "neither maximum nor minimum at $x=1$"
+      },
+      {
+        "option": "D",
+        "content": "no extremum"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "a maximum at $x=1$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q83",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 83,
+    "section": "Continuity",
+    "question": {
+      "type": "latex",
+      "content": "Consider $f(x)=\\begin{cases}4(5^x),&x<0\\\\8k+x,&x\\ge0\\end{cases}$. If the function is continuous, what is $k$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "0.5"
+      },
+      {
+        "option": "B",
+        "content": "1"
+      },
+      {
+        "option": "C",
+        "content": "1.5"
+      },
+      {
+        "option": "D",
+        "content": "2"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "0.5"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q84",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 84,
+    "section": "Differentiation",
+    "question": {
+      "type": "latex",
+      "content": "Consider the function $f(x)=\\begin{cases}4(5^x),&x<0\\\\8k+x,&x\\ge0\\end{cases}$. What is $f'(-1)$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\frac25\\ln5$"
+      },
+      {
+        "option": "B",
+        "content": "$\\frac35\\ln5$"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac45\\ln5$"
+      },
+      {
+        "option": "D",
+        "content": "$20\\ln5$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$\\frac45\\ln5$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q85",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 85,
+    "section": "Integration",
+    "question": {
+      "type": "latex",
+      "content": "Let $u=\\int e^x\\cos x\\,dx$ and $v=\\int e^x\\sin x\\,dx$. What is $u+v$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$-\\frac{du}{dx}$"
+      },
+      {
+        "option": "B",
+        "content": "$-\\frac{dv}{dx}$"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac{du}{dx}$"
+      },
+      {
+        "option": "D",
+        "content": "$\\frac{dv}{dx}$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$\\frac{dv}{dx}$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q86",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 86,
+    "section": "Differentiation",
+    "question": {
+      "type": "latex",
+      "content": "Let $u=\\int e^x\\cos x\\,dx$ and $v=\\int e^x\\sin x\\,dx$. Consider: I. $\\frac{du}{dx}=-v$. II. $\\frac{dv}{dx}=-u$. Which are correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "I only"
+      },
+      {
+        "option": "B",
+        "content": "II only"
+      },
+      {
+        "option": "C",
+        "content": "Both I and II"
+      },
+      {
+        "option": "D",
+        "content": "Neither I nor II"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "Neither I nor II"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q87",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 87,
+    "section": "Differentiation",
+    "question": {
+      "type": "latex",
+      "content": "Let $f(x)=|x-3|+|x-4|$ on $[0,5]$. What is $\\frac{dy}{dx}$ at $x=3.5$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "0"
+      },
+      {
+        "option": "B",
+        "content": "1"
+      },
+      {
+        "option": "C",
+        "content": "2"
+      },
+      {
+        "option": "D",
+        "content": "3.5"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "2"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q88",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 88,
+    "section": "Differentiation",
+    "question": {
+      "type": "latex",
+      "content": "Let $f(x)=|x-3|+|x-4|$ be defined on $[0,5]$. Consider: I. The function is differentiable at $x=3$. II. The function is differentiable at $x=4$. Which statements are correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "I only"
+      },
+      {
+        "option": "B",
+        "content": "II only"
+      },
+      {
+        "option": "C",
+        "content": "Both I and II"
+      },
+      {
+        "option": "D",
+        "content": "Neither I nor II"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "Neither I nor II"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q89",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 89,
+    "section": "Functions",
+    "question": {
+      "type": "latex",
+      "content": "Consider $f(x)=\\frac{10^x-10^{-x}}{10^x+10^{-x}}$. What is $f\\circ f\\circ f\\circ f\\circ f(0)$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "0"
+      },
+      {
+        "option": "B",
+        "content": "1"
+      },
+      {
+        "option": "C",
+        "content": "5"
+      },
+      {
+        "option": "D",
+        "content": "10"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "0"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q90",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 90,
+    "section": "Inverse Functions",
+    "question": {
+      "type": "latex",
+      "content": "Consider the function $f(x)=\\frac{10^x-10^{-x}}{10^x+10^{-x}}$. What is the inverse of the function?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\log_{10}(2x-1)$"
+      },
+      {
+        "option": "B",
+        "content": "$\\frac12\\log_{10}(2x-1)$"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac14\\log_{10}\\left(\\frac{2x}{2-x}\\right)$"
+      },
+      {
+        "option": "D",
+        "content": "$\\frac12\\log_{10}\\left(\\frac{1+x}{1-x}\\right)$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$\\frac12\\log_{10}\\left(\\frac{1+x}{1-x}\\right)$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q91",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 91,
+    "section": "Differential Equations",
+    "question": {
+      "type": "latex",
+      "content": "What is the degree of the differential equation $\\left(\\frac{d^2y}{dx^2}\\right)^{3/2}=\\left(\\frac{dy}{dx}\\right)^{5/2}$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "3"
+      },
+      {
+        "option": "B",
+        "content": "2"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac52$"
+      },
+      {
+        "option": "D",
+        "content": "$\\frac32$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "3"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q92",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 92,
+    "section": "Greatest Integer Function",
+    "question": {
+      "type": "latex",
+      "content": "What is $\\int_n^{n+1}(x-[x])\\,dx$, where $[\\cdot]$ is the greatest integer function and $n$ is a natural number?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\frac{4n+1}{2}$"
+      },
+      {
+        "option": "B",
+        "content": "$\\frac{2n+1}{2}$"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac12$"
+      },
+      {
+        "option": "D",
+        "content": "1"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$\\frac12$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q93",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 93,
+    "section": "Differential Equations",
+    "question": {
+      "type": "latex",
+      "content": "Consider: I. $y=xe^{2x}$ is the solution of $\\frac{dy}{dx}=y(2+1/x)$. II. $y=x\\ln|x|+cx$ is the solution of $\\frac{dy}{dx}=x+y/x$. Which statements are correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "I only"
+      },
+      {
+        "option": "B",
+        "content": "II only"
+      },
+      {
+        "option": "C",
+        "content": "Both I and II"
+      },
+      {
+        "option": "D",
+        "content": "Neither I nor II"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "Both I and II"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q94",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 94,
+    "section": "Differential Equations",
+    "question": {
+      "type": "latex",
+      "content": "If $k$ is an arbitrary constant, what is the general solution of $(x+y)^2\\frac{dy}{dx}=k^2$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$x+y=\\tan(x+c)+k$"
+      },
+      {
+        "option": "B",
+        "content": "$x+y=k\\tan\\left(\\frac{y-c}{k}\\right)$"
+      },
+      {
+        "option": "C",
+        "content": "$x-y=k\\tan\\left(\\frac{y-c}{k}\\right)$"
+      },
+      {
+        "option": "D",
+        "content": "$y-x=\\tan(x+c)+k$"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "$x+y=k\\tan\\left(\\frac{y-c}{k}\\right)$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q95",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 95,
+    "section": "Integration",
+    "question": {
+      "type": "latex",
+      "content": "What is $\\int\\frac{dx}{10^x+10^{-x}}$ equal to?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$\\tan^{-1}(10^x)+c$"
+      },
+      {
+        "option": "B",
+        "content": "$(\\ln10)\\tan^{-1}(10^x)+c$"
+      },
+      {
+        "option": "C",
+        "content": "$\\frac1{\\ln10}\\tan^{-1}(10^x)+c$"
+      },
+      {
+        "option": "D",
+        "content": "$\\ln(10^x+10^{-x})+c$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$\\frac1{\\ln10}\\tan^{-1}(10^x)+c$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q96",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 96,
+    "section": "Maxima and Minima",
+    "question": {
+      "type": "latex",
+      "content": "A wire of length 20 cm is to be bent into a rectangle. Which are correct? I. The rectangle of largest area is the square. II. It is possible to form a rectangle of area $27\\text{ cm}^2$."
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "I only"
+      },
+      {
+        "option": "B",
+        "content": "II only"
+      },
+      {
+        "option": "C",
+        "content": "Both I and II"
+      },
+      {
+        "option": "D",
+        "content": "Neither I nor II"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "I only"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q97",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 97,
+    "section": "Integration",
+    "question": {
+      "type": "latex",
+      "content": "If $I_1=\\int_e^{e^2}\\frac{dx}{\\ln x}$ and $I_2=\\int_1^2\\frac{e^x}{x}\\,dx$, which is correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$I_1-I_2=0$"
+      },
+      {
+        "option": "B",
+        "content": "$I_1+I_2=0$"
+      },
+      {
+        "option": "C",
+        "content": "$I_1-2I_2=0$"
+      },
+      {
+        "option": "D",
+        "content": "$2I_1-I_2=0$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$I_1-I_2=0$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q98",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 98,
+    "section": "Area",
+    "question": {
+      "type": "latex",
+      "content": "What is the area of the region bounded by $|x|\\le2k$ and $|y|\\le k$, where $k>0$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$2k^2$"
+      },
+      {
+        "option": "B",
+        "content": "$4k^2$"
+      },
+      {
+        "option": "C",
+        "content": "$5k^2$"
+      },
+      {
+        "option": "D",
+        "content": "$8k^2$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$8k^2$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q99",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 99,
+    "section": "Maxima and Minima",
+    "question": {
+      "type": "latex",
+      "content": "For $f(x)=\\frac1{x-5}$: Statement-I: $f(x)$ is decreasing on $x<5$ and $x>5$. Statement-II: $f'(x)>0$ for all $x\\ne5$. Which is correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "Both correct and II explains I"
+      },
+      {
+        "option": "B",
+        "content": "Both correct but II does not explain I"
+      },
+      {
+        "option": "C",
+        "content": "I correct but II not correct"
+      },
+      {
+        "option": "D",
+        "content": "I not correct but II correct"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "I correct but II not correct"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q100",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 100,
+    "section": "Maxima and Minima",
+    "question": {
+      "type": "latex",
+      "content": "For $f(x)=\\frac{x^3+128}{x}$: Statement-I: $f(x)$ has a minimum value 48 at $x=4$. Statement-II: As $x$ increases through 4, $f'(x)$ changes sign from positive to negative. Which is correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "Both correct and II explains I"
+      },
+      {
+        "option": "B",
+        "content": "Both correct but II does not explain I"
+      },
+      {
+        "option": "C",
+        "content": "I correct but II not correct"
+      },
+      {
+        "option": "D",
+        "content": "I not correct but II correct"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "I correct but II not correct"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q101",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 101,
+    "section": "Statistics",
+    "question": {
+      "type": "latex",
+      "content": "What is the harmonic mean of $\\binom{10}{3},\\binom{10}{4},\\binom{10}{5},\\binom{10}{6},\\binom{10}{7}$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$3150/19$"
+      },
+      {
+        "option": "B",
+        "content": "$4000/19$"
+      },
+      {
+        "option": "C",
+        "content": "252"
+      },
+      {
+        "option": "D",
+        "content": "225"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$3150/19$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q102",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 102,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "In a sample survey, the probability that a farmer is in debt is 0.60. What is the probability that three randomly selected farmers are all in debt, assuming independence?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "0.000216"
+      },
+      {
+        "option": "B",
+        "content": "0.064"
+      },
+      {
+        "option": "C",
+        "content": "0.216"
+      },
+      {
+        "option": "D",
+        "content": "0.512"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "0.216"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q103",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 103,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "The probability that a family owns a laptop is 0.68 and a desktop is 0.56. If it owns both with probability 0.48, what is the probability that it owns a laptop or a desktop?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "0.80"
+      },
+      {
+        "option": "B",
+        "content": "0.76"
+      },
+      {
+        "option": "C",
+        "content": "0.36"
+      },
+      {
+        "option": "D",
+        "content": "0.28"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "0.80"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q104",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 104,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "An urn contains 10 white and 5 red balls. If two balls are drawn at random, what is the probability that both are red?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$2/21$"
+      },
+      {
+        "option": "B",
+        "content": "$1/7$"
+      },
+      {
+        "option": "C",
+        "content": "$4/21$"
+      },
+      {
+        "option": "D",
+        "content": "$3/7$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$2/21$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q105",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 105,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "An urn contains 5 white, 6 red and 4 blue balls. Three balls are drawn at random. What is the probability that a white, a red and a blue ball are drawn?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$28/91$"
+      },
+      {
+        "option": "B",
+        "content": "$2/91$"
+      },
+      {
+        "option": "C",
+        "content": "$24/91$"
+      },
+      {
+        "option": "D",
+        "content": "$23/91$"
+      }
+    ],
+    "answer": {
+      "option": "C",
+      "content": "$24/91$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q106",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 106,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "Under which conditions may binomial distribution be used? I. The number of trials is infinite and not fixed. II. The trials are independent. III. Each trial has two possible outcomes."
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "II only"
+      },
+      {
+        "option": "B",
+        "content": "III only"
+      },
+      {
+        "option": "C",
+        "content": "I and II"
+      },
+      {
+        "option": "D",
+        "content": "II and III"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "II and III"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q107",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 107,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "A person X speaks the truth 4 out of 5 times and person Y speaks the truth 5 out of 6 times. What is the probability that they will contradict each other?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$3/10$"
+      },
+      {
+        "option": "B",
+        "content": "$1/15$"
+      },
+      {
+        "option": "C",
+        "content": "$1/6$"
+      },
+      {
+        "option": "D",
+        "content": "$7/10$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$3/10$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q108",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 108,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "The probability that a student passes Physics is $2/3$, passes both Physics and English is $11/15$, and passes at least one is $4/5$. What is the probability that the student passes English?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$11/15$"
+      },
+      {
+        "option": "B",
+        "content": "$13/15$"
+      },
+      {
+        "option": "C",
+        "content": "$14/15$"
+      },
+      {
+        "option": "D",
+        "content": "1"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "$13/15$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q109",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 109,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "Events $X$ and $Y$ are independent with probabilities $p$ and $q$. I. Probability exactly one occurs is $p+q-pq$. II. Probability at least one occurs is $p+q-2pq$. Which statements are correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "I only"
+      },
+      {
+        "option": "B",
+        "content": "II only"
+      },
+      {
+        "option": "C",
+        "content": "Both I and II"
+      },
+      {
+        "option": "D",
+        "content": "Neither I nor II"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "Neither I nor II"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q110",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 110,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "A die has 3 black, 2 white and 1 red face. It is tossed three times. What is the probability that black, white and red appear on the first, second and third tosses respectively?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$1/36$"
+      },
+      {
+        "option": "B",
+        "content": "$1/6$"
+      },
+      {
+        "option": "C",
+        "content": "$7/36$"
+      },
+      {
+        "option": "D",
+        "content": "$5/36$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$1/36$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q111",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 111,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "A fair coin is tossed 4 times. What is the probability that two heads do not occur consecutively?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$1/8$"
+      },
+      {
+        "option": "B",
+        "content": "$3/8$"
+      },
+      {
+        "option": "C",
+        "content": "$7/16$"
+      },
+      {
+        "option": "D",
+        "content": "$1/2$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$1/2$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q112",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 112,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "In a throw of three dice, what is the probability of getting one prime number, one composite number and one number which is neither prime nor composite?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$1/2$"
+      },
+      {
+        "option": "B",
+        "content": "$1/3$"
+      },
+      {
+        "option": "C",
+        "content": "$1/4$"
+      },
+      {
+        "option": "D",
+        "content": "$1/6$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$1/6$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q113",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 113,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "An integer is chosen at random from the first 50 integers. What is the probability that the integer is neither divisible by 5 nor 9?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$7/10$"
+      },
+      {
+        "option": "B",
+        "content": "$18/25$"
+      },
+      {
+        "option": "C",
+        "content": "$37/50$"
+      },
+      {
+        "option": "D",
+        "content": "$19/25$"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "$18/25$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q114",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 114,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "Out of 50 consecutive natural numbers, two integers are chosen at random. What is the probability that their sum is odd?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$1/2$"
+      },
+      {
+        "option": "B",
+        "content": "$24/49$"
+      },
+      {
+        "option": "C",
+        "content": "$1/4$"
+      },
+      {
+        "option": "D",
+        "content": "$25/49$"
+      }
+    ],
+    "answer": {
+      "option": "D",
+      "content": "$25/49$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q115",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 115,
+    "section": "Statistics",
+    "question": {
+      "type": "latex",
+      "content": "The standard deviation of 100 observations is 10. If 20 is added to each observation, what is the new standard deviation?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "10"
+      },
+      {
+        "option": "B",
+        "content": "15"
+      },
+      {
+        "option": "C",
+        "content": "20"
+      },
+      {
+        "option": "D",
+        "content": "25"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "10"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q116",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 116,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "Let $X$ follow a binomial distribution with $n=5$ and $p=k$. If $P(X=1)=0.4096$ and $P(X=2)=0.2048$, what is $k$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "0.2"
+      },
+      {
+        "option": "B",
+        "content": "0.25"
+      },
+      {
+        "option": "C",
+        "content": "0.3"
+      },
+      {
+        "option": "D",
+        "content": "0.35"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "0.2"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q117",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 117,
+    "section": "Statistics",
+    "question": {
+      "type": "latex",
+      "content": "The frequency distribution of marks is: intervals 5–15, 15–25, 25–35, 35–45 with frequencies 20, 30, 30, 20. What is the arithmetic mean?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "20"
+      },
+      {
+        "option": "B",
+        "content": "25"
+      },
+      {
+        "option": "C",
+        "content": "30"
+      },
+      {
+        "option": "D",
+        "content": "35"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "25"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q118",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 118,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "If $P(A)=0.3$, $P(B)=0.4$ and $P(A\\mid B)=0.5$, what is $P(B\\mid A)$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "0.325"
+      },
+      {
+        "option": "B",
+        "content": "0.333"
+      },
+      {
+        "option": "C",
+        "content": "0.375"
+      },
+      {
+        "option": "D",
+        "content": "0.667"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "0.333"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q119",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 119,
+    "section": "Probability",
+    "question": {
+      "type": "latex",
+      "content": "If $P(A)=1/3$, $P(B)=1/2$ and $P(A\\cap B)=1/4$, what is $P(A\\cup B)$?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "$7/12$"
+      },
+      {
+        "option": "B",
+        "content": "$2/3$"
+      },
+      {
+        "option": "C",
+        "content": "$3/4$"
+      },
+      {
+        "option": "D",
+        "content": "$11/12$"
+      }
+    ],
+    "answer": {
+      "option": "A",
+      "content": "$7/12$"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  },
+  {
+    "questionId": "NDA-2025-MATHS-2-Q120",
+    "paperId": "NDA-2025-MATHS-2",
+    "questionNumber": 120,
+    "section": "Statistics",
+    "question": {
+      "type": "latex",
+      "content": "Consider: I. Mean and variance have the same unit of measurement. II. Mean deviation and standard deviation have the same unit of measurement. Which statements are correct?"
+    },
+    "options": [
+      {
+        "option": "A",
+        "content": "I only"
+      },
+      {
+        "option": "B",
+        "content": "II only"
+      },
+      {
+        "option": "C",
+        "content": "Both I and II"
+      },
+      {
+        "option": "D",
+        "content": "Neither I nor II"
+      }
+    ],
+    "answer": {
+      "option": "B",
+      "content": "II only"
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.833
+  }
+]
