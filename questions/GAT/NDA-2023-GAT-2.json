@@ -1,1 +1,5526 @@
-
+[
+  {
+    "questionId": "GAT(2)2023-Q1",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 1,
+    "section": "PART - A - FILL IN THE BLANKS",
+    "question": {
+      "type": "latex",
+      "content": "As the Southwest monsoon ________ through most of July, flash floods caused by the waters of the Narmada hit Jabalpur town."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "lashed"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "flourished"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "occupied"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "dried"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The word 'lashed' means struck with violence, which appropriately describes the heavy rainfall of the Southwest monsoon."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q2",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 2,
+    "section": "PART - A - FILL IN THE BLANKS",
+    "question": {
+      "type": "latex",
+      "content": "Given the scale of the challenges that ________ us today, our company proposes more viable plans for sustainability."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "supports"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "conflict"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "confronts"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "convince"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Confronts' means faces or presents itself to someone, which correctly completes the clause 'challenges that confront us today'."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q3",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 3,
+    "section": "PART - A - FILL IN THE BLANKS",
+    "question": {
+      "type": "latex",
+      "content": "It is a really tough course, I am just worried that I won't be able to go the ________"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "way"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "distance"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "far"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "route"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The idiom 'go the distance' means to persevere until the end of something."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q4",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 4,
+    "section": "PART - A - FILL IN THE BLANKS",
+    "question": {
+      "type": "latex",
+      "content": "The ________ of the advancement made in agricultural productivity in India has been remarkable."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "extent"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "context"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "distance"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "syntax"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Extent' refers to the degree, scale, or scope of something, fitting 'the extent of the advancement'."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q5",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 5,
+    "section": "PART - A - FILL IN THE BLANKS",
+    "question": {
+      "type": "latex",
+      "content": "This essay ________ and examines various systems for water appropriation and agricultural practices adapted by society in the arid conditions of Rajasthan."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "confuses"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "enhances"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "controls"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "explores"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Explores' means to inquire into or discuss a subject in detail, which pairs naturally with 'examines'."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q6",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 6,
+    "section": "PART - A - FILL IN THE BLANKS",
+    "question": {
+      "type": "latex",
+      "content": "India has been able to successfully ________ its population through family planning programmes."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "sterilise"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "stabilise"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "stratify"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "establish"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Stabilise' means to cause something to become stable or consistent, appropriate for population control context."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q7",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 7,
+    "section": "PART - A - FILL IN THE BLANKS",
+    "question": {
+      "type": "latex",
+      "content": "Adolescence is the ________ wherein a child enters adulthood."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "threshold"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "position"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "condition"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "period"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Threshold' denotes the starting point or verge of entering a new phase such as adulthood."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q8",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 8,
+    "section": "PART - A - FILL IN THE BLANKS",
+    "question": {
+      "type": "latex",
+      "content": "The British who ruled India for 200 years were here to ________ India's natural resources."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "spoil"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "implore"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "exploit"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "drill"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Exploit' means to make full use of and derive benefit from resources."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q9",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 9,
+    "section": "PART - A - FILL IN THE BLANKS",
+    "question": {
+      "type": "latex",
+      "content": "Endangered species have a fifty per cent or greater probability of ________ within five years or two generations whichever is longer."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "distinction"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "extinction"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "complication"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "completion"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Extinction' refers to the state or process of a species becoming extinct."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q10",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 10,
+    "section": "PART - A - FILL IN THE BLANKS",
+    "question": {
+      "type": "latex",
+      "content": "The first law of thermodynamics states that whereas energy can be ________ from one form into another, it cannot be created or destroyed."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "reduced"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "induced"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "performed"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "transformed"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Transformed' refers to changing in form, which aligns with the first law of thermodynamics."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q11",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 11,
+    "section": "PART - A - SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Bread, butter and jam common breakfast items that are consumed by many households."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Bread, butter and"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "jam common breakfast items"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "that are consumed by many households."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Part (b) is missing the verb 'are' before 'common breakfast items'."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q12",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 12,
+    "section": "PART - A - SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Ten thousand dollars is the prize money being offered by the game show hosts."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Ten thousand dollars is"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "the prize money being offered"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "by the game show hosts."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The sentence is grammatically correct. An amount of money takes a singular verb 'is'."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q13",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 13,
+    "section": "PART - A - SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Three hundred and sixty five create up the number of days in a calendar year."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Three hundred and sixty five"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "create up the number of days"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "in a calendar year."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The phrase 'create up' is incorrect; it should be 'make up' or 'constitute'."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q14",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 14,
+    "section": "PART - A - SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "The process of removing wool from the body of an animal is called sharing."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The process of removing"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "wool from the body of"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "an animal is called sharing."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The correct term is 'shearing', not 'sharing'."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q15",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 15,
+    "section": "PART - A - SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Many people came from faraway places to prayed at the temple on the auspicious day."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Many people came"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "from faraway places to prayed"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "at the temple on the auspicious day."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The infinitive verb structure should be 'to pray' instead of 'to prayed'."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q16",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 16,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "Find out which part of the sentence has an error: After reading foreword of (a) / the book on environmental issues in India, (b) / I decided to meet its author. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "After reading foreword of"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "the book on environmental issues in India,"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "I decided to meet its author."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The word 'foreword' refers to a specific section of a specific book, so it requires the definite article 'the' before it (i.e., 'After reading the foreword of')."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q17",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 17,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "Find out which part of the sentence has an error: The guidance from the mentors (a) / and teachers facilitated the (b) / smooth conduct of elections to the Students' council. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The guidance from the mentors"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "and teachers facilitated the"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "smooth conduct of elections to the Students' council."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The sentence is grammatically correct as written."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q18",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 18,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "Find out which part of the sentence has an error: The Principal of our school (a) / felicitated the students in (b) / the prize distribution ceremony. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The Principal of our school"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "felicitated the students in"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "the prize distribution ceremony."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The preposition 'in' is incorrect here. The appropriate preposition to use with an event or ceremony is 'at' (i.e., 'felicitated the students at')."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q19",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 19,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "Find out which part of the sentence has an error: If you were to (a) / come to Chennai to settle down (b) / it will be the best possible decision. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "If you were to"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "come to Chennai to settle down"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "it will be the best possible decision."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The sentence follows a subjunctive/conditional structure ('If you were to...'), so the main clause should use 'would' instead of 'will' (i.e., 'it would be the best possible decision')."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q20",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 20,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "Find out which part of the sentence has an error: They had promised to delivered (a) / the bags before mid-March (b) / to enable us to inaugurate the shop. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "They had promised to delivered"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "the bags before mid-March"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "to enable us to inaugurate the shop."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The infinitive marker 'to' should be followed by the base form of the verb 'deliver', not the past form 'delivered'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q21",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 21,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Select the option that is nearest in meaning to the underlined word: He is always captious."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "worried"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "passionate"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "faultfinding"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "jovial"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Captious' means tending to find fault or raise petty objections, which is synonymous with 'faultfinding'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q22",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 22,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Select the option that is nearest in meaning to the underlined word: Geomorphologists ascertain several wonderful facts about our earth."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "verify"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "invert"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "increase"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "omit"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Ascertain' means to find out for certain or make sure of, which is closest in meaning to 'verify'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q23",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 23,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Select the option that is nearest in meaning to the underlined word: The Colonel ordered the Soldiers to meet him in the commissary."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "office"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "field"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "playground"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "canteen"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "A 'commissary' in a military post is a store or place where provisions are sold, corresponding to a 'canteen'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q24",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 24,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Select the option that is nearest in meaning to the underlined word: The doctor dismembered the patient's finger first and then cured the ailment."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "stitched"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "dissected"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "plastered"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "splintered"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Dismembered' means cut into pieces or severed, which is closest in meaning to 'dissected'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q25",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 25,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Select the option that is nearest in meaning to the underlined word: Mr. Kumar works as a bursar in the sports academy."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "secretary"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "accountant"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "coach"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "trainer"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "A 'bursar' is an officer who manages the financial affairs of a college, school, or institution, making 'accountant' the closest option."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q26",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 26,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Select the option that is nearest in meaning to the underlined word: His intentions are insidious."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "pious"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "inadvertent"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "deceitful"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "naive"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Insidious' means proceeding in a gradual, subtle way, but with harmful or treacherous effects; hence, 'deceitful'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q27",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 27,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Select the option that is nearest in meaning to the underlined word: Respect for other human beings is intrinsic to the teachings of all religions."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "inconsistent"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "peripheral"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "inherent"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "existential"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Intrinsic' means belonging naturally; essential or inherent."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q28",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 28,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Select the option that is nearest in meaning to the underlined word: He completed the onerous task with relative ease."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "smooth"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "complex"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "risky"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "wearying"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Onerous' means involving a great deal of effort, trouble, or difficulty, which is synonymous with 'wearying'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q29",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 29,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Select the option that is nearest in meaning to the underlined word: Alfred was a potentate during the Middle Ages."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Monarch"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "lenient"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "liberal"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "democrat"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "A 'potentate' is a monarch or ruler who possesses great power."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q30",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 30,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Select the option that is nearest in meaning to the underlined word: I abandoned the task due to indolence."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "difficulty"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "laziness"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "ugliness"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "helplessness"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Indolence' means avoidance of activity or exertion, which means 'laziness'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q31",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 31,
+    "section": "Usage of Paired Words",
+    "question": {
+      "type": "latex",
+      "content": "Select the option that most appropriately describes the meaning of both the words: 'Principal' and 'Principle'"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "'Principal' means belief system, and 'principle' means head of an educational institution"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "'Principal' means head of an educational institution, and 'principle' means original sum on which interest is charged"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "'Principle' means moral rule, and 'principal' means head of an educational institution."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "'Principal' means original sum on which interest is charged, and 'principle' means head of an educational institution."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Principle' refers to a fundamental truth, law, or moral rule, whereas 'principal' refers to the head of an educational institution or a primary sum."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q32",
+    "paperId": "DFTK-F-TAG",
+    "questionNumber": 32,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "‘Plane’ and ‘Plain’"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "‘Plane’ means a flat surface, and ‘plain’ means something that flies."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "‘Plane’ means the flat surface, and ‘plain’ means not elaborate."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "‘Plane’ means something that flies, and ‘plain’ means flat surface."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "‘Plane’ means not elaborate, and ‘plain’ means flat surface."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "‘Plane’ refers to a flat or level surface, while ‘plain’ means simple or not elaborate."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q33",
+    "paperId": "DFTK-F-TAG",
+    "questionNumber": 33,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "‘Pail’ and ‘Pale’"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "‘Pale’ means inferior or unimpressive, and ‘pail’ means faded."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "‘Pale’ means faded or light in shade, and ‘pail’ means inferior or unimpressive."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "‘Pale’ means faded or light in shade, and ‘pail’ means a bucket."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "‘Pale’ means a bucket, and ‘pail’ means inferior or unimpressive."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "‘Pale’ means light in color or shade, whereas ‘pail’ refers to a cylindrical vessel or bucket."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q34",
+    "paperId": "DFTK-F-TAG",
+    "questionNumber": 34,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "‘Metal’ and ‘Mettle’"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "‘Metal’ is a hard shiny material that is a good conductor, and ‘mettle’ means malleable metal."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "‘Metal’ is a hard shiny material that is a good conductor, and ‘mettle’ means metallic substance."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "‘Metal’ means mental resilience, and ‘mettle’ is a hard shiny material that is a good conductor."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "‘Metal’ is a hard shiny material that is a good conductor, and ‘mettle’ means mental resilience."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "‘Metal’ is a chemical element that is a good conductor of electricity/heat, while ‘mettle’ refers to a person's ability to cope well with difficulties or mental resilience."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q35",
+    "paperId": "DFTK-F-TAG",
+    "questionNumber": 35,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "‘Hail’ and ‘Hale’"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "‘Hail’ means pellets of frozen rain, and ‘hale’ means wind storm"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "‘Hail’ means pellets of frozen rain, and ‘hale’ means strong and healthy"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "‘Hail’ means pellets of frozen rain, and ‘hale’ means to greet with enthusiastic approval"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "‘Hail’ means strong and healthy, and ‘hale’ means pellets of frozen rain"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "‘Hail’ refers to precipitation in the form of small balls of ice (pellets of frozen rain), while ‘hale’ means strong and healthy (as in 'hale and hearty')."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q36",
+    "paperId": "DFTK-F-TAG",
+    "questionNumber": 36,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "‘Conscious’ and ‘Conscience’"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "‘Conscious’ means sense of right and wrong, and ‘conscience’ means awareness about something"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "‘Conscious’ means alert, and ‘conscience’ means presence of mind"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "‘Conscious’ means intent, and ‘conscience’ means unprincipled action"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "‘Conscious’ means aware, and ‘conscience’ means sense of right and wrong"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "‘Conscious’ means aware of one's surroundings/existence, while ‘conscience’ refers to an inner sense of right and wrong."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q37",
+    "paperId": "DFTK-F-TAG",
+    "questionNumber": 37,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "‘Dissent’ and ‘Descent’"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "‘Dissent’ means having ideas different from general beliefs or official position, and ‘descent’ means movement towards a lower place"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "‘Dissent’ means having ideas different from general beliefs or official position, and ‘descent’ means being of acceptable standard"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "‘Dissent’ means being of acceptable standard, and ‘descent’ means movement towards a lower place"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "‘Dissent’ means being of acceptable standard, and ‘descent’ means ideas different from general beliefs or official position"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "‘Dissent’ means disagreement with official views, whereas ‘descent’ means an action of moving downward."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q38",
+    "paperId": "DFTK-F-TAG",
+    "questionNumber": 38,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "‘Devise’ and ‘Device’"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "‘Device’ means to determine, and ‘devise’ means a piece of equipment meant for accomplishing a specific task."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "‘Device’ means finding a new way to do something, and ‘devise’ means to determine"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "‘Device’ means a piece of equipment meant for accomplishing a specific task, and ‘devise’ means finding a new way to do something"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "‘Device’ means finding a new way to do something, and ‘devise’ means a piece of equipment meant for accomplishing a specific task."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "‘Device’ (noun) is an instrument or piece of equipment, whereas ‘devise’ (verb) means to plan or invent a new method."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q39",
+    "paperId": "DFTK-F-TAG",
+    "questionNumber": 39,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "‘Discrete’ and ‘Discreet’"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "‘Discrete’ means separate and distinct categories of objects, and ‘discreet’ means misuse of authority"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "‘Discrete’ means separate and distinct categories of objects, and ‘discreet’ means maintaining confidentiality"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "‘Discrete’ means being careful in what one says or does, and ‘discreet’ means separate and distinct categories of objects"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "‘Discrete’ means misuse of authority and ‘discreet’ means being careful in what one says or does"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "‘Discrete’ means individually separate and distinct, while ‘discreet’ means prudent, careful, or maintaining confidentiality."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q40",
+    "paperId": "DFTK-F-TAG",
+    "questionNumber": 40,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "‘Eminent’ and ‘Imminent’"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "‘Eminent’ means important and famous, and ‘imminent’ means something about to happen"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "‘Eminent’ means something unpleasant about to happen, and ‘imminent’ means important and famous person"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "‘Eminent’ means important and famous person, and ‘imminent’ means inherent or existing within"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "‘Eminent’ means inherent or existing within, and ‘imminent’ means something about to happen"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "‘Eminent’ means famous and respected within a particular sphere, while ‘imminent’ means about to happen soon."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q41",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 41,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "Many metals are \\underline{malleable} in nature and property."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "hard"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "strong"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "tender"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "weak"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Malleable' means capable of being easily shaped, bent, or hammered. Its antonym is 'hard' or rigid."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q42",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 42,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "To \\underline{neglect} a warning is to invite danger."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "disregard"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "ignore"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "regard"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "overlook"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Neglect' means to fail to care for or pay attention to something. Its opposite in meaning is 'regard' (to pay attention to or consider)."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q43",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 43,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "His \\underline{ostentatious} behaviour surprised everyone."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "tawdry"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "modest"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "gaudy"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "apparent"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Ostentatious' means pretentious, showy, or designed to impress. Its antonym is 'modest'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q44",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 44,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "The experience of Covid Pandemic was \\underline{excruciating} for much of the population."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "gnawing"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "gruelling"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "harrowing"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "mild"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Excruciating' means intensely painful or severe. The antonym is 'mild'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q45",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 45,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "A trip to the hills was \\underline{refreshing}."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "conniving"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "wearying"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "revivifying"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "rejuvenating"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Refreshing' means imparting fresh energy or vigor. The antonym is 'wearying' (causing fatigue)."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q46",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 46,
+    "section": "COMPREHENSION",
+    "question": {
+      "type": "latex",
+      "content": "Why, according to the writer can't people be motivated to use a resource prudently ?\n1. They feel that others may overuse the resource\n2. It is possible to substitute the resource\n3. Abundance of the resource availability\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "According to the passage, people are unlikely to be motivated under three conditions: vast resource catchments (abundance), possibility of substitution, and tenuous control leading to fear of others depleting/overusing the resource."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q47",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 47,
+    "section": "COMPREHENSION",
+    "question": {
+      "type": "latex",
+      "content": "When do people use resources exhaustively ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "When the substitution of resource is felicitated by NGOs"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "When the resource is about to expand"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "When the resources use has little impact"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "When they desire desperately for sustainable development"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The passage states that exhaustive use occurs when resource catchments are vast 'so that degradation of any particular portion affects them very little', corresponding to resource use having little impact."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q48",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 48,
+    "section": "COMPREHENSION",
+    "question": {
+      "type": "latex",
+      "content": "The self-interest of people affects the use of renewable resources"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "positively"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "erratically"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "affirmatively"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "indifferently"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The passage states that people pursue self-interest and are unlikely to be motivated to use resources in a prudent fashion, showing indifference toward sustainable management."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q49",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 49,
+    "section": "COMPREHENSION",
+    "question": {
+      "type": "latex",
+      "content": "People rooted in a locality"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "cause harm to available resources"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "generate resources"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "believe in conservation and re-production of resources"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "consume resources freely"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The passage states that people rooted in a locality are most likely to fulfill prerequisites for sustainable resource use and behave in ways conducive to the conservation of biodiversity within their localities."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q50",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 50,
+    "section": "COMPREHENSION",
+    "question": {
+      "type": "latex",
+      "content": "Which among the following is closest in meaning with the word 'deplete' ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "exhaust"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "complete"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "replete"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "desperate"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Deplete' means to use up or reduce the amount or supply of something, which is closest in meaning to 'exhaust'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q51",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 51,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The streaming of light beams coming from the Sun through trees is said to have suggested that light travels in straight line. The particles on the path of light beams are visible to us because"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "dust particles in the air reflect light into our eyes"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "dust particles in the air scatter light into our eyes"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "dust particles in the air refract light into our eyes"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "dust particles in the air polarize light into our eyes"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The path of light becomes visible due to the scattering of light by dust particles suspended in the air (Tyndall effect)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q52",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 52,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The flash of lightning is seen before the thunderstorm is heard. It verifies that"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "sound travels much faster than light"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "light travels much faster than sound"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "light and sound both travel with same speed"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "intensity of flash of lightning is very high during thunderstorm"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Light travels at a speed of approximately $3 \\times 10^8 \\text{ m/s}$ in air, whereas sound travels at around $343 \\text{ m/s}$. Thus, light travels much faster than sound."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q53",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 53,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The potential difference between the two end terminals of an electric heater is $220\\text{ V}$ and the current through it is $0.5\\text{ A}$. What would be the current through the heater if the potential difference across the terminals of the heater is reduced to $120\\text{ V}$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$1.0\\text{ A}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$0.5\\text{ A}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$0.27\\text{ A}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$0.7\\text{ A}$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Resistance $R = \\frac{V}{I} = \\frac{220}{0.5} = 440\\ \\Omega$. When $V' = 120\\text{ V}$, the new current $I' = \\frac{120}{440} \\approx 0.27\\text{ A}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q54",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 54,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The heating element in an electric iron is usually made of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Constantan"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Tungsten"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Nichrome"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Copper"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Nichrome, an alloy of nickel and chromium, is used for heating elements due to its high resistivity and high oxidation resistance at elevated temperatures."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q55",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 55,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Sita, $1.5\\text{ m}$ high, stands before a plane mirror fixed on a wall to view her full image. What should be the minimum height of the plane mirror so that Sita can view her image fully?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$0.50\\text{ m}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$0.35\\text{ m}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$0.75\\text{ m}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$0.25\\text{ m}$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The minimum height of a plane mirror required to view a full-length image of a person is half the height of the person: $\\frac{1.5\\text{ m}}{2} = 0.75\\text{ m}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q56",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 56,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Galvanization is a method of protecting iron from rusting by coating with a thin layer of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Gallium"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Aluminum"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Zinc"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Silver"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Galvanization is the process of applying a protective zinc coating to steel or iron to prevent rusting."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q57",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 57,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following alloys contains a non-metal as one of its constituent?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Brass"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Bronze"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Amalgam"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Steel"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Steel is an alloy composed primarily of iron and carbon. Carbon is a non-metal."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q58",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 58,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Buckminster fullerene, which looks like a football, is an allotropic form of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Phosphorus"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Sulfur"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Carbon"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Tin"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Buckminsterfullerene ($C_{60}$) is an allotrope of carbon containing 60 carbon atoms arranged in a spherical football-like structure."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q59",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 59,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following graphs correctly represents the current ($I$) – voltage ($V$) variation for a rectangular piece of a semiconductor wafer?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Linear graph passing through the origin: a straight line with constant positive slope in the first quadrant of $I-V$ axes."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Linear graph passing through the origin with a negative slope."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Non-linear graph starting from origin and bending upwards."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Non-linear decreasing graph."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "A simple bulk rectangular piece of a semiconductor wafer with ohmic contacts obeys Ohm's law at low electric fields, giving a straight line passing through the origin."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q60",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 60,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The green plants in a terrestrial ecosystem absorbs sunlight that falls on their leaves and convert it into food energy. The percentage of solar radiation absorbed by all green plants for the process of photosynthesis is about"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1%"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "5%"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "8%"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "10%"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Green plants in a terrestrial ecosystem capture about 1% of the energy of sunlight that falls on their leaves and convert it into food energy through photosynthesis."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q61",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 61,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following reaction:\n$$\\text{Fe}_2\\text{O}_3(\\text{s}) + 2\\text{Al}(\\text{s}) \\rightarrow 2\\text{Fe}(\\text{s}) + \\text{Al}_2\\text{O}_3(\\text{s})$$\nWhich of the following statements about the given reaction is NOT correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "It is an example of displacement reaction"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "It is highly endothermic reaction"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\text{Fe}_2\\text{O}_3$ acts as oxidizing agent"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "This reaction is applicable to joining of railway tracks"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "This reaction is known as the Thermite reaction and is highly exothermic (releases a large amount of heat), not endothermic."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q62",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 62,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Match List I with List II and select the correct answer using the code given below the Lists : List I (Chemical process): A. Electrolysis of water, B. Burning of coal, C. Iron nail immersed in copper sulphate solution, D. Addition of barium chloride solution to aluminium sulphate solution. List II (Reaction): 1. Double displacement reaction, 2. Combination reaction, 3. Decomposition reaction, 4. Displacement reaction."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A-3, B-4, C-2, D-1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A-4, B-2, C-1, D-3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "A-3, B-2, C-4, D-1"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "A-4, B-1, C-2, D-3"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Electrolysis of water is a decomposition reaction (A-3). Burning of coal is a combination reaction (B-2). Iron nail in copper sulphate solution is a displacement reaction (C-4). Addition of barium chloride to aluminium sulphate solution is a double displacement reaction (D-1)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q63",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 63,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following processes involves chemical reaction ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Evaporation of petrol"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Dissolution of salt in water"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Storing of oxygen gas under pressure in a gas cylinder"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Burning of magnesium ribbon in air"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Burning of magnesium ribbon in air forms magnesium oxide ($2\\text{Mg} + \\text{O}_2 \\rightarrow 2\\text{MgO}$), which is a chemical reaction involving the formation of new chemical bonds."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q64",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 64,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following metals does NOT react with cold water to liberate hydrogen gas ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Potassium"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Iron"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Calcium"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sodium"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Iron does not react with cold or hot water; it reacts only with steam to form iron oxide and hydrogen gas."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q65",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 65,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following reaction : $2\\text{HgO} \\xrightarrow{\\Delta} 2\\text{Hg} + \\text{O}_2$. The respective state of $\\text{HgO}$, $\\text{Hg}$ and $\\text{O}_2$ in the above reaction is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Liquid, solid, gas"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Solid, solid, gas"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Liquid, solid, liquid"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Solid, liquid, gas"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Mercuric oxide (HgO) is a solid, mercury (Hg) is liquid at room temperature, and oxygen (O2) is a gas."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q66",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 66,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The two important features of sexual reproduction in higher organisms that create genetic diversity in offspring are"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Mitosis and fertilization"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Meiosis and fertilization"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Mitosis and binary fission"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Meiosis and conjugation"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Meiosis creates genetic variation via crossing over and independent assortment, while fertilization combines genetic material from two distinct parents."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q67",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 67,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Eukaryotic cells are much more complex as compared to prokaryotes. Which one of the following structures is exclusively present in a eukaryotic cell ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Cell wall"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Plasma membrane"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Nucleic acid"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Mitochondria"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Mitochondria are membrane-bound organelles which are exclusively present in eukaryotic cells."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q68",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 68,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "An important cause of tooth decay by the bacterium Streptococcus mutans is because of their ability to attach to teeth surface by producing slime layer from"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sugar"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Alcohol"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Saliva"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Teichoic acid"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Streptococcus mutans converts dietary sugars into a sticky polysaccharide slime layer (dextran) that facilitates adherence to tooth enamel."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q69",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 69,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "In angiosperms, pollen grain germinates to produce two male gametes. Which one of the following functions is carried out by these gametes ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Both the gametes fuse with a single egg cell"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Both the gametes fuse with two different egg cells"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "One gamete fuses with the egg cell and the other one eventually degenerate"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "One gamete fuses with the egg cell and the other one fuses with a diploid secondary nucleus"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Angiosperms undergo double fertilization: one male gamete fertilizes the egg cell to form a zygote, and the second male gamete fuses with the diploid secondary nucleus to form the primary endosperm nucleus."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q70",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 70,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "In a sexually reproducing organism, which one of the following statements is appropriate both for the parent and offspring ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Chromosome number increases but DNA content remains constant"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Both chromosome number and DNA content remains constant"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Chromosome number decreases but DNA content remains constant"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Both chromosome number and DNA content decreases"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Meiosis reduces chromosome number in gametes by half, but subsequent fertilization restores the diploid state, maintaining constant chromosome number and DNA content across generations."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q71",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 71,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Relationship between a flower and honey-bee will help the flower for/in"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Faster development"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Pollination"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Quick germination of pollen"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Increase in size"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Honey-bees visit flowers to collect nectar and pollen, aiding in the cross-pollination of the plant."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q72",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 72,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following was NOT a way in which kings in ancient India attempted to claim a higher status ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Identifying with a variety of deities"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Assuming pompous titles"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Imposing high taxes"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Conquests and annexation of territories"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Kings claimed higher status through adopting divine associations, grandiose titles, and military conquests. Imposing taxes was a administrative and economic necessity, not a claim to higher status."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q73",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 73,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about the Bhakti movement is NOT correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The Bhakti movement avoided traditions that promoted diversity"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "In northern India, the Bhakti movement revolved around the worship of Rama and Krishna"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The Bhakti movement relied on the devotion of God, both with and without attributes"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "While Tulsidas represented the tradition of devotion with attributes, Sant Kabir followed the path of devotion without attributes"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Bhakti movement accommodated and promoted diversity rather than avoiding it."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q74",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 74,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The ‘Reign of Terror’ in revolutionary France referred to"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Bands of revolutionaries moving around to terrorise people who did not participate in the revolution"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The royal forces punishing people who participated in the revolution"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Trial and beheading persons considered enemies of the republic by the revolutionary tribunal"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The general atmosphere of insecurity perceived by people after the beheading of the king"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Reign of Terror (1793–1794) led by Robespierre involved trial and mass executions by guillotine of alleged 'enemies of the revolution' under the Revolutionary Tribunal."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q75",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 75,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "In which one of the following ways did the First World War Not impact Europe ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "From a continent of creditors it turned into a continent of debtors"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Soldiers came to be placed higher in social status than civilians"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Popular support decreased for conservative dictatorship which had come into being recently"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "National honour occupied centre stage in the public sphere"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Popular support actually increased for conservative dictatorships that came into being after the First World War."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q76",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 76,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "\"...the immediate ending of British rule in India is an urgent necessity...\" was a resolution of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Non Co-operation Movement"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Quit India Movement"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Individual Movement"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Civil Disobedience Movement"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The Quit India Resolution passed by the All India Congress Committee in Bombay on 8 August 1942 declared that the immediate ending of British rule in India was an urgent necessity."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q77",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 77,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following pairs of mine and mineral is NOT correctly matched ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Bailadila : Iron Ore"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Zawar : Zinc"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Ghatsila : Copper"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Kudremukh : Bauxite"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Kudremukh is famous for iron ore deposits, not bauxite."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q78",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 78,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the usual unit of measurement for Air Pressure used in India ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Centimeter"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Millibar"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Milligram"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Milliliter"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Air pressure is standardly measured in millibars (mb) in meteorological reports."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q79",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 79,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the oldest era in Geological History determining the age of various rock types ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Precambrian"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Mesozoic"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Cenozoic"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Paleozoic"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Precambrian is the earliest and oldest span of time in Earth's history."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q80",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 80,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "A geographical grid has :\n1. Lines that run east to west around the globe to mark latitude\n2. Lines that run north to south from north pole to south pole indicate longitude\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Latitudes run east to west while longitudes run north to south, together forming the geographical grid."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q81",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 81,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "In which one of the following layers of the atmosphere all weather phenomenon occur ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Mesosphere"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Troposphere"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Thermosphere"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Stratosphere"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The troposphere is the lowest layer of Earth's atmosphere, where almost all weather events occur."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q82",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 82,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "In which one of the following states 'Roopkund' lake is located ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Kerala"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Manipur"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Himachal Pradesh"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Uttarakhand"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Roopkund is a high-altitude glacial lake located in the Chamoli district of Uttarakhand."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q83",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 83,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Ram records the odometer readings of his car for the distance covered from $2000\\text{ km}$ at the start of his journey and $2400\\text{ km}$ at the end of the journey after $8\\text{ hours}$. What is the average speed of the car ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$50\\text{ km/h}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$60\\text{ km/h}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$70\\text{ km/h}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$80\\text{ km/h}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Total distance covered $= 2400\\text{ km} - 2000\\text{ km} = 400\\text{ km}$. Total time $= 8\\text{ hours}$. Average speed $= \\frac{400\\text{ km}}{8\\text{ h}} = 50\\text{ km/h}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q84",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 84,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Ms. Rani decides to convert her AC generator into a DC generator. Which one of the following she would need to use ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A split-ring type commutator"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Slip rings and brushes"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "A stronger magnetic field"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "A rectangular wire loop"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Replacing slip rings with a split-ring commutator converts an AC generator into a DC generator."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q85",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 85,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Ramesh cannot see distinctly objects kept beyond $2\\text{ m}$. This defect can be corrected by using a lens of power"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$+0.5\\text{ D}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$-0.5\\text{ D}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$+0.2\\text{ D}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$-0.2\\text{ D}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "For myopia with a far point of $2\\text{ m}$, a concave lens of focal length $f = -2\\text{ m}$ is required. Power $P = \\frac{1}{f} = \\frac{1}{-2\\text{ m}} = -0.5\\text{ D}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q86",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 86,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements are correct about the electrical resistance and resistivity of a wire ?\n1. Both quantities depend on the area of cross-section of the wire\n2. Both depend on the temperature\n3. Resistance of the wire is directly proportional to the resistivity of the wire\n4. Resistivity of the wire is directly proportional to the length of the wire\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2 and 4"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Resistivity is an intrinsic property that depends on material and temperature (not dimensions), while resistance $R = \\frac{\\rho L}{A}$ depends on dimensions, material, and temperature. Thus statements 2 and 3 are correct."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q87",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 87,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "A liquid is heated up to a certain temperature. Which one of the following situation would correspond to the boiling of the liquid ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "When atmospheric pressure becomes equal to the vapour pressure"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "When atmospheric pressure becomes less than vapour pressure"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "When atmospheric pressure becomes higher than the vapour pressure"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "When vapour pressure becomes equal to the air pressure"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Boiling occurs when the vapour pressure of the liquid increases to match the surrounding atmospheric pressure."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q88",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 88,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is NOT an example of organic compound ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Ammonium cyanate"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Marsh gas"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Urea"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Cane sugar"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Ammonium cyanate ($\\text{NH}_4\\text{CNO}$) is an inorganic compound."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q89",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 89,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following acid is used by goldsmith for cleaning of gold and silver articles ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sulphuric acid"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Nitric acid"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Hydrochloric acid"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Phosphoric acid"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Nitric acid is used by goldsmiths to clean gold and silver articles as it dissolves surface oxidation and impruities."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q90",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 90,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "What is the action of litmus on ethanol ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Litmus is neutral towards ethanol"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ethanol turns blue litmus to red; confirming acidic nature of ethanol"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Ethanol turns red litmus to blue; confirming basic nature of ethanol"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Ethanol decolorizes litmus through bleaching action"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Ethanol is a neutral organic compound and has no effect on red or blue litmus paper."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q91",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 91,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following metal is NOT an essential component in stainless steel ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Iron"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Nickel"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Chromium"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Tin"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Stainless steel is an alloy composed mainly of Iron, Chromium, and Nickel. Tin is not an essential component of stainless steel."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q92",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 92,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Match List I with List II and select the correct answer using the code given below the Lists :\n\nList I (Process)\nA. Separation of acetone and water from their mixture\nB. Separation of water and kerosene oil from their mixture\nC. Separation of cream from milk\nD. Separation of pigments from plant extract\n\nList II (Separation method)\n1. Chromatography\n2. Centrifugation\n3. Distillation\n4. Separating Funnel"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A-3, B-2, C-4, D-1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A-4, B-2, C-1, D-3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "A-3, B-4, C-2, D-1"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "A-4, B-1, C-2, D-3"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Acetone and water are miscible liquids with different boiling points, separated by distillation (3). Water and kerosene oil are immiscible liquids, separated by a separating funnel (4). Cream is separated from milk by centrifugation (2). Pigments from plant extract are separated by chromatography (1)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q93",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 93,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is NOT a requirement for photosynthesis ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Chlorophyll"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\text{CO}_2$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Water"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\text{O}_2$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Photosynthesis requires carbon dioxide, water, chlorophyll, and sunlight. Oxygen ($\\text{O}_2$) is released as a byproduct of photosynthesis, not required as a reactant."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q94",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 94,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "In flowering plants, DNA content of the parent plant gets halved during"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Seed germination"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Fruit formation"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Flower bud formation"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Pollen formation"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Pollen formation involves meiotic cell division (meiosis) which reduces the DNA content to half (haploid) in gametes."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q95",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 95,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the correct sequence during sexual reproduction in Angiosperms ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\text{Egg} \\rightarrow \\text{zygote} \\rightarrow \\text{embryo} \\rightarrow \\text{seed}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\text{Embryo} \\rightarrow \\text{egg} \\rightarrow \\text{zygote} \\rightarrow \\text{seed}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\text{Egg} \\rightarrow \\text{embryo} \\rightarrow \\text{zygote} \\rightarrow \\text{seed}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\text{Egg} \\rightarrow \\text{seed} \\rightarrow \\text{zygote} \\rightarrow \\text{embryo}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The female gamete (egg) gets fertilized to form a diploid zygote, which develops into an embryo, enclosed within the seed."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q96",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 96,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following combinations of events represents the correct sequence during reproduction in flowering plants ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\text{Ovule} \\rightarrow \\text{fruit}; \\text{egg} \\rightarrow \\text{embryo}; \\text{zygote} \\rightarrow \\text{seed}; \\text{ovary} \\rightarrow \\text{egg}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\text{Embryo} \\rightarrow \\text{egg}; \\text{ovary} \\rightarrow \\text{fruit}; \\text{ovule} \\rightarrow \\text{zygote}; \\text{zygote} \\rightarrow \\text{seed}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\text{Ovary} \\rightarrow \\text{fruit}; \\text{zygote} \\rightarrow \\text{egg}; \\text{embryo} \\rightarrow \\text{ovule}; \\text{seed} \\rightarrow \\text{fruit}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\text{Egg} \\rightarrow \\text{zygote}; \\text{zygote} \\rightarrow \\text{embryo}; \\text{ovule} \\rightarrow \\text{seed}; \\text{ovary} \\rightarrow \\text{fruit}$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "During reproduction in flowering plants: Egg fertilizes to become Zygote; Zygote develops into Embryo; Ovule turns into Seed; Ovary develops into Fruit."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q97",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 97,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "The book 'Nation First : The Golden Saga of 82 Years' is the history of which one of the following organizations ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Indo-Tibetan Border Police"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Border Security Force"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Central Reserve Police Force"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Central Industrial Security Force"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The book 'Nation First - The Golden Saga of 82 Years' chronicles the history of the Central Reserve Police Force (CRPF)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q98",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 98,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements regarding Sanchi and its archaeological findings :\n1. When Sanchi was discovered in 1818, three of its four gateways were still standing, the fourth was lying on the spot where it had fallen\n2. Animals depicted at Sanchi include elephants, horses, monkeys and cattle\n\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Only 1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Only 2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "When Sanchi was discovered in 1818, three gateways were standing while the fourth lay on the ground. Various animals like elephants, horses, monkeys, and cattle are depicted on the railings and gateways of Sanchi."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q99",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 99,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which Five Year Plan of India focused on rapid industrialization based growth process ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "First Five Year Plan"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Second Five Year Plan"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Fifth Five Year Plan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Seventh Five Year Plan"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The Second Five Year Plan (1956–1961), based on the Mahalanobis model, focused on rapid industrialization with a particular emphasis on basic and heavy industries."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q100",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 100,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Chandimangala, a sixteenth century text, was composed by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Hema Saraswati"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Madhav Kandali"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Tukaram"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Mukundaram Chakrabarti"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Chandimangala, an important Mangalkavya text composed in the 16th century, was written by Mukundaram Chakrabarti."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q101",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 101,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements regarding the royal center in Vijayanagara Empire :\n1. The royal center was located in the south-western part of the settlement\n2. It included over 60 temples\n3. About 30 building complexes at the site have been identified as palaces\n\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1 and 2 only"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "All three statements are correct according to historical findings on the Vijayanagara Empire: the royal center was located in the south-western part, contained over 60 temples, and about 30 building complexes identified as palaces."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q102",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 102,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is NOT correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Area wise Madhya Pradesh is the fourth largest state in India"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Hornbill festival is celebrated in Nagaland"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Gujarat state contribute 7.9 per cent share to the National GDP"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Telangana is situated in the Deccan plateau in the central stretch of Indian peninsula"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Area wise, Madhya Pradesh is the second largest state in India (after Rajasthan), not the fourth largest."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q103",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 103,
+    "section": "General Ability Test",
+    "question": {
+      "type": "text",
+      "content": "Which one of the following soils is ideal for growing cotton ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Regur soil"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Laterite soil"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Desert soil"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Mountainous soil"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Regur soil (also known as Black soil) is rich in clay content and moisture-retentive, making it ideal for cotton cultivation."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q104",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 104,
+    "section": "General Ability Test",
+    "question": {
+      "type": "text",
+      "content": "Where is Central Institute of Buddhist Studies situated ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Leh"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Kullu"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Almora"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Gangtok"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Central Institute of Buddhist Studies (CIBS) is an autonomous institute located in Leh, Ladakh."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q105",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 105,
+    "section": "General Ability Test",
+    "question": {
+      "type": "text",
+      "content": "Consider the following statements about physical features of India :\n1. The southern point of the Peninsular Plateau is formed by the Nilgiri Hills where the Eastern and the Western Ghats meet\n2. The Cardamom Hills may be regarded as a continuation of the Eastern Ghats\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Statement 1 is correct as the Nilgiri Hills mark the junction of the Eastern and Western Ghats. Statement 2 is incorrect because the Cardamom Hills are part of the Western Ghats, not the Eastern Ghats."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q106",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 106,
+    "section": "General Ability Test",
+    "question": {
+      "type": "text",
+      "content": "Which one of the following is the narrow belt parallel to the Shiwalik foothills where streams and rivers coming from the mountains deposit heavy materials of rocks and boulders ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Tarai"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Bhangar"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Bhabar"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Khadar"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Bhabar is a narrow belt parallel to the Shiwalik foothills consisting of pebbles and heavy rock deposits brought down by rivers."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q107",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 107,
+    "section": "General Ability Test",
+    "question": {
+      "type": "text",
+      "content": "Which of the following statements about Suez Canal is/are correct ?\n1. Suez is a man-made navigation canal\n2. Suez links Mediterranean Sea and the Red Sea\n3. The economic significance of Suez Canal is less than that of Panama Canal\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect as the Suez Canal handles a larger volume of global trade compared to the Panama Canal, making its economic significance very high."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q108",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 108,
+    "section": "General Ability Test",
+    "question": {
+      "type": "text",
+      "content": "An iron nail sinks in water whereas an iron ship floats. Which of the following statements is correct in this regard ?\n1. Average density of ship is greater than that of the water\n2. Average density of iron nail is greater than that of the water\n3. Average density of the ship is less than that of the water\n4. Average density of the ship is equal to that of the water\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "1 and 2"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "2 and 3"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "2 and 4"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "1 and 4"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "An object sinks if its average density is greater than the density of the fluid (iron nail), and floats if its average density is less than the fluid (ship due to hollow air spaces)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q109",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 109,
+    "section": "General Ability Test",
+    "question": {
+      "type": "text",
+      "content": "Which of the following arrangement of resistors offers minimum effective resistance between points X and Y ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Three $3\\,\\Omega$ resistors connected in parallel"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Two $3\\,\\Omega$ resistors connected in parallel"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Two $1\\,\\Omega$ resistors connected in series"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Three $1\\,\\Omega$ resistors connected in series"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Effective resistance for option (a): $1/R = 1/3 + 1/3 + 1/3 = 1 \\implies R = 1\\,\\Omega$. For (b): $R = 1.5\\,\\Omega$. For (c): $R = 2\\,\\Omega$. For (d): $R = 3\\,\\Omega$. Minimum effective resistance is $1\\,\\Omega$ (Option A)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q110",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 110,
+    "section": "General Ability Test",
+    "question": {
+      "type": "text",
+      "content": "What will happen if a collection of positive and negative charges are passed at a high speed through a magnetic field which is perpendicular to the direction of motion of the charges ? (Assume that both kind of charges are NOT going to recombine)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Both kind of charges will stop moving"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Positive charges and negative charges will separate out"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Positive charges will stop but negative charges will continue moving uninterrupted"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Both kind of charges will keep moving uninterrupted"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "According to the magnetic Lorentz force $\\mathbf{F} = q(\\mathbf{v} \\times \\mathbf{B})$, opposite charges experience forces in opposite directions, causing them to separate."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q111",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 111,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "The motion of a particle of mass $m$ is described by the relation, $y = ut - \\frac{1}{2} gt^2$, where $u$ is the initial velocity of the particle. The force acting on the particle is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$F = m \\left( \\frac{du}{dt} \\right)$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$F = mg$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$F = m \\left( \\frac{dy}{dt} \\right)$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$F = -mg$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Differentiating position $y = ut - \\frac{1}{2}gt^2$ twice with respect to time gives acceleration $a = \\frac{d^2y}{dt^2} = -g$. Therefore, force $F = ma = -mg$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q112",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 112,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "A block of wood (dimensions : $40\\text{ cm} \\times 20\\text{ cm} \\times 10\\text{ cm}$) is kept on a tabletop in three different positions : (a) with its side of dimensions $20\\text{ cm} \\times 10\\text{ cm}$; (b) with its side of dimensions $10\\text{ cm} \\times 40\\text{ cm}$; and (c) with its side of dimensions $40\\text{ cm} \\times 20\\text{ cm}$. The pressure exerted by the wooden block on the tabletop in these positions is represented by $P_A$, $P_B$ and $P_C$, respectively. The pressure follows the trend"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$P_A > P_B > P_C$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$P_A < P_B < P_C$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$P_A = P_B = P_C$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$P_A < P_B = P_C$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Pressure $P = \\frac{F}{A}$. Contact areas are $A_A = 200\\text{ cm}^2$, $A_B = 400\\text{ cm}^2$, and $A_C = 800\\text{ cm}^2$. Since $A_A < A_B < A_C$, pressure follows $P_A > P_B > P_C$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q113",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 113,
+    "section": "General Ability Test",
+    "question": {
+      "type": "text",
+      "content": "Which one of the following metals can be extracted using carbon as reducing agent ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Zinc"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Silver"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Gold"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Aluminum"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Zinc oxide is reduced to zinc using carbon (coke) as a reducing agent at high temperatures: $\\text{ZnO} + \\text{C} \\rightarrow \\text{Zn} + \\text{CO}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2023-Q114",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 114,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which among the following is NOT true with respect to colloidal solution ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Particles are uniformly distributed throughout the solution"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Colloidal solution is homogenous in nature"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "They show Tyndal effect"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "They do not settle down when kept undisturbed"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "A colloidal solution appears to be homogeneous, but it is actually heterogeneous in nature because the solute particles are dispersed throughout the solvent medium."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q115",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 115,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Kerosene and petrol mixture can be best separated by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sublimation"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Separating funnel"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Fractional distillation"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Compressing and cooling"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "A mixture of miscible liquids such as kerosene and petrol having close boiling points can be best separated using fractional distillation."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q116",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 116,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "As proposed by Dalton, which of the following symbol represents phosphorus ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A circle containing the letter 'P'"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A circle containing the letter 'L'"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "A circle containing a cross sign"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "A circle containing three lines meeting at the center"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Dalton represented Phosphorus using a circle with three radii meeting at the center (a three-spoked symbol)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q117",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 117,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which among the following statements with respect to carbon is/are correct ?\n1. Carbon forms the basis for all living organisms and many things we use\n2. Carbon shows tetra-valency and the property of catenation\n3. Carbon forms covalent bonds with itself and other elements\n4. Carbon forms compounds containing triple and tetra bonds between carbon atoms\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2 and 4"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Statements 1, 2, and 3 are correct. Carbon forms single, double, and triple bonds between carbon atoms, but does not form quadruple (tetra) bonds between carbon atoms in stable organic compounds."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q118",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 118,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements :\n1. Terracotta models of the plough have been found at sites in Cholistan and at Banawali (Haryana).\n2. There is evidence of a ploughed field at Kalibangan associated with the mature phase of the Harappan civilization.\n3. The ploughed field at Kalibangan had two sets of furrows crossing at right angles to each other suggesting two different crops were grown together in it.\nWhich of the statements given above are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "None of the above"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "According to NCERT, evidence of a ploughed field at Kalibangan is associated with Early Harappan levels, not the mature phase. Therefore, statement 2 is incorrect, while 1 and 3 are correct."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q119",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 119,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements about the technological innovations during the Industrial Revolutions are correct ?\n1. Mule was the nickname for a machine invented in 1779, that allowed the spinning of strong and fine yarn.\n2. Water Frame, invented in 1769 by Richard Arkwright, made it possible to weave pure cotton clothes.\n3. Power loom, invented by Edmund Cartwright in 1787, could be used to weave any kind of materials.\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3 only"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "All three statements regarding the technological innovations during the Industrial Revolution are correct."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q120",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 120,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following is known as the architect of Indian planning ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "V.K.R.V. Rao"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Sukhamoy Chakravarty"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "P.C. Mahalanobis"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "John Mathai"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Prasanta Chandra Mahalanobis is known as the architect of Indian planning for his instrumental role in formulating the Second Five-Year Plan."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q121",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 121,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following Ashokan Minor Rock Edicts, contains the personal name of the king - Ashoka ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Maski"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Bahapur"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Bairat"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sahasram"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Minor Rock Edict at Maski in Karnataka explicitly mentions the personal name 'Ashoka' along with the title 'Devanampriya'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q122",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 122,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Arrange the following in correct chronological order\n1. Charak Samhita\n2. Bharat's Natyashastra\n3. Sangam Literature\n4. Ashtadhyayi\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 - 3 - 4 - 2"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 - 4 - 1 - 3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "4 - 3 - 1 - 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3 - 1 - 2 - 4"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The correct chronological order is: Panini's Ashtadhyayi (c. 4th Century BCE) $\\rightarrow$ Sangam Literature (c. 3rd Century BCE to 3rd Century CE) $\\rightarrow$ Charak Samhita (c. 1st-2nd Century CE) $\\rightarrow$ Bharata's Natyashastra (c. 2nd Century CE)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q123",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 123,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is NOT an example of Fold Mountain ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Mt. Fuji"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Alps"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Andes"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Rockies"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Mount Fuji is an active stratovolcano (volcanic mountain), whereas Alps, Andes, and Rockies are fold mountains."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q124",
+    "paperId": "GAT-2023",
+    "questionNumber": 124,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is an organic soil ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Aridisols"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Histosols"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Oxisols"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Vertisols"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Histosols are soils that consist primarily of organic materials (peats and mucks)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q125",
+    "paperId": "GAT-2023",
+    "questionNumber": 125,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "The North-south and East-west Road Corridors of India cross each other at which of the following cities ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Bhopal"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Itarsi"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Gwalior"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Jhansi"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The North-South Corridor (Srinagar to Kanyakumari) and East-West Corridor (Silchar to Porbandar) intersect at Jhansi, Uttar Pradesh."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q126",
+    "paperId": "GAT-2023",
+    "questionNumber": 126,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following climatic regions of the world have a typical characteristic of seasonal reversal of wind ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "British type Climate"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Mediterranean Climate"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "China type Climate"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Monsoon Climate"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Monsoon climate is characterized by complete seasonal reversal of wind directions."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q127",
+    "paperId": "GAT-2023",
+    "questionNumber": 127,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statement is NOT correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Bokaro steel plant is located in Damodar river basin"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Jamshedpur steel plant is located on the confluence of Damodar and Barakar"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Salem steel plant is located on the bank of Kaveri River"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Bhilai steel plant obtains water from Tandula reservoir"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Jamshedpur steel plant (TISCO) is located at the confluence of the Subarnarekha and Kharkai rivers, not Damodar and Barakar."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q128",
+    "paperId": "GAT-2023",
+    "questionNumber": 128,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "How many of the following pairs of specialized agriculture and its products are correctly matched ?\n1. Apiculture : Honey\n2. Sericulture : Silk\n3. Silviculture : Forestry\n4. Viticulture : Grapes\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "All 4 pairs are correctly matched."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q129",
+    "paperId": "GAT-2023",
+    "questionNumber": 129,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following crops is generally benefitted by the rain caused by western disturbances in India ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Rice"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Wheat"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Bajra"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Cotton"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Western disturbances bring rainfall in winter to north and north-western India, which is highly beneficial for the Rabi crop, Wheat."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q130",
+    "paperId": "GAT-2023",
+    "questionNumber": 130,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following pairs of city and industry is NOT correctly matched ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Saharanpur : Paper industry"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Chanderi : Cotton textile industry"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Bhadohi : Carpet industry"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Raniganj : Iron and steel industry"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Raniganj is famous for coal mining, not the iron and steel industry."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q131",
+    "paperId": "GAT-2023",
+    "questionNumber": 131,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following graphs represents the equation of motion $v = u + at$; where all quantities are non-zero and symbols carry their usual meanings ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A straight-line distance-time graph passing through the origin"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A straight-line distance-time graph with a non-zero initial distance"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "A straight-line distance-time graph with a negative slope"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "A curved distance-time graph representing uniformly accelerated motion"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "For non-zero acceleration $a$, distance $s = ut + \\frac{1}{2}at^2$ is parabolic with respect to time $t$, which is represented by a curved line on a distance-time graph."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q132",
+    "paperId": "GAT-2023",
+    "questionNumber": 132,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is true for sound waves propagating in air ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sound is an electromagnetic wave and transverse in nature"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Sound is a mechanical wave and longitudinal in nature"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sound is a mechanical wave and transverse in nature"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sound is an electromagnetic wave and longitudinal in nature"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Sound waves require a medium to travel (mechanical wave) and propagate as compression and rarefaction (longitudinal wave) in air."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q133",
+    "paperId": "GAT-2023",
+    "questionNumber": 133,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "A $100\\text{ g}$ sphere is moving at a speed of $20\\text{ m/s}$ and collides with another sphere of mass $50\\text{ g}$. If the second sphere was at rest prior to the collision and the first sphere comes at rest immediately after the collision, considering the collision to be elastic, the speed of the second sphere would be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$10\\text{ m/s}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$20\\text{ m/s}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$30\\text{ m/s}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$40\\text{ m/s}$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "By conservation of momentum: $m_1 v_1 + m_2 v_2 = m_1 v_1' + m_2 v_2' \\implies 100 \\times 20 + 0 = 0 + 50 \\times v_2' \\implies v_2' = \\frac{2000}{50} = 40\\text{ m/s}$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q134",
+    "paperId": "GAT-2023",
+    "questionNumber": 134,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following optical phenomena supports that the light is a transverse wave ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Refraction"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Diffraction"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Interference"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Polarization"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Polarization is unique to transverse waves and cannot occur in longitudinal waves."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q135",
+    "paperId": "GAT-2023",
+    "questionNumber": 135,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "How many of the following materials can be attracted by a magnet ?\n1. Plastic\n2. Carbon\n3. Aluminium\n4. Stainless Steel\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "None"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Plastic and Carbon are non-magnetic. Aluminium is weakly paramagnetic (not noticeability attracted by everyday magnets). Common austenitic stainless steel is non-ferromagnetic and not noticeably attracted by a magnet."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q136",
+    "paperId": "GAT2023",
+    "questionNumber": 136,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements with reference to the Bhoodan Movement :\n1. Vinoba Bhave organized 'The Sarvodaya Samaj' to take up the work of non-violent transformation in India\n2. Jayaprakash Narayan withdrew from active politics to join the Bhoodan Movement in 1953\n3. In the wake of the Bhoodan Movement the first donation of land was made in the village of Pochampalli in Telangana\nHow many of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "None"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "All three statements are correct. Vinoba Bhave founded Sarvodaya Samaj in 1948, Jayaprakash Narayan retired from active politics to dedicate himself to Bhoodan in 1953, and the first land donation occurred at Pochampally village in Telangana in 1951."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q137",
+    "paperId": "GAT2023",
+    "questionNumber": 137,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which among the following statements regarding the election of non-permanent members to the United Nations Security Council is/are correct ?\n1. Five members coming from Africa and Asia, one from Eastern Europe, two from Latin America and two from Western Europe and other states\n2. Six members are elected each year by the General Assembly for two year term\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Statement 1 is correct regarding regional seat allocation. Statement 2 is incorrect because 5 non-permanent members are elected each year (not 6) for a 2-year term."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q138",
+    "paperId": "GAT2023",
+    "questionNumber": 138,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following provisions of the Constitution of India deals with District Planning Committee ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "243ZD"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "243ZB"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "243ZE"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "243ZC"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Article 243ZD of the Constitution of India deals with the Committee for District Planning (District Planning Committee)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q139",
+    "paperId": "GAT2023",
+    "questionNumber": 139,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements about Attorney-General in India :\n1. She/he is the first law officer of the Government of India\n2. She/he has a right to speak in any House of Parliament without any right to vote\n3. She/he is appointed by the President of India\n4. She/he is a whole-time counsel for the Government in the court of law\nHow many of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "4"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Statements 1, 2, and 3 are correct. Statement 4 is incorrect because the Attorney-General is not a full-time government counsel nor a full-time civil servant and is not debarred from private legal practice."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q140",
+    "paperId": "GAT2023",
+    "questionNumber": 140,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following states was NOT impacted by the Land Boundary Agreement Treaty between India and Bangladesh (2015) ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "West Bengal"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Assam"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Tripura"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Arunachal Pradesh"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The 2015 Land Boundary Agreement between India and Bangladesh involved West Bengal, Assam, Meghalaya, and Tripura. Arunachal Pradesh does not border Bangladesh and was not impacted."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q141",
+    "paperId": "GAT2023",
+    "questionNumber": 141,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The 480 MW Phukot Karnali Hydro Electric Project is situated in"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Thailand"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Indonesia"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Nepal"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Bhutan"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Phukot Karnali Hydro Electric Project is situated in Karnali Province, Nepal."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q142",
+    "paperId": "GAT2023",
+    "questionNumber": 142,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements about a river :\nThis river originates in the Hindu Kush mountain range and flows into Hamoun wetlands after covering a long stretch of about 1,100 km. There has been serious conflicts between two neighbouring nations regarding the sharing of water from this river. Identify the river from the following :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Mekong"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Tarim"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Indus"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Helmand"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The Helmand River originates in the Hindu Kush mountains of Afghanistan, stretches over 1,100 km, and empties into the Hamoun wetlands on the Iran-Afghanistan border, causing disputes over water sharing between both nations."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q143",
+    "paperId": "GAT2023",
+    "questionNumber": 143,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Match List I with List II and select the correct answer using the code given below the Lists :\n\nList I (Bilateral Exercise)\nA. Garuda Shakti\nB. Nomadic Elephant\nC. Mitra Shakti\nD. Dharma Guardian\n\nList II (Participating Country)\n1. India and Japan\n2. India and Sri Lanka\n3. India and Mongolia\n4. India and Indonesia"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "4 2 3 1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "4 3 2 1"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 3 2 4"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1 2 3 4"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Garuda Shakti is between India and Indonesia (A-4), Nomadic Elephant between India and Mongolia (B-3), Mitra Shakti between India and Sri Lanka (C-2), and Dharma Guardian between India and Japan (D-1)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q144",
+    "paperId": "GAT2023",
+    "questionNumber": 144,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements about gallantry awards in India :\n1. Post-independence, first three gallantry awards were instituted on 26th January, 1950\n2. The first three gallantry awards were Ashoka Chakra Class-I, Ashoka Chakra Class-II and Ashoka Chakra Class-III\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Statement 1 is correct (Param Vir Chakra, Maha Vir Chakra, Vir Chakra were instituted on 26th Jan 1950). Statement 2 is incorrect because Ashoka Chakra Class I, II, III were instituted later on 4th January 1952."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q145",
+    "paperId": "GAT2023",
+    "questionNumber": 145,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements about Centralized Laboratory Network (CLN) :\n1. CLN works to test vaccines which can be used during pandemic\n2. India is a member of CLN\n3. CLN is a part of the Coalition for Epidemic Preparedness Innovations (CEPI)\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "All three statements are correct: CLN standardizes vaccine testing for pandemic preparedness, India is a network member, and it operates under CEPI."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q146",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 146,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements about Kavach, the automatic train protection system :\n\n1. It is designed and developed by Research Design and Standard Organisation (RDSO) in collaboration with Railway Technical Research Institute (RTRI), Japan\n2. The trials of Kavach were facilitated by the Southern Railway\n3. Kavach is a state-of-the-art electronic system with Safety Integrity Level-4 (SIL-4)\n\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Kavach was developed by RDSO in collaboration with three Indian vendors, not RTRI Japan. The trials were conducted on the South Central Railway zone, not Southern Railway. Kavach is certified for Safety Integrity Level 4 (SIL-4), which is the highest level of safety certification. Thus, only statement 3 is correct."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q147",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 147,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The Nova Kakhovka dam, which was in news recently, is situated in"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Belarus"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Turkey"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Ukraine"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Poland"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Kakhovka Hydroelectric Power Plant dam, located on the Dnipro River in southern Ukraine, was breached in June 2023."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q148",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 148,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Aaron Finch, who recently retired from international cricket, was captain of men's cricket team of which one of the following countries ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "South Africa"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Australia"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "England"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "New Zealand"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Aaron Finch served as the captain of the Australian men's national cricket team in limited-overs formats (ODIs and T20Is)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q149",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 149,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the name of the dashboard launched recently by the Reserve Bank of India to assess and monitor the progress of financial inclusion by capturing relevant parameters ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Pragya"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Antardrishti"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Divyachakshu"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Antahgyan"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "RBI Governor Shaktikanta Das launched the financial inclusion dashboard named 'Antardrishti' in June 2023 to evaluate and monitor the growth of financial inclusion."
+    }
+  },
+  {
+    "questionId": "GAT(2)2023-Q150",
+    "paperId": "GAT(2)2023",
+    "questionNumber": 150,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "'Sengol', installed in the new Parliament building of India, was seen as a symbol of the path of service, duty and nation in which Empire of the past ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Gupta Empire"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Shunga Empire"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Pandyan Empire"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Chola Empire"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The 'Sengol' (scepter) originates from the Chola dynasty of South India, where it was presented to a new king during coronation as a symbol of righteousness and transfer of power."
+    }
+  }
+]
