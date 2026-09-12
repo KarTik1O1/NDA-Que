@@ -1,1 +1,5102 @@
-
+[
+  {
+    "questionId": "GAT(1)2022-Q1",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 1,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "A company of five thousand soldiers, (a) / having marched tirelessly for over five days, (b) / have just moved into their cantonment. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "A company of five thousand soldiers,"
+      },
+      {
+        "label": "B",
+        "content": "having marched tirelessly for over five days,"
+      },
+      {
+        "label": "C",
+        "content": "have just moved into their cantonment."
+      },
+      {
+        "label": "D",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'A company' is a singular collective noun, so it takes the singular auxiliary verb 'has' instead of 'have'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q2",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 2,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "Every person who believes in principles (a) / must stand up to fight (b) / for their convictions. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Every person who believes in principles"
+      },
+      {
+        "label": "B",
+        "content": "must stand up to fight"
+      },
+      {
+        "label": "C",
+        "content": "for their convictions."
+      },
+      {
+        "label": "D",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Every person' is grammatically singular and requires a singular possessive pronoun ('his/her' or 'his') rather than 'their'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q3",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 3,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "The Olympic Games reflects (a) / the highest spirit of (b) / human endeavour and achievement. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "The Olympic Games reflects"
+      },
+      {
+        "label": "B",
+        "content": "the highest spirit of"
+      },
+      {
+        "label": "C",
+        "content": "human endeavour and achievement."
+      },
+      {
+        "label": "D",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'The Olympic Games' is a plural subject and takes the plural verb 'reflect' instead of 'reflects'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q4",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 4,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "The principal of the school (a) / stressed the need for discipline (b) / amongst the students. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "The principal of the school"
+      },
+      {
+        "label": "B",
+        "content": "stressed the need for discipline"
+      },
+      {
+        "label": "C",
+        "content": "amongst the students."
+      },
+      {
+        "label": "D",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The sentence is grammatically correct and free of errors."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q5",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 5,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "Failure is the stepping stone to success; (a) / however, successive failures are not (b) / successive stepping stones to success. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Failure is the stepping stone to success;"
+      },
+      {
+        "label": "B",
+        "content": "however, successive failures are not"
+      },
+      {
+        "label": "C",
+        "content": "successive stepping stones to success."
+      },
+      {
+        "label": "D",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The sentence contains no grammatical or structural errors."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q6",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 6,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "India's strengths are (a) / its diversity of culture and (b) / the spirit of tolerance in it's people. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "India's strengths are"
+      },
+      {
+        "label": "B",
+        "content": "its diversity of culture and"
+      },
+      {
+        "label": "C",
+        "content": "the spirit of tolerance in it's people."
+      },
+      {
+        "label": "D",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'it's' is a contraction for 'it is'; the possessive pronoun 'its' should be used instead."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q7",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 7,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "Once considered ninth planet of the solar system, (a) / Pluto is today listed as the (b) / largest dwarf planet of the solar system. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Once considered ninth planet of the solar system,"
+      },
+      {
+        "label": "B",
+        "content": "Pluto is today listed as the"
+      },
+      {
+        "label": "C",
+        "content": "largest dwarf planet of the solar system."
+      },
+      {
+        "label": "D",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Ordinal numbers require the definite article 'the', so it should read 'the ninth planet'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q8",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 8,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "The greatest glory in life (a) / is to be able to realize ones dreams and ambitions (b) / without trampling on those of others. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "The greatest glory in life"
+      },
+      {
+        "label": "B",
+        "content": "is to be able to realize ones dreams and ambitions"
+      },
+      {
+        "label": "C",
+        "content": "without trampling on those of others."
+      },
+      {
+        "label": "D",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The possessive form of 'one' requires an apostrophe, so 'ones' should be 'one's'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q9",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 9,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "To be able to manage one's (a) / anger is a reflection of an individual's (b) / psychological maturity. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "To be able to manage one's"
+      },
+      {
+        "label": "B",
+        "content": "anger is a reflection of an individual's"
+      },
+      {
+        "label": "C",
+        "content": "psychological maturity."
+      },
+      {
+        "label": "D",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The sentence is grammatically correct and free of error."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q10",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 10,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "latex",
+      "content": "A honest mistake (a) / is no more than that; (b) / just an honest mistake. (c) / No error (d)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "A honest mistake"
+      },
+      {
+        "label": "B",
+        "content": "is no more than that;"
+      },
+      {
+        "label": "C",
+        "content": "just an honest mistake."
+      },
+      {
+        "label": "D",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The word 'honest' begins with a vowel sound, so the article 'An' should be used instead of 'A'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q11",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 11,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "latex",
+      "content": "Counting your chickens"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "confident of success"
+      },
+      {
+        "label": "B",
+        "content": "greedily accumulating wealth"
+      },
+      {
+        "label": "C",
+        "content": "being careful about spending money"
+      },
+      {
+        "label": "D",
+        "content": "getting scared because of danger"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The idiom 'counting your chickens (before they hatch)' means assuming or being overconfident of success prematurely."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q12",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 12,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "latex",
+      "content": "The icing on the cake"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "baked food that is delicate and delicious with a topping"
+      },
+      {
+        "label": "B",
+        "content": "extra benefit over and above an already good deal"
+      },
+      {
+        "label": "C",
+        "content": "getting what you asked for"
+      },
+      {
+        "label": "D",
+        "content": "more than what is needed"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'The icing on the cake' refers to an additional benefit that makes an already good situation even better."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q13",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 13,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "latex",
+      "content": "A stitch in time"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "tailoring one's efforts efficiently"
+      },
+      {
+        "label": "B",
+        "content": "making an effort to succeed"
+      },
+      {
+        "label": "C",
+        "content": "inability to take timely decision"
+      },
+      {
+        "label": "D",
+        "content": "timely action that prevents a negative outcome"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'A stitch in time (saves nine)' means taking prompt action to deal with a problem immediately in order to prevent worse outcomes later."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q14",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 14,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "latex",
+      "content": "At sixes and sevens"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "on top of the situation"
+      },
+      {
+        "label": "B",
+        "content": "state of denial"
+      },
+      {
+        "label": "C",
+        "content": "state of total confusion"
+      },
+      {
+        "label": "D",
+        "content": "well-planned and prepared"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'At sixes and sevens' means a state of total confusion, disorder, or disarray."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q15",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 15,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "latex",
+      "content": "Talking twenty to the dozen"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "talking hurriedly and rapidly"
+      },
+      {
+        "label": "B",
+        "content": "talking too much"
+      },
+      {
+        "label": "C",
+        "content": "talking without making sense"
+      },
+      {
+        "label": "D",
+        "content": "talking out of turn"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Talking twenty to the dozen' means speaking very fast, hurriedly, and incessantly."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q16",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 16,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "latex",
+      "content": "Under the weather"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "walking in the rain"
+      },
+      {
+        "label": "B",
+        "content": "controlled by the elements"
+      },
+      {
+        "label": "C",
+        "content": "browbeaten by the heat"
+      },
+      {
+        "label": "D",
+        "content": "unwell"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Under the weather' means feeling slightly sick, ill, or unwell."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q17",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 17,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "latex",
+      "content": "To sit on the fence"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "to act promptly"
+      },
+      {
+        "label": "B",
+        "content": "to be lazy"
+      },
+      {
+        "label": "C",
+        "content": "to be undecided"
+      },
+      {
+        "label": "D",
+        "content": "to sit without doing anything"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'To sit on the fence' means to avoid making a choice or decision between two side/options."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q18",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 18,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "latex",
+      "content": "Once in a blue moon"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "romantic moment"
+      },
+      {
+        "label": "B",
+        "content": "occasionally"
+      },
+      {
+        "label": "C",
+        "content": "rarely"
+      },
+      {
+        "label": "D",
+        "content": "often"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Once in a blue moon' means very rarely or almost never."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q19",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 19,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "latex",
+      "content": "Through thick and thin"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "in genuine friendship"
+      },
+      {
+        "label": "B",
+        "content": "through the best of everything"
+      },
+      {
+        "label": "C",
+        "content": "among people both fat and slim"
+      },
+      {
+        "label": "D",
+        "content": "through difficult times"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Through thick and thin' means under all circumstances, especially through difficult and tough times."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q20",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 20,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "latex",
+      "content": "Like chalk and cheese"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "very different from each other"
+      },
+      {
+        "label": "B",
+        "content": "without any blemish"
+      },
+      {
+        "label": "C",
+        "content": "pure white in colour"
+      },
+      {
+        "label": "D",
+        "content": "very like each other"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Like chalk and cheese' means completely different from each other."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q21",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 21,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "latex",
+      "content": "P: but perhaps the best way is to agree\nQ: there are many ways of dealing\nR: with them without excessive argumentation\nS: with intransigent customers\n\nThe correct sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "QPRS"
+      },
+      {
+        "label": "B",
+        "content": "QSPR"
+      },
+      {
+        "label": "C",
+        "content": "PSQR"
+      },
+      {
+        "label": "D",
+        "content": "RSQP"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The coherent sentence is: 'there are many ways of dealing (Q) with intransigent customers (S) but perhaps the best way is to agree (P) with them without excessive argumentation (R)'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q22",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 22,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "latex",
+      "content": "P: in the years following\nQ: India achieved remarkable economic development\nR: liberalization in the year 1991\nS: the landmark reforms inaugurated via\n\nThe correct sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "PQRS"
+      },
+      {
+        "label": "B",
+        "content": "PRSQ"
+      },
+      {
+        "label": "C",
+        "content": "SPRQ"
+      },
+      {
+        "label": "D",
+        "content": "QPSR"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The logical order is: 'India achieved remarkable economic development (Q) in the years following (P) the landmark reforms inaugurated via (S) liberalization in the year 1991 (R)'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q23",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 23,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "latex",
+      "content": "P: was the victory secured by the women's hockey team\nQ: in the arena of sport, perhaps\nR: against Australia in the Tokyo Olympics\nS: the greatest moment in Indian Olympic history\n\nThe correct sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "SPQR"
+      },
+      {
+        "label": "B",
+        "content": "RPQS"
+      },
+      {
+        "label": "C",
+        "content": "QSPR"
+      },
+      {
+        "label": "D",
+        "content": "QRPS"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The proper order is: 'in the arena of sport, perhaps (Q) the greatest moment in Indian Olympic history (S) was the victory secured by the women's hockey team (P) against Australia in the Tokyo Olympics (R)'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q24",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 24,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "latex",
+      "content": "P: in terms of GDP and GNP,\nQ: for gauging the success of a nation\nR: which are the two major determinants\nS: economic progress is determined\n\nThe correct sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "SQRP"
+      },
+      {
+        "label": "B",
+        "content": "RPQS"
+      },
+      {
+        "label": "C",
+        "content": "SPRQ"
+      },
+      {
+        "label": "D",
+        "content": "QRPS"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The sentence forms as: 'economic progress is determined (S) in terms of GDP and GNP, (P) which are the two major determinants (R) for gauging the success of a nation (Q)'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q25",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 25,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "latex",
+      "content": "P: with the aplomb of a stage artist,\nQ: that they are not men of straw\nR: they can twist and shake their wobbly heads\nS: mesmerizing the gullible into believing\n\nThe correct sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "PRQS"
+      },
+      {
+        "label": "B",
+        "content": "RPSQ"
+      },
+      {
+        "label": "C",
+        "content": "SPQR"
+      },
+      {
+        "label": "D",
+        "content": "QRPS"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The meaningful sentence is: 'they can twist and shake their wobbly heads (R) with the aplomb of a stage artist, (P) mesmerizing the gullible into believing (S) that they are not men of straw (Q)'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q26",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 26,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "latex",
+      "content": "P: of its rain-soaked verdure\nQ: and on the other there are\nR: on the one hand there is the immense beauty\nS: the artifacts of its visible modernity\n\nThe correct sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "PRQS"
+      },
+      {
+        "label": "B",
+        "content": "QRSP"
+      },
+      {
+        "label": "C",
+        "content": "SPQR"
+      },
+      {
+        "label": "D",
+        "content": "RPQS"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The sentence flows as: 'on the one hand there is the immense beauty (R) of its rain-soaked verdure (P) and on the other there are (Q) the artifacts of its visible modernity (S)'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q27",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 27,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "latex",
+      "content": "P: are often rooted\nQ: the causes\nR: of extreme poverty\nS: in the inequalities of social systems\n\nThe correct sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "QRPS"
+      },
+      {
+        "label": "B",
+        "content": "QRSP"
+      },
+      {
+        "label": "C",
+        "content": "SRQP"
+      },
+      {
+        "label": "D",
+        "content": "SRPQ"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The sentence reads: 'the causes (Q) of extreme poverty (R) are often rooted (P) in the inequalities of social systems (S)'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q28",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 28,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "latex",
+      "content": "P: a person by the way\nQ: he behaves and\nR: you must judge\nS: not by the way he looks\n\nThe correct sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "RPQS"
+      },
+      {
+        "label": "B",
+        "content": "QRSP"
+      },
+      {
+        "label": "C",
+        "content": "RSQP"
+      },
+      {
+        "label": "D",
+        "content": "QPSR"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The proper arrangement is: 'you must judge (R) a person by the way (P) he behaves and (Q) not by the way he looks (S)'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q29",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 29,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "latex",
+      "content": "P: to the greatest number of people\nQ: that causes the least discomfort\nR: whenever in doubt\nS: always opt for the option\n\nThe correct sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "RQPS"
+      },
+      {
+        "label": "B",
+        "content": "QRSP"
+      },
+      {
+        "label": "C",
+        "content": "RSQP"
+      },
+      {
+        "label": "D",
+        "content": "QPSR"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The proper sequence is: 'whenever in doubt (R) always opt for the option (S) that causes the least discomfort (Q) to the greatest number of people (P)'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q30",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 30,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "latex",
+      "content": "P: brought by bad times\nQ: against the despondency\nR: our greatest defence\nS: faith and belief are\n\nThe correct sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "RQPS"
+      },
+      {
+        "label": "B",
+        "content": "SRQP"
+      },
+      {
+        "label": "C",
+        "content": "RSQP"
+      },
+      {
+        "label": "D",
+        "content": "QPRS"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The sentence is: 'faith and belief are (S) our greatest defence (R) against the despondency (Q) brought by bad times (P)'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q31",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 31,
+    "section": "Antonyms",
+    "question": {
+      "type": "latex",
+      "content": "He is essentially a **crude** person."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "coarse"
+      },
+      {
+        "label": "B",
+        "content": "refined"
+      },
+      {
+        "label": "C",
+        "content": "eager"
+      },
+      {
+        "label": "D",
+        "content": "balanced"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Crude' means unrefined or coarse; its direct antonym is 'refined'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q32",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 32,
+    "section": "Antonyms",
+    "question": {
+      "type": "latex",
+      "content": "His **confidence** is high."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "diffidence"
+      },
+      {
+        "label": "B",
+        "content": "eagerness"
+      },
+      {
+        "label": "C",
+        "content": "steadfastness"
+      },
+      {
+        "label": "D",
+        "content": "endurance"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Confidence' means self-assurance; its antonym is 'diffidence' (modesty or shyness resulting from a lack of self-confidence)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q33",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 33,
+    "section": "Antonyms",
+    "question": {
+      "type": "latex",
+      "content": "His **integrity** is noticed."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "skilfulness"
+      },
+      {
+        "label": "B",
+        "content": "ability"
+      },
+      {
+        "label": "C",
+        "content": "dependability"
+      },
+      {
+        "label": "D",
+        "content": "dishonesty"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Integrity' refers to honesty and strong moral principles, making 'dishonesty' its exact antonym."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q34",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 34,
+    "section": "Antonyms",
+    "question": {
+      "type": "latex",
+      "content": "She is a **benevolent** individual."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "clever"
+      },
+      {
+        "label": "B",
+        "content": "muddled"
+      },
+      {
+        "label": "C",
+        "content": "malevolent"
+      },
+      {
+        "label": "D",
+        "content": "ambivalent"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Benevolent' means well-meaning and kindly; its antonym is 'malevolent' (having or showing a wish to do evil to others)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q35",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 35,
+    "section": "Antonyms",
+    "question": {
+      "type": "latex",
+      "content": "His **sartorial** manner is judged."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "unstylish"
+      },
+      {
+        "label": "B",
+        "content": "uncompromising"
+      },
+      {
+        "label": "C",
+        "content": "common"
+      },
+      {
+        "label": "D",
+        "content": "crude"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Sartorial' relates to tailored clothing and style; its opposite in context is 'unstylish'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q36",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 36,
+    "section": "Antonyms",
+    "question": {
+      "type": "latex",
+      "content": "This piece of art is **authentic**."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "genuine"
+      },
+      {
+        "label": "B",
+        "content": "expensive"
+      },
+      {
+        "label": "C",
+        "content": "rare"
+      },
+      {
+        "label": "D",
+        "content": "fake"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Authentic' means genuine or real; its opposite is 'fake'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q37",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 37,
+    "section": "Antonyms",
+    "question": {
+      "type": "latex",
+      "content": "The **deluge** affected the population."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "cloudburst"
+      },
+      {
+        "label": "B",
+        "content": "drought"
+      },
+      {
+        "label": "C",
+        "content": "deforestation"
+      },
+      {
+        "label": "D",
+        "content": "drizzle"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Deluge' means a severe flood or heavy rainfall; its antonym is 'drought'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q38",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 38,
+    "section": "Antonyms",
+    "question": {
+      "type": "latex",
+      "content": "His **dedication** is known to all."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "clarity"
+      },
+      {
+        "label": "B",
+        "content": "hostility"
+      },
+      {
+        "label": "C",
+        "content": "apathy"
+      },
+      {
+        "label": "D",
+        "content": "anger"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Dedication' involves enthusiasm and commitment; its antonym is 'apathy' (lack of interest or enthusiasm)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q39",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 39,
+    "section": "Antonyms",
+    "question": {
+      "type": "latex",
+      "content": "His **perspicacity** was remarkable."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "smartness"
+      },
+      {
+        "label": "B",
+        "content": "dullness"
+      },
+      {
+        "label": "C",
+        "content": "dedication"
+      },
+      {
+        "label": "D",
+        "content": "deviousness"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Perspicacity' means insightfulness or sharpness of intellect; its opposite is 'dullness'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q40",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 40,
+    "section": "Antonyms",
+    "question": {
+      "type": "latex",
+      "content": "He has a **penchant** for spicy food."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "tendency"
+      },
+      {
+        "label": "B",
+        "content": "affinity"
+      },
+      {
+        "label": "C",
+        "content": "fear"
+      },
+      {
+        "label": "D",
+        "content": "dislike"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Penchant' means a strong liking or inclination towards something; its antonym is 'dislike'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q41",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 41,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "After a good meal, it is important to pay a **compliment** to the chef."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "tip"
+      },
+      {
+        "label": "B",
+        "content": "praise"
+      },
+      {
+        "label": "C",
+        "content": "admonish"
+      },
+      {
+        "label": "D",
+        "content": "revile"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Compliment' means an expression of praise or admiration."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q42",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 42,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "His work is **laudable**."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "praiseworthy"
+      },
+      {
+        "label": "B",
+        "content": "laughable"
+      },
+      {
+        "label": "C",
+        "content": "bold"
+      },
+      {
+        "label": "D",
+        "content": "loud"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Laudable' means deserving praise and commendation, synonymous with 'praiseworthy'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q43",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 43,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Raj is a **competent** carpenter."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "capable"
+      },
+      {
+        "label": "B",
+        "content": "exceptional"
+      },
+      {
+        "label": "C",
+        "content": "inept"
+      },
+      {
+        "label": "D",
+        "content": "clumsy"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Competent' means having necessary skill or knowledge, synonym of 'capable'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q44",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 44,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "He is **diligent** in submitting assignments."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "dilly-dallying"
+      },
+      {
+        "label": "B",
+        "content": "procrastinating"
+      },
+      {
+        "label": "C",
+        "content": "intelligent"
+      },
+      {
+        "label": "D",
+        "content": "conscientious"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Diligent' means showing care and effort in one's work, which is synonymous with 'conscientious'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q45",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 45,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "He appears to be **reticent**."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "expansive"
+      },
+      {
+        "label": "B",
+        "content": "jolly"
+      },
+      {
+        "label": "C",
+        "content": "silent"
+      },
+      {
+        "label": "D",
+        "content": "withdrawn"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Reticent' means reserved or not revealing one's thoughts readily, nearest in meaning to 'withdrawn'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q46",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 46,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "He is always **jovial**."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "cheerful"
+      },
+      {
+        "label": "B",
+        "content": "callous"
+      },
+      {
+        "label": "C",
+        "content": "garrulous"
+      },
+      {
+        "label": "D",
+        "content": "credulous"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Jovial' means cheerful and friendly."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q47",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 47,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Mohan remains **morose** these days."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "introspective"
+      },
+      {
+        "label": "B",
+        "content": "generous"
+      },
+      {
+        "label": "C",
+        "content": "chirpy"
+      },
+      {
+        "label": "D",
+        "content": "sullen"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Morose' means sullen and ill-tempered."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q48",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 48,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "He was a **reluctant** learner."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "enthusiastic"
+      },
+      {
+        "label": "B",
+        "content": "eager"
+      },
+      {
+        "label": "C",
+        "content": "unwilling"
+      },
+      {
+        "label": "D",
+        "content": "fearful"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Reluctant' means unwilling and hesitant."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q49",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 49,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Amit is **optimistic** about the prospects of his investments."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "pessimistic"
+      },
+      {
+        "label": "B",
+        "content": "uncaring"
+      },
+      {
+        "label": "C",
+        "content": "carefree"
+      },
+      {
+        "label": "D",
+        "content": "sanguine"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Optimistic' means hopeful and confident about the future, which is synonymous with 'sanguine'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q50",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 50,
+    "section": "Synonyms",
+    "question": {
+      "type": "latex",
+      "content": "Sachin is very **cooperative** by nature."
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "complaisant"
+      },
+      {
+        "label": "B",
+        "content": "covert"
+      },
+      {
+        "label": "C",
+        "content": "complacent"
+      },
+      {
+        "label": "D",
+        "content": "conniving"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Complaisant' means willing to please others or oblige, which is synonymous with 'cooperative'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q51",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 51,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "What is the mass of a material, whose specific heat capacity is $400\\text{ J/(kg }\\cdot^\\circ\\text{C)}$, for a rise in temperature from $15^\\circ\\text{C}$ to $25^\\circ\\text{C}$, when heat received is $20\\text{ kJ}$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$0.1\\text{ kg}$"
+      },
+      {
+        "label": "B",
+        "content": "$1\\text{ kg}$"
+      },
+      {
+        "label": "C",
+        "content": "$10\\text{ kg}$"
+      },
+      {
+        "label": "D",
+        "content": "$5\\text{ kg}$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Using $Q = m c \\Delta T$, $20000 = m \\times 400 \\times (25-15) = 4000 m$, giving $m = 5\\text{ kg}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q52",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 52,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "The specific latent heat of vaporization of a substance is the quantity of heat needed to change unit mass from"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "liquid to vapour with a change of temperature"
+      },
+      {
+        "label": "B",
+        "content": "liquid to vapour without a change of temperature"
+      },
+      {
+        "label": "C",
+        "content": "vapour to liquid without a change of temperature"
+      },
+      {
+        "label": "D",
+        "content": "vapour to liquid with a change of temperature"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Latent heat of vaporization is defined as the heat required to change unit mass from liquid to vapour phase at constant temperature."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q53",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 53,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "Evaporation from the surface of a given liquid takes place more rapidly when"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "the temperature is high and the surface area of the liquid is large"
+      },
+      {
+        "label": "B",
+        "content": "the temperature is low and the surface area of the liquid is large"
+      },
+      {
+        "label": "C",
+        "content": "the temperature is low and the surface area of the liquid is small"
+      },
+      {
+        "label": "D",
+        "content": "the temperature is high and the surface area of the liquid is small"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The rate of evaporation increases directly with increase in temperature and increase in surface area."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q54",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 54,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements correctly explains/explain the existence of a positive force between two electric charges?\n1. Both the charges are positive.\n2. Both the charges are negative.\n3. Both the charges are oppositely charged.\n\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "D",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "In Coulomb's law, a positive force represents repulsion, which occurs between like charges (either both positive or both negative)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q55",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 55,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "An electric wire of resistance $50\\text{ ohm}$ is cut into five equal wires. These wires are then connected in parallel. What is the equivalent resistance of this combination?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$2\\text{ ohm}$"
+      },
+      {
+        "label": "B",
+        "content": "$10\\text{ ohm}$"
+      },
+      {
+        "label": "C",
+        "content": "$0.5\\text{ ohm}$"
+      },
+      {
+        "label": "D",
+        "content": "$5\\text{ ohm}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Each segment has resistance $r = 50/5 = 10\\,\\Omega$. Connected in parallel, $R_{eq} = r/5 = 10/5 = 2\\,\\Omega$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q56",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 56,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "The electric field lines from an isolated positively charged conducting sphere are"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "tangential to the conducting surface"
+      },
+      {
+        "label": "B",
+        "content": "at right angles to the conducting surface and towards the centre of the sphere"
+      },
+      {
+        "label": "C",
+        "content": "at any angle to the conducting surface"
+      },
+      {
+        "label": "D",
+        "content": "at right angles to the conducting surface and outwards from the centre of the sphere"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Electric field lines are always perpendicular (normal) to the surface of a conductor and direct radially outward from positive charges."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q57",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 57,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is **not** a solution?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Alloy"
+      },
+      {
+        "label": "B",
+        "content": "Milk"
+      },
+      {
+        "label": "C",
+        "content": "Air"
+      },
+      {
+        "label": "D",
+        "content": "Sugar"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Milk is a colloid (an emulsion), whereas alloy, air, and aqueous sugar are true homogeneous solutions."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q58",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 58,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Refining of petroleum is carried out using which one of the following techniques?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Evaporation"
+      },
+      {
+        "label": "B",
+        "content": "Fractional distillation"
+      },
+      {
+        "label": "C",
+        "content": "Separating funnel"
+      },
+      {
+        "label": "D",
+        "content": "Sublimation"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Petroleum is separated into its various components/fractions based on boiling points using fractional distillation."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q59",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 59,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is a chemical change?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Dissolving sugar in water"
+      },
+      {
+        "label": "B",
+        "content": "Melting of ice"
+      },
+      {
+        "label": "C",
+        "content": "Crystallization"
+      },
+      {
+        "label": "D",
+        "content": "Milk turning sour"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Milk turning sour involves a chemical reaction producing lactic acid, which forms a new chemical substance."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q60",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 60,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the correct molecular formula of ammonium carbonate if the valency of ammonium ion is (+1) and carbonate anion is (-2)?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$(\\text{NH}_4)_2\\text{CO}_3$"
+      },
+      {
+        "label": "B",
+        "content": "$\\text{NH}_4(\\text{CO}_3)_2$"
+      },
+      {
+        "label": "C",
+        "content": "$(\\text{NH}_3)_2\\text{CO}_3$"
+      },
+      {
+        "label": "D",
+        "content": "$\\text{NH}_4\\text{CO}_3$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "By charge balance, two $\\text{NH}_4^+$ ions combine with one $\\text{CO}_3^{2-}$ ion, giving $(\\text{NH}_4)_2\\text{CO}_3$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q61",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 61,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is a covalent compound?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Calcium oxide"
+      },
+      {
+        "label": "B",
+        "content": "Sodium nitride"
+      },
+      {
+        "label": "C",
+        "content": "Silicon carbide"
+      },
+      {
+        "label": "D",
+        "content": "Zinc sulphide"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Silicon carbide (SiC) is formed by covalent bonding between two non-metals silicon and carbon in a network structure."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q62",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 62,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "The mass number of argon is 40. Which one of the following statements is correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "The number of protons in argon is 22."
+      },
+      {
+        "label": "B",
+        "content": "The number of neutrons in argon is 18."
+      },
+      {
+        "label": "C",
+        "content": "The number of electrons in argon is 18."
+      },
+      {
+        "label": "D",
+        "content": "The sum of numbers of protons and electrons in argon is 40."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Argon has atomic number $Z = 18$, so a neutral atom has 18 protons and 18 electrons, and $40 - 18 = 22$ neutrons."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q63",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 63,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the correct order of the valencies of elements $\\text{Ne, Si, N and Mg}$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$\\text{Ne} < \\text{Mg} < \\text{N} < \\text{Si}$"
+      },
+      {
+        "label": "B",
+        "content": "$\\text{Si} < \\text{N} < \\text{Mg} < \\text{Ne}$"
+      },
+      {
+        "label": "C",
+        "content": "$\\text{Ne} < \\text{N} < \\text{Si} < \\text{Mg}$"
+      },
+      {
+        "label": "D",
+        "content": "$\\text{Mg} < \\text{Ne} < \\text{N} < \\text{Si}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Valencies are $\\text{Ne}(0) < \\text{Mg}(2) < \\text{N}(3) < \\text{Si}(4)$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q64",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 64,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "The frequency of an alternating current is $3\\text{ Hz}$. It implies that"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "there are 6 cycles/s"
+      },
+      {
+        "label": "B",
+        "content": "there are 3 cycles/s"
+      },
+      {
+        "label": "C",
+        "content": "there are 2 cycles/s"
+      },
+      {
+        "label": "D",
+        "content": "there is only 1 cycle/s"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Frequency in Hertz represents the number of complete cycles per second, so $3\\text{ Hz} = 3\\text{ cycles/s}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q65",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 65,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following correctly represents the SI unit of resistivity?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$\\Omega$"
+      },
+      {
+        "label": "B",
+        "content": "$\\Omega/\\text{m}$"
+      },
+      {
+        "label": "C",
+        "content": "$\\Omega\\text{ cm}$"
+      },
+      {
+        "label": "D",
+        "content": "$\\Omega\\text{ m}$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Resistivity $\\rho = R \\cdot A / L$ has SI units $\\Omega \\cdot \\text{m}^2 / \\text{m} = \\Omega\\text{ m}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q66",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 66,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "What is the current required to light a $60\\text{ W}$ incandescent bulb in a domestic supply of $240\\text{ V}$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$0.5\\text{ A}$"
+      },
+      {
+        "label": "B",
+        "content": "$0.25\\text{ A}$"
+      },
+      {
+        "label": "C",
+        "content": "$1.0\\text{ A}$"
+      },
+      {
+        "label": "D",
+        "content": "$5.0\\text{ A}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Using electric power $P = V I$, $I = P / V = 60 / 240 = 0.25\\text{ A}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q67",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 67,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "The magnetic field produced by a current-carrying straight wire at a point outside the wire depends"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "inversely on the distance from it"
+      },
+      {
+        "label": "B",
+        "content": "directly on the distance from it"
+      },
+      {
+        "label": "C",
+        "content": "inversely at short distances and directly at large distances from it"
+      },
+      {
+        "label": "D",
+        "content": "directly on the distance (at short distances) and inversely on the distance (at long distances) from it"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The magnetic field around a long straight current-carrying wire is $B = \\frac{\\mu_0 I}{2\\pi r}$, which varies inversely with distance $r$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q68",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 68,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "What is the dimension of gravitational constant?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$M L^3 T^{-2}$"
+      },
+      {
+        "label": "B",
+        "content": "$M^{-1} L^3 T^{-2}$"
+      },
+      {
+        "label": "C",
+        "content": "$M^2 L^{-2} T^{-2}$"
+      },
+      {
+        "label": "D",
+        "content": "$M^2 L^{-1} T^{-2}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "From $F = G m_1 m_2 / r^2$, $G = [F][r^2]/[m]^2 = [M L T^{-2}][L^2][M^{-2}] = M^{-1} L^3 T^{-2}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q69",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 69,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "A ball is thrown vertically upward with a speed of $40\\text{ m/s}$. The time taken by the ball to reach the maximum height would be approximately"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$2\\text{ s}$"
+      },
+      {
+        "label": "B",
+        "content": "$3\\text{ s}$"
+      },
+      {
+        "label": "C",
+        "content": "$4\\text{ s}$"
+      },
+      {
+        "label": "D",
+        "content": "$5\\text{ s}$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Time to max height is $t = u / g = 40 / 9.8 \\approx 4\\text{ s}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q70",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 70,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "The time period of a $1\\text{ m}$ long pendulum approximates to"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$6\\text{ s}$"
+      },
+      {
+        "label": "B",
+        "content": "$4\\text{ s}$"
+      },
+      {
+        "label": "C",
+        "content": "$2\\text{ s}$"
+      },
+      {
+        "label": "D",
+        "content": "$1\\text{ s}$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Time period $T = 2\\pi \\sqrt{L/g} = 2\\pi \\sqrt{1 / 9.8} \\approx 2\\text{ s}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q71",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 71,
+    "section": "Biology",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements about living and non-living being is/are correct?\n1. While living being can demonstrate growth and repair, non-living being cannot.\n2. While living being demonstrates metabolic processes, non-living being does not.\n\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Both metabolic processes and autonomous growth and cellular repair are characteristic features of living organisms only."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q72",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 72,
+    "section": "Biology",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following plant plastids stores starch, oil and protein granules?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Chloroplast"
+      },
+      {
+        "label": "B",
+        "content": "Leucoplast"
+      },
+      {
+        "label": "C",
+        "content": "Chromoplast"
+      },
+      {
+        "label": "D",
+        "content": "Xanthoplast"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Leucoplasts are non-pigmented plastids that specialize in storing nutrients such as starch (amyloplasts), fats (elaioplasts), and proteins (aleuroplasts)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q73",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 73,
+    "section": "Biology",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about 'vacuoles' is **not** correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "In plants, there is a large central vacuole that may occupy 90% of total cell volume."
+      },
+      {
+        "label": "B",
+        "content": "In plant cells, vacuoles provide turgidity and rigidity."
+      },
+      {
+        "label": "C",
+        "content": "In Amoeba, vacuoles have role in nutrition."
+      },
+      {
+        "label": "D",
+        "content": "Vacuoles are absent in animal cells."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Vacuoles are present in animal cells as well, though they are much smaller and temporary compared to those in plant cells."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q74",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 74,
+    "section": "Biology",
+    "question": {
+      "type": "latex",
+      "content": "In aquatic plants, large air sacs give them buoyancy effects. These sacs are surrounded by which one of the following types of tissues?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Parenchyma"
+      },
+      {
+        "label": "B",
+        "content": "Collenchyma"
+      },
+      {
+        "label": "C",
+        "content": "Sclerenchyma"
+      },
+      {
+        "label": "D",
+        "content": "Complex tissue"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The buoyancy-providing tissue in aquatic plants is parenchymal tissue called aerenchyma."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q75",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 75,
+    "section": "Biology",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following belongs to 'Pisces'?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Dogfish"
+      },
+      {
+        "label": "B",
+        "content": "Jellyfish"
+      },
+      {
+        "label": "C",
+        "content": "Silverfish"
+      },
+      {
+        "label": "D",
+        "content": "Starfish"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Dogfish (*Scoliodon*) is a cartilaginous fish belonging to the class Pisces."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q76",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 76,
+    "section": "Biology",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following groups is called 'amphibians of plant kingdom'?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Bryophytes"
+      },
+      {
+        "label": "B",
+        "content": "Thallophytes"
+      },
+      {
+        "label": "C",
+        "content": "Pteridophytes"
+      },
+      {
+        "label": "D",
+        "content": "Gymnosperms"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Bryophytes are called amphibians of the plant kingdom because they live on soil but require water for sexual reproduction."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q77",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 77,
+    "section": "Biology",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is caused by a bacterial pathogen?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "AIDS"
+      },
+      {
+        "label": "B",
+        "content": "Dengue fever"
+      },
+      {
+        "label": "C",
+        "content": "COVID-19"
+      },
+      {
+        "label": "D",
+        "content": "Typhoid fever"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Typhoid fever is caused by the bacterium *Salmonella typhi*, whereas AIDS, Dengue, and COVID-19 are viral diseases."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q78",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 78,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "The twinkling of a star is due to the atmospheric"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "diffraction of starlight"
+      },
+      {
+        "label": "B",
+        "content": "reflection of starlight"
+      },
+      {
+        "label": "C",
+        "content": "refraction of starlight"
+      },
+      {
+        "label": "D",
+        "content": "dispersion of starlight"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Atmospheric refraction caused by varying density and temperature layers of Earth's atmosphere leads to the twinkling of stars."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q79",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 79,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "A mass $M$ is dragged by a pulley on a horizontal plane by a force anti-parallel to its displacement. The work done in pulling the mass $M$ is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "zero"
+      },
+      {
+        "label": "B",
+        "content": "positive"
+      },
+      {
+        "label": "C",
+        "content": "infinite"
+      },
+      {
+        "label": "D",
+        "content": "negative"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "When force and displacement are anti-parallel ($\n\\theta = 180^\\circ$), the work done $W = F d \\cos 180^\\circ = -F d$, which is negative."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q80",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 80,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "A $5\\text{ N}$ force is defined when a mass of $10\\text{ kg}$ is accelerated with"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$5.0\\text{ cm/s}^2$"
+      },
+      {
+        "label": "B",
+        "content": "$0.5\\text{ m/s}^2$"
+      },
+      {
+        "label": "C",
+        "content": "$0.5\\text{ cm/s}^2$"
+      },
+      {
+        "label": "D",
+        "content": "$5.0\\text{ m/s}^2$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Acceleration $a = F / m = 5\\text{ N} / 10\\text{ kg} = 0.5\\text{ m/s}^2$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q81",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 81,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "A boy of mass $52\\text{ kg}$ jumps with a horizontal velocity of $2\\text{ m/s}$ onto a stationary cart of mass $3\\text{ kg}$. The cart is fixed with frictionless wheels. Which one of the following would be the speed of the cart?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$2.15\\text{ m/s}$"
+      },
+      {
+        "label": "B",
+        "content": "$1.89\\text{ m/s}$"
+      },
+      {
+        "label": "C",
+        "content": "$1.51\\text{ m/s}$"
+      },
+      {
+        "label": "D",
+        "content": "$2.51\\text{ m/s}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "By conservation of linear momentum: $m_1 v_1 = (m_1 + m_2) v \\implies 52 \\times 2 = (52 + 3) v \\implies v = 104 / 55 \\approx 1.89\\text{ m/s}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q82",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 82,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "The energy possessed by a body due to its change in position or shape is called"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "thermal energy"
+      },
+      {
+        "label": "B",
+        "content": "potential energy"
+      },
+      {
+        "label": "C",
+        "content": "kinetic energy"
+      },
+      {
+        "label": "D",
+        "content": "electric energy"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Potential energy is stored energy possessed by a body by virtue of its position, configuration, or shape."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q83",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 83,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "A sound wave has a frequency of $1\\text{ kHz}$ and wavelength $50\\text{ cm}$. How long will it take to travel $1\\text{ km}$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$5\\text{ s}$"
+      },
+      {
+        "label": "B",
+        "content": "$4\\text{ s}$"
+      },
+      {
+        "label": "C",
+        "content": "$3\\text{ s}$"
+      },
+      {
+        "label": "D",
+        "content": "$2\\text{ s}$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Speed $v = f \\lambda = 1000\\text{ Hz} \\times 0.5\\text{ m} = 500\\text{ m/s}$. Time $t = \\text{distance}/v = 1000\\text{ m} / 500\\text{ m/s} = 2\\text{ s}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q84",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 84,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "For an element with atomic number 35, which one of the following will be the correct number of electrons in its valence shell based on Bohr's model of an atom?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "7"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Atomic number 35 (Bromine) has electronic configuration K(2), L(8), M(18), N(7), giving 7 valence electrons."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q85",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 85,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is **not** an example of a redox reaction?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$\\text{AlCl}_3 + 3\\text{H}_2\\text{O} \\rightarrow \\text{Al(OH)}_3 + 3\\text{HCl}$"
+      },
+      {
+        "label": "B",
+        "content": "$2\\text{NaH} \\rightarrow 2\\text{Na} + \\text{H}_2$"
+      },
+      {
+        "label": "C",
+        "content": "$4\\text{Fe} + 3\\text{O}_2 \\rightarrow 2\\text{Fe}_2\\text{O}_3$"
+      },
+      {
+        "label": "D",
+        "content": "$\\text{CuSO}_4 + \\text{Zn} \\rightarrow \\text{Cu} + \\text{ZnSO}_4$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "In $\\text{AlCl}_3 + 3\\text{H}_2\\text{O} \\rightarrow \\text{Al(OH)}_3 + 3\\text{HCl}$, oxidation states of all elements remain unchanged (it is a double displacement/hydrolysis reaction)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q86",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 86,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following allotropes of carbon is isomorphous with crystalline silicon?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Coke"
+      },
+      {
+        "label": "B",
+        "content": "Diamond"
+      },
+      {
+        "label": "C",
+        "content": "Graphite"
+      },
+      {
+        "label": "D",
+        "content": "Coal"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Diamond and crystalline silicon both have a diamond-cubic tetrahedral crystal lattice structure."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q87",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 87,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the colour of hydrogen gas?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Light yellow"
+      },
+      {
+        "label": "B",
+        "content": "Orange"
+      },
+      {
+        "label": "C",
+        "content": "Black"
+      },
+      {
+        "label": "D",
+        "content": "Colourless"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Hydrogen gas ($\n\\text{H}_2$) is an odourless, tasteless, and colourless gas."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q88",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 88,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is **not** a pigment?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Zinc oxide"
+      },
+      {
+        "label": "B",
+        "content": "Chalk"
+      },
+      {
+        "label": "C",
+        "content": "White lead"
+      },
+      {
+        "label": "D",
+        "content": "Silica"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Silica ($\n\\text{SiO}_2$) acts as an extender/filler in paint formulations rather than a primary white pigment."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q89",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 89,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about fertilizers is **not** correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Urea is a phosphorus-containing fertilizer."
+      },
+      {
+        "label": "B",
+        "content": "Application of fertilizer to the soil increases fertility of the soil."
+      },
+      {
+        "label": "C",
+        "content": "Urea can be prepared by action of ammonia and carbon dioxide under high pressure and at high temperature."
+      },
+      {
+        "label": "D",
+        "content": "Urea contains more nitrogen than other fertilizers."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Urea $\\text{CO(NH}_2)_2$ is a nitrogenous fertilizer and contains no phosphorus."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q90",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 90,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is **not** correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Most carbon compounds are good conductors of electricity."
+      },
+      {
+        "label": "B",
+        "content": "Bonding in organic compounds is covalent."
+      },
+      {
+        "label": "C",
+        "content": "Graphite is used as a lubricant."
+      },
+      {
+        "label": "D",
+        "content": "Diamond is an allotrope of carbon."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Most organic/carbon compounds do not have free ions or electrons and are poor conductors of electricity."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q91",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 91,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following reactions is an example of decomposition reaction?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$\\text{CH}_4(\\text{g}) + 2\\text{O}_2(\\text{g}) \\rightarrow \\text{CO}_2(\\text{g}) + 2\\text{H}_2\\text{O}(\\text{g})$"
+      },
+      {
+        "label": "B",
+        "content": "$2\\text{AgCl}(\\text{s}) \\xrightarrow{\\text{Sunlight}} 2\\text{Ag}(\\text{s}) + \\text{Cl}_2(\\text{g})$"
+      },
+      {
+        "label": "C",
+        "content": "$\\text{CuO} + \\text{H}_2 \\xrightarrow{\\text{Heat}} \\text{Cu} + \\text{H}_2\\text{O}$"
+      },
+      {
+        "label": "D",
+        "content": "$\\text{Fe}(\\text{s}) + \\text{CuSO}_4(\\text{aq}) \\rightarrow \\text{FeSO}_4(\\text{aq}) + \\text{Cu}(\\text{s})$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Photolytic breakdown of $\\text{AgCl}$ into silver metal and chlorine gas is a decomposition reaction."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q92",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 92,
+    "section": "Biology",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the mechanism of action of oral contraceptive pills?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "They kill the egg."
+      },
+      {
+        "label": "B",
+        "content": "They kill the sperm."
+      },
+      {
+        "label": "C",
+        "content": "They kill the zygote."
+      },
+      {
+        "label": "D",
+        "content": "They inhibit the release of egg."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Oral contraceptive pills contain hormones (estrogen/progestin) that prevent ovulation (the release of an egg from the ovaries)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q93",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 93,
+    "section": "Biology",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following plants has unisexual flowers?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Papaya"
+      },
+      {
+        "label": "B",
+        "content": "Hibiscus"
+      },
+      {
+        "label": "C",
+        "content": "Mustard"
+      },
+      {
+        "label": "D",
+        "content": "Sunflower"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Papaya plants bear unisexual flowers (having either male stamens or female carpels, but not both)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q94",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 94,
+    "section": "Biology",
+    "question": {
+      "type": "latex",
+      "content": "A cell is unable to synthesize lipids. Which of its cell organelles might be defective?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Smooth endoplasmic reticulum"
+      },
+      {
+        "label": "B",
+        "content": "Golgi bodies"
+      },
+      {
+        "label": "C",
+        "content": "Lysosomes"
+      },
+      {
+        "label": "D",
+        "content": "Mitochondria"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Smooth Endoplasmic Reticulum (SER) is the primary organelle responsible for lipid and steroid synthesis in eukaryotic cells."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q95",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 95,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "All objects experience a buoyancy when they are immersed in a fluid. Buoyancy is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "a downward force"
+      },
+      {
+        "label": "B",
+        "content": "a downward pressure"
+      },
+      {
+        "label": "C",
+        "content": "an upward force"
+      },
+      {
+        "label": "D",
+        "content": "an upward pressure"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Buoyancy is the upward force exerted by a fluid on an object immersed in it."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q96",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 96,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "According to Fleming's right-hand rule, if the forefinger indicates the direction of magnetic field and thumb shows the direction of motion of conductor, then the stretched middle finger will predict the direction of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "force acting on the conductor"
+      },
+      {
+        "label": "B",
+        "content": "electric field"
+      },
+      {
+        "label": "C",
+        "content": "induced current"
+      },
+      {
+        "label": "D",
+        "content": "current"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "In Fleming's right-hand rule, the middle finger indicates the direction of induced current."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q97",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 97,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "Two resistors $R_1$ and $R_2$ arranged in parallel combination in an electrical closed circuit are made of the same material and of same thickness. If the length of $R_2$ is twice the length of $R_1$, then the total resistance $R$ satisfies"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$3R = 2R_1$"
+      },
+      {
+        "label": "B",
+        "content": "$3R = 2R_2$"
+      },
+      {
+        "label": "C",
+        "content": "$2R = 3R_1$"
+      },
+      {
+        "label": "D",
+        "content": "$2R = 3R_2$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Since $R \\propto L$, $R_2 = 2 R_1$. Parallel combination: $1/R = 1/R_1 + 1/(2 R_1) = 3 / (2 R_1) \\implies 3R = 2R_1$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q98",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 98,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "What is the magnification produced by a concave lens of focal length $10\\text{ cm}$, when an image is formed at a distance of $5\\text{ cm}$ from the lens?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$2.0$"
+      },
+      {
+        "label": "B",
+        "content": "$1.0$"
+      },
+      {
+        "label": "C",
+        "content": "$0.5$"
+      },
+      {
+        "label": "D",
+        "content": "$0.33$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "For a concave lens, $f = -10\\text{ cm}$ and $v = -5\\text{ cm}$. Lens formula gives $1/u = 1/v - 1/f = -1/5 + 1/10 = -1/10 \\implies u = -10\\text{ cm}$. Magnification $m = v/u = -5 / -10 = 0.5$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q99",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 99,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "A wooden box of mass $2\\text{ kg}$ and dimensions $(30\\text{ cm} \\times 15\\text{ cm} \\times 10\\text{ cm})$ is placed on a table with sides $30\\text{ cm}$ and $10\\text{ cm}$ touching the tabletop. Which one of the following is the approximate pressure exerted on the table?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "$111.1\\text{ N/m}^2$"
+      },
+      {
+        "label": "B",
+        "content": "$222.2\\text{ N/m}^2$"
+      },
+      {
+        "label": "C",
+        "content": "$333.3\\text{ N/m}^2$"
+      },
+      {
+        "label": "D",
+        "content": "$666.6\\text{ N/m}^2$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Contact area $A = 0.3\\text{ m} \\times 0.1\\text{ m} = 0.03\\text{ m}^2$. Force $F = mg \\approx 2 \\times 10 = 20\\text{ N}$. Pressure $P = F/A = 20 / 0.03 \\approx 666.6\\text{ N/m}^2$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q100",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 100,
+    "section": "Physics",
+    "question": {
+      "type": "latex",
+      "content": "Why are the tyres of aircrafts made of conducting rubber?\n1. So that the charge accumulated on the aircraft in flight, by rubbing the air, can easily be transferred to ground on landing.\n2. So that the charge accumulated due to the operation of various electronic equipments in the aircraft in flight can easily be transferred to ground on landing.\n\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Conducting rubber tyres dissipate static charges accumulated during flight from friction with air and internal onboard electronics directly to the ground upon landing."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q101",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 101,
+    "section": "History",
+    "question": {
+      "type": "latex",
+      "content": "*Arthashastra*, the classical work of Indian political thought, focuses primarily on"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "economy"
+      },
+      {
+        "label": "B",
+        "content": "culture"
+      },
+      {
+        "label": "C",
+        "content": "statecraft"
+      },
+      {
+        "label": "D",
+        "content": "monarchy"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Kautilya's *Arthashastra* is an ancient Indian treatise primarily dealing with statecraft, economic policy, and military strategy."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q102",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 102,
+    "section": "History",
+    "question": {
+      "type": "latex",
+      "content": "When did *Charaka Samhita* originate?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "6th Century BCE"
+      },
+      {
+        "label": "B",
+        "content": "3rd to 2nd Century BCE"
+      },
+      {
+        "label": "C",
+        "content": "4th Century BCE"
+      },
+      {
+        "label": "D",
+        "content": "5th Century BCE"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The early core text of *Charaka Samhita*, a foundational text on Ayurveda, is traditionally dated from the 3rd to 2nd century BCE."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q103",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 103,
+    "section": "History",
+    "question": {
+      "type": "latex",
+      "content": "Early Buddhist sculptors did not show Buddha in human form. Through which of the following symbols was Buddha's presence shown by the early sculptors?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Empty Seat and Stupa only"
+      },
+      {
+        "label": "B",
+        "content": "Wheel and Tree only"
+      },
+      {
+        "label": "C",
+        "content": "Wheel, Tree and Stupa only"
+      },
+      {
+        "label": "D",
+        "content": "Empty Seat, Wheel, Tree and Stupa"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Early aniconic Buddhist art represented Buddha symbolically via an Empty Seat (meditation), Wheel (Dharmachakra), Bodhi Tree (Enlightenment), and Stupa (Mahaparinirvana)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q104",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 104,
+    "section": "Polity",
+    "question": {
+      "type": "latex",
+      "content": "The Parliament of India is primarily based on the model of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "German Parliament"
+      },
+      {
+        "label": "B",
+        "content": "British Parliament"
+      },
+      {
+        "label": "C",
+        "content": "American Congress"
+      },
+      {
+        "label": "D",
+        "content": "French Parliament"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "India adopted the Westminster model of parliamentary government from the British parliamentary system."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q105",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 105,
+    "section": "Polity",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following had the shortest span in office as the Prime Minister of India?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Lal Bahadur Shastri"
+      },
+      {
+        "label": "B",
+        "content": "Chaudhary Charan Singh"
+      },
+      {
+        "label": "C",
+        "content": "Chandra Shekhar"
+      },
+      {
+        "label": "D",
+        "content": "H. D. Deve Gowda"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Chaudhary Charan Singh served as Prime Minister of India for 170 days, the shortest among the given options."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q106",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 106,
+    "section": "Polity",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following does **not** fall under the jurisdiction of the apex court of India?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Original Jurisdiction"
+      },
+      {
+        "label": "B",
+        "content": "Appellate Jurisdiction"
+      },
+      {
+        "label": "C",
+        "content": "Collegiate Jurisdiction"
+      },
+      {
+        "label": "D",
+        "content": "Advisory Jurisdiction"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Collegiate jurisdiction is not a constitutional classification of jurisdiction for the Supreme Court of India."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q107",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 107,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "According to the Indian Meteorological Department, which of the following is/are the feature/features of cloudburst?\n1. Heavy precipitation in short period of time in a limited geographical area\n2. It occurs generally during monsoon period and triggers flash flood and landslides\n\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "A cloudburst is characterized by sudden, heavy rainfall over a localized area during the monsoon season, frequently triggering flash floods and landslides."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q108",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 108,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "In a group discussion on shape and size of the Earth, three students stated the following points:\n1. Student 1: The shape of the Earth is basically an oblate spheroid.\n2. Student 2: The polar diameter of the Earth is more than the equatorial diameter.\n3. Student 3: Bulge along the equatorial region is due to revolution of the Earth.\n\nWho among the above students is/are correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Student 1 only"
+      },
+      {
+        "label": "B",
+        "content": "Student 1 and Student 2 only"
+      },
+      {
+        "label": "C",
+        "content": "Student 2 and Student 3 only"
+      },
+      {
+        "label": "D",
+        "content": "Student 1, Student 2 and Student 3"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Earth is an oblate spheroid. Its polar diameter is less than its equatorial diameter, and the equatorial bulge is caused by Earth's rotation (not revolution)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q109",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 109,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "While watching news, you hear about a place, of which you had never heard earlier. You want to know more about the place and you want to locate it on the map. Which of the following is/are required for you to be able to locate the place on the map?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Only latitude of the place"
+      },
+      {
+        "label": "B",
+        "content": "Only longitude of the place"
+      },
+      {
+        "label": "C",
+        "content": "Both longitude and latitude of the place"
+      },
+      {
+        "label": "D",
+        "content": "Latitude, longitude and altitude of the place"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "To uniquely locate a 2D position on a geographic map, both coordinates (latitude and longitude) are required."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q110",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 110,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements with respect to Global Positioning System (GPS) is **not** correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "It is based on network of satellites orbiting above the Earth."
+      },
+      {
+        "label": "B",
+        "content": "It is based on the system of triangulation."
+      },
+      {
+        "label": "C",
+        "content": "GPS receivers provide location in terms of latitude, longitude and altitude."
+      },
+      {
+        "label": "D",
+        "content": "It provides information exclusively for military operations."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "GPS is widely available for civilian, commercial, navigation, and scientific uses globally, not exclusively military operations."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q111",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 111,
+    "section": "Polity",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is **not** a Constitutional Commission of India?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "The National Commission for Scheduled Castes"
+      },
+      {
+        "label": "B",
+        "content": "The National Commission for Scheduled Tribes"
+      },
+      {
+        "label": "C",
+        "content": "The National Commission for Backward Classes"
+      },
+      {
+        "label": "D",
+        "content": "The National Commission for Women"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The National Commission for Women is a statutory body established under an Act of Parliament (1990), not a constitutional body."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q112",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 112,
+    "section": "History",
+    "question": {
+      "type": "latex",
+      "content": "Which Chinese traveller in ancient India wrote the diary called 'Records of the Travels to Middle India'?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Wang Xuance"
+      },
+      {
+        "label": "B",
+        "content": "Xuanzang"
+      },
+      {
+        "label": "C",
+        "content": "Yijing"
+      },
+      {
+        "label": "D",
+        "content": "Li Yibiao"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Xuanzang documented his pilgrimage to India in his famous travelogue, often translated as *Great Tang Records on the Western Regions* or *Records of the Travels to Middle India*."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q113",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 113,
+    "section": "Polity",
+    "question": {
+      "type": "latex",
+      "content": "The elections to the Lower House of the Parliament of India, held in 2019, constituted the"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "14th Lok Sabha"
+      },
+      {
+        "label": "B",
+        "content": "15th Lok Sabha"
+      },
+      {
+        "label": "C",
+        "content": "16th Lok Sabha"
+      },
+      {
+        "label": "D",
+        "content": "17th Lok Sabha"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The general elections held in April-May 2019 constituted the 17th Lok Sabha."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q114",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 114,
+    "section": "Polity",
+    "question": {
+      "type": "latex",
+      "content": "Panchayati Raj Institutions are primarily the institutions of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Popular Government"
+      },
+      {
+        "label": "B",
+        "content": "Self-Government"
+      },
+      {
+        "label": "C",
+        "content": "Federal Government"
+      },
+      {
+        "label": "D",
+        "content": "Quasi-Government"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Panchayati Raj Institutions are units of local self-government in rural areas."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q115",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 115,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following is/are the right/rights mentioned in the 'American Declaration of Independence'?\n1. Life\n2. Liberty\n3. Pursuit of Happiness\n4. Fraternity\n\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "D",
+        "content": "2, 3 and 4"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The US Declaration of Independence explicitly lists unalienable rights as 'Life, Liberty and the pursuit of Happiness'."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q116",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 116,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following American Presidents described democracy as \"Government of the People, for the People and by the People\"?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Abraham Lincoln"
+      },
+      {
+        "label": "B",
+        "content": "Thomas Jefferson"
+      },
+      {
+        "label": "C",
+        "content": "George Washington"
+      },
+      {
+        "label": "D",
+        "content": "John F. Kennedy"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Abraham Lincoln famously defined democracy this way in his Gettysburg Address in 1863."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q117",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 117,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Inhabitants are unaware of the speed of rotation of the planet Earth because\n1. the angular velocity is constant for each place on the Earth's surface\n2. the atmosphere rotates with the Earth\n3. there are no nearby objects, either stationary or moving at a rate different from that of the Earth\n\nWhich of the above is/are the correct explanation(s)?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Because Earth, its atmosphere, and everything on it rotate synchronously with constant angular speed without external reference frames, humans cannot feel Earth's rotational speed."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q118",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 118,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "While travelling to a hilly region, you notice a massive boulder, which was loosened by heavy rains and moved downhill. This has resulted due to which of the following processes?\n1. Mass wasting\n2. Erosion\n3. Weathering\n\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Weathering loosens the boulder, heavy rains trigger erosion, and gravity carries the rock downhill in a mass wasting process."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q119",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 119,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements in respect of landslides are correct?\n1. These occur only on gentle slopes during rain.\n2. They generally occur in clay-rich soil.\n3. Earthquakes trigger landslides.\n\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "B",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "C",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Landslides occur primarily on steep slopes (making statement 1 incorrect); clay-rich soils reduce shear strength when wet, and seismic shocks trigger slope failure."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q120",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 120,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following features about a geographical phenomenon:\n1. Torrents of snow and ice roaring down a steep mountain side\n2. It is hazardous to skiers and mountaineers\n3. It involves a mix of falling, rolling, sliding and flowing of materials\n\nWhich of the following phenomena can be identified with the above features?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Slump and earthflow"
+      },
+      {
+        "label": "B",
+        "content": "Avalanche"
+      },
+      {
+        "label": "C",
+        "content": "Landslide"
+      },
+      {
+        "label": "D",
+        "content": "Rockslide"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "A rapid flow of snow and ice down a sloped surface is termed a snow avalanche."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q121",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 121,
+    "section": "History",
+    "question": {
+      "type": "latex",
+      "content": "The real beginning of western education in India can be dated from"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "the Charter Act of 1813"
+      },
+      {
+        "label": "B",
+        "content": "the Charter Act of 1793"
+      },
+      {
+        "label": "C",
+        "content": "the Sarda Act of 1929"
+      },
+      {
+        "label": "D",
+        "content": "the Macaulay's Minute on Indian Education, 1835"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Charter Act of 1813 incorporated the first explicit clause making state provision for modern education in India."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q122",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 122,
+    "section": "History",
+    "question": {
+      "type": "latex",
+      "content": "The term 'Industrial Revolution' was first used by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "J. A. Blanqui"
+      },
+      {
+        "label": "B",
+        "content": "T. S. Ashton"
+      },
+      {
+        "label": "C",
+        "content": "Arnold Toynbee"
+      },
+      {
+        "label": "D",
+        "content": "R. H. Tawney"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "French economist Jérôme-Adolphe Blanqui first coined the term 'Industrial Revolution' in 1837."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q123",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 123,
+    "section": "History",
+    "question": {
+      "type": "latex",
+      "content": "The Khudai Khidmatgar (Servants of the God) was organized by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Mahatma Gandhi"
+      },
+      {
+        "label": "B",
+        "content": "Khan Abdul Ghaffar Khan"
+      },
+      {
+        "label": "C",
+        "content": "M. A. Jinnah"
+      },
+      {
+        "label": "D",
+        "content": "M. M. Malaviya"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Khan Abdul Ghaffar Khan ('Frontier Gandhi') founded the non-violent movement Khudai Khidmatgar in 1929."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q124",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 124,
+    "section": "History",
+    "question": {
+      "type": "latex",
+      "content": "The Mahad Satyagraha of 1927 was organized by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "B. R. Ambedkar"
+      },
+      {
+        "label": "B",
+        "content": "Mahatma Gandhi"
+      },
+      {
+        "label": "C",
+        "content": "S. C. Bose"
+      },
+      {
+        "label": "D",
+        "content": "Lokmanya Tilak"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Dr. B. R. Ambedkar led the Mahad Satyagraha on 20 March 1927 to assert the rights of untouchables to draw water from the public tank."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q125",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 125,
+    "section": "History",
+    "question": {
+      "type": "latex",
+      "content": "The Satyashodhak Samaj (Truth-Seeking Society) was set up by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Vinoba Bhave"
+      },
+      {
+        "label": "B",
+        "content": "Jyotiba Phule"
+      },
+      {
+        "label": "C",
+        "content": "B. R. Ambedkar"
+      },
+      {
+        "label": "D",
+        "content": "C. Rajagopalachari"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Jyotirao Phule founded the Satyashodhak Samaj in Pune in 1873 to promote social equality and education for lower castes."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q126",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 126,
+    "section": "History",
+    "question": {
+      "type": "latex",
+      "content": "The 13th Century text *Lekhapaddhati* gives us information on which one of the following topics?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Art of writing"
+      },
+      {
+        "label": "B",
+        "content": "Essay writing"
+      },
+      {
+        "label": "C",
+        "content": "Legal document"
+      },
+      {
+        "label": "D",
+        "content": "Epigraphic style"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "*Lekhapaddhati* is a medieval Sanskrit compilation of models for legal documents, land deeds, and administrative contracts in Gujarat."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q127",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 127,
+    "section": "History",
+    "question": {
+      "type": "latex",
+      "content": "Nkrumah was one of the five leaders, who comprised the core of the Non-Aligned Movement (NAM). He was the leader of which country in Africa?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Nigeria"
+      },
+      {
+        "label": "B",
+        "content": "Kenya"
+      },
+      {
+        "label": "C",
+        "content": "Uganda"
+      },
+      {
+        "label": "D",
+        "content": "Ghana"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Kwame Nkrumah was the first President of Ghana and a founding leader of NAM alongside Nehru, Tito, Nasser, and Sukarno."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q128",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 128,
+    "section": "History",
+    "question": {
+      "type": "latex",
+      "content": "The idea of Planning in Independent India was drawn from"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "the Bombay Plan"
+      },
+      {
+        "label": "B",
+        "content": "the demand made by peasants"
+      },
+      {
+        "label": "C",
+        "content": "the demand made by workers' unions"
+      },
+      {
+        "label": "D",
+        "content": "the Gandhian vision of India's future"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Bombay Plan (1944), drafted by prominent Indian industrialists, laid out a early blueprint for state-led planned development in India."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q129",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 129,
+    "section": "Current Affairs",
+    "question": {
+      "type": "latex",
+      "content": "Nisarga, Gati, Nivar, Tauktae and Yaas are names of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "new fighter aircrafts"
+      },
+      {
+        "label": "B",
+        "content": "tourist places"
+      },
+      {
+        "label": "C",
+        "content": "weather stations"
+      },
+      {
+        "label": "D",
+        "content": "cyclones"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "These are names assigned to severe tropical cyclones that affected the North Indian Ocean region."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q130",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 130,
+    "section": "Current Affairs",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following States/UTs was connected with the Indian Railways network in the year 2021?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Mizoram"
+      },
+      {
+        "label": "B",
+        "content": "Ladakh"
+      },
+      {
+        "label": "C",
+        "content": "Manipur"
+      },
+      {
+        "label": "D",
+        "content": "Sikkim"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "In 2021, Manipur was connected directly to Indian Railways network via the Silchar-Vangaichungpao passenger train."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q131",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 131,
+    "section": "Current Affairs",
+    "question": {
+      "type": "latex",
+      "content": "The forests of Uttarakhand, Kullu Valley in Himachal Pradesh and Dzukou Valley in Nagaland and Manipur were in the news on account of which one of the following reasons?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Deforestation"
+      },
+      {
+        "label": "B",
+        "content": "Forest fire"
+      },
+      {
+        "label": "C",
+        "content": "Poaching of wild animals"
+      },
+      {
+        "label": "D",
+        "content": "Illegal mining"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "These ecological regions experienced widespread and severe forest fires during early 2021."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q132",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 132,
+    "section": "Polity",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is correct in respect of total number of States and Union Territories in India?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "28 States and 8 Union Territories"
+      },
+      {
+        "label": "B",
+        "content": "27 States and 9 Union Territories"
+      },
+      {
+        "label": "C",
+        "content": "30 States and 6 Union Territories"
+      },
+      {
+        "label": "D",
+        "content": "29 States and 7 Union Territories"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "India currently comprises 28 States and 8 Union Territories."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q133",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 133,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Snow, sleet and hail are the forms of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "precipitation"
+      },
+      {
+        "label": "B",
+        "content": "condensation"
+      },
+      {
+        "label": "C",
+        "content": "transpiration"
+      },
+      {
+        "label": "D",
+        "content": "evaporation"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Snow, sleet, hail, and rain are all solid or liquid forms of atmospheric precipitation."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q134",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 134,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is likely to be the most prevalent form of weathering in hot-tropical desert areas?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Mechanical"
+      },
+      {
+        "label": "B",
+        "content": "Chemical"
+      },
+      {
+        "label": "C",
+        "content": "Biological"
+      },
+      {
+        "label": "D",
+        "content": "Leaching"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "High diurnal temperature variations causing thermal expansion/contraction drive mechanical (physical) weathering in hot dry deserts."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q135",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 135,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following cities was the first to attain the status of a 'megacity'?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "London"
+      },
+      {
+        "label": "B",
+        "content": "Paris"
+      },
+      {
+        "label": "C",
+        "content": "New York"
+      },
+      {
+        "label": "D",
+        "content": "Washington"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "New York City was the world's first urban area to surpass a population of 10 million (around 1950), attaining megacity status."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q136",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 136,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "In India, rigid and stable elevated lands, denuded rocks and series of scarps are the features of which of the following?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Northern mountains"
+      },
+      {
+        "label": "B",
+        "content": "Peninsular plateau"
+      },
+      {
+        "label": "C",
+        "content": "Northern plains"
+      },
+      {
+        "label": "D",
+        "content": "Coastal plains"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The Peninsular Plateau of India is an ancient, stable landmass characterized by denuded relict mountains and scarps."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q137",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 137,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "A person had visited a region in India and found trees, such as Khair, Neem, Khejri and Palas. Which one of the following regions is she/he expected to have visited?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Malabar Coast"
+      },
+      {
+        "label": "B",
+        "content": "Garo Hills"
+      },
+      {
+        "label": "C",
+        "content": "Sunderban Delta"
+      },
+      {
+        "label": "D",
+        "content": "Desert Region"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Khejri, Khair, and Neem are xerophytic flora native to dry semi-arid and arid desert regions (e.g., Rajasthan)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q138",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 138,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements:\n1. Rocks do not remain in their original form for long and undergo transformation.\n2. Transformation of rocks is caused by weathering, erosion and metamorphic action.\n\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The rock cycle dictates that rocks continuously transform through weathering, erosion, sedimentation, and metamorphism."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q139",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 139,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Weathering, mass wasting, erosion and transportation are indicators of which one of the following processes?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Denudation"
+      },
+      {
+        "label": "B",
+        "content": "Endogenetic process"
+      },
+      {
+        "label": "C",
+        "content": "Diastrophism"
+      },
+      {
+        "label": "D",
+        "content": "Mountain building"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Denudation encompasses all exogenic surface-wearing processes including weathering, mass wasting, erosion, and transport."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q140",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 140,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "If you want to observe moraines, eskers and outwash plains, which one of the following Union Territories you may have to visit?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Andaman and Nicobar Islands"
+      },
+      {
+        "label": "B",
+        "content": "Lakshadweep"
+      },
+      {
+        "label": "C",
+        "content": "Puducherry"
+      },
+      {
+        "label": "D",
+        "content": "Ladakh"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Moraines, eskers, and outwash plains are glacial depositional features found in glaciated mountain regions such as Ladakh."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q141",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 141,
+    "section": "Current Affairs",
+    "question": {
+      "type": "latex",
+      "content": "Legendary Kathak dancer Pandit Birju Maharaj died recently. He was the doyen of which one of the following Gharanas of Kathak?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Jaipur"
+      },
+      {
+        "label": "B",
+        "content": "Raigarh"
+      },
+      {
+        "label": "C",
+        "content": "Lucknow"
+      },
+      {
+        "label": "D",
+        "content": "Banaras"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Pandit Birju Maharaj belonged to the Lucknow 'Kalka-Bindadin' Gharana of Kathak dance."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q142",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 142,
+    "section": "Current Affairs",
+    "question": {
+      "type": "latex",
+      "content": "In a first, India is to export BrahMos missile to"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Bhutan"
+      },
+      {
+        "label": "B",
+        "content": "Philippines"
+      },
+      {
+        "label": "C",
+        "content": "Maldives"
+      },
+      {
+        "label": "D",
+        "content": "Nepal"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "India signed a historic USD 375 million deal with the Philippines in Jan 2022 to supply BrahMos shore-based anti-ship missiles."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q143",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 143,
+    "section": "Current Affairs",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following is the Head of the Committee appointed by the Supreme Court of India to enquire into the circumstances that led to the Prime Minister of India's convoy being stuck for several minutes on a flyover in Punjab recently?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Justice Indu Malhotra"
+      },
+      {
+        "label": "B",
+        "content": "Justice Ashok Bhushan"
+      },
+      {
+        "label": "C",
+        "content": "Justice Navin Sinha"
+      },
+      {
+        "label": "D",
+        "content": "Justice Rohinton Fali Nariman"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Supreme Court appointed former SC judge Justice Indu Malhotra to head the panel investigating PM Modi's security breach in Punjab."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q144",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 144,
+    "section": "Current Affairs",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following retired from test cricket by bagging a wicket on the last ball of his career?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "AB de Villiers"
+      },
+      {
+        "label": "B",
+        "content": "Michael Hussey"
+      },
+      {
+        "label": "C",
+        "content": "Quinton de Kock"
+      },
+      {
+        "label": "D",
+        "content": "Ross Taylor"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "New Zealand cricketer Ross Taylor took a wicket with the final ball of his Test career against Bangladesh in January 2022."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q145",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 145,
+    "section": "Current Affairs",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following is appointed as the tenth Chairman of the Indian Space Research Organization (ISRO) recently?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "A. S. Kiran Kumar"
+      },
+      {
+        "label": "B",
+        "content": "K. Sivan"
+      },
+      {
+        "label": "C",
+        "content": "K. Radhakrishnan"
+      },
+      {
+        "label": "D",
+        "content": "S. Somanath"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Eminent rocket scientist S. Somanath was appointed as the 10th Chairman of ISRO in January 2022."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q146",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 146,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "According to the Forest Survey Report, 2021, area-wise which one of the following States has the largest forest cover in India?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "Odisha"
+      },
+      {
+        "label": "B",
+        "content": "Madhya Pradesh"
+      },
+      {
+        "label": "C",
+        "content": "Arunachal Pradesh"
+      },
+      {
+        "label": "D",
+        "content": "Chhattisgarh"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Madhya Pradesh has the largest total forest cover by area in India according to ISFR 2021."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q147",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 147,
+    "section": "Polity",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following is the Chairperson of the Goods and Services Tax Council?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "The Prime Minister of India"
+      },
+      {
+        "label": "B",
+        "content": "The Union Finance Minister"
+      },
+      {
+        "label": "C",
+        "content": "The Speaker of the Lok Sabha"
+      },
+      {
+        "label": "D",
+        "content": "The President of India"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "According to Article 279A, the Union Finance Minister serves as ex-officio Chairperson of the GST Council."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q148",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 148,
+    "section": "Current Affairs",
+    "question": {
+      "type": "latex",
+      "content": "The International Union for Conservation of Nature (IUCN) has recently categorized the Red Sanders (Red Sandalwood) into"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "deficient category"
+      },
+      {
+        "label": "B",
+        "content": "endangered category"
+      },
+      {
+        "label": "C",
+        "content": "near-threatened category"
+      },
+      {
+        "label": "D",
+        "content": "critically endangered category"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "IUCN re-classified Red Sanders (*Pterocarpus santalinus*) as 'Endangered' in its Red List in Jan 2022."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q149",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 149,
+    "section": "Current Affairs",
+    "question": {
+      "type": "latex",
+      "content": "The Government of India has decided to observe 'Veer Baal Diwas' on"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "6th October"
+      },
+      {
+        "label": "B",
+        "content": "26th November"
+      },
+      {
+        "label": "C",
+        "content": "26th December"
+      },
+      {
+        "label": "D",
+        "content": "6th December"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Prime Minister Narendra Modi announced that 26th December will be observed annually as 'Veer Baal Diwas' to honor Sahibzadas."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "GAT(1)2022-Q150",
+    "paperId": "GAT(1)2022",
+    "questionNumber": 150,
+    "section": "Current Affairs",
+    "question": {
+      "type": "latex",
+      "content": "On 14th January, 2022, which one of the following ministries has organized a global Surya Namaskar Demonstration programme?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "content": "The Ministry of Culture"
+      },
+      {
+        "label": "B",
+        "content": "The Ministry of AYUSH"
+      },
+      {
+        "label": "C",
+        "content": "The Ministry of Health and Family Welfare"
+      },
+      {
+        "label": "D",
+        "content": "The Ministry of Tourism"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The Ministry of AYUSH organized a worldwide massive Surya Namaskar event for 75 lakh people on Makar Sankranti (14 Jan 2022)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  }
+]
