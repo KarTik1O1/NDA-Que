@@ -1,1 +1,5410 @@
-
+[
+  {
+    "questionId": "GAT(2)2016-Q1",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 1,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "text",
+      "content": "My friend was habitual to drive a car at very high speed. No error."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "My friend was"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "habitual to drive a car"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "at very high speed."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Habitual' is usually followed by 'in the habit of driving' or 'accustomed to driving' rather than 'habitual to drive'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q2",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 2,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "text",
+      "content": "Being a day of national mourning the offices were closed and the national flag flew half mast. No error."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Being a day of national mourning"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "the offices were closed"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "and the national flag flew half mast."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The introductory participial phrase lacks a proper subject ('It being a day of national mourning...'), leading to a dangling modifier."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q3",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 3,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "text",
+      "content": "If you are wanting to watch the birds nesting you must not let them see you. No error."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "If you are wanting to watch"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "the birds nesting"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "you must not let them see you."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The stative verb 'want' is generally not used in the continuous form. It should be 'If you want to watch'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q4",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 4,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "text",
+      "content": "He does not listen to what I say, although I am advising him for a long time. No error."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "He does not listen to"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "what I say,"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "although I am advising him for a long time."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The time expression 'for a long time' requires present perfect continuous tense: 'although I have been advising him'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q5",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 5,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "text",
+      "content": "It is most essential for us to reach the station before noon lest we should miss the train. No error."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "It is most essential for us"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "to reach the station before noon"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "lest we should miss the train."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Essential' is an absolute adjective, so using 'most essential' is redundant."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q6",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 6,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "text",
+      "content": "I asked him what had brought him there. No error."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "I asked him"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "what had brought"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "him there."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The sentence is grammatically correct."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q7",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 7,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "text",
+      "content": "The guards dare not to harm him. No error."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The guards"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "dare not"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "to harm him."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "When 'dare' is used as a modal verb with 'not', it is followed by a bare infinitive without 'to' ('dare not harm him')."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q8",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 8,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "text",
+      "content": "The Principal looks very worried because students are on strike for the last fifteen days as a protest against his disciplinary action against some miscreants. No error."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The Principal looks very worried"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "because students are on strike for the last fifteen days as a protest against"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "his disciplinary action against some miscreants."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The time expression 'for the last fifteen days' requires the present perfect tense: 'have been on strike'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q9",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 9,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "text",
+      "content": "The king was embarrassed to find evidences against his own queen. No error."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The king was embarrassed"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "to find evidences"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "against his own queen."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Evidence' is an uncountable noun and does not take the plural form 'evidences'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q10",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 10,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "text",
+      "content": "As I prefer coffee than tea my friends always take the trouble to get me a cup of coffee whenever I visit them. No error."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "As I prefer coffee than tea"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "my friends always take the trouble"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "to get me a cup of coffee whenever I visit them."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The verb 'prefer' takes the preposition 'to' instead of 'than' ('prefer coffee to tea')."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q11",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 11,
+    "section": "SYNONYMS",
+    "question": {
+      "type": "text",
+      "content": "Hospitality is a virtue for which the natives of the East in general are highly admired."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Duty of a doctor"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Generosity shown to guests"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Cleanliness in hospitals"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Kindness"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Hospitality' means friendly and generous reception and entertainment of guests or strangers."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q12",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 12,
+    "section": "SYNONYMS",
+    "question": {
+      "type": "text",
+      "content": "House rent in cities like Mumbai or Delhi has risen to astronomical figures beyond the reach of even high-salaried people."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "exorbitant"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "commercial"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "planetary"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "illogical"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Astronomical' in this context means extremely high or exorbitant."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q13",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 13,
+    "section": "SYNONYMS",
+    "question": {
+      "type": "text",
+      "content": "Appropriate technology holds the key to a nation's development."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Modern"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Suitable"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Effective"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Growing"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Appropriate' means suitable or proper in the circumstances."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q14",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 14,
+    "section": "SYNONYMS",
+    "question": {
+      "type": "text",
+      "content": "He was enamoured of his own golden voice."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "very fond of"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "concerned with"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "obsessed with"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "imbued with"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Enamoured of' means filled with love, admiration, or being very fond of."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q15",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 15,
+    "section": "SYNONYMS",
+    "question": {
+      "type": "text",
+      "content": "Some journalists are guilty of indulging in yellow journalism."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "misrepresentation"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "vulgarization"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "sensational reporting"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "loud gestures"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Yellow journalism' refers to journalistic reporting that uses exaggeration or sensationalism to gain readership."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q16",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 16,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "text",
+      "content": "The culprit was sentenced by the Court."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "acquitted"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "punished"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "relieved"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "pardoned"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Sentenced' means declared guilty and given a punishment. Its antonym is 'acquitted' (declared innocent)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q17",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 17,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "text",
+      "content": "Thrifty as he is, he can well afford to live within his means."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "careless"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "instinctive"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "sentimental"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "extravagant"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Thrifty' means spending money carefully and wisely. Its opposite is 'extravagant' (spending recklessly)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q18",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 18,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "text",
+      "content": "Do not give him a responsible job, he is immature."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "thoughtful"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "cautious"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "calculating"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "seasoned"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Immature' means lacking experience or maturity. 'Seasoned' means experienced and mature."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q19",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 19,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "text",
+      "content": "I was prepared to show my hand provided he agreed to do the same."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "to yield"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "to shake hands"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "to conceal my plan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "to lose my ground"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Show my hand' means to reveal one's plans or intentions. The opposite is 'to conceal my plan'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q20",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 20,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "text",
+      "content": "Akbar the great was a sagacious ruler."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "haughty"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "cunning"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "rude"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "unwise"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Sagacious' means wise and shrewd. Its antonym is 'unwise'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q21",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 21,
+    "section": "SELECTING WORDS",
+    "question": {
+      "type": "text",
+      "content": "She has been lying in bed for the last fortnight. I hope she will __________."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "come out"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "pull out"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "pull through"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "go out"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Pull through' means to recover from a serious illness or hardship."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q22",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 22,
+    "section": "SELECTING WORDS",
+    "question": {
+      "type": "text",
+      "content": "The path of progress is beset __________ difficulties."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "with"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "by"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "through"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "along"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The verb 'beset' is followed by the preposition 'with'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q23",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 23,
+    "section": "SELECTING WORDS",
+    "question": {
+      "type": "text",
+      "content": "I feel __________ for those who are cruel to their children."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "sympathy"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "contempt"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "admiration"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "craving"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Contempt' means scorn or disdain, which fits appropriately for people who behave cruelly."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q24",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 24,
+    "section": "SELECTING WORDS",
+    "question": {
+      "type": "text",
+      "content": "Both the parties were keen to have an __________ settlement of the dispute."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "enviable"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "inimical"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "worthy"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "amicable"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Amicable' means peaceful and characterized by friendliness."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q25",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 25,
+    "section": "SELECTING WORDS",
+    "question": {
+      "type": "text",
+      "content": "I have come to know that the two brothers have __________."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "fallen through"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "fallen out"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "fallen for"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "fallen short"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Fallen out' means had an argument or quarrel."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q26",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 26,
+    "section": "SELECTING WORDS",
+    "question": {
+      "type": "text",
+      "content": "Everybody finds his own work __________ whereas he feels that others have delightful jobs."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "tedious"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "fabulous"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "unprofitable"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "indecent"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Tedious' (boring/tiresome) directly contrasts with 'delightful'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q27",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 27,
+    "section": "SELECTING WORDS",
+    "question": {
+      "type": "text",
+      "content": "The accident took place because of the criminal __________ of the driver."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "performance"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "disregard"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "negligence"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "slackness"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Criminal negligence' is a standard term describing a failure to exercise reasonable care."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q28",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 28,
+    "section": "SELECTING WORDS",
+    "question": {
+      "type": "text",
+      "content": "The belief in the __________ of vaccination is gaining ground."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "immunity"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "prevalence"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "efficacy"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "workability"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Efficacy' refers to the ability or power to produce a desired effect."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q29",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 29,
+    "section": "SELECTING WORDS",
+    "question": {
+      "type": "text",
+      "content": "Our new leader is a __________ young man and will take us forward."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "haughty"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "intoxicated"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "fanciful"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "dynamic"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Dynamic' means energetic, positive, and capable of driving progress."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q30",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 30,
+    "section": "SELECTING WORDS",
+    "question": {
+      "type": "text",
+      "content": "They found a world of __________ between what he said and what he did."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "chaos"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "bitterness"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "difference"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "hope"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'A world of difference' is an idiomatic expression meaning a vast difference."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q31",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 31,
+    "section": "ORDERING OF WORDS IN A SENTENCE",
+    "question": {
+      "type": "text",
+      "content": "The statement\ntherefore you must listen carefully (P)\nwhat the speaker has said (Q)\nin order to understand (R)\nwill be made just once (S)\n\nThe proper sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "S P R Q"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "S R Q P"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "R S P Q"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "S P Q R"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Correct order: 'The statement will be made just once (S) therefore you must listen carefully (P) in order to understand (R) what the speaker has said (Q).' Sequence: S P R Q."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q32",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 32,
+    "section": "ORDERING OF WORDS IN A SENTENCE",
+    "question": {
+      "type": "text",
+      "content": "The small boy who\nbroke his leg (P)\nfell down (Q)\nand (R)\nclimbed the wall (S)\n\nThe proper sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "P S R Q"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "S Q R P"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Q S R P"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "S P R Q"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Correct order: 'The small boy who climbed the wall (S) fell down (Q) and (R) broke his leg (P).' Sequence: S Q R P."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q33",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 33,
+    "section": "ORDERING OF WORDS IN A SENTENCE",
+    "question": {
+      "type": "text",
+      "content": "According to an engineer\nmight hit the market next year (P)\na newly developed air - cooler system (Q)\nthat employed in conventional room coolers (R)\nwhich is based on a principle radically different from (S)\n\nThe proper sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "S Q R P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "R S Q P"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Q S R P"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "P Q R S"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Correct order: 'According to an engineer a newly developed air - cooler system (Q) which is based on a principle radically different from (S) that employed in conventional room coolers (R) might hit the market next year (P).' Sequence: Q S R P."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q34",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 34,
+    "section": "ORDERING OF WORDS IN A SENTENCE",
+    "question": {
+      "type": "text",
+      "content": "The clerk\non the desk (P)\nleft the money (Q)\nin the safe (R)\nwhich he should have locked up (S)\n\nThe proper sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "S R Q P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Q R S P"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "P Q R S"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Q P S R"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Correct order: 'The clerk left the money (Q) on the desk (P) which he should have locked up (S) in the safe (R).' Sequence: Q P S R."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q35",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 35,
+    "section": "ORDERING OF WORDS IN A SENTENCE",
+    "question": {
+      "type": "text",
+      "content": "Hardly had my brother descended from the plane\nwhen the people (P)\nwaved and cheered (Q)\nwho had come to receive him (R)\nfrom the lounge (S)\n\nThe proper sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "P Q R S"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "R S P Q"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "R P Q S"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "P R S Q"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Correct order: 'Hardly had my brother descended from the plane when the people (P) who had come to receive him (R) from the lounge (S) waved and cheered (Q).' Sequence: P R S Q."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q36",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 36,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "The essay $\\frac{\\text{like that of the human face}}{\\text{P}} \\quad \\frac{\\text{because its variety is infinite}}{\\text{Q}} \\quad \\frac{\\text{is a literary form}}{\\text{R}} \\quad \\frac{\\text{which is not easy to define}}{\\text{S}}$\n\nThe proper sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "P Q R S"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "P Q S R"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "R S Q P"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "R S P Q"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The proper logical sequence to form a coherent sentence is R S P Q: 'The essay is a literary form which is not easy to define like that of the human face because its variety is infinite.'"
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q37",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 37,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "The exhibition committee $\\frac{\\text{attractive and useful}}{\\text{P}} \\quad \\frac{\\text{to make exhibition}}{\\text{Q}} \\quad \\frac{\\text{making efforts}}{\\text{R}} \\quad \\frac{\\text{has been}}{\\text{S}}$\n\nThe proper sequence should be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Q S R P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "S R Q P"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Q P S R"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "S P Q R"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The proper sequence is S R Q P: 'The exhibition committee has been making efforts to make exhibition attractive and useful.'"
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q38",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 38,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "My old teacher gave many poor students money <u>in spite of</u> he was poor."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "even though"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "as if"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "however"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Even though' is a conjunction used to introduce a clause of concession, whereas 'in spite of' must be followed by a noun or gerund phrase."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q39",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 39,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "You <u>should to</u> read the newspapers regularly if you want to be well-informed."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "ought"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "have to"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "should be"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The modal verb 'ought' is followed by an infinitive with 'to' ('ought to read'). 'Should' is followed directly by a base verb without 'to'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q40",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 40,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "If he had <u>listening to me</u> he would not have got lost."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "listened me"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "listened to me"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "listen me"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "In a third conditional structure ('If + past perfect'), the auxiliary 'had' requires the past participle form 'listened', followed by the preposition 'to'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q41",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 41,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "He asked for a bank loan <u>also</u> he didn't have sufficient resources."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "because"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "even if"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "requiring"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Because' provides the logical cause/reason for asking for a bank loan."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q42",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 42,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "I went to the shop to buy some <u>stationeries</u>."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "stationery"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "stationary"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "stationaries"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Stationery' (writing materials) is an uncountable noun and does not take a plural form 'stationeries'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q43",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 43,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "I have been waiting here <u>for</u> the last two hours."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "from"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "since"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "by"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'For' is correctly used to denote a duration of time ('for the last two hours')."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q44",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 44,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "The table needs to <u>be painted</u>."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "paint"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "painting"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "having paint"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The passive infinitive 'to be painted' is grammatically correct here."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q45",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 45,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "It began to rain heavily just when I <u>prepare</u> to go out."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "prepared"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "was preparing"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "have prepared"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The past continuous 'was preparing' indicates an ongoing action that was interrupted by another action ('began to rain')."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q46",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 46,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "The couple seemed to love <u>one another</u> very much."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "every other"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "each"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "each other"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Each other' is used when referring to two people (a couple), while 'one another' is used for more than two."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q47",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 47,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "It is high time that we <u>did</u> something."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "had done"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "would do"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "have done"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The expression 'It is high time' is followed by a past simple verb ('did') to express present urgency."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q48",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 48,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "If I were a millionaire, I <u>would have helped</u> the poor."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "am capable of helping"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "could have helped"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "would help"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "This is a Type 2 conditional sentence ('If + subjunctive past', 'would + base verb'). Thus, 'would help' is correct."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q49",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 49,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "The training programme was extended <u>for</u> a month."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "from"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "until"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "since"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'For a month' denotes the duration of the extension, which is grammatically sound."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q50",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 50,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "The painting <u>which</u> they were looking at was done by my sister."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "what"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "that"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "whom"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "NO IMPROVEMENT"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Which' is appropriately used as a relative pronoun for non-human objects such as a painting."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q51",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 51,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Statement I : Variability of annual rainfall is very high in western part of Rajasthan.\nStatement II : Average annual rainfall is extremely low in western Rajasthan."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Both the statements are individually true but Statement II is not the correct explanation of Statement I"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "In areas with low average annual rainfall, the relative variability of rainfall is inversely high. Therefore, Statement II correctly explains Statement I."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q52",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 52,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Statement I : Ozone is a tri-atomic molecule of oxygen.\nStatement II : Ozone is concentrated mainly in stratosphere."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Both the statements are individually true but Statement II is not the correct explanation of Statement I"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Both statements are correct independently ($O_3$ structure and stratospheric concentration), but the location in stratosphere does not explain why ozone is a tri-atomic molecule."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q53",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 53,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Statement I : The laterite soils develop in areas with high temperature and high rainfall.\nStatement II : Laterite soils are the result of intense leaching process."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Both the statements are individually true but Statement II is not the correct explanation of Statement I"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "High rainfall and high temperature promote intense leaching, which leads to the formation of laterite soil. Thus, Statement II is the correct explanation of Statement I."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q54",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 54,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Statement I : Too much salt content in diet could be one of the reasons for kidney failure.\nStatement II : High salt may cause high blood pressure."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Both the statements are individually true but Statement II is not the correct explanation of Statement I"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Excess salt intake increases blood pressure, which places extra stress on blood vessels in the kidneys, leading to kidney failure."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q55",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 55,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Statement I : The city of Rome revived in a spectacular way in the 15th century.\nStatement II : From the 15th century onwards, artists were known individually by name, not as member of a group or a guild, in Roman society."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Both the statements are individually true but Statement II is not the correct explanation of Statement I"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Both statements are correct historical facts regarding Renaissance Rome, but II is not the explanatory reason for I."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q56",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 56,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Statement I : Chartism was the political reform campaign for democratic rights which swept over Britain between 1838 and 1848.\nStatement II : The trade union movement declined by the 1830s as it failed to fulfil the aspirations of the working class."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Both the statements are individually true but Statement II is not the correct explanation of Statement I"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Statement I is true but Statement II is false"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Statement I is false but Statement II is true"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Both statements are historically true facts, but Statement II is not the direct cause/explanation for Chartism."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q57",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 57,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "'Sahel' region of Sahara desert is associated with"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "core area of Sahara desert"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "southern moving edge of Sahara desert"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "northern fringe of Sahara desert bordering Mediterranean sea"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "another name of Sahara desert"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The Sahel is a semi-arid region acting as a transition zone on the southern border of the Sahara desert."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q58",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 58,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following pairs of a river and its tributary is not correctly matched ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Godavari : Wainganga"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Cauvery : Bhavani"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Narmada : Amaravati"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Krishna : Bhima"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Amaravati is a tributary of the Cauvery river, not the Narmada."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q59",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 59,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "In which one of the following countries, the Mediterranean type of Biome is found ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Chile"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Kenya"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Argentina"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Bolivia"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Central Chile experiences a Mediterranean type of climate and biome."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q60",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 60,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Arrange the following states in order of their decreasing population size as per the census 2011 :\n1. West Bengal\n2. Bihar\n3. Maharashtra\n4. Andhra Pradesh\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "2 - 3 - 1 - 4"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "3 - 2 - 1 - 4"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 - 4 - 3 - 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3 - 1 - 4 - 2"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "As per Census 2011, population order: Maharashtra (11.2 cr) > Bihar (10.4 cr) > West Bengal (9.1 cr) > Andhra Pradesh (8.4 cr), which corresponds to 3 - 2 - 1 - 4."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q61",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 61,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Match List I with List II and select the correct answer using the code given below the Lists :\n\nList I (River)\nA. Danube\nB. Rhine\nC. Rhone\nD. Loire\n\nList II (Mouth of the river)\n1. North sea\n2. Black sea\n3. Bay of Biscay\n4. Mediterranean sea\n\nCode :\n\tA\tB\tC\tD"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "2\t1\t4\t3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "3\t4\t1\t2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2\t4\t1\t3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3\t1\t4\t2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Danube drains into the Black sea (2), Rhine into the North sea (1), Rhone into the Mediterranean sea (4), and Loire into the Bay of Biscay (3)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q62",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 62,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Match List I with List II and select the correct answer using the code given below the Lists :\n\nList I (Process)\nA. Heating Camphor\nB. Cooling of water vapour up to room temperature\nC. Cooking an egg\nD. Formation of water vapour at room temperature\n\nList II (Type of change)\n1. Chemical\n2. Evaporation\n3. Condensation\n4. Sublimation\n\nCode :\n\tA\tB\tC\tD"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "4\t3\t1\t2"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "4\t1\t3\t2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2\t1\t3\t4"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2\t3\t1\t4"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Heating Camphor undergoes Sublimation (4), Cooling water vapour to room temp is Condensation (3), Cooking an egg is a Chemical change (1), and Formation of water vapour at room temp is Evaporation (2)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q63",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 63,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Identify the element having zero valency"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sulphur"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Phosphorous"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Lead"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Radon"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Radon is a noble gas (Group 18 element) with a stable octet electronic configuration, giving it zero valency."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q64",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 64,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "There are six electrons, six protons and six neutrons in an atom of an element. What is the atomic number of the element ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "18"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "24"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The atomic number of an element is equal to the number of protons in its nucleus, which is 6."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q65",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 65,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following has different number of molecules ? (All are kept at normal temperature and pressure)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "3 gram of Hydrogen"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "48 gram of Oxygen"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "42 gram of Nitrogen"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2 gram of Carbon"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "3 g of $H_2$ = 1.5 moles, 48 g of $O_2$ = 1.5 moles, and 42 g of $N_2$ = 1.5 moles. 2 g of Carbon = 1/6 mole, which contains a different number of particles."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q66",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 66,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Combination of one volume of nitrogen with three volumes of hydrogen produces"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "one volume of ammonia"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "two volumes of ammonia"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "three volumes of ammonia"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "one and a half volumes of ammonia"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "According to Gay-Lussac's Law, $N_2(g) + 3H_2(g) \\rightarrow 2NH_3(g)$. Thus, 1 volume of $N_2$ reacts with 3 volumes of $H_2$ to produce 2 volumes of $NH_3$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q67",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 67,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements about cactus :\n1. The leaves are reduced to spines.\n2. The stem does the photosynthesis.\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "In cacti, leaves are modified into spines to reduce water loss, and the green stem performs photosynthesis."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q68",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 68,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "In which one of the following, methanogens, i.e., methane producing bacteria are not present ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Rumen of cattle"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Aerobic environment"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Anaerobic sludge"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Excreta of cattle"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Methanogens are obligate anaerobes and cannot survive or function in an aerobic environment containing oxygen."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q69",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 69,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Malarial parasite is a"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "bacteria"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "protozoa"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "virus"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "fungus"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The malarial parasite Plasmodium is a single-celled protozoan."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q70",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 70,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "With reference to biodiversity, which of the following statements is/are correct ?\n1. Species richness and high degree of endemism are important criteria for identifying biodiversity hot spots.\n2. Species diversity is highest in the tropics and decreases down the poles.\n3. Biodiversity conservation may be in situ as well as ex situ.\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1 and 3 only"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "All three statements are correct regarding biodiversity concepts, hotspot criteria, latitudinal gradients, and conservation methods."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q71",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 71,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "It is difficult to kill viruses because they"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "consist of tough protein coat"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "are very small in size"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "lack cellular structure"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "spend a lot of time inside the host's cells"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Viruses lack cellular structure and independent metabolic machinery, making them difficult to target without harming the host's cells."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q72",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 72,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "When a ray of light enters a glass slab, then"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "only the frequency changes"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "frequency and velocity change"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "frequency does not change"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "frequency and wavelength change"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "When light passes from one medium to another, its frequency depends only on the source and does not change."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q73",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 73,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A ball is thrown vertically upward from the ground with a speed of 25.2 m/s. The ball will reach the highest point of its journey in"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "5.14 s"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "3.57 s"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2.57 s"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1.29 s"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Using $v = u - gt$, setting $v = 0$: $t = \\frac{u}{g} = \\frac{25.2}{9.8} \\approx 2.57\\text{ s}$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q74",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 74,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "One kilowatt hour is equal to"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$36 \\times 10^3\\text{ joule}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$36 \\times 10^5\\text{ joule}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$10^3\\text{ joule}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$10^5\\text{ joule}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "$1\\text{ kWh} = 1000\\text{ W} \\times 3600\\text{ s} = 3.6 \\times 10^6\\text{ J} = 36 \\times 10^5\\text{ J}$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q75",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 75,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "When sound waves are propagated through a medium, the physical quantity/quantities transmitted is/are"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "matter only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "energy only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "energy and matter only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "energy, momentum and matter"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "In wave motion, energy is transferred from one place to another without the net movement or transfer of matter."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q76",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 76,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Pressure is a scalar quantity because"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "it is the ratio of force to area and both force and area are vectors"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "it is the ratio of magnitude of force to area"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "it is the ratio of component of force (normal to area) to area"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "none of the above"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Pressure is defined as the normal component of force acting per unit area, where normal force magnitude is used, independent of direction, making it scalar."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q77",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 77,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A person is unable to read a newspaper without his glasses. He is most probably suffering from"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "myopia"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "presbyopia"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "astigmatism"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "hypermetropia"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Hypermetropia (far-sightedness) is a defect of vision in which a person cannot see nearby objects clearly, such as a newspaper."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q78",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 78,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The free fall acceleration g increases as one proceeds, at sea level, from the equator toward either pole. The reason is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Earth is a sphere with same density everywhere"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Earth is a sphere with different density at the polar regions than in the equatorial regions"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Earth is approximately an ellipsoid having its equatorial radius greater than its polar radius by 21 km"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Earth is approximately an ellipsoid having its equatorial radius smaller than its polar radius by 21 km"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Since $g = GM/R^2$, a smaller polar radius means acceleration due to gravity $g$ is larger at the poles than at the equator."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q79",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 79,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The measurement of mass taken by a spring weighing balance is correct at the place where the spring balance is calibrated for"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The measurement of mass taken by a spring weighing balance is correct at all places"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The measurement of mass taken by a spring weighing balance is correct at the places where the acceleration due to gravity is same with the place where the spring balance is calibrated for"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "A spring balance cannot be used to measure mass at any place"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "A spring balance measures weight ($W = mg$). Therefore, mass derived from it is accurate only where $g$ equals the value at which the balance was calibrated."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q80",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 80,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is not a contact force ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Push force"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Gravitational force"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Frictional force"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Strain force"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Gravitational force acts at a distance without physical contact between bodies."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q81",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 81,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "When a force of 1 newton acts on a mass of 1 kg which is able to move freely, the object moves in the direction of force with a/an"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "speed of 1 km/s"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "acceleration of $1\\text{ m/s}^2$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "speed of 1 m/s"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "acceleration of $1\\text{ km/s}^2$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "By Newton's second law, $a = F/m = 1\\text{ N} / 1\\text{ kg} = 1\\text{ m/s}^2$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q82",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 82,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following items is used in the household wirings to prevent accidental fire in case of short circuit ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Insulated wire"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Plastic switches"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Non-metallic coatings on conducting wires"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Electric fuse"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "An electric fuse melts and breaks the circuit when excessive current flows, preventing fires due to short circuits."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q83",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 83,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following are the features of the ideology of utilitarianism ?\n1. Utilitarians believed that all value derives from land\n2. The most celebrated spokesmen of utilitarianism were Jeremy Bentham and John Stuart Mill\n3. Utilitarians were advocates of the idea that India could be ruled through indigenous laws and customs\n4. Utilitarians were advocates of the idea of the 'greatest good for the greatest number of people'\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 4 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 4 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1, 2 and 4"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Jeremy Bentham and J.S. Mill were main proponents of Utilitarianism, which emphasizes 'the greatest good for the greatest number'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q84",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 84,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following invented the powerloom that revolutionized the cotton textile industry ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Edmund Cartwright"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Samuel Crompton"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Richard Arkwright"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "James Hargreaves"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Edmund Cartwright invented the mechanized power loom in 1785."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q85",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 85,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Subsidiary Alliance was a system devised by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Lord Wellesley"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Lord Dalhousie"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Lord Canning"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Lord Ripon"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Subsidiary Alliance system was introduced by Lord Wellesley, Governor-General of India from 1798 to 1805."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q86",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 86,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements :\n1. Periplus is a Greek word meaning sailing around.\n2. Erythraean was the Greek name for the Mediterranean Sea.\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Statement 1 is correct ('Periplus' means sailing around). Statement 2 is incorrect because Erythraean Sea referred to the Red Sea and Indian Ocean, not the Mediterranean Sea."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q87",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 87,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following was defeated by Saina Nehwal to win the women's title of the Australian Open Super Series Badminton Tournament, 2016 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sun Yu"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Carolina Marin"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Wang Yihan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sung Ji Hyun"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Saina Nehwal defeated China's Sun Yu in the final to win the Australian Open Super Series in June 2016."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q88",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 88,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements :\nHe was an Indian journalist, editor and author. He was associated with the Statesman, the Guardian, the Times of India etc. He received the Ramnath Goenka Lifetime Achievement Award in 2013. He died in June 2016.\nThe person referred to above is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "B K Karanjia"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "K M Mathew"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Inder Malhotra"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Nanasaheb Parulekar"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Inder Malhotra was a veteran Indian journalist and editor who passed away in June 2016."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q89",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 89,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Achyut Lahkar, who died recently, was a"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "sports administrator"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "wildlife photographer"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "mobile theatre personality"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "bureaucrat"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Achyut Lahkar was considered the doyen/father of Assam's mobile theatre movement."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q90",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 90,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Recently Microsoft announced its 26.2 billion dollar acquisition of which one of the following professional networking sites ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "PartnerUp"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "PerfectBusiness"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "StartupNation"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "LinkedIn"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Microsoft acquired LinkedIn for $26.2 billion in 2016."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q91",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 91,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements concerning Mediterranean climatic region are correct ?\n1. It is found in the latitude range $30^\\circ$ to $45^\\circ$ northern and southern hemisphere\n2. Mediterranean climate experiences extreme temperature conditions\n3. In Mediterranean climate, rainfall occurs mainly during summer season\n4. In Mediterranean climate, rainfall is mainly due to Westerlies\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1, 2 and 4"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 4 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3 and 4"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Mediterranean climate is characterized by mild temperatures (moderate) and winter rainfall brought by Westerlies."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q92",
+    "paperId": "GAT-2016-A",
+    "questionNumber": 92,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Arrange the following states in decreasing order of their total area under forest cover :\n1. Jharkhand\n2. Chhattisgarh\n3. Arunachal Pradesh\n4. Madhya Pradesh\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "4 - 3 - 2 - 1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "4 - 2 - 3 - 1"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "3 - 4 - 1 - 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2 - 1 - 3 - 4"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The decreasing order of forest cover area among given states is Madhya Pradesh > Arunachal Pradesh > Chhattisgarh > Jharkhand (4 - 3 - 2 - 1)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q93",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 93,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements concerning Scheduled Castes (SC) population in India are correct ?\n\n1. The highest percentage of SC population out of the total population of the state is found in Punjab\n2. Bihar is the second largest state in respect of total SC population in India\n3. Uttar Pradesh has the highest number of SC population in India\n4. Among the Indian states, the lowest percentage of SC population out of the total population of the state is found in Goa\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 4 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 4"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Punjab has the highest proportion (percentage) of SC population among Indian states. Uttar Pradesh has the highest absolute number of SC population. West Bengal (not Bihar) is the second largest state in terms of total SC population."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q94",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 94,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Match List I with List II and select the correct answer using the code given below the Lists :\n\nList I (Element)\nA. Sulfur\nB. Phosphorous\nC. Lead\nD. Silver\n\nList II (Highest Valency)\n1. Five\n2. Six\n3. Two\n4. Four\n\nCode :\n    A  B  C  D"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "2  4  1  3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2  1  4  3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "3  1  4  2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3  4  1  2"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The highest valencies are: Sulfur = 6 (e.g., $SF_6$), Phosphorous = 5 (e.g., $PCl_5$), Lead = 4 (e.g., $PbO_2$), Silver = 2. Thus, the matching code is A-2, B-1, C-4, D-3."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q95",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 95,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following species is *not* capable of showing disproportionation reaction ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\text{ClO}^-$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\text{ClO}_2^-$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\text{ClO}_3^-$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\text{ClO}_4^-$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "In $\\text{ClO}_4^-$, chlorine is in its maximum oxidation state of $+7$. Since it cannot be oxidized to a higher oxidation state, it cannot undergo disproportionation."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q96",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 96,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Covalent bonds are directional"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ionic bonds are directional"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both covalent and ionic bonds are directional"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Both covalent and ionic bonds are non-directional"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Covalent bonds are formed by overlapping atomic orbitals in specific directions, making them directional. Ionic bonds are non-directional electrostatic forces."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q97",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 97,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "When one strikes a safety match, the first step is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "burning of sulfur"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "decomposition of potassium chlorate into potassium chloride and oxygen"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "conversion of a small amount of red phosphorus into white phosphorus"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "burning of glue and starch"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Striking the match causes heat from friction that converts a small amount of red phosphorus on the striking surface into white phosphorus, which ignites instantly."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q98",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 98,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The LPG cooking gas contains propane and butane as the constituents. A sulfur containing compound is added to the LPG, because"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "it lowers the cost of production"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "it enhances the efficiency of LPG"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "it facilitates easy detection of leakage of the gas"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "it assists in liquefying hydrocarbons"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "LPG is inherently odorless. A strong-smelling sulfur compound (ethyl mercaptan) is added to facilitate detection of gas leaks."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q99",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 99,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The genetic material of bacteria is found in"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "nucleus"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "cytoplasm"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "cell membrane"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "ribosome"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Bacteria are prokaryotic organisms lacking a nuclear membrane, so their genetic material floats freely in the cytoplasm in a region called the nucleoid."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q100",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 100,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A horse and a donkey can breed to produce mule which is an infertile animal. The infertility is because horse and donkey belong to different"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "class"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "order"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "species"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "genus"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Horse (*Equus caballus*) and donkey (*Equus asinus*) belong to the same genus (*Equus*) but different species. Offspring of different species are usually infertile."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q101",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 101,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A plant having yellow leaves with dead spots has the deficiency of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Potassium"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Magnesium"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Nitrate"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Phosphate"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Potassium deficiency causes chlorosis (yellowing) along leaf edges followed by dead necrotic spots."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q102",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 102,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Fluoride toothpaste is sometimes recommended because fluoride"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "prevents plaque formation"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "hardens the enamel of the tooth"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "kills pathogenic bacteria"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "prevents tooth ache"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Fluoride ions integrate into enamel to form fluorapatite, which hardens enamel and increases resistance to decay."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q103",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 103,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Along a streamline flow of fluid"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "the velocity of all fluid particles at a given instant is constant"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "the speed of a fluid particle remains constant"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "the velocity of all fluid particles crossing a given position is constant"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "the velocity of a fluid particle remains constant"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "In streamline flow, every fluid particle passing a fixed point has the exact same velocity in magnitude and direction at all times."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q104",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 104,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "How is the kinetic energy of a moving object affected if the net work done on it is positive ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Decreases"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Increases"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Remains constant"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Becomes zero"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "According to the Work-Energy Theorem ($W_{\\text{net}} = \\Delta K$), if net work done is positive, the kinetic energy increases."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q105",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 105,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A particle is executing simple harmonic motion. Which one of the following statements about the acceleration of the oscillating particle is true ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "It is always in the opposite direction to velocity"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "It is proportional to the frequency of oscillation"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "It is minimum when the speed is maximum"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "It decreases as the potential energy increases"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "In SHM, speed is maximum at the mean position ($x=0$), where acceleration $a = -\\omega^2 x = 0$ (minimum)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q106",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 106,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following four particles, whose displacement $x$ and acceleration $a_x$ are related as follows, is executing simple harmonic motion ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$a_x = + 3x$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$a_x = + 3x^2$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$a_x = - 3x^2$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$a_x = - 3x$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The defining condition for SHM is $a_x = -\\omega^2 x$. Only $a_x = -3x$ satisfies this linear restoring force relationship."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q107",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 107,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "If we plot a graph between volume $V$ and inverse of pressure $P$ (i.e., $\\frac{1}{P}$) for an ideal gas at constant temperature $T$, the curve so obtained is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "straight line"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "circle"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "parabola"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "hyperbola"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "From Boyle's law, $PV = \\text{constant} \\implies V \\propto \\frac{1}{P}$. Plotting $V$ against $\\frac{1}{P}$ yields a straight line."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q108",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 108,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The speed of sound waves in a medium depends upon the elastic property of the medium but not on inertia property"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The speed of sound waves in a medium depends upon the inertia property of the medium but not on elastic property"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The speed of sound waves in a medium depends neither on its elastic property nor on its inertia property"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The speed of sound waves in a medium depends both on elastic and inertia properties of the medium"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The speed of sound $v = \\sqrt{E/\\rho}$, depending on elasticity $E$ and density $\\rho$ (inertia)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q109",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 109,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is *not* correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Pitch of a sound is its characteristic by which we can generally differentiate between a male voice and a female voice"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The loudness of sound is related to its frequency"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "A musical sound has certain well defined frequencies which are generally harmonics of a fundamental frequency"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The timbre of a particular musical sound is related to the waveform of the sound wave"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Loudness depends on the amplitude of the sound wave, whereas pitch depends on its frequency."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q110",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 110,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A particle executes linear simple harmonic motion with amplitude of $2\\text{ cm}$. When the particle is at $1\\text{ cm}$ from the mean position, the magnitudes of the velocity and the acceleration are equal. Then its time period (in seconds) is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\frac{2\\pi}{\\sqrt{3}}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\frac{\\sqrt{3}}{2\\pi}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\frac{\\sqrt{3}}{\\pi}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{1}{2\\pi\\sqrt{3}}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Given $|v| = |a| \\implies \\omega\\sqrt{A^2 - x^2} = \\omega^2 x \\implies \\sqrt{2^2 - 1^2} = \\omega(1) \\implies \\omega = \\sqrt{3}$. Time period $T = \\frac{2\\pi}{\\omega} = \\frac{2\\pi}{\\sqrt{3}}$ seconds."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q111",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 111,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is *not* correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The longest wavelength of light visible to human eye is about $700\\text{ nm}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The shortest wavelength of light visible to human eye is about $400\\text{ nm}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The wavelength of gamma rays is longer than that of X-rays"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The ability of a telescope to form separable images of close objects is called its resolving power"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Gamma rays have shorter wavelengths than X-rays in the electromagnetic spectrum."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q112",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 112,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "If the image of an object, formed by a concave mirror is virtual, erect and magnified, then the object is placed"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "at the principal focus"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "at the centre of curvature"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "beyond the centre of curvature"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "between the pole of the mirror and the principal focus"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "A concave mirror produces a virtual, erect, and magnified image only when the object is located between the pole and the focus ($F$)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q113",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 113,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "When three resistors, each having resistance $r$, are connected in parallel, their resultant resistance is $x$. If these three resistances are connected in series, the total resistance will be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$3x$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$3rx$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$9x$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$3/x$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Parallel: $\\frac{1}{x} = \\frac{1}{r} + \\frac{1}{r} + \\frac{1}{r} = \\frac{3}{r} \\implies r = 3x$. Series: $R_{\\text{series}} = 3r = 3(3x) = 9x$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q114",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 114,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following was/were the feature(s) of Lenin's New Economic Policy (NEP) for the Soviet Union ?\n\n1. Private retail trading was strictly forbidden\n2. Private enterprise was strictly forbidden\n3. Peasants were not allowed to sell their surplus\n4. To secure liquid capital, concessions were allowed to foreign capitalists, but the State retained the option of purchasing the products of such concerns\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1, 2 and 4"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "4 only"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Lenin's NEP (1921) reintroduced small-scale private enterprise, permitted private retail trading, and allowed peasants to sell surplus grain. Concessions to foreign capitalists were granted under state control."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q115",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 115,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following was/were the reasons for the defeat of British during the American War of Independence ?\n\n1. The remoteness of the American Continent and the lack of good roads\n2. The British authorities failed to rally the loyalist Americans\n3. The Americans benefited from the extraordinary military leadership of George Washington\n4. The Americans had access to superior arms and ammunition\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1, 2 and 4"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Statements 1, 2, and 3 are correct. Americans did not have superior arms and ammunition compared to the British."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q116",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 116,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The industrial revolution in England had a profound impact on the lives of people. Which of the following statements are correct about that ?\n\n1. Women were the main workers in the silk, lace-making and knitting industries\n2. Factory managers were well aware of the health risks of industrial work on children\n3. Children were often employed in textile factories\n4. The novel 'Hard Times' by Charles Dickens was a severe critique of the horrors of industrialization\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1, 3 and 4"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3 and 4 only"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Statements 1, 3, and 4 are correct. Factory owners were unconcerned about the health hazards children faced in factories."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q117",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 117,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements :\n\n1. British colonialism continued to grow steadily in the 18th and 19th centuries\n2. Raw cotton for the textile industry in Britain during the industrial revolution needed to be imported\n\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Both statements are correct. British colonial empire expanded in 18th-19th centuries, and raw cotton had to be imported as Britain could not cultivate it."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q118",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 118,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following was the author of *Neel Darpan*, published in 1860 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Reverend James Long"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Michael Madhusudan Dutta"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Raja Ram Mohan Roy"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Dinabandhu Mitra"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "*Neel Darpan* was a Bengali play written by Dinabandhu Mitra depicting the plight of indigo farmers."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q119",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 119,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following organizations was started by Jyotirao Phule in 1873 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Prarthana Samaj"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Bahujan Samaj"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Justice Party"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Satyashodhak Samaj"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Jyotirao Phule founded Satyashodhak Samaj (Truth-seekers' Society) in 1873 in Pune, Maharashtra."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q120",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 120,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Although used earlier by French and German writers, the term 'Industrial Revolution' in English was first popularized by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Adam Smith"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Arnold Toynbee"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "James Mill"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Bertrand Russell"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The English economic historian Arnold Toynbee popularized the term 'Industrial Revolution' in his lectures in 1881."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q121",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 121,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "In the 19th century, the majority of the workers in Japan's modern industries were mainly"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Japanese men and children"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Japanese women and Chinese men"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "women"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Japanese and Chinese men"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "During the Meiji period in the 19th century, women constituted the majority of the workforce in Japan's early modern light industries, particularly in textile factories (silk reeling and cotton spinning)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q122",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 122,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements regarding recent developments in international affairs is/are correct ?\n\n1. NATO's defence ministers agree to boost support for Ukraine with a comprehensive package of assistance which will help it strengthen defence and to modernize its armed forces.\n2. Israel announces plans for construction of dwelling units for Jewish settlers in a Palestinian neighbourhood of East Jerusalem.\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Both statements describe correct international events of mid-2016."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q123",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 123,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "As per the RBI guidelines, which one of the following is the minimum tenure of Masala Bonds that an Indian company can issue offshore ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Five years"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Four years"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Three years"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Two years"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "In April 2016, RBI reduced the minimum original maturity period for Masala Bonds (rupee-denominated bonds) to 3 years."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q124",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 124,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements about Krishi Kalyan Cess (KKC) is/are correct ?\n\n1. KKC is calculated in the same way as Service Tax is calculated.\n2. The current rate of KKC is 0.50%.\n3. KKC is similar to the KKS (Krishi Kalyan Surcharge).\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1 only"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Krishi Kalyan Cess was levied on all taxable services at the rate of 0.50% and calculated on the value of service in the same manner as service tax. Krishi Kalyan Surcharge was levied on undisclosed income, so statement 3 is incorrect."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q125",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 125,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which country won the Thomas Cup Badminton Championship, 2016 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Indonesia"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Denmark"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "China"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Malaysia"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Denmark won the 2016 Thomas Cup title by defeating Indonesia 3-2 in the final."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q126",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 126,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Match List I with List II and select the correct answer using the code given below the Lists :\n\nList I (Ultra mega power project at different stages of development):\nA. Sasan\nB. Mundra\nC. Tilaiya\nD. Krishnapattam\n\nList II (State):\n1. Gujarat\n2. Madhya Pradesh\n3. Andhra Pradesh\n4. Jharkhand\n\nCode:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A-2, B-4, C-1, D-3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A-3, B-4, C-1, D-2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "A-3, B-1, C-4, D-2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Sasan UMPP is in Madhya Pradesh (2), Mundra UMPP is in Gujarat (1), Tilaiya UMPP is in Jharkhand (4), Krishnapattam UMPP is in Andhra Pradesh (3)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q127",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 127,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The world's largest biomass cookstove system for cooking in community kitchen has been installed at"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Tirupati"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Amritsar"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Shirdi"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Udupi"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The world's largest solar/biomass steam cooking system for community kitchen was installed at Shirdi, Maharashtra."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q128",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 128,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following sectors is the largest contributor to carbon dioxide emissions from fuel consumption in India ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Electricity and heat production"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Transport"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Manufacturing industries and constructions"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Others"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Electricity and heat production (mainly coal-based power generation) is the largest contributor to carbon dioxide emissions in India."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q129",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 129,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "As per census 2011, which one of the following states has the highest number of inhabited villages ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Uttar Pradesh"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Odisha"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Rajasthan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Maharashtra"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Uttar Pradesh has the largest number of inhabited villages in India according to Census 2011."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q130",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 130,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The property of electric current which is applicable in the fuse wire is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "chemical effect of current"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "magnetic effect of current"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "heating effect of current"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "optical property of current"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "A fuse wire operates on the heating effect of electric current ($H = I^2 R t$). When excessive current flows, excessive heat melts the fuse wire."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q131",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 131,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is $not$ correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The SI unit of charge is ampere-second"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Debye is the unit of dipole moment"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Resistivity of a wire of length $l$ and area of cross-section $a$ depends upon both $l$ and $a$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The kinetic energy of an electron of mass $m\\text{ kg}$ and charge $e\\text{ coulomb}$, when accelerated through a potential difference of $V\\text{ volt}$, is $eV\\text{ joule}$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Resistivity is an intrinsic property of the material and temperature, independent of dimensions such as length $l$ and cross-sectional area $a$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q132",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 132,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Two balls, $A$ and $B$, are thrown simultaneously, $A$ vertically upward with a speed of $20\\text{ m/s}$ from the ground and $B$ vertically downward from a height of $40\\text{ m}$ with the same speed and along the same line of motion. At what points do the two balls collide by taking acceleration due to gravity as $9.8\\text{ m/s}^2$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The balls will collide after $3\\text{ s}$ at a height of $30.2\\text{ m}$ from the ground"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The balls will collide after $2\\text{ s}$ at a height of $20.1\\text{ m}$ from the ground"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The balls will collide after $1\\text{ s}$ at a height of $15.1\\text{ m}$ from the ground"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The balls will collide after $5\\text{ s}$ at a height of $20\\text{ m}$ from the ground"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Height of A: $y_A = 20t - 0.5gt^2$. Height of B: $y_B = 40 - (20t + 0.5gt^2) = 40 - 20t - 0.5gt^2$. Setting $y_A = y_B \\implies 20t = 40 - 20t \\implies 40t = 40 \\implies t = 1\\text{ s}$. Height $y = 20(1) - 4.9(1)^2 = 15.1\\text{ m}$ from the ground."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q133",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 133,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The setting time of cement is lowered by adding"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "oxides of aluminium"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "gypsum"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "oxides of magnesium"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "silica"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Aluminium oxide (alumina) imparts quick setting property to cement, thereby lowering (reducing) the setting time. Gypsum retards setting time."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q134",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 134,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Emulsion is known as a"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "colloidal solution of substances having different physical states"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "true solution"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "distillation mixture for making alcohols"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "colloidal solution of two liquids"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "An emulsion is a type of colloid formed by combining two immiscible liquids."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q135",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 135,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "If one mixes up ashes with animal fat, the substance received in the crude form is called"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Pheromone"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Soap"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Cement"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Concrete"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Traditional saponification involves reacting animal fat with wood ashes (alkali/lye) to form crude soap."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q136",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 136,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements with regard to coverage rate of Aadhar cards during 2015 is/are correct ?\n\n1. The coverage rate of Aadhar cards in western India is quite high and it is above 90 per cent in Gujarat\n2. The coverage rate of Aadhar cards is the highest in southern India and it is almost 100 per cent in the states of Telangana and Andhra Pradesh\n3. The penetration of Aadhar cards has been very low in north-eastern part of India and it is the lowest in Assam and Meghalaya\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "All three statements correctly reflect the UIDAI Aadhaar saturation data as of 2015."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q137",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 137,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the correct descending order of countries in terms of per capita availability of arable land ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "India - China - Brazil"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "China - Brazil - India"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Brazil - China - India"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Brazil - India - China"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Per capita availability of arable land is highest in Brazil, followed by India, and lowest among the three in China due to China's large population and limited arable land percentage."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q138",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 138,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Match List I with List II and select the correct answer using the code given below the Lists :\n\nList I (Geomorphic Agent):\nA. Ground water\nB. Running water\nC. Glacier\nD. Wind\n\nList II (Feature):\n1. Plunge pool\n2. Horns\n3. Playas\n4. Lapies\n\nCode:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A-4, B-1, C-2, D-3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A-3, B-2, C-1, D-4"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "A-3, B-1, C-2, D-4"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "A-4, B-2, C-1, D-3"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Ground water forms Lapies (4); Running water forms Plunge pools (1); Glaciers form Horns (2); Wind forms Playas (3)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q139",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 139,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements concerning temperature is/are correct ?\n\n1. In winter season isotherms in Northern Hemisphere are more or less circular on continents\n2. Isotherms are parallel to latitude in Southern Hemisphere in oceans\n3. Minimum temperature during winter is recorded in Northern Canada\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2 only"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Due to vast ocean expanse in Southern Hemisphere, isotherms run almost parallel to latitudes. In Northern Hemisphere winter, isotherms bend sharply over continents rather than being circular, and the lowest temperature is recorded in Northeast Siberia (Russia), not Northern Canada."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q140",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 140,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statement(s) concerning natural regions of the world is/are correct ?\n\n1. Equatorial climatic regions have less urbanization\n2. Mediterranean climatic regions have high level of urbanization\n3. Equatorial climatic regions have high concentration of human population\n4. Mediterranean climatic regions practice plantation farming\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 4"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1 only"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Equatorial regions have low population density and less urbanization due to hot, wet, inhospitable climate. Mediterranean regions have long historical human settlement and high urbanization."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q141",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 141,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following gases gives acidic solution on dissolving in water ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Hydrogen"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Carbondioxide"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Nitrogen"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Oxygen"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Carbon dioxide dissolves in water to form carbonic acid ($\\text{H}_2\\text{CO}_3$), which gives an acidic solution."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q142",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 142,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "How many moles of hydrogen atom are present in one mole of Aluminium hydroxide ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "One mole"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Two moles"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Three moles"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Four moles"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Chemical formula of Aluminium hydroxide is $\\text{Al(OH)}_3$. Each mole of $\\text{Al(OH)}_3$ contains 3 moles of hydrogen atoms."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q143",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 143,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The United Nations proclaimed 21 June as"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "International Mother Language Day"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "International Widows' Day"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "International Day of Yoga"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "International Day against Drug Abuse and Illicit Trafficking"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The United Nations General Assembly declared 21 June as the International Day of Yoga in 2014."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q144",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 144,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who are Bhawana Kanth, Avani Chaturvedi and Mohana Singh ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sprinters"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Rock climbers"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Fighter pilots"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Mountaineers"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "They were the first three female fighter pilots commissioned into the Indian Air Force in June 2016."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q145",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 145,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements about the Constitution of India :\n\n1. A Member of Parliament enjoys freedom of speech in the Parliament as a Parliamentary Privilege protected by the Constitution of India.\n2. The Constitution has vested the power to amend the Constitution in the Parliament.\n\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Statement 1 is correct under Article 105(1) of the Constitution. Statement 2 is correct under Article 368."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q146",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 146,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about the Union Executive in India is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "According to the Constitution of India, the total number of members of the Council of Ministers cannot exceed 20% of the total number of Members of the House of the People"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The rank of the different Ministers is determined by the President"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The Ministers are appointed by the President on the advice of the Prime Minister"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Only a member of either House of Parliament can be appointed as a Minister"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "According to Article 75(1) of the Indian Constitution, the Prime Minister is appointed by the President and other Ministers are appointed by the President on the advice of the Prime Minister."
+    }
+  },
+  {
+    "questionId": "GAT(2)2016-Q147",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 147,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about Money Bill is correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A Bill shall be deemed to be a Money Bill only if it provides for imposition of fines or penalties"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A Money Bill shall be introduced in the Rajya Sabha"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The Rajya Sabha can reject the Money Bill"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The Speaker of the Lok Sabha finally decides if it is a Money Bill, should any dispute about it arise"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "According to Article 110(3) of the Constitution of India, if any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the Lok Sabha thereon shall be final."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2016-Q148",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 148,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following powers of the Prime Minister of India is codified in the Constitution of India itself?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The power of advising the President as regards the appointment of other Ministers"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The power to allocate business amongst the Ministers"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The power to summon the meeting of the Cabinet"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The power to transfer a Minister from one Department to another"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Article 75(1) of the Indian Constitution explicitly states that the Prime Minister shall be appointed by the President and the other Ministers shall be appointed by the President on the advice of the Prime Minister."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2016-Q149",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 149,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The cylindrical stone seals were used in which civilization?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Harappan"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Egyptian"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Roman"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Mesopotamian"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Cylinder seals were characteristic of Mesopotamian civilization, used to roll impressions onto wet clay."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2016-Q150",
+    "paperId": "GAT(2)2016",
+    "questionNumber": 150,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements with regards to the Civil Disobedience movement is/are correct?\n1. The movement received massive response from business groups and peasantry\n2. The movement coincided with large scale labour upsurge in Maharashtra\n3. The movement was marked by the mass participation of lawyers and students\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "During the Civil Disobedience Movement, there was massive participation from business groups and peasants. However, student and lawyer participation was significantly less compared to the Non-Cooperation Movement, and industrial working-class participation was limited except in Sholapur."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  }
+]
