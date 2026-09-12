@@ -1,1 +1,4429 @@
-
+[
+  {
+    "questionId": "GAT(1)2023-Q1",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 1,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "avenues for the patients to indict / P\nbut rarely is it the other way round / Q\nthere are multiple legal / R\nthe doctors / S\n\nThe correct sequence should be :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "SPRQ"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "RPSQ"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "QRPS"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "QSRP"
+      }
+    ],
+    "answer": {
+      "label": "b",
+      "explanation": "The meaningful sentence is: 'there are multiple legal (R) avenues for the patients to indict (P) the doctors (S) but rarely is it the other way round (Q)'. Thus, the sequence is RPSQ."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q2",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 2,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "flight, and each person / P\nher own journey / Q\nlife is a solo / R\nmakes his or / S\n\nThe correct sequence should be :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "SPRQ"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "RPQS"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "RPSQ"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "PQRS"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "The proper sequence is: 'life is a solo (R) flight, and each person (P) makes his or (S) her own journey (Q)'. Thus, RPSQ."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q3",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 3,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "made it evolve / P\ntechnologies and equipment has / Q\ninto a rare centre of excellence / R\nadoption of the latest / S\n\nThe correct sequence should be :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "PQRS"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "RPQS"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "SQPR"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "QSRP"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "The proper order is: 'adoption of the latest (S) technologies and equipment has (Q) made it evolve (P) into a rare centre of excellence (R)'. Thus, SQPR."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q4",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 4,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "please mark the same / P\nbe made in response to this notice / Q\nif you have any complaint to / R\nto the concerned authority / S\n\nThe correct sequence should be :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "PQRS"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "RPQS"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "SQPR"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "RQPS"
+      }
+    ],
+    "answer": {
+      "label": "d",
+      "explanation": "The correct sequence is: 'if you have any complaint to (R) be made in response to this notice (Q) please mark the same (P) to the concerned authority (S)'. Thus, RQPS."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q5",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 5,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "The parental support can **fortify** a child's learning."
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "weaken"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "encourage"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "brace"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "strengthen"
+      }
+    ],
+    "answer": {
+      "label": "a",
+      "explanation": "'Fortify' means to strengthen. The antonym is 'weaken'."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q6",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 6,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "Now we can have another **dazzling** thought, as an outcome of my brilliant research!"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "splendid"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "murky"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "dazing"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "fulgent"
+      }
+    ],
+    "answer": {
+      "label": "b",
+      "explanation": "'Dazzling' means extremely bright or impressive. Its antonym is 'murky', meaning dim, dark, or obscure."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q7",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 7,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "The group held some **clandestine** meetings to resolve the matter."
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "secret"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "covert"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "sneaky"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "public"
+      }
+    ],
+    "answer": {
+      "label": "d",
+      "explanation": "'Clandestine' means done secretly. Its opposite is 'public'."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q8",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 8,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "In the winters, the countryside view is **bleak** and the house is drafty."
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "cheerless"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "verdant"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "desolate"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "bare"
+      }
+    ],
+    "answer": {
+      "label": "b",
+      "explanation": "'Bleak' means bare, desolate, or cheerless. 'Verdant' means green with rich vegetation, which is the antonym."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q9",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 9,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "Amid **commotion** the leader and his supporters remained passive."
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "quietude"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "uproar"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "tempest"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "stir"
+      }
+    ],
+    "answer": {
+      "label": "a",
+      "explanation": "'Commotion' refers to noisy confusion or disturbance. Its antonym is 'quietude' (calmness and peace)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q10",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 10,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "He had the **audacity** to blame him."
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "boldness"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "vigour"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "temerity"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "politeness"
+      }
+    ],
+    "answer": {
+      "label": "d",
+      "explanation": "'Audacity' implies rude or disrespectful boldness. Its opposite is 'politeness'."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q11",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 11,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "They are making plans for the **abatement** of the nuisance within a specified time."
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "subsidence"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "ebbing"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "accumulation"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "mitigation"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "'Abatement' means reduction or lessening. Its antonym is 'accumulation' (gathering/increase)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q12",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 12,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "There is **exponential** growth in the development of the scientific researches in the recent few decades."
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "aggressive"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "rampant"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "meager"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "augmented"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "'Exponential' indicates rapid and large-scale growth. Its antonym is 'meager' (small or deficient in quantity)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q13",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 13,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "He was known for his **sagacity**."
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "prudence"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "wisdom"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "ignorance"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "sapience"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "'Sagacity' means wisdom and good judgment. Its opposite is 'ignorance'."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q14",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 14,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "The river Ganges **culminates** in the Bay of Bengal."
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "concludes"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "flows"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "originates"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "merges"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "'Culminate' means to end or reach a final point. The opposite is 'originates'."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q15",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 15,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "The lion’s share"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "A portion of something"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "The largest and the best part of something"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "An important decision"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "An aggressive statement"
+      }
+    ],
+    "answer": {
+      "label": "b",
+      "explanation": "'The lion's share' refers to the major or largest portion of something."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q16",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 16,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "Spill the beans"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "Reveal a secret"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Forced to leave belongings"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "Share the news"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Take offence at someone’s rude behaviour"
+      }
+    ],
+    "answer": {
+      "label": "a",
+      "explanation": "'Spill the beans' means to reveal secret information unintentionally or prematurely."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q17",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 17,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "Cook someone’s goose"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "To assist others"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Hypnotize other’s mind"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "To spoil other’s plans"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Inviting misfortune"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "'Cook someone's goose' means to ruin someone's plans or chances of success."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q18",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 18,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "Disappear into thin air"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "Lost forever"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Become forgetful"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "Become uncaring"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Disappear suddenly"
+      }
+    ],
+    "answer": {
+      "label": "d",
+      "explanation": "'Disappear into thin air' means to vanish suddenly and completely without trace."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q19",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 19,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "Put the screws on"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "Forcing someone to do what you want"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Never letting go of things"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "Keep the past alive"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Using someone’s trick for own benefit"
+      }
+    ],
+    "answer": {
+      "label": "a",
+      "explanation": "'Put the screws on' means to exert strong pressure or force on someone to get them to comply."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q20",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 20,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "Sit on the fence"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "Avoid meeting someone"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Waiting patiently"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "Avoid taking sides"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Hiding from someone"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "'Sit on the fence' means to remain neutral or avoid taking a stand in a dispute."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q21",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 21,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "Be as sharp as a tack"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "A talkative person"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "A shrewd person"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "A clumsy person"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "A clever person"
+      }
+    ],
+    "answer": {
+      "label": "d",
+      "explanation": "'As sharp as a tack' means exceptionally intelligent, quick-witted, or clever."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q22",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 22,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "From pillar to post"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "Upside down"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Keep moving from one place to another"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "Constructing a huge building"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Jumping from the top of the mountain"
+      }
+    ],
+    "answer": {
+      "label": "b",
+      "explanation": "'From pillar to post' means moving repeatedly from one place to another, often fruitlessly."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q23",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 23,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "Heath Robinson"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "Very complicated system or machine for doing a simple task"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Treating everyone as enemy, when they are not"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "Sleeping all day, doing nothing"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Very lazy person, slow in action"
+      }
+    ],
+    "answer": {
+      "label": "a",
+      "explanation": "'Heath Robinson' refers to an absurdly complex device performing a very simple task."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q24",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 24,
+    "section": "PART-A",
+    "question": {
+      "type": "latex",
+      "content": "As thick as thieves"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "Dumb person"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Good for nothing"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "Someone who uses everyone for personal gain"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Very close friends who are looked upon with suspicion"
+      }
+    ],
+    "answer": {
+      "label": "d",
+      "explanation": "'As thick as thieves' means intimate or very close friends, often sharing secrets."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q25",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 25,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "Two identical spring balances $S_1$ and $S_2$ are connected one after the other and are held vertically as shown in the figure. A mass of $10\\text{ kg}$ is hanging from $S_2$. If the readings on $S_1$ and $S_2$ are $W_1$ and $W_2$ respectively, then :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "$W_1 = 5\\text{ kg}$ and $W_2 = 10\\text{ kg}$"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "$W_1 = 10\\text{ kg}$ and $W_2 = 5\\text{ kg}$"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "$W_1 = 5\\text{ kg}$ and $W_2 = 5\\text{ kg}$"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "$W_1 = 10\\text{ kg}$ and $W_2 = 10\\text{ kg}$"
+      }
+    ],
+    "answer": {
+      "label": "d",
+      "explanation": "Assuming ideal (massless) spring balances connected in series, the tension throughout the combination is equal to the weight of the suspended mass ($10\\text{ kg}$). Thus both $S_1$ and $S_2$ show a reading of $10\\text{ kg}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q26",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 26,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "A stone is thrown horizontally from the top of a $20\\text{ m}$ high building with a speed of $12\\text{ m/s}$. It hits the ground at a distance $R$ from the building. Taking $g = 10\\text{ m/s}^2$ and neglecting air resistance will give :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "$R = 12\\text{ m}$"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "$R = 18\\text{ m}$"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "$R = 24\\text{ m}$"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "$R = 30\\text{ m}$"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "Time of flight $t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2 \\times 20}{10}} = 2\\text{ s}$. Horizontal distance $R = u \\cdot t = 12 \\times 2 = 24\\text{ m}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q27",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 27,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "A sphere of volume $V$ is made of a material with lower density than water. While on Earth, it floats on water with its volume $f_1 V$ ($f_1 < 1$) submerged. On the other hand, on a spaceship accelerating with acceleration $a < g$ ($g$ is the acceleration due to gravity on Earth) in outer space, its submerged volume in water is $f_2 V$. Then :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "$f_2 = f_1$"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "$f_2 = (1 - \\frac{a}{g}) f_1$"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "$f_2 > f_1$"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "$f_2 = \\frac{a}{g} f_1$"
+      }
+    ],
+    "answer": {
+      "label": "a",
+      "explanation": "Fraction of volume submerged $f = \\frac{\\rho_{\\text{object}}}{\\rho_{\\text{liquid}}}$, which is independent of effective acceleration due to gravity. Thus $f_2 = f_1$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q28",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 28,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "Two identical containers $X$ and $Y$ are connected at the bottom by a thin tube of negligible volume. The tube has a valve in it, as shown in the figure. Initially container $X$ has a liquid filled up to height $h$ in it and container $Y$ is empty. When the valve is opened, both containers have equal amount of liquid in equilibrium. If the initial (before the valve is opened) potential energy of the liquid is $P_1$ and the final potential energy is $P_2$ then :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "$P_1 = P_2$"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "$P_1 = 4 P_2$"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "$P_1 = 2 P_2$"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "$P_1 = 8 P_2$"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "Initial potential energy $P_1 = M g (h/2)$. Finally, each container has height $h/2$ and mass $M/2$. Total final potential energy $P_2 = 2 \\times (M/2) g (h/4) = M g h / 4 = P_1 / 2$. Therefore, $P_1 = 2 P_2$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q29",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 29,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "A particle is moving in a circle of radius $R$ with a constant speed $v$. Its average acceleration over the time when it moves over half the circle is :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "$\\frac{v^2}{R}$"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "$\\frac{\\pi v^2}{2R}$"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "$\\frac{2v^2}{\\pi R}$"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "$0$"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "Change in velocity over half circle $\\Delta v = 2v$. Time taken $t = \\frac{\\pi R}{v}$. Average acceleration $a_{\\text{avg}} = \\frac{\\Delta v}{t} = \\frac{2v}{\\pi R / v} = \\frac{2v^2}{\\pi R}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q30",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 30,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "Two forces of $5.0\\text{ N}$ each are acting on a point mass. If the angle between the forces is $60^\\circ$, then the net force acting on the point mass has magnitude close to :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "$8.6\\text{ N}$"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "$4.3\\text{ N}$"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "$5.0\\text{ N}$"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "$6.7\\text{ N}$"
+      }
+    ],
+    "answer": {
+      "label": "a",
+      "explanation": "$F_{\\text{net}} = \\sqrt{F^2 + F^2 + 2F^2 \\cos 60^\\circ} = F\\sqrt{3} = 5.0 \\times 1.732 = 8.66\\text{ N} \\approx 8.6\\text{ N}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q31",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 31,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is **not** an igneous rock?"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "Granite"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Slate"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "Basalt"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Gabbro"
+      }
+    ],
+    "answer": {
+      "label": "b",
+      "explanation": "Slate is a metamorphic rock formed from shale/mudstone, while granite, basalt, and gabbro are igneous rocks."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q32",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 32,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements is/are correct?\n1. Hypocenter is the point on the surface of the Earth, nearest to the focus.\n2. Velocity of earthquake waves is higher in denser materials.\n3. P waves move faster and are the first to arrive at the surface of the Earth.\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "1 and 2"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "2 and 3"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "1 and 3"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "3 only"
+      }
+    ],
+    "answer": {
+      "label": "b",
+      "explanation": "Statement 1 is incorrect because Epicenter is the point on the Earth's surface directly above the focus (hypocenter). Statements 2 and 3 are correct."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q33",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 33,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "In terms of geological time scale, the quaternary period consists of two epochs. They are :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "Pleistocene and Pliocene"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Holocene and Pleistocene"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "Pleistocene and Miocene"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Holocene and Eocene"
+      }
+    ],
+    "answer": {
+      "label": "b",
+      "explanation": "The Quaternary Period consists of two epochs: the Pleistocene and the Holocene."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q34",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 34,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the correct sequence of arrangement of the given planets in descending order of their density (in $\\text{gm/cm}^3$)?"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "Earth > Jupiter > Venus > Saturn"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Jupiter > Earth > Saturn > Venus"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "Earth > Venus > Jupiter > Saturn"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Earth > Venus > Saturn > Jupiter"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "The average densities are: Earth ($5.51\\text{ g/cm}^3$) > Venus ($5.24\\text{ g/cm}^3$) > Jupiter ($1.33\\text{ g/cm}^3$) > Saturn ($0.69\\text{ g/cm}^3$)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q35",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 35,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is **not** a cold current?"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "Western Australian Current"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Eastern Australian Current"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "Benguela Current"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Peru Current"
+      }
+    ],
+    "answer": {
+      "label": "b",
+      "explanation": "Eastern Australian Current is a warm ocean current, whereas West Australian, Benguela, and Peru currents are cold ocean currents."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q36",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 36,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "The process of Podsolization is predominantly found in :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "Equatorial forest"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "Monsoon forest"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "Taiga forest"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Mediterranean forest"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "Podsolization is characteristic of cool, humid climates typically associated with coniferous forests (Taiga)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q37",
+    "paperId": "ASGT-F-ENG",
+    "questionNumber": 37,
+    "section": "PART-B",
+    "question": {
+      "type": "latex",
+      "content": "Joint Military exercise ‘Keen Sword 23’ was conducted between :"
+    },
+    "options": [
+      {
+        "label": "a",
+        "type": "latex",
+        "content": "India and Japan"
+      },
+      {
+        "label": "b",
+        "type": "latex",
+        "content": "India and USA"
+      },
+      {
+        "label": "c",
+        "type": "latex",
+        "content": "USA and Japan"
+      },
+      {
+        "label": "d",
+        "type": "latex",
+        "content": "Japan and Taiwan"
+      }
+    ],
+    "answer": {
+      "label": "c",
+      "explanation": "'Keen Sword' is a biennial joint military exercise conducted between the armed forces of Japan and the United States."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q38",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 38,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "The Battle of Rezang La, an epic battle in hostile conditions, was fought by the Indian Army in :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1948"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1956"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1962"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1972"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Battle of Rezang La was fought on November 18, 1962, during the Sino-Indian War."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q39",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 39,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements about ‘Exercise Sea Vigil-22’ :\n1. Its aim is to assess India's preparedness in the domain of Maritime security and coastal defence.\n2. Naval forces of USA and Japan also took part in the exercise.\n\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Sea Vigil is a national-level coastal defence exercise conducted by the Indian Navy; it does not involve naval forces of foreign countries like the USA and Japan."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q40",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 40,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements :\n1. England is the only country that won the ICC T20 World Cup twice.\n2. Virat Kohli is the only player to be adjudged as the Player of the Series in the ICC T20 World Cup twice.\n\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "West Indies also won the ICC T20 World Cup twice (2012 and 2016), so statement 1 is incorrect. Virat Kohli won the Player of the Series title in 2014 and 2016."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q41",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 41,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following is *not* a recipient of Nobel Prize in Chemistry in 2022 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Carolyn R. Bertozzi"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Benjamin List"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Morten Meldal"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "K. Barry Sharpless"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Benjamin List was awarded the Nobel Prize in Chemistry in 2021, whereas Bertozzi, Meldal, and Sharpless shared the prize in 2022."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q42",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 42,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements regarding cell wall composition :\n1. Bacterial cell wall is made of peptidoglycan.\n2. Fungal cell wall is made of cellulose.\n3. Animals lack cell wall and have extracellular matrix made up of sugar and proteins.\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Fungal cell walls are composed mainly of chitin, not cellulose. Statements 1 and 3 are correct."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q43",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 43,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following structures is *not* present in a prokaryotic cell ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Cell wall"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ribosomes"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Nucleus"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Plasma membrane"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Prokaryotes lack a membrane-bound nucleus; their genetic material lies free in the nucleoid region."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q44",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 44,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "In a plant cell, which one of the following contains their own DNA ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Nucleus and Endoplasmic Reticulum"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ribosome and Golgi apparatus"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Mitochondria and Chloroplast"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Chloroplast and Vacuoles"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Mitochondria and chloroplasts are semi-autonomous organelles that contain their own DNA and ribosomes."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q45",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 45,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "One advantage of sexual reproduction over asexual reproduction is that it helps species to survive over long evolutionary time. This is because sexual reproduction produces :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "more offspring in each reproductive cycle."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "robust and healthy offspring."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "genetically similar offspring."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "more variation in offspring."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Sexual reproduction involves genetic recombination, generating variation among offspring, which aids in evolutionary adaptation."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q46",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 46,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following structures or components is *not* always present in living cells ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Cell wall"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Plasma membrane"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Cytoplasm"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Genetic material"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Animal cells lack cell walls, while all living cells possess a plasma membrane, cytoplasm, and genetic material."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q47",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 47,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Browning of the chopped apple can be minimized by :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "using table sugar."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "preserving in a container."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "using lemon juice."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "using milk of magnesia."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Lemon juice contains ascorbic acid (vitamin C) and citric acid, which inhibit polyphenol oxidase, preventing enzymatic browning."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q48",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 48,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which of the hydrocarbons are arranged as per the increasing order of their boiling points ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Methane, Butane, Propane, Heptane"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Propane, Butane, Pentane, Octane"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Propane, Butane, Heptane, Methane"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Octane, Ethane, Methane, Propane"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Boiling points of alkanes increase with molecular mass / number of carbon atoms: Propane (C3) < Butane (C4) < Pentane (C5) < Octane (C8)."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q49",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 49,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following apparatus is used for separating benzene and water mixture ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Round bottom flask"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Conical flask"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Separating funnel"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Dean and Stark apparatus"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Benzene and water form two immiscible liquid layers, which are separated using a separating funnel."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q50",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 50,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "An iron nail dipped in copper sulphate solution turns brown. This is due to which one of the following types of reactions ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Addition reaction"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Decomposition reaction"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Substitution reaction"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Displacement reaction"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Iron is more reactive than copper and displaces copper from $\\text{CuSO}_4$ solution ($Fe + CuSO_4 \\rightarrow FeSO_4 + Cu$), depositing copper metal (brown) on the iron nail."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q51",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 51,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Among the following, which is *not* the correct method for keeping the curd ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Keeping in stainless steel vessel"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Keeping in copper vessel"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Keeping in plastic vessel"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Keeping in glass vessel"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Curd contains lactic acid which reacts with copper to form toxic metallic compounds."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q52",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 52,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Toothpaste prevents tooth decay by :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "neutralizing the excess acidity."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "means of emulsification."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "the action of fluoride."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "making a coat of calcium over the teeth surface."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Toothpaste is basic in nature, neutralizing acid produced by bacteria in the mouth that leads to tooth decay."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q53",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 53,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Freedom fighter Kanaklata Barua was martyred in :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sepoy Mutiny"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Quit India Movement"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Non-Cooperation Movement"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Peasant Uprising of 1893 – 1894"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Kanaklata Barua was shot dead by police during the Quit India Movement in 1942 while leading a procession to hoist the National Flag."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q54",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 54,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following statements about the Mansabdari system is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "All army troopers were allotted mansabs."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Mansabs were usually assigned on the basis of ancestry."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Position and salary of mansabdars were indicated by a numerical designation called zat."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Mansabdars were never paid in cash."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "In the Mansabdari system, 'zat' determined the personal status and salary of the mansabdar."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q55",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 55,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which Governor General of Bengal underwent impeachment proceedings in the British Parliament ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Robert Clive"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Henry Vansittart"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Warren Hastings"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Lord Cornwallis"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Warren Hastings was impeached by Edmund Burke in the British Parliament upon his return to England."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q56",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 56,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following composed the ‘Prayag Prashasti’ of Samudragupta ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Harishena"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Chand Bardai"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Vishakhadatta"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Kalidasa"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Harishena, court poet of Samudragupta, composed the Prayag Prashasti (Allahabad Pillar Inscription)."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q57",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 57,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following kingdoms was founded by the two brothers Harihar and Bukka ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Bahmani"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Vijayanagara"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Malwa"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Maratha"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Harihara I and Bukka Raya I founded the Vijayanagara Empire in 1336 AD."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q58",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 58,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "At which one of the following places did the Danes establish their settlement in India ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Chinsura"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Karaikal"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Mahe"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Tranquebar"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The Danish East India Company established their first settlement at Tranquebar (Tharangambadi) in Tamil Nadu in 1620."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q59",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 59,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "A rectangle ABCD is kept in front of a concave mirror of focal length $f$ with its corners A and B being, respectively, at distances $2f$ and $3f$ from the mirror with AB along the principal axis as shown in the figure. It forms an image A'B'C'D' in front of the mirror. What is the ratio of B'C' to A'D' ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{1}{2}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\frac{2}{3}"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "For corner A at $u_A = 2f$, image distance $v_A = 2f$, so transverse magnification $m_A = -v_A/u_A = -1$, giving $A'D' = h$. For corner B at $u_B = 3f$, $v_B = 1.5f$, so $m_B = -1.5f/3f = -1/2$, giving $B'C' = h/2$. Thus, $B'C'/A'D' = 1/2$."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q60",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 60,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Shown in the figure are two plane mirrors XY and YZ ($XY \\perp YZ$) joined at their edge. Also shown is a light ray falling on one of the mirrors and reflected back parallel to its original path as a result of this arrangement. The two mirrors are now rotated by an angle $\\theta$ to their new position X'YZ', as shown. As a result the new reflected ray is at an angle $\\alpha$ from the original reflected ray. Then :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\alpha = 0"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\alpha = \\theta"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\alpha = 2\\theta"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\alpha = 4\\theta"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "When two mirrors are mutually perpendicular, total deviation $\\delta = 360^\\circ - 2(90^\\circ) = 180^\\circ$, which is independent of the angle of incidence. Rotated together as a system, the angle between them remains $90^\\circ$, so the reflected ray remains antiparallel to the incident ray, hence $\\alpha = 0$."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q61",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 61,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "A railway wagon (open at the top) of mass $M_1$ is moving with speed $v_1$ along a straight track. As a result of rain, after some time it gets partially filled with water so that the mass of the wagon becomes $M_2$ and speed becomes $v_2$. Taking the rain to be falling vertically and water stationary inside the wagon, the relation between the two speeds $v_1$ and $v_2$ is :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "v_1 = v_2"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{1}{2} M_1 v_1^2 < \\frac{1}{2} M_2 v_2^2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "M_1 v_1 = M_2 v_2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "M_1 v_1 < M_2 v_2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Since rain falls vertically, no net external horizontal force acts on the wagon. By conservation of horizontal linear momentum, $M_1 v_1 = M_2 v_2$."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q62",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 62,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is *not* true for a flute, a musical instrument ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Momentum of waves on the blowing jet determines the loudness of the produced note."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Arrival time of the waves on the blowing jet determines the pitch of the produced note."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sound comes from a vibrating column of air inside the flute."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sound comes from a vibrating column of air inside as well as outside the flute."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The sound produced by a flute originates from the standing waves formed within the vibrating air column inside the tube of the flute."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q63",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 63,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "A positive charge is moving towards south in a space where magnetic field is pointing in the north direction. The moving charge will experience :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "a deflecting force towards north direction."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "a deflecting force towards east direction."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "a deflecting force towards west direction."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "no deflecting force."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The magnetic force is given by $\\vec{F} = q(\\vec{v} \\times \\vec{B}) = qvB\\sin\\theta$. Since velocity (South) and magnetic field (North) are opposite to each other, $\\theta = 180^\\circ$, making $F = 0$."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q64",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 64,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is *not* a main greenhouse gas ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Water vapour"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Oxygen"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Carbon dioxide"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Methane"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Oxygen ($O_2$) is transparent to infrared radiation and is not a greenhouse gas."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q65",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 65,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about X-rays is *not* true ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "They have wavelengths of about 1 Å."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "These can be generated by bombarding a metal target by high energy electrons."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Due to their wavelengths being shorter, these can be used for radar systems."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "These are also used for the treatment of certain forms of cancer."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Radar systems use radio waves or microwaves, not X-rays, because X-rays are highly ionizing and pass through objects rather than reflecting effectively for location detection."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q66",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 66,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following is the northernmost geographical location ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "New Delhi"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Kathmandu"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Thimphu"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Dhaka"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Latitude of New Delhi is approx 28.61° N, Kathmandu is 27.71° N, Thimphu is 27.47° N, and Dhaka is 23.81° N. Thus, New Delhi is the northernmost."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q67",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 67,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements :\n1. Distance between the longitudes becomes zero on North Pole and South Pole.\n2. Distance between the longitudes is maximum on the Equator.\n3. Number of longitudes is more than number of latitudes.\n\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Longitudes converge at the poles (distance 0) and diverge maximum at the Equator. Total longitudes are 360, while total parallel lines of latitude are 181 (or 179 excluding poles), so all three statements are correct."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q68",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 68,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following states is the leading producer of Manganese in India ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Madhya Pradesh"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Jharkhand"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Rajasthan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Karnataka"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Madhya Pradesh is the largest producer of manganese ore in India."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q69",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 69,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Mica is mainly used in :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "food and beverage industry."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "iron and steel industry."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "aluminium industry."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "electrical and electronic industries."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Due to its excellent dielectric strength, low power loss factor, insulating properties, and resistance to high voltage, mica is extensively used in electrical and electronics industries."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q70",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 70,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "According to Koppen's climatic classifications, the Great Northern Plains of India have which one of the following climates ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Aw climate"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Cwg climate"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Amw climate"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Dfc climate"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "In Köppen's classification, Cwg represents a monsoon type climate with dry winters, characteristic of the Ganga plains / Northern plains of India."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q71",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 71,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements about Lachit Borphukan is/are correct ?\n1. He was a General of the Ahom Force.\n2. He is known for his leadership in the Battle of Saraighat.\n3. Lachit Borphukan Gold Medal is given to the best cadet at the National Defence Academy.\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2 only"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Lachit Borphukan was a legendary Ahom general who led the Ahom army in the Battle of Saraighat (1671) against the Mughals. The best passing out cadet at NDA is awarded the Lachit Borphukan Gold Medal."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q72",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 72,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The $4^{\\text{th}}$ edition of joint military exercise 'DUSTLIK' between the Indian Army and the Uzbekistan Army was held in :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Ranikhet"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Gangtok"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Pithoragarh"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Leh"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The 4th edition of the joint military exercise DUSTLIK 2023 between the Indian Army and the Uzbekistan Army was held at Pithoragarh, Uttarakhand."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q73",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 73,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following is India's first privately developed rocket launched by ISRO recently ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Skyroot"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Prarambh"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Bazoomq"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Vikram-S"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Vikram-S is India's first privately developed rocket built by Skyroot Aerospace and launched by ISRO."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q74",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 74,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following villages was recently declared as India's first $24 \\times 7$ solar-powered village ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Mawlynnong, Meghalaya"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Modhera, Gujarat"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Ziro village, Arunachal Pradesh"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Malana, Himachal Pradesh"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Modhera in Gujarat was declared as India's first 24x7 solar-powered village."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q75",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 75,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Tableaux of which one of the following States was adjudged the best in the Republic Day Parade, 2023 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Uttarakhand"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Punjab"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Gujarat"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Uttar Pradesh"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The tableau of Uttarakhand, based on the theme 'Manaskhand', won the first prize at the Republic Day Parade 2023."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q76",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 76,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Organisms capable of using $\\text{CO}_2$ as principal carbon source are called :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Autotrophs"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Heterotrophs"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Parasites"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Decomposers"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Autotrophs are organisms capable of fixing inorganic carbon sources such as carbon dioxide ($\\text{CO}_2$) into organic substances."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q77",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 77,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "When yeast cells are $\\text{O}_2$ starved, fermentation serves as the source of energy. This results in the production of :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\text{ATP} + \\text{CO}_2 + \\text{Ethanol}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\text{ATP} + \\text{O}_2 + \\text{Pyruvate}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\text{ATP} + \\text{CO}_2 + \\text{Lactic acid}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\text{ATP} + \\text{O}_2 + \\text{Acetaldehyde}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "During anaerobic fermentation, yeast converts glucose into ethanol, carbon dioxide, and energy in the form of ATP."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q78",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 78,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "During a laboratory experiment, a student immerses epidermal leaf peel in a hypertonic solution. After some time, the student examined the cells under a microscope and observed that :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "the cells swelled."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "the cells were plasmolysed."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "the cells built up turgor pressure."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "the cells size was unaffected."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Placing plant cells in a hypertonic solution causes exosmosis, leading to shrinkage of the protoplasm away from the cell wall (plasmolysis)."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q79",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 79,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is *not* a characteristic feature of fungi ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Cell wall is made of chitin"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Filamentous mycelium is present"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Can carry out photosynthesis"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Asexual spores are produced"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Fungi are heterotrophic organisms; they lack chlorophyll and cannot perform photosynthesis."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q80",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 80,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about bryophytes is *not* correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The plant body is a gametophyte."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "They are also called the amphibians of plant kingdom."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The plant body is attached to the substratum by rhizoids."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Specialized water-conducting tissues are present."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Bryophytes are non-vascular plants and lack true specialized vascular tissues (xylem and phloem) for water conduction."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q81",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 81,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "What is the specific purpose of using potassium hydroxide during the saponification process ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "To obtain soaps which are hard on the skin"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "To obtain soaps which are soft on the skin"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "To obtain natural fragrance"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "To make the saponification very economical"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Potassium hydroxide (KOH) is used to produce soft soaps, which are gentler on the skin compared to sodium soaps."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q82",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 82,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the correct arrangement of metals in the decreasing order of their reactivity ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Iron, Sodium, Silver, Copper"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Silver, Copper, Iron, Sodium"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sodium, Copper, Silver, Iron"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sodium, Iron, Copper, Silver"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The reactivity series in decreasing order among these metals is Sodium (Na) > Iron (Fe) > Copper (Cu) > Silver (Ag)."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q83",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 83,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which among the following statements is *not* correct with respect to allotropes of Carbon ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Graphite is a good conductor of electricity."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Diamond is the hardest substance known."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Fullerene is one of the allotropes of carbon."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Next to diamond, graphite is the second hardest known substance."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Graphite is soft and slippery due to its layered structure; it is not the second hardest substance."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q84",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 84,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which among the following is the popular method for manufacture of ammonia ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Ostwald's process"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Haber-Bosch process"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Electric furnace process"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Electrolysis process"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The Haber-Bosch process combines atmospheric nitrogen with hydrogen to synthesize ammonia on an industrial scale."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q85",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 85,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "For manufacturing of glass, which among the following is used as a source of silica ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Fine clay soil"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Wood powder"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Coconut shell"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sand"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Sand (silicon dioxide, $\\text{SiO}_2$) is the primary raw material used as a source of silica in glass manufacturing."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q86",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 86,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which among the following is the correct arrangement of halogens in the increasing order of their oxidizing nature ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\text{F}, \\text{Cl}, \\text{Br}, \\text{I}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\text{Cl}, \\text{Br}, \\text{F}, \\text{I}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\text{Br}, \\text{I}, \\text{Cl}, \\text{F}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\text{I}, \\text{Br}, \\text{Cl}, \\text{F}$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The oxidizing power of halogens decreases down the group. Therefore, the increasing order of oxidizing nature is $\\text{I} < \\text{Br} < \\text{Cl} < \\text{F}$."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q87",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 87,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Copper sulphate crystals available in the market are blue coloured crystals. By careful heating, they turn to white colour. Which one of the following is responsible for the blue colour ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Oxygen"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Nitrogen"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Water"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Hydrogen"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The blue colour of copper sulphate crystals is due to the presence of water of crystallization ($\\text{CuSO}_4 \\cdot 5\\text{H}_2\\text{O}$). Heating removes this water, turning it into anhydrous white $\\text{CuSO}_4$."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q88",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 88,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Equal volume of all gases, when measured at the same temperature and pressure, contain an equal number of particles. Who proposed the above law ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Charles"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Boyle"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Avogadro"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Lussac"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "This statement is Avogadro's Law, proposed by Amedeo Avogadro in 1811."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q89",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 89,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Airbags work on the principle of a chemical reaction triggered by the impact producing a gaseous product that causes a sudden volume change. Which one among the following chemical conversions is responsible for this ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sodium azide into nitrogen gas"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Solid carbon dioxide into gaseous carbon dioxide"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Carbon dioxide into carbon monoxide"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sudden conversion of gaseous carbon dioxide into carbon monoxide"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Airbags use the decomposition of sodium azide ($\\text{NaN}_3$) into sodium metal and nitrogen gas ($\\text{N}_2$) to rapidly inflate the bag."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q90",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 90,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following districts of Eastern India held a referendum in 1947 to decide whether or not to join Pakistan ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sylhet"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Goalpara"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Cachar"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Jalpaiguri"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Sylhet referendum was held in July 1947 to decide whether Sylhet district in Assam would remain in India or join East Pakistan."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q91",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 91,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about Rabatak inscription is *not* correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "It throws important light on Kushana genealogy."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "It refers to Kanishka as 'a king of kings and a son of God'."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The 23-line inscription is written in Gandhari language."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "It mentions names of States which were part of Kanishka's empire."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Rabatak inscription discovered in Afghanistan is written in the Bactrian language using Greek script, not Gandhari."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q92",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 92,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following was the author of the famous Sanskrit work 'Mrichchhakatika' ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Kalidasa"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Bhasa"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Valmiki"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Shudraka"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The famous Sanskrit play 'Mrichchhakatika' (The Little Clay Cart) was composed by King Shudraka."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q93",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 93,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Yashovarman was ruler of which one of the following kingdoms ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Kannauj"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Mewar"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Marwar"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Kalinga"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Yashovarman was a 8th-century ruler of Kannauj."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q94",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 94,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following rulers established Pataliputra as the capital of the Magadhan Empire ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Bimbisara"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Bindusara"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Ajatashatru"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Ashoka"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Ajatashatru fortified Pataligrama as a strategic military outpost, which led to Pataliputra being established as the capital of Magadha by his successor Udayin."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q95",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 95,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following astronomers proved that the Earth and other planets revolve around the Sun ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Copernicus"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Kepler"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Galileo"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Newton"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Nicolaus Copernicus proposed the heliocentric model, showing that Earth and other planets revolve around the Sun."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q96",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 96,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Sand falls vertically on a conveyor belt at a rate of $0\\cdot1\\text{ kg/s}$. In order to keep the belt moving at a uniform speed of $2\\text{ m/s}$, the force required to be applied on the belt is :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$0\\text{ N}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$0\\cdot2\\text{ N}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$1\\cdot0\\text{ N}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$2\\cdot0\\text{ N}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Force required $F = v \\frac{dm}{dt} = 2\\text{ m/s} \\times 0.1\\text{ kg/s} = 0.2\\text{ N}$."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q97",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 97,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The power required to lift a mass of $8\\cdot0\\text{ kg}$ up a vertical distance of $4\\text{ m}$ in $2\\text{ s}$ is (taking acceleration due to gravity as $10\\text{ m/s}^2$) :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$80\\text{ W}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$160\\text{ W}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$320\\text{ W}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$640\\text{ W}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Power $P = \\frac{W}{t} = \\frac{mgh}{t} = \\frac{8.0 \\times 10 \\times 4}{2} = 160\\text{ W}$."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q98",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 98,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "One block of $2\\cdot0\\text{ kg}$ mass is placed on top of another block of $3\\cdot0\\text{ kg}$ mass. The coefficient of static friction between the two blocks is $0\\cdot2$. The bottom block is pulled with a horizontal force $F$ such that both the blocks move together without slipping. Taking acceleration due to gravity as $10\\text{ m/s}^2$, the maximum value of the frictional force is :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$50\\text{ N}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$30\\text{ N}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$4\\text{ N}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$10\\text{ N}$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Maximum static friction force between the two blocks $f_{\\text{max}} = \\mu m_1 g = 0.2 \\times 2.0 \\times 10 = 4\\text{ N}$."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q99",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 99,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "A mass is attached to a spring that hangs vertically. The extension produced in the spring is $6\\text{ cm}$ on Earth. The acceleration due to gravity on the surface of the Moon is one-sixth of its value on the surface of the Earth. The extension of the spring on the Moon would be :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$6\\text{ cm}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$1\\text{ cm}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$0\\text{ cm}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$36\\text{ cm}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Extension $x = \\frac{mg}{k} \\propto g$. Since gravity on the Moon is $\\frac{1}{6}$ of Earth's, extension is $6\\text{ cm} \\times \\frac{1}{6} = 1\\text{ cm}$."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q100",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 100,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is an example of Second Class Lever ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A pair of scissors"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A bottle opener"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "A cricket bat"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "A bow and arrow"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "In a bottle opener, the load is situated between the fulcrum and the effort, making it a second-class lever."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q101",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 101,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "In an electric circuit, a wire of resistance $10\\text{ }\\Omega$ is used. If this wire is stretched to a length double of its original value, the current in the circuit would become :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "half of its original value."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "double of its original value."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "one-fourth of its original value."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "four times of its original value."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Stretching a wire to double its length halves its cross-sectional area, making its resistance 4 times ($R' = 4R$). Therefore, the current becomes one-fourth of its original value."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q102",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 102,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "What is the total resistance in the following circuit element ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$R/2$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$3R$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$3R/2$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$2R/3$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The circuit contains two resistors $R$ in parallel, yielding $R_p = R/2$. This combination is in series with another resistor $R$, making total resistance $R_{total} = R/2 + R = 3R/2$."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q103",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 103,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following scheme(s) is/are included under *Bharatmala Pariyojana* ?\n1. Develop the road connectivity to border areas\n2. Development of coastal roads\n3. Improvement in the efficiency of National Corridors\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Bharatmala Pariyojana includes border road development, coastal roads development, national corridor efficiency improvements, economic corridors, and feeder routes."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q104",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 104,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Deendayal Port was earlier known as :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Paradip Port"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Tuticorin Port"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Kandla Port"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Visakhapatnam Port"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Kandla Port in Gujarat was renamed Deendayal Port in 2017."
+    }
+  },
+  {
+    "questionId": "GAT(1)2023-Q105",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 105,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The Counter Insurgency and Jungle Warfare School of Indian Army is situated at :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Dehradun"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Vairengte"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Gulmarg"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Mhow"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The Counter Insurgency and Jungle Warfare School (CIJWS) of the Indian Army is located in Vairengte, Mizoram."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q106",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 106,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "In the soil-forming regime, which one of the following occurs in a region where evapotranspiration exceeds precipitation significantly ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Calcification"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Laterization"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Podsolization"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Gleization"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Calcification occurs in dry climates where evapotranspiration significantly exceeds precipitation, leading to the accumulation of calcium carbonate in the soil profile."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q107",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 107,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is found in the innermost part of the Earth ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Conrad discontinuity"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Moho discontinuity"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Guttenberg discontinuity"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Lehmann discontinuity"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Lehmann discontinuity separates the outer core and the inner core, making it the innermost seismic discontinuity among the options."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q108",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 108,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following tree species is/are found on Himalayas ?\n1. Oak\n2. Rhododendron\n3. Rosewood\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1 and 2"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Oak and Rhododendron are prominent temperate trees found in the Himalayan region, while Rosewood is a tropical hardwood species."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q109",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 109,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the lowermost/innermost intrusive igneous rock ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Laccolith"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Batholith"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Lopolith"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Phacolith"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Batholiths are large bodies of intrusive igneous rock formed deep within the Earth's crust."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q110",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 110,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "If it is 12 noon in New Delhi, what will be the time in London, UK ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "6:30 A.M."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "6:30 P.M."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "5:30 A.M."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "5:30 P.M."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Indian Standard Time (IST) is 5 hours and 30 minutes ahead of Greenwich Mean Time (GMT/London). Subtracting 5 hours and 30 minutes from 12 noon gives 6:30 A.M."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q111",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 111,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following positions of Sun, Earth and Moon is/are suitable for Spring Tide ?\n1. SYZYGY Conjunction\n2. SYZYGY Opposition\n3. Quadrature\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1 and 3"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Spring tides occur during the Syzygy alignment when the Sun, Earth, and Moon are in a straight line, which happens at conjunction (New Moon) and opposition (Full Moon)."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q112",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 112,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which Renaissance artist painted 'The Last Supper' ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Michelangelo"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Donatello"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Botticelli"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Leonardo da Vinci"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'The Last Supper' is a famous late 15th-century mural painting by Leonardo da Vinci."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q113",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 113,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following European explorer conquered Mexico ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Vasco da Gama"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Bartholomew Diaz"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Magellan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Hernán Cortés"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Hernán Cortés led an expedition that caused the fall of the Aztec Empire and conquered Mexico for Spain."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q114",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 114,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Near which one of the following cities in India have large statues of Kushana rulers been discovered ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Karnal"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ropar"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Hisar"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Mathura"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Large statues of Kushana rulers were discovered at Mat near Mathura, Uttar Pradesh."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q115",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 115,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The Treaty of Yandabo was concluded as part of which one of the following wars ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "First Anglo-Burmese War"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Second Anglo-Burmese War"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Anglo-Kuki War"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Anglo-Maratha War"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Treaty of Yandabo was signed in 1826 at the end of the First Anglo-Burmese War."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q116",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 116,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Plan allocation in agriculture and irrigation as percentage of total plan outlay was highest in :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Seventh Five-Year Plan"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Third Five-Year Plan"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "First Five-Year Plan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Second Five-Year Plan"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The First Five-Year Plan (1951–1956) allocated the highest percentage (about 31%) of total plan outlay to agriculture and irrigation."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q117",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 117,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The UN COP-27 Summit relates to :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Russia-Ukraine war"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Terrorism and counter-terrorism"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Climate change"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Interpol"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "COP-27 (2022 United Nations Climate Change Conference) held in Sharm El Sheikh, Egypt, relates to climate change."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q118",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 118,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following tribes from India's North-East had the earliest known association with cultivation and production of tea ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Khasis"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Garos"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Singphos"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Jayantias"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Singpho tribe of Assam/Arunachal Pradesh were the first in India to brew tea leaves long before British commercial tea plantation began."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q119",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 119,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "By which one of the following amendments, was Article 51A, relating to the Fundamental Duties, inserted into the Constitution of India ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The Constitution ($42^{\\text{nd}}$ Amendment) Act"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The Constitution ($44^{\\text{th}}$ Amendment) Act"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The Constitution ($85^{\\text{th}}$ Amendment) Act"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The Constitution ($92^{\\text{nd}}$ Amendment) Act"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Fundamental Duties under Article 51A were incorporated into the Constitution of India by the 42nd Amendment Act, 1976."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(1)2023-Q120",
+    "paperId": "GAT(1)2023",
+    "questionNumber": 120,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is true ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The force of gravity of the Earth on the Moon is greater than the force of gravity of the Moon on the Earth."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The force of gravity of the Moon on the Earth is greater than the force of gravity of the Earth on the Moon."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The force of gravity of the Earth on the Moon and of the Moon on the Earth are equal in magnitude and are in the same direction."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The force of gravity of the Earth on the Moon and of the Moon on the Earth are equal in magnitude but are in opposite directions."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "According to Newton's Third Law of Motion, gravitational forces form an action-reaction pair: equal in magnitude and opposite in direction."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  }
+]
+  
