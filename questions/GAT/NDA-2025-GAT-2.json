@@ -1,1 +1,5490 @@
-
+[
+  {
+    "questionId": "GAT(2)2025-Q1",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 1,
+    "section": "PART - A",
+    "question": {
+      "type": "latex",
+      "content": "Why do twentieth century advances not seem sustainable ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "They do not meet the human needs"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Due to the increased cost of agricultural production"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Because they are outdated for the current times"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "They are useful, but intensive"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "According to the passage, 'Since twentieth century advances, given increasing costs, do not seem sustainable...'"
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q2",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 2,
+    "section": "PART - A",
+    "question": {
+      "type": "latex",
+      "content": "What pushes farmers into places unsuited for agriculture ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Population growth"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Industrialisation"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Water scarcity"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Desertification"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The passage states that 'Global population growth... has pushed farmers and herders into areas unsuited to intensive agriculture'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q3",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 3,
+    "section": "PART - A",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is NOT true, according to the passage, for ecological degradation ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Global population growth"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Excess use of chemicals"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Desertification"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "World War II"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "World War II is mentioned as a time landmark ('since World War II'), whereas the other factors are cited as causes or aspects of ecological degradation."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q4",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 4,
+    "section": "PART - A",
+    "question": {
+      "type": "latex",
+      "content": "What is the conclusion of the author in the passage about the prospects of agriculture in the world ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The author is both hopeful and sceptical of the prospects of agriculture"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The author is very hopeful of the prospects of agriculture"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The author is sceptical of the prospects of agriculture"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The author is neither hopeful nor sceptical of the prospects of agriculture"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The author mentions remaining hopeful about humankind's agricultural prospects while simultaneously stating we can scarcely look forward optimistically, showing a stance that is both hopeful and sceptical."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q5",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 5,
+    "section": "PART - A",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following words means 'incursion' ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "invasion"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "intensive"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "severe"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "intervention"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Incursion' means an invasion or a sudden attack or entry into a place."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q6",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 6,
+    "section": "PART - A",
+    "question": {
+      "type": "latex",
+      "content": "Convert from direct into indirect speech.\nAyushi said to the group, “We have had enough of suffering today. It is time to march forward.”"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Ayushi told the group that they had had enough of suffering that day and it was time to march forward"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ayushi asked the group that they had had enough of suffering this day and it was time to march forward"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Ayushi told the group that they had enough of suffering and that it is time to march forward"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Ayushi told the group that we had had enough of suffering this day and it was time to march forward"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "In indirect speech, 'said to' changes to 'told', 'We' changes to 'they', 'have had' changes to 'had had', 'today' changes to 'that day', and 'is' changes to 'was'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q7",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 7,
+    "section": "PART - A",
+    "question": {
+      "type": "latex",
+      "content": "Convert from direct into indirect speech.\n“Alas! We lost the match by one point,” said the Captain"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The Captain regretted that they had lost the match by one point"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The Captain regretted that they lost the match by one point"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The Captain exclaimed that they had lost the match by one point"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The Captain told the team that they had lost the match by one point"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Alas!' expresses regret/sorrow. The simple past tense 'lost' changes to past perfect 'had lost' in indirect speech."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q8",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 8,
+    "section": "PART - A",
+    "question": {
+      "type": "latex",
+      "content": "Convert from direct into indirect speech.\n“Where were you last week ?” Alok asked Sheela"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Alok told Sheela where she had been the week before"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Alok asked Sheela where she had been the week before"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Alok asked Sheela where she was the week before"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Alok asked Sheela where she had been the last week"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "In reporting interrogative sentences starting with 'Where', simple past 'were' changes to past perfect 'had been', and 'last week' changes to 'the week before'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q9",
+    "paperId": "GAT2025",
+    "questionNumber": 9,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Directions : Following items have sentences in active voice with four options. One of the options converts the active voice into passive voice correctly. Select the most appropriate option and mark your answer on the Answer Sheet. The king who the people loved built the castle five centuries ago"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The castle was built five centuries ago by the king who was loved by the people"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The castle was built five centuries ago by the king who loved the people"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The castle built five centuries ago by the king loved by the people"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The castle was built five centuries ago by the people who were loved by the king"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The main verb 'built' changes to passive 'was built', and the relative clause 'who the people loved' (active) changes to 'who was loved by the people' (passive)."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q10",
+    "paperId": "GAT2025",
+    "questionNumber": 10,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "The company has recruited four hundred engineers who will have to complete an internship for three weeks"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Four hundred engineers have been recruited by the company and an internship of three weeks will have to be completed by them"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Four hundred engineers have been recruited by the company and they will have to complete an internship of three weeks"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The company has been recruited by four hundred engineers and an internship of three week will have to be completed by them"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Four hundred engineers have been recruited by the company. Internship of three weeks will have had to be completed by them"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Both active verbs 'has recruited' -> 'have been recruited' and 'will have to complete' -> 'will have to be completed' are properly converted into the passive voice."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q11",
+    "paperId": "GAT2025",
+    "questionNumber": 11,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Directions : In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response on the Answer Sheet accordingly. Seldom and Often"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Seldom means hardly ever and often means time and again"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Seldom means time and again and often means hardly ever"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Seldom means never and often means not at all"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Seldom means frequently and often means time and again"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Seldom' means rarely or hardly ever, while 'often' means frequently or time and again."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q12",
+    "paperId": "GAT2025",
+    "questionNumber": 12,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Overview and Review"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Overview means assessment and review means general idea"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Overview means general idea and review means assessment"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Overview means general analysis and review means go through"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Overview means summary and review means evaluation"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "An 'overview' provides a general idea or summary of something, whereas a 'review' involves a formal assessment or examination."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q13",
+    "paperId": "GAT2025",
+    "questionNumber": 13,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Overcome and Succeed"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Overcome means triumph over and succeed means to achieve something"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Overcome means achieve something and succeed means to triumph over"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Overcome means to be successful and succeed means to achieve something"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Overcome means winning and succeed means to rise above"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Overcome' means to succeed in dealing with a problem or to triumph over it, while 'succeed' means to achieve something."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q14",
+    "paperId": "GAT2025",
+    "questionNumber": 14,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Embed and Imbue"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Embed means instil and imbue means implant"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Embed means implant and imbue means instil"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Embed means accept and imbue means detest"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Embed means include and imbue means accept"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Embed' means to fix firmly and deeply in a surrounding mass (implant), and 'imbue' means to inspire or permeate with a feeling or quality (instil)."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q15",
+    "paperId": "GAT2025",
+    "questionNumber": 15,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Emancipate and Empower"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Emancipate means authorize and empower means liberate"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Emancipate means liberate and empower means authorise"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Emancipate means liberal and empower means authorisation"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Emancipate means freedom and empower means encounter"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Emancipate' means to set free from restrictions (liberate), and 'empower' means to give authority or power (authorise)."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q16",
+    "paperId": "GAT2025",
+    "questionNumber": 16,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Directions : In the following items a sentence or a phrase is given with a word that is underlined, followed by four words or group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly. The Professor has been able to \\underline{instil} confidence in her students"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "inculcate"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "infer"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "eradicate"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "unlike"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Instil' means to gradually firm or establish an idea or attitude in a person's mind, which is closest in meaning to 'inculcate'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q17",
+    "paperId": "GAT2025",
+    "questionNumber": 17,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "The members of the group expressed their \\underline{allegiance} to their leader"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "commitment"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "disloyalty"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "understanding"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "unlikely"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Allegiance' refers to loyalty or commitment to a superior, group, or cause."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q18",
+    "paperId": "GAT2025",
+    "questionNumber": 18,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "The \\underline{inscrutability} surrounding the incident remains unresolved until the end of the movie"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "clearness"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "comprehensibility"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "seriousness"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "mystery"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Inscrutability' means the quality of being difficult to understand or interpret, which means 'mystery'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q19",
+    "paperId": "GAT2025",
+    "questionNumber": 19,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "The \\underline{dodgy} behaviour of the leader led to her fall"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "principled"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "dubious"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "dishonest"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "painful"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Dodgy' means questionable, dubious, or suspicious."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q20",
+    "paperId": "GAT2025",
+    "questionNumber": 20,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "People have been advised not to venture into sea as the weather is likely to be \\underline{inclement}"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "squally"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "calm"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "pleasant"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "indigent"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Inclement' weather means unpleasantly cold, wet, or stormy weather, which is synonymous with 'squally'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q21",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 21,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Directions : In this section each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.\n\nS1. Sufism is an English word coined in the Nineteenth Century\nS6. It may also have been $suffa$, the platform outside a place of Islamic worship\nP. Historians have understood this term in several ways\nQ. According to some scholars, it is derived from $suf$, meaning wool\nR. Others derive it from $safa$, meaning purity\nS. The word used for Sufism in Islamic texts is $tasawwuf$"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Q R S P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "S P Q R"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "P Q S R"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "R P S Q"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Sentence S introduces the Islamic term $tasawwuf$. P states that historians understand this term in several ways. Q and R follow with specific derivations ($suf$, $safa$), leading to S6 ($suffa$). Thus, the logical order is S P Q R."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q22",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 22,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "S1. Al-Biruni was born in 973, in Khwarizm in present-day Uzbekistan\nS6. He arrived in Ghazni as a hostage, but gradually developed a liking for the city\nP. In 1017, when Sultan Mahmud invaded Khwarizm, he took several scholars back to his capital, Ghazni : Al-Biruni was one among them\nQ. He was well versed in several languages; Syriac, Arabic, Persian, Hebrew, and Sanskrit\nR. Khwarizm was an important centre of learning, and Al-Biruni received the best education available at the time\nS. However he did not know Greek, although he was familiar with the works of Plato and other Greek philosophers"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Q S R P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "R Q S P"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "P Q S R"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "R P S Q"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "S1 establishes Al-Biruni's birthplace. R elaborates on Khwarizm as a center of learning. Q and S discuss his language skills and knowledge of Greek philosophy. P explains the move to Ghazni, which directly connects to S6. Thus, the sequence is R Q S P."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q23",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 23,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "S1. Vijayanagara or 'city of victory' was the name of both a city and an empire\nS6. They remembered it as Hampi, a name derived from that of the local mother goddess, Pampadevi\nP. In its heyday it stretched from the river Krishna in the north to the extreme south of the Indian peninsula\nQ. Although it fell into ruin in the seventeenth-eighteenth centuries, it continued to live in the memories of the people who inhabited the Krishna-Tungabhadra doab\nR. In 1565 the city was sacked and subsequently deserted\nS. The Empire was founded in the fourteenth century"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "S P R Q"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "S Q P R"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "P Q S R"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "P Q R S"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "S1 defines the empire/city. S gives its founding period. P describes its peak extent. R details its fall in 1565. Q mentions it remaining in memory, leading smoothly into S6. Thus, the correct sequence is S P R Q."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q24",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 24,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "S1. Liberalisation and globalisation freed India's economy from the low GDP trap that had impeded India's progress\nS6. Today India has transformed into one of the largest economies of the world\nP. India's 3 pc rate of growth and a set of emergent circumstances led to a balance of payment crisis in the early 1990s\nQ. Ease of business was ensured, and the requirement for import licences, and production quotas, were removed\nR. Apart from these measures India also took a loan from the IMF to tide over the crisis, but after 1993, India has not taken another loan from the IMF\nS. In a landmark budget in 1991, responding to the emergent crisis, India delicenced many industries and liberalised its economic policies"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Q S R P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "S Q P R"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "R Q S P"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "P S Q R"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "P describes the background crisis of the early 1990s. S follows with the 1991 budget response. Q details specific economic measures. R adds that India took an IMF loan as part of these measures. S6 concludes with India's transformation today. Thus, the order is P S Q R."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q25",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 25,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "S1. In many countries, there are millions of people who are underprivileged and deprived\nS6. In the past forced labour was imposed by landlords, money-lenders, and other wealthy persons\nP. Both of these are prohibited under the Constitution of India\nQ. One such form of exploitation in our country has been $begar$ or forced labour without payment\nR. The marginalised are often subjected to exploitation by their fellow human beings\nS. Another closely related form of exploitation is buying and selling of human beings and using them as slaves"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Q S R P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "R Q S P"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "P Q S R"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Q S P R"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "R connects general deprivation (S1) to exploitation by fellow human beings. Q introduces one form of exploitation ($begar$). S introduces another related form. P refers back to \"Both of these\" forms of exploitation being prohibited. Thus, R Q S P is the proper sequence."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q26",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 26,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Directions : Given below are sentences that use discourse markers/expressions to make them complete. Identify the most appropriate discourse marker and mark your response accordingly on the Answer Sheet.\n\nI can't be bothered to tell him what I think; _________ he would not listen to me."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "meanwhile"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "in any case"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "in the meantime"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "somehow"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "\"In any case\" is used to introduce a reason that makes the previous statement true regardless of circumstances."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q27",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 27,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "_________, if the referee points his fingers, this indicates that someone has done something wrong."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "On the contrary"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Whatever more"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Briefly"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "As regards"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "\"Briefly\" is used as a discourse marker to introduce a concise summary statement."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q28",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 28,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "___________, have you been to the local library yet ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sort of"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Frankly"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "All the same"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Incidentally"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Incidentally' is used to introduce a new topic or question into a conversation."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q29",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 29,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "___________, women are healthier and are living longer than ever before : indeed on an average, they can expect to live five years longer than men."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "To a large extent"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "As regards"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "As far as"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Turning now"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'To a large extent' means to a great degree or mostly, which fits the broad general statement."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q30",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 30,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "The difference is that I have been fortunate to find a career that I love and, ___________, I am getting paid reasonably for it."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "briefly"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "broadly speaking"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "what is more"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "in conclusion"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'What is more' means in addition or furthermore, connecting two positive statements."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q31",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 31,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "___________, the Government of India has followed the policy of trying to improve relations with its neighbours."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Particular"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Knowingly"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Otherwise"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "In general"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'In general' is an adverbial phrase used to describe an overall policy or broad trend."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q32",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 32,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "___________, this issue is likely to be discussed when the Council meets next."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "As per reports"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Accordingly"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Likewise"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Briefly"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'As per reports' introduces news or reported information about upcoming events."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q33",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 33,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "___________, you needed to consult a physician to have a clear idea of what the disease is about."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "In that case"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "In these case"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Likewise"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Henceforth"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'In that case' is used to refer to a given condition or scenario."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q34",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 34,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "___________, in the year-ago period the current account deficit stood at $1.3$ billion or $0.2\\%$ of the GDP."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Particularly"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Notably"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Seriously"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Unknowingly"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Notably' is used to introduce a noteworthy or significant fact/statistic."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q35",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 35,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "___________, the records have been completely undermined by shoddy book-keeping."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Because of"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "As such"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Forever"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Hence"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'As such' means in that capacity or as a result of the specified situation."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q36",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 36,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Infelicity :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Disloyalty towards one's nation"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "An inappropriate remark"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "To kill or destroy"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "To touch or push gently"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Infelicity refers to an inappropriate or unsuitable remark, action, or expression."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q37",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 37,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Corollary :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Something that is too expensive"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Something that looks real but does not really exist"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Something that naturally follows"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Something resembling a coal mine"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "A corollary is a proposition that follows from one already proved, or a direct and natural consequence."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q38",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 38,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Quandary :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Situation in which you are confused about what to do"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Situation in which two people or group argue"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Situation in which no progress can be made"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Situation in which a relationship becomes friendlier"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "A quandary is a state of perplexity or uncertainty over what to do in a difficult situation."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q39",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 39,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Presumption :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Prediction based on past experiences"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Judgement made with certainty"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Decision based on facts"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Opinion formed before having all the facts"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Presumption means an idea that is taken to be true on the basis of probability before full facts are known."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q40",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 40,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "Smug :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Too confident about one's own achievements"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Too eager to help or obey someone important"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Too emotional or dramatic"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Too eager to bottle up conflicts"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Smug means having or showing an excessive pride in oneself or one's achievements."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q41",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 41,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "of children they also contain deeply embedded (P) / whereas traditional fairy tales (Q) / moral lessons that are relevant even for adults (R) / were designed for the entertainment (S)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "R P Q S"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Q S R P"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "R P S Q"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Q S P R"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The logically coherent sentence order is Q-S-P-R: 'whereas traditional fairy tales (Q) were designed for the entertainment (S) of children they also contain deeply embedded (P) moral lessons that are relevant even for adults (R)'."
+    },
+    "marks": 1.0,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q42",
+    "paperId": "TODC-T-GAT-A",
+    "questionNumber": 42,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "P: of school education is an ineluctable truth\\nQ: that sporting activities are an integral part\\nR: meaningfully towards the overall growth of a student\\nS: that underscores the learning process and contributes"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Q P S R"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Q S R P"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "R P S Q"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Q S P R"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The correct sequence is Q P S R: 'that sporting activities are an integral part of school education is an ineluctable truth that underscores the learning process and contributes meaningfully towards the overall growth of a student'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q43",
+    "paperId": "TODC-T-GAT-A",
+    "questionNumber": 43,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "P: and contentment on account of a life lived\\nQ: the beneficial outcome of\\nR: well without retribution or rebuke\\nS: a virtuous life is peace of mind"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "S R Q P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "S P Q R"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Q S P R"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Q S R P"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The correct sequence is Q S P R: 'the beneficial outcome of a virtuous life is peace of mind and contentment on account of a life lived well without retribution or rebuke'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q44",
+    "paperId": "TODC-T-GAT-A",
+    "questionNumber": 44,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "P: more representative than the latter\\nQ: from a non-parliamentary system\\nR: in as much as the former is\\nS: it is widely believed that the parliamentary system differs"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "S Q R P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "S P Q R"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "R S P Q"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "P S R Q"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The correct sequence is S Q R P: 'it is widely believed that the parliamentary system differs from a non-parliamentary system in as much as the former is more representative than the latter'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q45",
+    "paperId": "TODC-T-GAT-A",
+    "questionNumber": 45,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "P: crushes the spirit behind the service\\nQ: it stunts the person offering the same and\\nR: exhibition or for fear of public opinion\\nS: when service is done for"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "S Q R P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "S P Q R"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "R S P Q"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "S R Q P"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The correct sequence is S R Q P: 'when service is done for exhibition or for fear of public opinion it stunts the person offering the same and crushes the spirit behind the service'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q46",
+    "paperId": "TODC-T-GAT-A",
+    "questionNumber": 46,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "It does not look like he is going ________ in his studies than what was predicted by his school principal."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "any further"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "further"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "farther"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "any farther"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Any further' is used in negative constructions to express any additional degree or extent, fitting for academic progress."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q47",
+    "paperId": "TODC-T-GAT-A",
+    "questionNumber": 47,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "________ all the confusion the thief made a quiet getaway."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Among"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Amongst"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Amidst"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Amid"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Amidst' is appropriate when referring to being in the middle of a condition or continuous state like 'all the confusion'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q48",
+    "paperId": "TODC-T-GAT-A",
+    "questionNumber": 48,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "The intricate operation on the patient required the expertise of a/an ________ surgeon."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "special"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "especial"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "specialist"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "specialised"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Specialist surgeon' correctly specifies a doctor who concentrates on a specific branch of medicine."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q49",
+    "paperId": "TODC-T-GAT-A",
+    "questionNumber": 49,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "There are ________ thirty students inside the classroom at any time."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "less than"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "fewer than"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "less then"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "fewer then"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Fewer than' is used with countable plural nouns such as 'students'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q50",
+    "paperId": "TODC-T-GAT-A",
+    "questionNumber": 50,
+    "section": "English",
+    "question": {
+      "type": "latex",
+      "content": "There are many ________ vehicles on the highway due to a sudden landslide."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "stationery"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "stationed"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "stranded"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "straggle"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Stranded' describes vehicles that are stuck and unable to leave due to an obstacle like a landslide."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q51",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 51,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The focal length of a concave lens is $0.5\\text{ m}$. The power of the lens is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$+0.5\\text{ D}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$-0.5\\text{ D}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$+2.0\\text{ D}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$-2.0\\text{ D}$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "For a concave lens, the focal length is negative, so $f = -0.5\\text{ m}$. The power of the lens is $P = \\frac{1}{f} = \\frac{1}{-0.5\\text{ m}} = -2.0\\text{ D}$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q52",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 52,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The rule to determine the direction of a force experienced by a straight current carrying conductor placed in a magnetic field which is perpendicular to it is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Right-hand thumb rule"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Fleming's left-hand rule"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Fleming's right-hand rule"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Hund's rule"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Fleming's left-hand rule gives the direction of magnetic force acting on a current-carrying conductor in a magnetic field."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q53",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 53,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "One parsec in astronomical units (A.U.) is about"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$2 \\times 10^3\\text{ A.U.}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$2 \\times 10^4\\text{ A.U.}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$2 \\times 10^5\\text{ A.U.}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$2 \\times 10^6\\text{ A.U.}$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "$1\\text{ parsec} \\approx 3.086 \\times 10^{16}\\text{ m}$ and $1\\text{ A.U.} \\approx 1.496 \\times 10^{11}\\text{ m}$. Therefore, $1\\text{ parsec} \\approx \\frac{3.086 \\times 10^{16}}{1.496 \\times 10^{11}} \\approx 2.06 \\times 10^5\\text{ A.U.} \\approx 2 \\times 10^5\\text{ A.U.}$"
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q54",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 54,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements for second law of motion is NOT correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The net force on a body is proportional to that body's acceleration"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The net force on a body is in the same direction as the acceleration"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The time rate of change of momentum is equal to force"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The net force on a body is proportional to that body's momentum"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Net force is proportional to the rate of change of momentum, not momentum itself."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q55",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 55,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The temperature of a body increases from $310\\text{ K}$ to $340\\text{ K}$. The temperature increase in degree Celsius is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$20^\\circ\\text{C}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$30^\\circ\\text{C}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$37^\\circ\\text{C}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$67^\\circ\\text{C}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The change in temperature on the Kelvin scale is equal to the change in temperature on the Celsius scale: $\\Delta T = 340 - 310 = 30\\text{ K} = 30^\\circ\\text{C}$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q56",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 56,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements for the work done by gravity on a body is NOT correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Work done is independent of the path followed by the body"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Work done depends only on the vertical distance separating the initial and the final position of the body"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Work done depends on the path followed by the body"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Work done is zero if the body is displaced horizontally to the force of gravity"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Gravity is a conservative force, which means work done by gravity is independent of the path followed."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q57",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 57,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following statements is correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Pressure has magnitude as well as direction"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "As we go deeper in a liquid, the pressure decreases"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Action and reaction forces act on the same object"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Pascal and $\\text{N/m}^2$ represent the same unit"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "$1\\text{ Pascal (Pa)} = 1\\text{ N/m}^2$. Therefore, both represent the same unit of pressure."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q58",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 58,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following wave-length radiations may correspond to an X-ray?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$1\\text{ nm}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$10\\text{ nm}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$100\\text{ nm}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$300\\text{ nm}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "X-rays typically have wavelengths ranging from about $0.01\\text{ nm}$ to $10\\text{ nm}$. Thus, $1\\text{ nm}$ corresponds to X-rays."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q59",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 59,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "In a Telescope, compared to the eyepiece lens the objective lens has"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "larger focal length and larger aperture"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "larger focal length and smaller aperture"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "smaller focal length and larger aperture"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "smaller focal length and smaller aperture"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "In an astronomical telescope, the objective lens has a larger focal length to increase magnification and a larger aperture to collect more light from distant objects."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q60",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 60,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The energy, $E$, of a photon can be expressed as $E = h f$ where $f$ is the frequency and $h$ is Planck's constant. The dimensions of $h$ are the same as that of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "linear momentum"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "angular momentum"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "displacement"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "torque"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Dimensions of Planck's constant $h$ are $[\\text{M}^1 \\text{L}^2 \\text{T}^{-1}]$, which are identical to the dimensions of angular momentum."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q61",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 61,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The work done by the force acting on an object is zero if the displacement of the object"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "is in the opposite direction of the direction of force"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "is in the same direction of the direction of force"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "is in perpendicular direction of the direction of force"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "none of above"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Work done is given by $W = F s \\cos\\theta$. When force and displacement are perpendicular ($\\theta = 90^\\circ$), $\\cos 90^\\circ = 0$, so $W = 0$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q62",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 62,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The magnetic field inside a current carrying very long solenoid is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Uniform"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Non-uniform"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Zero"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Highest at mid-point"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Inside a very long current-carrying solenoid, the magnetic field lines are straight, parallel, and uniformly spaced, indicating a uniform magnetic field."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q63",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 63,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following instruments can be used to measure $-250^\text{C}$ temperature ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "By using a mercury based thermometer"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "By using an alcohol based thermometer"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "By using a clinical thermometer"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "By using thermocouple based thermometer"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Mercury freezes at $-39^\text{C}$ and alcohol freezes around $-114^\text{C}$. To measure extremely low temperatures like $-250^\text{C}$, thermocouple-based thermometers are used."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q64",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 64,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The quantity of heat needed to change unit mass of a substance from liquid to vapour without changing the temperature, is called"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "specific heat"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "specific latent heat"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "thermal capacity"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "heat energy"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The amount of heat required to convert a unit mass of a liquid into vapour without a change in temperature is known as specific latent heat of vaporization."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q65",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 65,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The temperature at which \"vapour pressure of the liquid in an open vessel becomes equal to the atmospheric pressure\" is called"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Melting point"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Boiling point"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Liquid point"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "None of the above"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The boiling point of a liquid is the temperature at which its vapour pressure equals the external atmospheric pressure."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q66",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 66,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about surface tension is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "It increases when temperature increases"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "It decreases when temperature increases"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "It will remain same with increase or decrease of temperature"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "It will always decrease with increase or decrease of temperature"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Surface tension of a liquid decreases with an increase in temperature due to the weakening of cohesive forces between molecules."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q67",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 67,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A body sinks in water when"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "density of water is greater than density of body"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "density of water is less than density of body"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "density of water is equal to density of body"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "the body is heavy"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "A body sinks in water if its density is greater than the density of water (i.e., density of water is less than density of body), causing the weight of the body to exceed the buoyant force."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q68",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 68,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Why a fielder in the ground gradually pulls his hands backward while catching a fast moving cricket ball ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "To reduce the acceleration of the ball"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "To increase the acceleration of the ball"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "To increase the velocity of the ball"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "None of above"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "By pulling hands backward, the fielder increases the time taken to bring the ball to rest, thereby decreasing the rate of change of momentum (retardation/acceleration), which reduces the force exerted on his hands."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q69",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 69,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Bottom of a tank containing water appears to be raised. It is due to"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Reflection of light"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Refraction of light"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Interference of light"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Diffraction of light"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Refraction occurs when light travels from a denser medium (water) to a rarer medium (air), causing rays to bend away from the normal, making the bottom appear raised."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q70",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 70,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "SONAR stands for"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sonographic Natural Ranging"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Simple Operational Navigation Ranging"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sound Navigation and Ranging"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Simple Operational Natural Ranging"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "SONAR is an acronym for Sound Navigation and Ranging."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q71",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 71,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following radiations has longer wavelength ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "X-rays"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ultraviolet"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Micro Wave"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Infra-red"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "In the electromagnetic spectrum, microwaves have a longer wavelength compared to infra-red, ultraviolet, and X-rays."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q72",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 72,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "For a material under static conditions, which one among the following statements is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "An insulator can be charged"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A perfect conductor can be charged"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both perfect conductor and insulator can be charged"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Both perfect conductor and insulator cannot be charged"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "An insulator can easily retain static electric charges on its surface when charged, as electrons cannot freely move through it."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q73",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 73,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A person can see nearby objects clearly but cannot see distant object distinctly, the person is suffering with"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Hypermetropia"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Presbyopia"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Myopia"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "None of above"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Myopia (nearsightedness) is a condition where nearby objects are seen clearly, but distant objects appear blurred."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q74",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 74,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The energy is always conserved for a system which is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "isolated only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "non-isolated only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "both isolated and non-isolated"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "none of above"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The law of conservation of energy states that total energy remains constant in an isolated system, where no matter or energy is exchanged with the surroundings."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q75",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 75,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Suppose, a ball of mass M is thrown upwards from a point A and it reaches up to the highest point B and returns back to point A, which one among the following is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Kinetic Energy at A = Potential Energy at B"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Kinetic Energy at A = Potential Energy at A"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Kinetic Energy at B = Potential Energy at B"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Kinetic Energy at B = Kinetic Energy at A"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "According to the conservation of mechanical energy, all the initial kinetic energy at point A is completely converted into potential energy at the highest point B."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q76",
+    "paperId": "GAT2025",
+    "questionNumber": 76,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following presided over the first session of All India Kisan Sabha in Lucknow in April 1936 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sahajananda Saraswati"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "R. G. Ranga"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Ram Manohar Lohia"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Jayaprakash Narayan"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Swami Sahajanand Saraswati presided over the first session of the All India Kisan Sabha held at Lucknow in April 1936, with N. G. Ranga as General Secretary."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q77",
+    "paperId": "GAT2025",
+    "questionNumber": 77,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following founded the 'Self-Respect Movement' ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Jyotiba Phule"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Swami Vivekananda"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "E. V. Ramaswami Naicker"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Dr. B. R. Ambedkar"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Self-Respect Movement was founded in 1925 by E. V. Ramaswami Naicker (Periyar) in Tamil Nadu."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q78",
+    "paperId": "GAT2025",
+    "questionNumber": 78,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Chola inscriptions mention several categories of lands. Which one of the following was meant for the maintenance of school ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Tirunamattukkani"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Shalabhoga"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Vellanvagai"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Pallichhandam"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "In Chola land classifications, Shalabhoga was land gifted for the maintenance of a school."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q79",
+    "paperId": "GAT2025",
+    "questionNumber": 79,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements about the Home Rule League are correct ?\n1. Lokamanya Tilak set up the Home Rule League at the Bombay Provincial Conference held at Belgaum in April 1916\n2. Annie Besant announced the formation of Home Rule League in September 1916\n3. To avoid friction, Tilak's League was to work in Maharashtra (excluding Bombay city), Karnataka, Central Provinces and Berar and Besant's League was given charge of the rest of India\n\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "All three statements correctly describe the division of territory and timing of the Home Rule Leagues launched by Tilak and Annie Besant in 1916."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q80",
+    "paperId": "GAT2025",
+    "questionNumber": 80,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about Ishwar Chandra Vidyasagar is NOT correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "He was the Principal of Sanskrit College, Calcutta"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "He was a Government Inspector of Schools"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "He was a Secretary to the Bethune School"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "He was the founder of Widow Remarriage Association"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The Widow Remarriage Association was founded by Vishnu Shastri Pandit in the 1850s, not Ishwar Chandra Vidyasagar."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q81",
+    "paperId": "GAT2025",
+    "questionNumber": 81,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Match List I with List II and select the answer using the code given below the Lists :\n\nList I (Reformer)\nA. Vishnu Shastri Pundit\nB. Karsondas Mulji\nC. Debendranath Tagore\nD. Raja Ram Mohan Roy\n\nList II (Social Work/Text)\n1. Vedic Physics : Scientific Origin of Hinduism\n2. Widow Remarriage Association\n3. Satya Prakash\n4. Tattvabodhini Sabha\n\nCode :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 3 4 2"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 4 3 2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 3 4 1"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2 4 3 1"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Matching the items: Vishnu Shastri Pundit - Widow Remarriage Association (2); Karsondas Mulji - Satya Prakash (3); Debendranath Tagore - Tattvabodhini Sabha (4); Raja Ram Mohan Roy - Vedic Physics: Scientific Origin of Hinduism (1)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q82",
+    "paperId": "GAT2025",
+    "questionNumber": 82,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "In the Harappan Civilization, traces of canals have been found at"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Banawali"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Lothal"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Shortughai"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Dholavira"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Traces of canal irrigation systems of the Harappan civilization have been discovered at Shortughai in Afghanistan."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q83",
+    "paperId": "GAT2025",
+    "questionNumber": 83,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Arrange the following foreign travellers to India in chronological order, beginning with the earliest :\n1. Peter Mundy\n2. Antonio Monserrate\n3. Afanasii Nikitich Nikitin\n4. Ibn Battuta\n\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "2 - 1 - 4 - 3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 - 3 - 4 - 1"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "4 - 3 - 2 - 1"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3 - 4 - 1 - 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The chronological order is Ibn Battuta (14th century), Afanasii Nikitin (15th century), Antonio Monserrate (16th century), and Peter Mundy (17th century), which gives 4 - 3 - 2 - 1."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q84",
+    "paperId": "GAT2025",
+    "questionNumber": 84,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "With which of the following was the Bretton Woods System NOT associated"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "International Monetary Fund"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Economic recovery after the Second World War"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "International Bank for Reconstruction and Development"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Establishment of a monetary system based on floating exchange rate"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The Bretton Woods System established a fixed exchange rate system tied to gold/USD, not a floating exchange rate system."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q85",
+    "paperId": "GAT2025",
+    "questionNumber": 85,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Senguttuvan is the name of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "a Pandya ruler"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "a Chola king"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "a minister in Satavahana court"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "the capital city of the Cheras"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Cheran Senguttuvan was a famous Chera ruler of the Sangam period."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q86",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 86,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "The Ramacharita, an example of dvyasrya-kavya, telling two stories simultaneously, was written by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Subandhu"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Bhatti"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sandhyakara"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Kamban"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Ramacharita was written by Sandhyakar Nandi (Sandhyakara). It is a Sanskrit epic poem written in dvyasraya kavya style, simultaneously narrating the story of the Ramayana and the Pala King Ramapala."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q87",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 87,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following Acts established the Board of Control to guide and control the work of the Court of Directors and the Government of India ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Regulating Act of 1773"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Pitt's India Act of 1784"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Charter Act of 1793"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Charter Act of 1813"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Pitt's India Act of 1784 established a Board of Control to supervise and direct all operations of the civil and military government and revenues of the British possessions in India."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q88",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 88,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following Sikh Gurus laid the foundation of the Khalsa Panth ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Guru Nanak"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Guru Arjan"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Guru Hargobind"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Guru Gobind Singh"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Guru Gobind Singh, the tenth Sikh Guru, established the Khalsa Panth on the day of Baisakhi in 1699."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q89",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 89,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following plans is also known as Mahalanobis Plan ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "First Five Year Plan"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Second Five Year Plan"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Third Five Year Plan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sixth Five Year Plan"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The Second Five Year Plan (1956-1961) was based on the Mahalanobis model, which emphasized rapid industrialization and heavy basic industries."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q90",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 90,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following were the years of Annual Plans ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1956-1957"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1966-1969"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1975-1976"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1992-1993"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The period between 1966 and 1969 is known as the 'Plan Holiday', during which three annual plans were implemented due to the failure of the Third Five Year Plan."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q91",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 91,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements about BRICS Summits :\n\n1. The first BRICS Summit was held in Brazil\n2. BRICS Summits were held in New Delhi on three occasions\n\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Statement 1 is incorrect because the first BRIC summit was held in Yekaterinburg, Russia in 2009. Statement 2 is incorrect because New Delhi hosted the summit twice (2012 and 2021)."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q92",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 92,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Placing the earliest first, arrange the following international events in the chronological order :\n\n1. Introduction of www (World Wide Web)\n2. Advent of Inter-Continental Ballistic Missiles\n3. Launch of first communication satellite\n\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "2 - 1 - 3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 - 2 - 3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "3 - 2 - 1"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2 - 3 - 1"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The advent of ICBMs occurred in 1957 (Soviet R-7 Semyorka). The first active communication satellite (SCORE/Telstar) was launched in 1958/1962. The World Wide Web was introduced in 1989. Thus, the chronological order is 2 - 3 - 1."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q93",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 93,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following rights under the Constitution of India is/are Fundamental Right(s) ?\n\n1. Right to work\n2. Right to privacy\n3. Right to free and compulsory education in the age bracket of six to eighteen years\n\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3 only"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "1. Right to work is a Directive Principle of State Policy (Article 41), not a Fundamental Right. 2. Right to privacy is a Fundamental Right under Article 21. 3. Right to education under Article 21A applies to children aged six to fourteen years, not six to eighteen years. Therefore, only statement 2 is correct."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q94",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 94,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements with regard to flags of International Organizations :\n\n1. The flag of EU has a circle of gold stars on a white background\n2. The Flag of the UN carries two pairs of olive tree branches\n3. The ASEAN flag carries blue, red, white and yellow colours\n\nHow many of the above statements is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Nil"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "1. Incorrect: EU flag features a circle of 12 gold stars on a blue background (not white). 2. Incorrect: UN flag features a single pair of olive branches surrounding the world map. 3. Correct: ASEAN flag has blue, red, white, and yellow colours. Hence, only 1 statement is correct."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q95",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 95,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following committees is NOT associated with decentralization of Panchayati Raj institutions in India ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Balwant Rai Mehta Committee"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ashok Mehta Committee"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "L. M. Singhvi Committee"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Abhijit Sen Committee"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The Abhijit Sen Committee (2002) was set up to formulate a Long-Term Grain Policy, whereas the Balwant Rai Mehta, Ashok Mehta, and L. M. Singhvi committees were associated with Panchayati Raj institutions."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2025-Q96",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 96,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "The reaction that occurs on passing carbon dioxide gas through lime water is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\text{CaCO}_3 + \\text{H}_2\\text{O} + \\text{CO}_2 \\rightarrow \\text{Ca(HCO}_3)_2$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\text{Ca(OH)}_2 + \\text{CO}_2 \\rightarrow \\text{CaCO}_3 + \\text{H}_2\\text{O}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\text{CaO} + \\text{CO}_2 \\rightarrow \\text{CaCO}_3$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\text{CaCl}_2 + \\text{H}_2\\text{O} + \\text{CO}_2 \\rightarrow \\text{CaCO}_3 + 2\\text{HCl}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Lime water is calcium hydroxide solution $\\text{Ca(OH)}_2$. Passing carbon dioxide through it forms calcium carbonate $\\text{CaCO}_3$ (insoluble white precipitate) and water."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q97",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 97,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is NOT correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Water of crystallization is the fixed number of water molecules present in one formula unit of a salt"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The molecular formula of Plaster of Paris is $\\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Washing soda is used for removing the permanent hardness of water"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The atmosphere of Venus is made up of thick white and yellow clouds of sulphuric acid"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The chemical formula of Plaster of Paris is $\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}$ (calcium sulphate hemihydrate). $\\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$ is the formula for Gypsum."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q98",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 98,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following type of medicines is used for treating indigestion?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Analgesic"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Antiseptic"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Antibiotic"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Antacid"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Antacids neutralize excess stomach acid and are used to treat indigestion."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q99",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 99,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is NOT present in cement?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$2\\text{CaO} \\cdot \\text{SiO}_2$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$3\\text{CaO} \\cdot \\text{SiO}_2$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$4\\text{CaO} \\cdot \\text{SiO}_2$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$3\\text{CaO} \\cdot \\text{Al}_2\\text{O}_3$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Portland cement contains dicalcium silicate ($2\\text{CaO} \\cdot \\text{SiO}_2$), tricalcium silicate ($3\\text{CaO} \\cdot \\text{SiO}_2$), and tricalcium aluminate ($3\\text{CaO} \\cdot \\text{Al}_2\\text{O}_3$), but does not contain tetracalcium silicate ($4\\text{CaO} \\cdot \\text{SiO}_2$)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q100",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 100,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is NOT a chemical change?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Burning of coal"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Rusting of metal"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Melting of ice"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Reaction of acid with base"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Melting of ice is a physical change because it involves a state change (solid to liquid) without changing the chemical composition of water."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q101",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 101,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is NOT correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The interconversion of states of matter is a physical change"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "During burning of a candle, both chemical and physical changes take place"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "During a physical change, the chemical composition of molecules changes"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Rusting of iron is a chemical change"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "During a physical change, the chemical composition of molecules remains unchanged."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q102",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 102,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is NOT a heterogeneous mixture?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sulphur in carbon disulfide"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Mixture of sugar and salt crystals"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sandy water"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sulphur in water"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Sulphur dissolves completely in carbon disulfide to form a homogeneous solution."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q103",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 103,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Match List I with List II and select the answer using the code given below the Lists:\n\nList I (Element):\nA. Phosphorus\nB. Nitrogen\nC. Neon\nD. Sulphur\n\nList II (Atomicity):\n1. 2\n2. 1\n3. 8\n4. 4\n\nCode:\n   A   B   C   D"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "4   1   2   3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "4   2   1   3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "3   2   1   4"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3   1   2   4"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Phosphorus exists as $P_4$ (atomicity 4, A-4); Nitrogen exists as $N_2$ (atomicity 2, B-1); Neon is monoatomic $Ne$ (atomicity 1, C-2); Sulphur exists as $S_8$ (atomicity 8, D-3). Hence, the correct code is 4 1 2 3."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q104",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 104,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "In the following redox reaction, which compound is acting as a reducing agent?\n$\\text{N}_2\\text{H}_4 + 2\\text{H}_2\\text{O}_2 \\rightarrow \\text{N}_2 + 4\\text{H}_2\\text{O}$"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\text{H}_2\\text{O}_2$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\text{N}_2\\text{H}_4$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\text{N}_2$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\text{H}_2\\text{O}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "In $\\text{N}_2\\text{H}_4$, nitrogen has an oxidation state of -2 which increases to 0 in $\\text{N}_2$. Since $\\text{N}_2\\text{H}_4$ undergoes oxidation, it acts as the reducing agent."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q105",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 105,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is considered to be the purest source of water?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "River water"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Sea water"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Well water"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Rain water"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Rain water is formed by natural evaporation and condensation, making it the purest form of natural water before reaching the ground."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q106",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 106,
+    "section": "Chemistry",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following salts is responsible for temporary hardness of water?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sulphates of calcium"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Chlorides of magnesium"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Bicarbonates of magnesium"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sulphates of magnesium"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Temporary hardness of water is caused by the presence of dissolved bicarbonates of calcium and magnesium."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q107",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 107,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Match List I with List II and select the answer using the code given below the Lists :\n\nList I (Reaction)\nA. $\\text{CaO (s)} + \\text{H}_2\\text{O (l)} \\rightarrow \\text{Ca(OH)}_2\\text{ (aq)}$\nB. $\\text{CaCO}_3\\text{ (s)} \\rightarrow \\text{CaO (s)} + \\text{CO}_2\\text{ (g)}$\nC. $\\text{Pb (s)} + \\text{CuCl}_2\\text{ (aq)} \\rightarrow \\text{PbCl}_2\\text{ (aq)} + \\text{Cu (s)}$\nD. $\\text{Na}_2\\text{SO}_4\\text{ (aq)} + \\text{BaCl}_2\\text{ (aq)} \\rightarrow \\text{BaSO}_4\\text{ (s)} + 2\\text{NaCl (aq)}$\n\nList II (Type)\n1. Single displacement\n2. Double displacement\n3. Combination\n4. Decomposition\n\nCode :\n     A   B   C   D"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "2   1   4   3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2   4   1   3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "3   4   1   2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3   1   4   2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "A is a Combination reaction ($A \\rightarrow 3$), B is a Decomposition reaction ($B \\rightarrow 4$), C is a Single displacement reaction ($C \\rightarrow 1$), and D is a Double displacement reaction ($D \\rightarrow 2$). Thus, the correct sequence is 3-4-1-2."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q108",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 108,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is an endothermic reaction ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\text{CH}_4\\text{ (g)} + 2\\text{O}_2\\text{ (g)} \\rightarrow \\text{CO}_2\\text{ (g)} + 2\\text{H}_2\\text{O (g)}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\text{C}_6\\text{H}_{12}\\text{O}_6\\text{ (aq)} + 6\\text{O}_2\\text{ (g)} \\rightarrow 6\\text{CO}_2\\text{ (g)} + 6\\text{H}_2\\text{O (l)}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\text{N}_2\\text{ (g)} + 3\\text{H}_2\\text{ (g)} \\rightarrow 2\\text{NH}_3\\text{ (g)}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$2\\text{Pb(NO}_3)_2\\text{ (s)} \\rightarrow 2\\text{PbO (s)} + 4\\text{NO}_2\\text{ (g)} + \\text{O}_2\\text{ (g)}$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Thermal decomposition of lead nitrate requiring absorption of heat is an endothermic reaction."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q109",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 109,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is known as 'water gas' ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\text{H}_2\\text{O} + \\text{CO}_2$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\text{NH}_3$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\text{H}_2 + \\text{N}_2$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\text{CO} + \\text{H}_2$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Water gas is a synthesis gas containing a mixture of carbon monoxide ($\\text{CO}$) and hydrogen ($\\text{H}_2$)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q110",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 110,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is NOT correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Diamond is hard due to extended covalent bonding in it"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Fullerene is composed of five and six membered rings"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Diamond is a good conductor of electricity"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Graphite is used as a lubricant"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Diamond lacks free electrons because all four valence electrons of carbon are used in single covalent bonds; hence, diamond is a bad conductor of electricity."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q111",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 111,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Arrange the following zones in ascending order in terms of their latitudinal extent on the Earth surface :\n\n1. Equatorial zone\n2. Midlatitude zone\n3. Subarctic zone\n4. Tropical zone\n\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 - 3 - 2 - 4"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 - 3 - 4 - 2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 - 4 - 2 - 3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3 - 1 - 2 - 4"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The latitudinal ranges are approximately: Equatorial zone (10° extent), Subarctic zone (10°-15° extent), Tropical zone (20° extent), and Midlatitude zone (30° extent). Thus, the ascending order is 1 - 3 - 4 - 2."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q112",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 112,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements with reference to Feldspar mineral :\n\n1. Half of the earth's crust is composed of feldspar\n2. It has light cream to salmon pink colour\n3. Magnesium is a common element in all types of feldspar\n\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Silicon and oxygen are common in all types of feldspar, not magnesium. Statements 1 and 2 are correct according to standard physical geology."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q113",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 113,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following pairs with reference to sedimentary rocks and the process of their formation :\n\nSedimentary Rock — Process of Formation\n1. Chert — Chemically formed\n2. Geyserite — Organically formed\n3. Shale — Mechanically formed\n\nWhich of the pairs given above is/are correctly matched ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "All three pairs are correctly matched according to standard classification of sedimentary rocks."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q114",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 114,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements is/are correct ?\n\n1. Oceanic trenches are very significant in the study of plate movements\n2. Oceanic trenches are associated with active volcanoes and strong earthquakes\n\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Oceanic trenches mark subduction zones where plates converge, leading to active volcanism and deep-focus earthquakes."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q115",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 115,
+    "section": "Geography",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements with reference to shadow zones in an event of an earthquake is/are correct ?\n\n1. Zone between 105° and 145° from epicentre was identified as the shadow zone for both P-waves and S-waves\n2. The shadow zone of P-waves is much larger than that of the S-waves\n\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The shadow zone of S-waves is much larger than that of P-waves (extending beyond 105° everywhere), making statement 2 incorrect."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q116",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 116,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following volcanic island chains is NOT associated with mid-oceanic ridge ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Azores Islands"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ascension Islands"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Hawaiian Islands"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Tristan da Cunha"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Hawaiian Islands are formed by intraplate hotspot volcanism in the Pacific Plate and are NOT associated with a mid-oceanic ridge. Azores, Ascension, and Tristan da Cunha are associated with the Mid-Atlantic Ridge."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q117",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 117,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements with reference to sea waves : 1. The height of waves is determined by wind speed, wind duration, and fetch 2. The energy of a wave is proportional to the square of its height 3. Waves retain most of their energy as they travel across the deep ocean Which of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "All three statements are correct. Wave height is determined by wind speed, wind duration, and fetch. The energy of a wave is proportional to the square of its height ($E \\propto H^2$). Waves retain most of their energy as they travel across the deep ocean as swells."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q118",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 118,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements with reference to soil forming processes is/are correct ? 1. Translocation, enrichment, removal and transformation are different classes of soil forming processes 2. In translocation, fine particles are transported downward by eluviation and accumulate in lower horizons by illuviation Select the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Both statements are correct. Soil-forming processes include additions (enrichment), losses (removal), translocations, and transformations. In translocation, eluviation transports particles downward and illuviation accumulates them in lower horizons."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q119",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 119,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements with reference to structure of the Earth's atmosphere : 1. Thickness of the troposphere is greatest at the equator 2. The air temperature of the tropopause is highest above the poles 3. The temperature in troposphere decreases at the rate of $1^\\circ\\text{F}$ for every $165\\text{ m}$ of height Which of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Statements 1 and 2 are correct. The troposphere is thickest at the equator (~18 km), making the tropopause temperature above the equator lower (around $-80^\\circ\\text{C}$) than above the poles (around $-45^\\circ\\text{C}$). Statement 3 is incorrect because the temperature decreases at the rate of $1^\\circ\\text{C}$ (normal lapse rate) for every $165\\text{ m}$, not $1^\\circ\\text{F}$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q120",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 120,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following are the factors that cause variation in the amount of insolation on the Earth ? 1. Rotation of the earth on its axis 2. Length of the day 3. Distribution of land and water on the earth Select the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The primary factors causing variation in insolation received at the Earth's surface include the rotation of the Earth on its axis, the angle of inclination of the sun's rays, the length of the day, atmospheric transparency, and the distribution/configuration of land and water."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q121",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 121,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following conditions favourable for the formation and intensification of Tropical Storms : 1. Presence of the Coriolis force 2. Upper divergence above the sea level system 3. High variations in the vertical wind speed Which of the conditions given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Favourable conditions for tropical cyclone formation include the presence of Coriolis force and upper-level divergence above a low-pressure sea-level system. Statement 3 is incorrect because low (small) variation in vertical wind speed is required; high wind shear prevents cyclone formation."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q122",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 122,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following factors influence the ocean currents ? 1. Coriolis force 2. Gravity 3. Heating by solar energy 4. Wind Select the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 4 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1, 2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2, 3 and 4"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Primary forces that initiate and influence ocean currents are heating by solar energy (causing thermal expansion), wind, gravity, and the Coriolis force."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q123",
+    "paperId": "GAT(2)2025",
+    "questionNumber": 123,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following is/are warm ocean current(s) ? 1. Alaska Current 2. Agulhas Current 3. Falkland Current 4. West Australian Current Select the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "3 and 4"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "4 only"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Alaska Current and Agulhas Current are warm ocean currents. Falkland Current and West Australian Current are cold ocean currents."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q124",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 124,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "State of Assam shares borders with how many other countries and Indian states respectively ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "2 countries and 6 Indian states respectively"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "2 countries and 7 Indian states respectively"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "3 countries and 7 Indian states respectively"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "3 countries and 6 Indian states respectively"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Assam shares international borders with 2 countries (Bhutan and Bangladesh) and borders with 7 Indian states (Arunachal Pradesh, Nagaland, Manipur, Mizoram, Tripura, Meghalaya, and West Bengal)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q125",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 125,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Which one of the following is the northernmost river basin of the Deccan Plateau ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Chambal"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Mahi"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Narmada"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Tapti"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Narmada river basin forms the northernmost boundary and basin of the Deccan Plateau region."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q126",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 126,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Laterite soil in India is rich in which of the following ?\n1. Calcium\n2. Nitrogen\n3. Phosphate\n4. Potash\n\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "1 and 2"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "3 and 4"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "4 only"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Laterite soils are generally poor in organic matter, nitrogen, phosphate, and calcium, while iron oxide and potash are present in excess/rich quantities."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q127",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 127,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Which of the following statements with reference to crops cultivated in India is/are correct ?\n1. Bajra grows well in sandy and shallow black soils, whereas red and shallow black soil is suited for Ragi\n2. Bajra is predominantly grown in states like Rajasthan, Uttar Pradesh and Maharashtra, while Ragi is mainly cultivated in Karnataka, Tamil Nadu and Himachal Pradesh\n\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Both statements are correct according to standard Indian agricultural geographical descriptions."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q128",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 128,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Match List I with List II and select the answer using the code given below the Lists :\nList I (City)\nA. Bewar\nB. Balaghat\nC. Bilaspur\nD. Ballary\n\nList II (Mineral)\n1. Manganese\n2. Mica\n3. Iron-ore\n4. Bauxite"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "A-3, B-1, C-4, D-2"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "A-3, B-4, C-1, D-2"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "A-2, B-4, C-1, D-3"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Bewar is known for Mica (2), Balaghat is known for Manganese (1), Bilaspur is known for Bauxite deposits (4), and Ballary is famous for Iron-ore reserves (3)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q129",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 129,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Which one among the following is NOT a beneficiary state from the Vindhyachal Power Plant of the NTPC ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Gujarat"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Goa"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Maharashtra"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Uttar Pradesh"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The beneficiary states/UTs for NTPC's Vindhyachal Super Thermal Power Station include Madhya Pradesh, Gujarat, Maharashtra, Goa, Chhattisgarh, Daman & Diu, and Dadra & Nagar Haveli. Uttar Pradesh is not among its beneficiary states."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q130",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 130,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Consider the following pairs with reference to Thermal Power Plants and their location in respective states in India :\nThermal Power Plant - Located in State\nI. Panki - Uttar Pradesh\nII. Parli - Karnataka\nIII. Vijayawada - Telangana\nIV. Vanakbori - Gujarat\n\nHow many of the pairs given above is/are correctly matched ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "4"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Pair I (Panki - UP) and Pair IV (Vanakbori - Gujarat) are correctly matched. Parli is in Maharashtra (not Karnataka) and Vijayawada TPS is in Andhra Pradesh (not Telangana). Thus, 2 pairs are correctly matched."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q131",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 131,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "The book 'The Origin of Species by Means of Natural Selection' was authored by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Charles Darwin"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Carolus Linnaeus"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Barbara McClintock"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Copernicus"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'On the Origin of Species' was written by Charles Darwin and published in 1859."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q132",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 132,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "The headquarters of World Meteorological Organization (WMO) is located at"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Switzerland"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Scotland"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "South Africa"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Italy"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The World Meteorological Organization (WMO) is headquartered in Geneva, Switzerland."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q133",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 133,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "The optimum pH at which the enzymes pepsin and trypsin of the human alimentary canal works are"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "pH $2.0$ and $7.9$, respectively"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "pH $4.5$ and $3.5$, respectively"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "pH $9.5$ and $4.5$, respectively"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "pH $7.0$ and $8.0$, respectively"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Pepsin works in a highly acidic medium in the stomach (optimum pH around 1.5 - 2.0), while trypsin operates in a slightly alkaline medium in the small intestine (optimum pH around 7.8 - 8.0)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q134",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 134,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "The amount of air breathed in and out during a normal respiration by human lungs is referred to as"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Vital capacity"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Tidal volume"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Inspiratory volume"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Total lung capacity"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Tidal volume is the volume of air inspired or expired during normal respiration."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q135",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 135,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following statements about arteries and veins in humans is NOT correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Arteries carry blood away from heart while veins bring blood towards the heart"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Pulmonary arteries always carry oxygenated blood while Pulmonary veins always carry deoxygenated blood"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Arteries have thicker and more elastic walls compared to veins in general"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Arteries do not have valves but veins do have valves"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Pulmonary arteries carry deoxygenated blood from the heart to the lungs, while pulmonary veins carry oxygenated blood from the lungs back to the heart. Therefore, statement (b) is incorrect."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q136",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 136,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Identify the functions that are controlled by the hind brain of human being"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Involuntary actions such as blood pressure, salivation vomiting etc."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Controlling the regions receiving sensory impulses from receptors"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Controlling the movement of voluntary muscles"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sensation of hunger or being full"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Involuntary actions such as blood pressure, salivation, and vomiting are controlled by the medulla oblongata, which is part of the hindbrain."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q137",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 137,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Iodized salt is a vital part of our diet as it is essential for the synthesis of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Estrogen"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Thyroxin"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Insulin"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Adrenalin"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Iodine is essential for the synthesis of the hormone thyroxin by the thyroid gland."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q138",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 138,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "The menstrual cycle in females is controlled by hormones that are secreted by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Ovary and lacrimal gland"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ovary and sebaceous gland"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Ovary and pituitary gland"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Prostate and pituitary gland"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The menstrual cycle is regulated by hormones secreted by the pituitary gland (FSH, LH) and the ovaries (estrogen, progesterone)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q139",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 139,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following blood cells type secrete large number of antibodies during an immune response of the body ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Neutrophils"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Eosinophils"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Lymphocytes"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Monocytes"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "B-lymphocytes differentiate into plasma cells, which secrete large amounts of antibodies during an immune response."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q140",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 140,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following organelles have their own DNA and ribosomes ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Endoplasmic reticulum and Golgi bodies"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Mitochondria and Chloroplast"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Endoplasmic reticulum and cytoskeleton"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Cell wall and nucleolus"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Mitochondria and chloroplasts are semi-autonomous cell organelles containing their own extra-nuclear DNA and ribosomes."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q141",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 141,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "What is the nickname of the National Men's Hockey Team of Australia ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The Kangaroos"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The Boomers"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The Dolphins"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The Kookaburras"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The Australian men's national field hockey team is popularly known as 'The Kookaburras'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q142",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 142,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following organisations has completed 150 years of service to the nation in the year 2025 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Botanical Survey of India"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Survey of India"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "India Meteorological Department"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Press Trust of India"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The India Meteorological Department (IMD) was established in 1875 and completes 150 years of service in 2025."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q143",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 143,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements about 'Jalvahak' is/are correct ?\\n1. It is a newly commissioned naval ship inducted into Indian Navy\\n2. It is a major policy for cargo promotion unveiled by the Government of India\\n\\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Jalvahak' refers to an auxiliary vessel/barge inducted into the Indian Navy."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q144",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 144,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "How many rural districts does Mahatma Gandhi National Rural Employment Guarantee Act cover as on 2024-25 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "600"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "740"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "700"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "680"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "MGNREGA covers approximately 740 rural districts across India as of 2024–25."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q145",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 145,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Under which one of the following initiatives does the NITI Aayog support interested States to establish a State Institution for Transformation (SIT) ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "NITI for States Platform"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Bharat Ke Badhte Kadam"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "State Support Mission"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Aspirational Block Programme"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Under the State Support Mission (SSM), NITI Aayog assists States/UTs in setting up State Institutions for Transformation (SITs) to guide policy and development strategy."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q146",
+    "paperId": "TODC-T-GAT",
+    "questionNumber": 146,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following Indian States account for the maximum deposits of Bauxite and Chromite ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Andhra Pradesh"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Madhya Pradesh"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Jharkhand"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Odisha"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Odisha accounts for the largest reserves and production of both Bauxite and Chromite in India."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q147",
+    "paperId": "GAT-2025",
+    "questionNumber": 147,
+    "section": "General Awareness",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements with regard to National Technology Day :\n1. It commemorates the momentous events of 11th May 1998, when India conducted successful nuclear tests under Operation Shakti\n2. The official theme for National Technology Day 2025 is 'School to Startups - Igniting Young Minds to Innovate'\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Statement 1 is correct as National Technology Day commemorates the successful nuclear tests conducted at Pokhran on 11th May 1998 under Operation Shakti. Statement 2 is incorrect as 'School to Startups - Igniting Young Minds to Innovate' was the theme for National Technology Day 2023."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q148",
+    "paperId": "GAT-2025",
+    "questionNumber": 148,
+    "section": "General Awareness",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following were added in India as Ramsar Site in the year 2025 ?\n1. Sakkarakottai Bird Sanctuary\n2. Udhwa Lake\n3. Rudrasagar Lake\n4. Bakhira Wildlife Sanctuary\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 4"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Sakkarakottai Bird Sanctuary (Tamil Nadu) and Udhwa Lake Bird Sanctuary (Jharkhand) were designated as Ramsar sites in 2024/2025."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q149",
+    "paperId": "GAT-2025",
+    "questionNumber": 149,
+    "section": "General Awareness",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements about Cricket player Virat Kohli :\n1. He is the only captain to have scored seven double centuries in Test Cricket\n2. He is the only Indian cricketer with most centuries as a captain\n3. He is the first Indian captain to achieve twin centuries on captaincy debut\n4. He holds the record for the most double centuries by an Indian in Test Cricket\nWhich of the statements given above are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1, 3 and 4 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2, 3 and 4"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Statements 1, 3, and 4 are correct. Virat Kohli scored 7 double centuries in Test cricket, all while serving as captain, which is the highest by any captain and by an Indian player in Test history. He also scored centuries in both innings (115 & 141) on his Test captaincy debut at Adelaide in 2014."
+    }
+  },
+  {
+    "questionId": "GAT(2)2025-Q150",
+    "paperId": "GAT-2025",
+    "questionNumber": 150,
+    "section": "General Awareness",
+    "question": {
+      "type": "latex",
+      "content": "Ethereum, Tether, Solana and Cardano are all forms of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Crypto currency"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Artificial Intelligence(AI) Startups"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Humanoid Robots"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Medical apps"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Ethereum, Tether, Solana, and Cardano are all well-known cryptocurrencies and blockchain platforms."
+    }
+  }
+]
