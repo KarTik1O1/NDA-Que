@@ -1,1 +1,5468 @@
-
+[
+  {
+    "questionId": "GAT-2020-Q1",
+    "paperId": "KJU-F-GTA-B",
+    "questionNumber": 1,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "He nodded \\underline{absently} throughout the meeting."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "capably"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "alertly"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "agitatedly"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "dreamily"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Absently' means in a distracted or inattentive manner. Its opposite is 'alertly', which means attentively and with full awareness."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q2",
+    "paperId": "KJU-F-GTA-B",
+    "questionNumber": 2,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "I fully believe that the cornerstone of good policy is an electorate that is \\underline{educated} on the national issues."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "cerebral"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "enlightened"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "ignorant"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "erudite"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Educated' means knowledgeable and informed. Its opposite is 'ignorant', which means lacking knowledge or information."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q3",
+    "paperId": "KJU-F-GTA-B",
+    "questionNumber": 3,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "For \\underline{important} medical decisions, even finding a doctor you trust is not enough."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "significant"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "trivial"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "basic"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "probable"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Important' means of great significance or value. Its opposite is 'trivial', meaning of little value or importance."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q4",
+    "paperId": "KJU-F-GTA-B",
+    "questionNumber": 4,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "Planets \\underline{move} in their orbits."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "push"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "rotate"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "stall"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "flow"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Move' means to be in motion or change position. Its antonym in this context is 'stall', which means to stop moving or come to a halt."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q5",
+    "paperId": "KJU-F-GTA-B",
+    "questionNumber": 5,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "Temperature is a measure of internal energy of an object and is frequently \\underline{expressed} by physicists in units of Kelvin."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "found"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "told"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "distributed"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "concealed"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Expressed' means communicated or made known. Its opposite is 'concealed', which means kept secret or hidden."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q6",
+    "paperId": "KJU-F-GTA-B",
+    "questionNumber": 6,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "People argue about why Venus is so much \\underline{warmer} than the Earth."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "friendlier"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "colder"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "wilder"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "heavier"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Warmer' means having a higher temperature. Its direct opposite is 'colder'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q7",
+    "paperId": "KJU-F-GTA-B",
+    "questionNumber": 7,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "Scientists are \\underline{concerned} whether the oceans and land biosphere will take up as much carbon in the future as they presently do."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "worried"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "indifferent"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "curious"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "puzzled"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Concerned' means anxious or worried. Its opposite is 'indifferent', meaning unconcerned or showing no care or interest."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q8",
+    "paperId": "KJU-F-GTA-B",
+    "questionNumber": 8,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "The biggest \\underline{debate} among scientists today is about cloud feedback."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "contend"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "moot"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "wrangle"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "agreement"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Debate' refers to argument or disagreement over a topic. Its opposite is 'agreement'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q9",
+    "paperId": "KJU-F-GTA-B",
+    "questionNumber": 9,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "The Earth's climate \\underline{sensitivity} is conventionally defined as the equilibrium temperature increase caused by a doubling of carbon dioxide."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "imperviousness"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "willingness"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "responsiveness"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "closeness"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Sensitivity' is the quality of being affected by changes. Its opposite is 'imperviousness', which means being unaffected or resistant."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q10",
+    "paperId": "KJU-F-GTA-B",
+    "questionNumber": 10,
+    "section": "ANTONYMS",
+    "question": {
+      "type": "latex",
+      "content": "The oceans carry a \\underline{huge} amount of heat from the tropics to the high latitudes."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "significant"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "major"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "tiny"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "dormant"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Huge' means very large. Its opposite is 'tiny'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q11",
+    "paperId": "KJU-F-GTA-B",
+    "questionNumber": 11,
+    "section": "ORDERING OF WORDS IN A SENTENCE",
+    "question": {
+      "type": "latex",
+      "content": "\\underline{several years ago,} (P) \\underline{course on climate change at Texas A\\&M University} (Q) \\underline{Professor Andrew Dessler created an introductory} (R) \\underline{for freshmen and sophomores} (S)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "P R Q S"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Q R P S"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "S Q R P"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "P Q R S"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Arranging the jumbled parts grammatically: 'Several years ago,' (P) 'Professor Andrew Dessler created an introductory' (R) 'course on climate change at Texas A&M University' (Q) 'for freshmen and sophomores' (S). Thus, the correct sequence is P R Q S."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q12",
+    "paperId": "GAT-2020",
+    "questionNumber": 12,
+    "section": "Ordering of Sentences",
+    "question": {
+      "type": "latex",
+      "content": "P: I realize that solving the climate change problem | Q: than solving | R: will be much harder | S: the ozone depletion problem"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "PRQS"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "QRPS"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "SQRP"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "PQRS"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The logically correct sequence is P-R-Q-S: 'I realize that solving the climate change problem will be much harder than solving the ozone depletion problem.'"
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q13",
+    "paperId": "GAT-2020",
+    "questionNumber": 13,
+    "section": "Ordering of Sentences",
+    "question": {
+      "type": "latex",
+      "content": "P: although the temperature of this layer of the | Q: when directly comparing the satellite | R: measurements of temperature | S: atmosphere should generally track the surface temperature, we must be careful"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "PRQS"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "PSQR"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "SQRP"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "PQRS"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The correct sequence is P-S-Q-R: 'although the temperature of this layer of the atmosphere should generally track the surface temperature, we must be careful when directly comparing the satellite measurements of temperature'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q14",
+    "paperId": "GAT-2020",
+    "questionNumber": 14,
+    "section": "Ordering of Sentences",
+    "question": {
+      "type": "latex",
+      "content": "P: the element heats up, | Q: eventually reaching high temperatures | R: glowing like a dark orange that radiates | S: the visible range,"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "PQSR"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "QPSR"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "SQRP"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "PRSQ"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The correct sentence ordering is P-R-S-Q: 'the element heats up, glowing like a dark orange that radiates the visible range, eventually reaching high temperatures'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q15",
+    "paperId": "GAT-2020",
+    "questionNumber": 15,
+    "section": "Ordering of Sentences",
+    "question": {
+      "type": "latex",
+      "content": "P: two people argue about why Venus is so much warmer | Q: to the Sun, so it absorbs more solar energy. The second argues | R: that it's because Venus has a thick, greenhouse-gas rich atmosphere | S: than the Earth. The first argues that it's because Venus is closer"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "PSQR"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "QRPS"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "SQRP"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "PQRS"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The correct sequence is P-S-Q-R: 'two people argue about why Venus is so much warmer than the Earth. The first argues that it's because Venus is closer to the Sun, so it absorbs more solar energy. The second argues that it's because Venus has a thick, greenhouse-gas rich atmosphere'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q16",
+    "paperId": "GAT-2020",
+    "questionNumber": 16,
+    "section": "Ordering of Sentences",
+    "question": {
+      "type": "latex",
+      "content": "P: are now used by more than a thousand firms | Q: and are growing in popularity | R: in the United States and Europe | S: gain sharing-plans"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "PRQS"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "QRPS"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "PRSQ"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "SPRQ"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The correct sequence is S-P-R-Q: 'gain sharing-plans are now used by more than a thousand firms in the United States and Europe and are growing in popularity'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q17",
+    "paperId": "GAT-2020",
+    "questionNumber": 17,
+    "section": "Ordering of Sentences",
+    "question": {
+      "type": "latex",
+      "content": "P: adversity without succumbing | Q: to the clouds of doubt and jealousy | R: between friends which is subjected to both prosperity and | S: the essay 'Of Friendship' by Francis Bacon celebrated the intimacy"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "PRQS"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "QRPS"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "SRPQ"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "PQRS"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The correct sequence is S-R-P-Q: 'the essay 'Of Friendship' by Francis Bacon celebrated the intimacy between friends which is subjected to both prosperity and adversity without succumbing to the clouds of doubt and jealousy'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q18",
+    "paperId": "GAT-2020",
+    "questionNumber": 18,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "text",
+      "content": "P: friends without which the world is\nQ: make friends and a person wills to want true\nR: it is miserable solitude that compels a person to\nS: nothing other than a place of wilderness"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "P R Q S"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Q R P S"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "R Q P S"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "P Q R S"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The meaningful sentence is 'It is miserable solitude that compels a person to make friends and a person wills to want true friends without which the world is nothing other than a place of wilderness.' Thus, the correct sequence is R Q P S."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q19",
+    "paperId": "GAT-2020",
+    "questionNumber": 19,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "text",
+      "content": "P: takes the longest\nQ: that never started\nR: the job\nS: to finish"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "P R Q S"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "R Q P S"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "S Q R P"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "P Q R S"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The proper arrangement is 'The job that never started takes the longest to finish,' forming the sequence R Q P S."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q20",
+    "paperId": "GAT-2020",
+    "questionNumber": 20,
+    "section": "Ordering of Words in a Sentence",
+    "question": {
+      "type": "text",
+      "content": "P: to what you can create\nQ: control, shift your energy\nR: instead of worrying about\nS: what you cannot"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "P R S Q"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Q R S P"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "S Q R P"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "R S Q P"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The coherent sentence is 'Instead of worrying about what you cannot control, shift your energy to what you can create,' giving the sequence R S Q P."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q21",
+    "paperId": "GAT-2020",
+    "questionNumber": 21,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "She got the $\\underline{\\text{divorce}}$ within no time."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "detachment"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "breaking down"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "annulment"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "punishment"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Divorce' means the legal dissolution of a marriage, which is nearest in meaning to 'annulment'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q22",
+    "paperId": "GAT-2020",
+    "questionNumber": 22,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "He was known for his $\\underline{\\text{gentle}}$ disposition."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "harmful"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "amiable"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "cunning"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "adjusting"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Gentle' means mild, quiet, or friendly, which is nearest in meaning to 'amiable'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q23",
+    "paperId": "GAT-2020",
+    "questionNumber": 23,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "The harder we kick, the better the ball $\\underline{\\text{bounces back}}$."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "recoils"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "deflates"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "inflates"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "ascends"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Bounces back' means to spring back after impact, which is nearest in meaning to 'recoils'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q24",
+    "paperId": "GAT-2020",
+    "questionNumber": 24,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "I plan and $\\underline{\\text{execute}}$."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "desire"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "debate"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "accomplish"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "discard"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Execute' means to carry out or perform a plan, which is nearest in meaning to 'accomplish'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q25",
+    "paperId": "GAT-2020",
+    "questionNumber": 25,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "He listened to me $\\underline{\\text{with equanimity}}$."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "carelessly"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "excitedly"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "patiently"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "half-heartedly"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Equanimity' means calmness and composure, making 'patiently' the nearest choice."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q26",
+    "paperId": "GAT-2020",
+    "questionNumber": 26,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "The whole thing was a $\\underline{\\text{futile}}$ exercise."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "costly"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "pointless"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "indecisive"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "successful"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Futile' means incapable of producing any useful result, which is synonymous with 'pointless'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q27",
+    "paperId": "GAT-2020",
+    "questionNumber": 27,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "He was too $\\underline{\\text{cunning}}$ for her."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "capable"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "fit"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "intelligent"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "dodgy"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Cunning' implies deceitfulness or craftiness, which is closest in meaning to 'dodgy'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q28",
+    "paperId": "GAT-2020",
+    "questionNumber": 28,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "This decision is $\\underline{\\text{crucial}}$ for me."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "momentous"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "natural"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "primitive"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "inept"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Crucial' means of great importance, which is nearest in meaning to 'momentous'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q29",
+    "paperId": "GAT-2020",
+    "questionNumber": 29,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "The media went into a $\\underline{\\text{frenzy}}$ about the case."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "silent"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "creative"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "berserk"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "wrong"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Frenzy' refers to a state of wild excitement, which corresponds to 'berserk'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q30",
+    "paperId": "GAT-2020",
+    "questionNumber": 30,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "He has been $\\underline{\\text{yearning}}$ to go home."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "declining"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "demanding"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "begging"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "hankering"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Yearning' means having an intense longing or craving, which is synonymous with 'hankering'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q31",
+    "paperId": "GAT-2020",
+    "questionNumber": 31,
+    "section": "PREPOSITIONS",
+    "question": {
+      "type": "latex",
+      "content": "Simulations of the 20th century by climate models that exclude the observed increase ______ greenhouse gases fail to simulate the increase in temperature over the second half of the 20th century."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "of"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "in"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "by"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "to"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The correct preposition to use with 'increase' when describing a rise in quantity or level of something is 'in'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q32",
+    "paperId": "GAT-2020",
+    "questionNumber": 32,
+    "section": "PREPOSITIONS",
+    "question": {
+      "type": "latex",
+      "content": "In extremely poor societies, children can be put to work ______ a young age and are therefore a source of income."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "in"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "on"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "by"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "at"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The standard phrase is 'at a young age'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q33",
+    "paperId": "GAT-2020",
+    "questionNumber": 33,
+    "section": "PREPOSITIONS",
+    "question": {
+      "type": "latex",
+      "content": "People who are averse ______ hard work, generally do not succeed in life."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "to"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "about"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "at"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "on"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": " The adjective 'averse' takes the preposition 'to'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q34",
+    "paperId": "GAT-2020",
+    "questionNumber": 34,
+    "section": "PREPOSITIONS",
+    "question": {
+      "type": "latex",
+      "content": "I have known her ______ a long time."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "since"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "for"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "at"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "before"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": " 'For' is used to denote a period of time like 'a long time'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q35",
+    "paperId": "GAT-2020",
+    "questionNumber": 35,
+    "section": "PREPOSITIONS",
+    "question": {
+      "type": "latex",
+      "content": "I accepted the offer ______ certain conditions."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "on"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "in"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "by"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "within"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The idiomatic phrase is 'on certain conditions'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q36",
+    "paperId": "GAT-2020",
+    "questionNumber": 36,
+    "section": "PREPOSITIONS",
+    "question": {
+      "type": "latex",
+      "content": "She is a woman ______ humble origin."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "off"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "of"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "from"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "within"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": " The standard phrase is 'a person of humble origin'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q37",
+    "paperId": "GAT-2020",
+    "questionNumber": 37,
+    "section": "PREPOSITIONS",
+    "question": {
+      "type": "latex",
+      "content": "There is no cure ______ the common cold."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "for"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "of"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "to"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "on"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": " The noun 'cure' takes the preposition 'for'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q38",
+    "paperId": "GAT-2020",
+    "questionNumber": 38,
+    "section": "PREPOSITIONS",
+    "question": {
+      "type": "latex",
+      "content": "I ran ______ John yesterday, and it was a pleasant surprise."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "by"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "off"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "beside"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "into"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": " To 'run into' someone means to meet them unexpectedly."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q39",
+    "paperId": "GAT-2020",
+    "questionNumber": 39,
+    "section": "PREPOSITIONS",
+    "question": {
+      "type": "latex",
+      "content": "My grandmother enjoyed boating ______ the lovely lake."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "in"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "on"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "beside"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "within"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": " The correct preposition for boating on a body of water is 'on'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q40",
+    "paperId": "GAT-2020",
+    "questionNumber": 40,
+    "section": "PREPOSITIONS",
+    "question": {
+      "type": "latex",
+      "content": "He visits the needy to relieve them ______ their sufferings and poverty."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "from"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "off"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "of"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "on"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": " The verb 'relieve' is followed by the preposition 'of' (to relieve someone of something)."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q41",
+    "paperId": "GAT-2020",
+    "questionNumber": 41,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Find out whether there is any error in any underlined part:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "This building"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "comprises of six houses,"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "three parking lots and one basement."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": " The word 'comprises' means 'consists of' and does not take the preposition 'of'. It should be 'comprises six houses'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q42",
+    "paperId": "GAT-2020",
+    "questionNumber": 42,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Find out whether there is any error in any underlined part:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "I look forward"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "to meet"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "you."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": " The phrase 'look forward to' takes a gerund (-ing form), so it should be 'to meeting'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q43",
+    "paperId": "GAT-2020",
+    "questionNumber": 43,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Find out whether there is any error in any underlined part:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "I cannot"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "cope up"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "with this pressure."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": " The correct expression is 'cope with', not 'cope up with'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q44",
+    "paperId": "GAT-2020",
+    "questionNumber": 44,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Find out whether there is any error in any underlined part:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "I came"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "to this place"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "by walk."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": " The correct expression is 'on foot', not 'by walk'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q45",
+    "paperId": "GAT-2020",
+    "questionNumber": 45,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Find out whether there is any error in any underlined part:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "What is"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "the time"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "in your watch ?"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": " The correct preposition when asking for time according to a watch is 'by' (i.e. 'by your watch')."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q46",
+    "paperId": "GAT-2020",
+    "questionNumber": 46,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Find out whether there is any error in any underlined part:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The price of my dress"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "is higher than that of"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "yours."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": " 'That of' already replaces 'the price of'. Thus, using 'yours' creates double possession. It should be 'higher than yours' or 'higher than that of your dress'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q47",
+    "paperId": "GAT-2020",
+    "questionNumber": 47,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Find out whether there is any error in any underlined part:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "My friend's"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "daughter-in-laws"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "have come."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": " The plural form of compound noun 'daughter-in-law' is 'daughters-in-law'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q48",
+    "paperId": "GAT-2020",
+    "questionNumber": 48,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Find out whether there is any error in any underlined part:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "I prefer"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "seafood"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "than Mediterranean food."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": " The verb 'prefer' takes the preposition 'to', not 'than'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q49",
+    "paperId": "GAT-2020",
+    "questionNumber": 49,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Find out whether there is any error in any underlined part:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "We were"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "discussing about"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "the issue."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": " The verb 'discuss' does not take the preposition 'about'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q50",
+    "paperId": "GAT-2020",
+    "questionNumber": 50,
+    "section": "SPOTTING ERRORS",
+    "question": {
+      "type": "latex",
+      "content": "Find out whether there is any error in any underlined part:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Dispose off"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "the garbage"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "from the shelves."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No error."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": " The correct phrase is 'Dispose of' (single 'f'), not 'Dispose off'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q51",
+    "paperId": "GAT-2020",
+    "questionNumber": 51,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "New Zealand is considered part of which one of the following island groups ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Micronesia"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Melanesia"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Polynesia"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Hawaii Island chain"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "New Zealand is located in the southwestern Pacific Ocean and forms the southern apex of the Polynesian Triangle."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q52",
+    "paperId": "GAT-2020",
+    "questionNumber": 52,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements with regard to Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) is/are correct ? 1. PMKSY was launched during 2015-16 2. The basic aim of PMKSY is to enhance physical access of water on farm 3. One of the main objectives of PMKSY is to achieve convergence of investments in irrigation at the field level Select the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "PMKSY was launched on 1st July 2015 (2015-16). Its objectives include enhancing physical access to water on farms ('Har Khet Ko Pani') and expanding cultivable area under assured irrigation, as well as converging investments in irrigation at the field level."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q53",
+    "paperId": "GAT-2020",
+    "questionNumber": 53,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "According to Article 79 of the Constitution of India, which of the following is/are described as a part of Parliament of India ? 1. The House of the People 2. The Council of States 3. The President of India Select the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "According to Article 79 of the Constitution of India, Parliament consists of the President and two Houses: the Council of States (Rajya Sabha) and the House of the People (Lok Sabha)."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q54",
+    "paperId": "GAT-2020",
+    "questionNumber": 54,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The Five Year Plan was first launched in"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "China"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "USSR"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "India"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Bhutan"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The concept of Five-Year Plans was first implemented by Joseph Stalin in the Soviet Union (USSR) in 1928."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q55",
+    "paperId": "GAT-2020",
+    "questionNumber": 55,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The call for Garibi Hatao was incorporated in"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Fourth Five Year Plan"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Fifth Five Year Plan"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sixth Five Year Plan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Seventh Five Year Plan"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Garibi Hatao' (Removal of Poverty) was a major slogan and objective incorporated into the Fifth Five Year Plan (1974-1979)."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q56",
+    "paperId": "GAT-2020",
+    "questionNumber": 56,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Match List I with List II and select the correct answer using the code given below the Lists : List I (Major Objective): A. Faster and more inclusive growth, B. Faster, more inclusive and sustainable growth, C. Correction of disequilibrium caused by Second World War, D. Attaining self-reliance. List II (Five Year Plan): 1. First, 2. Fifth, 3. Eleventh, 4. Twelfth. Code :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A - 3, B - 1, C - 4, D - 2"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A - 3, B - 4, C - 1, D - 2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "A - 2, B - 4, C - 1, D - 3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "A - 2, B - 1, C - 4, D - 3"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Eleventh Plan (3) focused on 'Faster and more inclusive growth'. Twelfth Plan (4) focused on 'Faster, more inclusive and sustainable growth'. First Plan (1) focused on correcting WWII & partition imbalances. Fifth Plan (2) targeted self-reliance and poverty alleviation."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q57",
+    "paperId": "GAT-2020",
+    "questionNumber": 57,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following Directive Principles was inserted by the Constitution ($42^{\\text{nd}}$ Amendment) Act, 1976 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The State shall minimise inequalities in income"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Equal justice and free legal aid"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Promotion of co-operative societies"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Provision for early childhood care"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Article 39A ('Equal justice and free legal aid') was inserted by the 42nd Constitutional Amendment Act, 1976."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q58",
+    "paperId": "GAT-2020",
+    "questionNumber": 58,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "A common High Court for two or more states can be established by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "a law passed by the Parliament"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "an order of the Supreme Court of India"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "an order of the President of India"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "an amendment to the Constitution of India"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Under Article 231 of the Constitution of India, Parliament may by law establish a common High Court for two or more States or for two or more States and a Union territory."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q59",
+    "paperId": "GAT-2020",
+    "questionNumber": 59,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "In the year 1928, a committee of Congress leaders drafted a Constitution for India. The Committee was headed by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Mahatma Gandhi"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "T. B. Sapru"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Motilal Nehru"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Jawaharlal Nehru"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Nehru Report of 1928, which drafted a proposed constitution for India, was prepared by a committee chaired by Motilal Nehru."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q60",
+    "paperId": "GAT-2020",
+    "questionNumber": 60,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about Jaipal Singh is NOT correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "He was a member of the Constituent Assembly"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "He founded the Adivasi Maha Sabha"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "He was the captain of the first Indian national hockey team"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "He campaigned for a separate state of Chhattisgarh"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Jaipal Singh Munda campaigned for the creation of a separate state of Jharkhand (not Chhattisgarh)."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q61",
+    "paperId": "GAT-2020",
+    "questionNumber": 61,
+    "section": "General Awareness",
+    "question": {
+      "type": "text",
+      "content": "What is 'Tikki Mausi' in the context of Malnutrition?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A specially packaged food item"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A mascot"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Name of a scheme"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Name given to the healthcare providers"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Tikki Mausi' is a mascot unveiled by the Department of Women and Child Development, Government of Odisha, in collaboration with UNICEF to spread awareness about nutrition and child rights."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q62",
+    "paperId": "GAT-2020",
+    "questionNumber": 62,
+    "section": "General Awareness",
+    "question": {
+      "type": "text",
+      "content": "Which one of the following was the theme of the World Tourism Day, 2019?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sustainable tourism"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Tourism and the digital transformation"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Tourism : responding to the challenge of climate change"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Tourism and jobs : a better future for all"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The official theme for World Tourism Day 2019 was 'Tourism and jobs: a better future for all'."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q63",
+    "paperId": "GAT-2020",
+    "questionNumber": 63,
+    "section": "General Awareness",
+    "question": {
+      "type": "text",
+      "content": "Which one of the following countries has hosted the Army Exercise TSENTR, 2019?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Russia"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "China"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Kazakhstan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Kyrgyzstan"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Exercise TSENTR 2019 was hosted by Russia at Donguz training ranges in Orenburg, Russia."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q64",
+    "paperId": "GAT-2020",
+    "questionNumber": 64,
+    "section": "General Awareness",
+    "question": {
+      "type": "text",
+      "content": "Which one of the following countries is called the 'country of winds'?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "India"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "China"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Denmark"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Germany"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Denmark is known as the 'country of winds' because it generates a significant portion of its electricity through wind energy."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q65",
+    "paperId": "GAT-2020",
+    "questionNumber": 65,
+    "section": "General Awareness",
+    "question": {
+      "type": "text",
+      "content": "Which one of the following is the oldest scientific department of Government of India?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Department of Biotechnology"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Survey of India"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "India Meteorological Department"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "DRDO"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Survey of India is the oldest scientific department of the Government of India, established in 1767."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q66",
+    "paperId": "GAT-2020",
+    "questionNumber": 66,
+    "section": "General Awareness",
+    "question": {
+      "type": "text",
+      "content": "'Naseem-Al-Bahr' is a bilateral naval exercise between India and"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "United Arab Emirates"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Iran"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Saudi Arabia"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Oman"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Naseem-Al-Bahr' (Sea Breeze) is a bilateral naval exercise conducted between the Indian Navy and the Royal Navy of Oman."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q67",
+    "paperId": "GAT-2020",
+    "questionNumber": 67,
+    "section": "General Awareness",
+    "question": {
+      "type": "text",
+      "content": "Koneru Humpy excels in which one of the following sports?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Boxing"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Table Tennis"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Chess"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Billiards"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Koneru Humpy is a prominent Indian chess grandmaster."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q68",
+    "paperId": "GAT-2020",
+    "questionNumber": 68,
+    "section": "General Awareness",
+    "question": {
+      "type": "text",
+      "content": "Which one of the following was the official mascot of Khelo India Youth Games, 2020?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Vijaya"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Yaya"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Rongmon"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Ammu"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The official mascots of the 2020 Khelo India Youth Games held in Guwahati were 'Vijaya' (the Tiger) and 'Jaya' (the Blackbuck)."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q69",
+    "paperId": "GAT-2020",
+    "questionNumber": 69,
+    "section": "General Awareness",
+    "question": {
+      "type": "text",
+      "content": "In January 2020, a passenger aircraft crashed in Iran soon after taking off from Tehran's Imam Khomeini airport killing about 170 people onboard. The airplane belongs to"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Qatar Airways"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ukraine International Airlines"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Singapore Airlines"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Cathay Pacific"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The aircraft involved was Ukraine International Airlines Flight 752, a Boeing 737-800."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q70",
+    "paperId": "GAT-2020",
+    "questionNumber": 70,
+    "section": "General Awareness",
+    "question": {
+      "type": "text",
+      "content": "MILAN, a multilateral naval exercise, 2020 was hosted by which one of the following cities?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Port Blair"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Kochi"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Visakhapatnam"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Panaji"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "MILAN 2020 was scheduled to be hosted by Visakhapatnam under the Eastern Naval Command."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q71",
+    "paperId": "GAT-2020",
+    "questionNumber": 71,
+    "section": "General Science",
+    "question": {
+      "type": "text",
+      "content": "Chalk and marble are different forms of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Calcium hydrogen carbonate"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Calcium carbonate"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Calcium acetate"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sodium carbonate"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Limestone, chalk, and marble are all different chemical forms of calcium carbonate ($CaCO_3$)."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q72",
+    "paperId": "GAT-2020",
+    "questionNumber": 72,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The number of maximum electrons in $N$ Shell is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "18"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "32"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The maximum number of electrons in a shell is given by the formula $2n^2$. For the N shell, principal quantum number $n = 4$, so maximum capacity $= 2 \\times 4^2 = 32$."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q73",
+    "paperId": "GAT-2020",
+    "questionNumber": 73,
+    "section": "General Science",
+    "question": {
+      "type": "text",
+      "content": "Vinegar is also known as"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "ethanoic acid"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "nitric acid"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "sulphuric acid"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "tartaric acid"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Vinegar consists of 5–8% acetic acid (chemically known as ethanoic acid) by volume in water."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q74",
+    "paperId": "GAT-2020",
+    "questionNumber": 74,
+    "section": "General Science",
+    "question": {
+      "type": "text",
+      "content": "A liquid is kept in a glass beaker. Which one of the following statements is correct regarding the pressure exerted by the liquid column at the base of the beaker?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The pressure depends on the area of the base of the beaker"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The pressure depends on the height of liquid column"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The pressure does not depend on the density of the liquid"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The pressure neither depends on the area of the base of the beaker nor on the height of liquid column"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Liquid pressure at depth $h$ is given by $P = \\rho g h$. Thus, it directly depends on the height of the liquid column ($h$) and the density of the liquid ($\\rho$), but is independent of the base area of the beaker."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q75",
+    "paperId": "GAT-2020",
+    "questionNumber": 75,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Which of the following statements is NOT correct regarding the travel of sound waves?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sound waves can travel through water"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Sound waves can travel through air"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sound waves can travel through steel"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sound waves can travel through vacuum"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Sound waves are mechanical waves that require a material medium to propagate. They cannot travel through a vacuum."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q76",
+    "paperId": "GAT-2020",
+    "questionNumber": 76,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Deendayal Port is located at"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Kerala"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Gujarat"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Maharashtra"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Goa"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Deendayal Port Trust, formerly known as Kandla Port, is located in the Kutch district of Gujarat, India."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q77",
+    "paperId": "GAT-2020",
+    "questionNumber": 77,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Which one of the following cities is associated with Biosafety Protocol to the Convention on Biological Diversity (2000)?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Geneva"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Nairobi"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Cartagena"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Rio de Janeiro"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Cartagena Protocol on Biosafety to the Convention on Biological Diversity was adopted in January 2000 in Cartagena, Colombia."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q78",
+    "paperId": "GAT-2020",
+    "questionNumber": 78,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Krishna Raja Sagara Dam/Reservoir is developed on"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "river Krishna"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "river Tungabhadra"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "river Godavari"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "river Kavery"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Krishna Raja Sagara Dam is built across the river Kavery (Kaveri) in Karnataka, India."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q79",
+    "paperId": "GAT-2020",
+    "questionNumber": 79,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Which one of the following Indian states does NOT share international border with two or more countries?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Arunachal Pradesh"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Assam"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Mizoram"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Tripura"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Tripura shares an international border only with Bangladesh. Arunachal Pradesh borders Bhutan, China, and Myanmar; Assam borders Bhutan and Bangladesh; Mizoram borders Bangladesh and Myanmar."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q80",
+    "paperId": "GAT-2020",
+    "questionNumber": 80,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "According to Census of India, 2011, which one among the following is the least populated state in India?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Maharashtra"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Madhya Pradesh"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Odisha"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Punjab"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Among the options given, Punjab has the lowest population (~2.77 crore) as per Census 2011 compared to Maharashtra, Madhya Pradesh, and Odisha."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q81",
+    "paperId": "GAT-2020",
+    "questionNumber": 81,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "The speakers of major Indian languages belong to how many language families?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Two"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Three"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Four"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Six"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Major Indian languages belong to four main language families: Indo-European (Indo-Aryan), Dravidian, Austroasiatic (Nishada), and Sino-Tibetan (Kirata)."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q82",
+    "paperId": "GAT-2020",
+    "questionNumber": 82,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Where did Gandhiji initially forge the techniques of Satyagraha?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "England"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "South Africa"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "North Africa"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "India"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Mahatma Gandhi first developed and employed the concept and techniques of Satyagraha in South Africa during his movement against racial discrimination."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q83",
+    "paperId": "GAT-2020",
+    "questionNumber": 83,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Who was the Viceroy of India at the time of Gandhiji's Dandi march?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Lord Irwin"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Lord Linlithgow"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Lord Reading"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Lord Willingdon"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Lord Irwin was the Viceroy of India from 1926 to 1931, which covers the period of the Dandi March in March–April 1930."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q84",
+    "paperId": "GAT-2020",
+    "questionNumber": 84,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Which one among the following American newsmagazines was highly sceptical of Gandhiji's Dandi march initially but within a week completely changed its opinion and saluted him as a Saint and Statesman?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Saturday Evening Post"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Readers Digest"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Time"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Life"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Time magazine initially ridiculed Gandhi's Salt March, but later praised him and eventually named him Man of the Year for 1930."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q85",
+    "paperId": "GAT-2020",
+    "questionNumber": 85,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "In which of the following years were passenger trains introduced in England?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1823"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1825"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1848"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1861"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The Stockton and Darlington Railway opened in England in 1825, carrying the world's first steam-hauled passenger train."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q86",
+    "paperId": "GAT-2020",
+    "questionNumber": 86,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "The correct relation between the radius of curvature $R$ and focal length $f$ of a spherical mirror is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$R = f$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$R = 2f$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$R = 3f$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$R = 4f$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "For a spherical mirror of small aperture, the radius of curvature is twice its focal length, i.e., $R = 2f$."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q87",
+    "paperId": "GAT-2020",
+    "questionNumber": 87,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "A lemon kept in water in a glass tumbler appears to be larger than its actual size. It is because of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "reflection of light"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "scattering of light"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "refraction of light"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "polarization of light"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "When light travels from water to air, it bends due to refraction, causing objects immersed in water to appear larger and raised."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q88",
+    "paperId": "GAT-2020",
+    "questionNumber": 88,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Light enters the eye through a thin membrane called"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "retina"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "cornea"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "pupil"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "iris"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Light enters the human eye through a transparent thin membrane at the front called the cornea."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q89",
+    "paperId": "GAT-2020",
+    "questionNumber": 89,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Name the scientist who first used a glass prism to obtain the spectrum of sunlight"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "C. V. Raman"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Lord Rayleigh"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Isaac Newton"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "S. Chandrasekhar"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Sir Isaac Newton was the first to use a glass prism to split sunlight into its constituent spectrum of colors."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q90",
+    "paperId": "GAT-2020",
+    "questionNumber": 90,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The cost of energy to operate an industrial refrigerator that consumes $5\\text{ kW}$ power working 10 hours per day for 30 days will be (Given that the charge per $\\text{kW}\\cdot\\text{h}$ of energy = ₹ 4)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "₹ 600"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "₹ 6,000"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "₹ 1,200"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "₹ 1,500"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Energy consumed = $\\text{Power} \\times \\text{Time} = 5\\text{ kW} \\times (10\\text{ h/day} \\times 30\\text{ days}) = 1500\\text{ kW}\\cdot\\text{h}$. Total cost = $1500 \\times ₹ 4 = ₹ 6,000$."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q91",
+    "paperId": "GAT-2020",
+    "questionNumber": 91,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements regarding magnetic field is NOT correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Magnetic field is a quantity that has direction and magnitude"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Magnetic field lines are closed curves"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Magnetic field lines are open curves"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No two magnetic field lines are found to cross each other"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Magnetic field lines form continuous closed loops (curves), emerging from the North pole and entering the South pole outside the magnet, and continuing from South to North inside. Thus, saying they are open curves is incorrect."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q92",
+    "paperId": "GAT-2020",
+    "questionNumber": 92,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is NOT correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Buckminsterfullerene is an allotrope of carbon"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Diamond is a good conductor of electricity"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Graphite is a good conductor of electricity"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "In graphite, each carbon atom is linked to three other carbon atoms"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Diamond is a poor conductor of electricity because all four valence electrons of each carbon atom are involved in covalent bonding, leaving no free electrons to conduct electricity."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q93",
+    "paperId": "GAT-2020",
+    "questionNumber": 93,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "How many covalent bonds are present in a Chloropropane molecule having molecular formula, $\\text{C}_3\\text{H}_7\\text{Cl}$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "9"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "10"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "In chloropropane ($\\text{C}_3\\text{H}_7\\text{Cl}$), there are 2 single $\\text{C}-\\text{C}$ bonds, 7 single $\\text{C}-\\text{H}$ bonds, and 1 single $\\text{C}-\\text{Cl}$ bond, giving a total of $2 + 7 + 1 = 10$ covalent bonds."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q94",
+    "paperId": "GAT-2020",
+    "questionNumber": 94,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the most fundamental characteristic of an element?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Melting point"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Atomic number"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Colour"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Atomic weight"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Atomic number determines the unique identity and chemical properties of an element, making it the most fundamental characteristic."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q95",
+    "paperId": "GAT-2020",
+    "questionNumber": 95,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Neutrons were discovered by"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "James Chadwick"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ernest Rutherford"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "J. J. Thomson"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "John Dalton"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "James Chadwick discovered the neutron in 1932."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q96",
+    "paperId": "GAT-2020",
+    "questionNumber": 96,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Atomic mass of an element is equal to the sum of number of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "electrons and protons only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "protons and neutrons only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "electrons and neutrons only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "electrons, protons and neutrons"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The atomic mass (mass number) of an atom is defined as the total number of protons and neutrons contained in its nucleus."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q97",
+    "paperId": "GAT-2020",
+    "questionNumber": 97,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following element's isotope is used in the treatment of cancer?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Uranium"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Cobalt"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sodium"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Iodine"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "An isotope of cobalt (Cobalt-60) is commonly used in radiotherapy for the treatment of cancer."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q98",
+    "paperId": "GAT-2020",
+    "questionNumber": 98,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following cell organelles may play a role in expelling excess water and wastes in case of unicellular organisms?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Lysosome"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Vacuole"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Golgi body"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Endoplasmic reticulum"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "In unicellular organisms like Amoeba, specialized vacuoles (contractile vacuoles) play an important role in expelling excess water and metabolic wastes."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q99",
+    "paperId": "GAT-2020",
+    "questionNumber": 99,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following terms describes the practice of growing two or more crops simultaneously on the same piece of land?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Crop rotation"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Mixed cropping"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Intercropping"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Mixed farming"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Mixed cropping is defined as growing two or more crops simultaneously on the same piece of land without a specific row pattern."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q100",
+    "paperId": "GAT-2020",
+    "questionNumber": 100,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is correct about effects of antibiotics on viruses?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Viruses are \"non-living\" entities but it can interact with antibiotics"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Taking antibiotics cures viral infections"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Viruses do not possess metabolic pathways on which antibiotics can function, whereas bacteria have such pathways"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Viruses are resistant to antibiotics"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Antibiotics target metabolic pathways essential for bacteria (e.g. cell wall synthesis). Viruses lack their own metabolic pathways and rely on host cells, rendering antibiotics ineffective against them."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q101",
+    "paperId": "GAT-2020",
+    "questionNumber": 101,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The Panama Canal opened in 1914, links"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Red Sea and Mediterranean Sea"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Atlantic Ocean and Pacific Ocean"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Indian Ocean and Pacific Ocean"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Adriatic Sea and Black Sea"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The Panama Canal connects the Atlantic Ocean (via the Caribbean Sea) to the Pacific Ocean."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q102",
+    "paperId": "GAT-2020",
+    "questionNumber": 102,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The United Nations Charter was signed by 51 original members of the United Nations in 1945 at the"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Hague Conference"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "London Conference"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "San Francisco Conference"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Berlin Conference"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The United Nations Charter was signed on 26 June 1945 at the San Francisco Conference (United Nations Conference on International Organization)."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q103",
+    "paperId": "GAT-2020",
+    "questionNumber": 103,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Land Revenue Records maintained in India have categorized land-use into"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "6 categories"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "9 categories"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "15 categories"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "21 categories"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Land revenue records in India classify land use into 9 distinct categories: Forests, Land put to non-agricultural uses, Barren and unculturable land, Permanent pastures and other grazing land, Land under miscellaneous tree crops and groves, Culturable waste land, Fallow other than current fallow, Current fallow, and Net sown area."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT-2020-Q104",
+    "paperId": "GAT-2020",
+    "questionNumber": 104,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Dry land farming in India is largely confined to areas with rainfall less than"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "100 cm"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "85 cm"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "80 cm"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "75 cm"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Dryland farming is practiced in regions receiving annual rainfall less than 75 cm, where hardy and drought-resistant crops are grown."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT-2020-Q105",
+    "paperId": "GAT-2020",
+    "questionNumber": 105,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "For an area to be excluded from the drought-prone category, what percentage of its gross cropped area should be under irrigation ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "10 per cent or more"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "20 per cent or more"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "25 per cent or more"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "30 per cent or more"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "According to official guidelines, an area having 30 per cent or more of its gross cropped area under irrigation is excluded from the drought-prone category."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT-2020-Q106",
+    "paperId": "GAT-2020",
+    "questionNumber": 106,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is NOT a current of Pacific Ocean ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Oyashio current"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Alaska current"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Agulhas current"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "California current"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Agulhas current is a warm ocean current located in the Indian Ocean along the eastern coast of Africa, whereas Oyashio, Alaska, and California currents are in the Pacific Ocean."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT-2020-Q107",
+    "paperId": "GAT-2020",
+    "questionNumber": 107,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The duration of monsoon in India extends for an average period of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "80 - 140 days"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "100 - 120 days"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "90 - 130 days"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "100 - 140 days"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The southwest monsoon season lasts for about 100 to 120 days, starting from early June to mid-September."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT-2020-Q108",
+    "paperId": "GAT-2020",
+    "questionNumber": 108,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the natural vegetation of South east China ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Subtropical broadleaf evergreen forest"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Tropical broadleaf evergreen forest"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Tropical deciduous forest"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Temperate evergreen forest"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "South East China falls under the China Type climate (humid subtropical) characterized by subtropical broadleaf evergreen forests."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT-2020-Q109",
+    "paperId": "GAT-2020",
+    "questionNumber": 109,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is a cold local wind ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Santa Ana"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Chinook"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Mistral"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Loo"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Mistral is a strong, cold, dry wind blowing from the Alps down to the northern coast of the Mediterranean Sea. Santa Ana, Chinook, and Loo are warm/hot winds."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT-2020-Q110",
+    "paperId": "GAT-2020",
+    "questionNumber": 110,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "What was the consequence of Permanent Settlement on rural society in Bengal ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The zamindars invested capital and enterprise to improve agriculture along lines of British yeoman farmers"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A group of rich peasants known as jotedars succeeded in consolidating their position in the villages"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The ryots prospered as a result of fixed revenue levy imposed on them"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The system of Collectorate introduced by the Company for exercising supervisory control on zamindars failed to take off"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Under the Permanent Settlement, rich peasants known as jotedars consolidated their power in rural Bengal by purchasing lands sold off during zamindari auctions and exercising direct control over poor ryots."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT-2020-Q111",
+    "paperId": "GAT-2020",
+    "questionNumber": 111,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "What was $Damin-i\\ Koh$ in Rajmahal area ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A large area of land demarcated and declared to be the land of the Santhals"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The land of the Paharias cultivated exclusively for paddy"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The British territory marked for their military camp"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The land earmarked for locating settled agriculturists"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Damin-i-Koh was a large area of land demarcated by the British authorities in 1832 around the Rajmahal Hills and declared to be the land of the Santhals."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT-2020-Q112",
+    "paperId": "GAT-2020",
+    "questionNumber": 112,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about the Revolt of 1857 is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "It was a Revolt carefully organised and planned by the Rajas, Nawabs and Taluqdars"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Rumours and prophecies did not play any role in its outbreak and spread"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The rebel proclamations in 1857 repeatedly appealed to all sections of the population irrespective of their caste and creed."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The British succeeded in quickly and easily controlling the rebels"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Rebel proclamations and manifestos in 1857 issued under the name of Bahadur Shah and other leaders repeatedly appealed to all communities (both Hindus and Muslims) irrespective of caste and creed to unite against British rule."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT-2020-Q113",
+    "paperId": "GAT-2020",
+    "questionNumber": 113,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one among the following was NOT a $Panch\\ Sheel$ principle ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Peaceful Co-existence"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Mutual respect for territorial integrity"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Nuclear deterrence"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Non-interference in internal affairs"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Five Principles of Peaceful Coexistence (Panchsheel) signed in 1954 include mutual respect for territorial integrity and sovereignty, mutual non-aggression, mutual non-interference in internal affairs, equality and mutual benefit, and peaceful co-existence. Nuclear deterrence was not part of Panchsheel."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT-2020-Q114",
+    "paperId": "GAT-2020",
+    "questionNumber": 114,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following had organised, in 1904, a secret society of revolutionaries named $Abhinav\\ Bharat$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Khudiram Bose"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Shyamji Krishna Verma"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Har Dayal"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "V D Savarkar"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Abhinav Bharat Society (Young India Society) was founded by Vinayak Damodar Savarkar (V D Savarkar) and his brother Ganesh Damodar Savarkar in 1904."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT-2020-Q115",
+    "paperId": "GAT-2020",
+    "questionNumber": 115,
+    "section": "General Awareness",
+    "question": {
+      "type": "latex",
+      "content": "The principle that the framing of the new Constitution for independent India should be primarily (though not solely) the responsibility of Indians themselves, was for the first time conceded in the"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Government of India Act, 1935"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "August Offer of Viceroy Linlithgow"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Cripps Proposals"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Cabinet Mission"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The August Offer of 1940 proposed by Viceroy Linlithgow for the first time explicitly recognized the right of Indians to frame their own constitution."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q116",
+    "paperId": "GAT-2020",
+    "questionNumber": 116,
+    "section": "General Awareness",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is a major environmental issue in eastern Canada ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Acid precipitation"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Groundwater depletion"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Land degradation"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Desertification"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Acid precipitation (acid rain) is a major environmental issue in eastern Canada due to industrial emissions from both Canada and the USA."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q117",
+    "paperId": "GAT-2020",
+    "questionNumber": 117,
+    "section": "General Awareness",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following mountains lies in between Caspian Sea and Black Sea ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Caucasus"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Carpathians"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Apennine"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Elburz"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Caucasus Mountains stretch between the Black Sea and the Caspian Sea."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q118",
+    "paperId": "GAT-2020",
+    "questionNumber": 118,
+    "section": "General Awareness",
+    "question": {
+      "type": "latex",
+      "content": "Bagalihar, Dulhasti and Salal hydro power projects have been developed on which of the following rivers ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Chenab and Jhelum"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Chenab and Indus"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Ravi"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Chenab only"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Baglihar, Dulhasti, and Salal hydroelectric power projects are all built across the Chenab River in Jammu & Kashmir."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q119",
+    "paperId": "GAT-2020",
+    "questionNumber": 119,
+    "section": "General Awareness",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following statements with regard to Biosphere Reserve is/are correct ? 1. The idea of Biosphere Reserve was initiated by UNESCO in 1973-74 2. There are 18 designated Biosphere Reserves in India 3. All Biosphere Reserves in India have been included in world network of Biosphere Reserves of UNESCO Select the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because not all 18 Biosphere Reserves of India are included in the World Network of Biosphere Reserves (only 12 are included)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q120",
+    "paperId": "GAT-2020",
+    "questionNumber": 120,
+    "section": "General Awareness",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following countries does NOT have direct access to the sea/ocean ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Syria"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Jordan"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Azerbaijan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Armenia"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Armenia is a landlocked country with no direct access to any open sea or ocean."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q121",
+    "paperId": "GAT-2020",
+    "questionNumber": 121,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "In an incandescent electric bulb, the filament of the bulb is made up of which metal ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Aluminium"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Copper"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Tungsten"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Silver"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Tungsten is used for bulb filaments because of its high melting point and high resistivity."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q122",
+    "paperId": "GAT-2020",
+    "questionNumber": 122,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Two equal resistors $R$ are connected in parallel, and a battery of $12\\text{ V}$ is connected across this combination. A dc current of $100\\text{ mA}$ flows through the circuit. The value of $R$ is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$120\\ \\Omega$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$240\\ \\Omega$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$60\\ \\Omega$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$100\\ \\Omega$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Equivalent resistance $R_{eq} = \\frac{V}{I} = \\frac{12\\text{ V}}{0.1\\text{ A}} = 120\\ \\Omega$. Since two equal resistors $R$ are in parallel, $R_{eq} = \\frac{R}{2} \\implies R = 2 \\times 120\\ \\Omega = 240\\ \\Omega$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q123",
+    "paperId": "GAT-2020",
+    "questionNumber": 123,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is NOT the unit of energy ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Joule"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Watt-hr"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Newton-metre"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\text{kg-metre/sec}^2$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "$\\text{kg}\\cdot\\text{m/s}^2$ is the SI unit of force (Newton), whereas energy has units of $\\text{kg}\\cdot\\text{m}^2/\\text{s}^2$ (Joule)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q124",
+    "paperId": "GAT-2020",
+    "questionNumber": 124,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is NOT correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Biomass is a renewable source of energy"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Gobar gas is produced when cow-dung, crop residues, vegetable waste and sewage are allowed to decompose in the absence of oxygen"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Biogas generation reduces soil and water pollution"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Heating capacity of biogas is very low"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Biogas has a high heating capacity (calorific value) and burns without smoke, leaving no residue."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q125",
+    "paperId": "GAT-2020",
+    "questionNumber": 125,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "In prokaryotic organisms, nuclear region is not surrounded by a membrane. This undefined nuclear region is known as"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Nucleic acid"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Nucleoid"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Nucleolus"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Nucleosome"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The undefined nuclear region containing only nucleic acids in prokaryotes is called a nucleoid."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q126",
+    "paperId": "GAT-2020",
+    "questionNumber": 126,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following plant tissues has dead cells ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Epidermis"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Parenchyma"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Collenchyma"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sclerenchyma"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Sclerenchyma cells are long, narrow, dead cells with thick lignified walls that provide mechanical support to plants."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q127",
+    "paperId": "GAT-2020",
+    "questionNumber": 127,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Cartilage is NOT found in"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "larynx"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "nose"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "ear"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "urinary bladder"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Cartilage is present in the larynx, nose, and ear pinna. The urinary bladder is composed of smooth muscle tissue and does not contain cartilage."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q128",
+    "paperId": "GAT-2020",
+    "questionNumber": 128,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Two planets orbit the Sun in circular orbits, with their radius of orbit as $R_1 = R$ and $R_2 = 4R$. Ratio of their periods ($T_1/T_2$) around the Sun will be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$1/16$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$1/8$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$1/4$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$1/2$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "According to Kepler's Third Law, $T^2 \\propto R^3$. Therefore, $(T_1/T_2)^2 = (R_1/R_2)^3 = (R/4R)^3 = 1/64$. Taking the square root gives $T_1/T_2 = 1/8$."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q129",
+    "paperId": "GAT-2020",
+    "questionNumber": 129,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A metallic wire having resistance of $20\\ \\Omega$ is cut into two equal parts in length. These parts are then connected in parallel. The resistance of this parallel combination is equal to"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$20\\ \\Omega$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$10\\ \\Omega$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$5\\ \\Omega$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$15\\ \\Omega$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Cutting the wire into two equal parts halves the resistance of each part to $10\\ \\Omega$. When connected in parallel, the equivalent resistance is $R_{eq} = \\frac{10 \\times 10}{10 + 10} = 5\\ \\Omega$."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q130",
+    "paperId": "GAT-2020",
+    "questionNumber": 130,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Light of uniform intensity impinges perpendicularly on a totally reflecting surface. If the area of the surface is halved, the radiation force on it will become"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "double"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "half"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "four times"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "one fourth"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Radiation force $F = \\frac{2IA}{c}$ for a totally reflecting surface. Since force is directly proportional to area $A$, halving the area halves the radiation force."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q131",
+    "paperId": "GAT-2020",
+    "questionNumber": 131,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The part of the human eye on which the image is formed is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "pupil"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "cornea"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "retina"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "iris"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The retina is the light-sensitive layer of tissue lining the back of the eye on which the lens focuses images."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q132",
+    "paperId": "GAT-2020",
+    "questionNumber": 132,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following image:\n\nA proton enters a magnetic field at right angles to it, as shown above. The direction of force acting on the proton will be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "to the right"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "to the left"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "out of the page"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "into the page"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "By Fleming's Left-Hand Rule, aligning the forefinger with the magnetic field (pointing right) and the middle finger with the positive charge velocity (pointing up) places the thumb pointing into the page."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q133",
+    "paperId": "GAT-2020",
+    "questionNumber": 133,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about sound is NOT correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sound travels at a speed slower than the speed of light"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Sound waves are transverse waves"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sound waves are longitudinal waves"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sound travels faster in moist air than in dry air"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Sound waves in gases and liquids are longitudinal mechanical waves, not transverse waves."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q134",
+    "paperId": "GAT-2020",
+    "questionNumber": 134,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "When the short circuit condition occurs, the current in the circuit"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "becomes zero"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "remains constant"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "increases substantially"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "keeps on changing randomly"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "In a short circuit, resistance drops significantly toward zero, causing the current in the circuit to increase substantially."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q135",
+    "paperId": "GAT-2020",
+    "questionNumber": 135,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is NOT a component of human male reproductive system?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Cervix"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Urethra"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Seminal vesicle"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Vas deferens"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The cervix is part of the female reproductive system."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q136",
+    "paperId": "GAT-2020",
+    "questionNumber": 136,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is NOT a reason of decrease in biodiversity?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Large scale deforestation"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Exploitation of forest produce"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Maintaining sacred groves"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Encroachment in forest areas"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Sacred groves are traditionally protected forest areas that help preserve biodiversity."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q137",
+    "paperId": "GAT-2020",
+    "questionNumber": 137,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is NOT a cause of depletion in groundwater?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Afforestation"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Loss of forests"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Excessive pumping of groundwater"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Construction of large scale concrete buildings"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Afforestation enhances water retention in soil and helps recharge groundwater tables rather than depleting them."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q138",
+    "paperId": "GAT-2020",
+    "questionNumber": 138,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following types of radiations has the smallest wavelength?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Microwaves"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Infra-red"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Visible light"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "X-rays"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "In the electromagnetic spectrum, X-rays have the highest frequency and shortest wavelength among the given options."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q139",
+    "paperId": "GAT-2020",
+    "questionNumber": 139,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The instrument used for detecting the presence of electric current in a circuit is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Refractometer"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Galvanometer"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Viscometer"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Diffractometer"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "A galvanometer is used to detect the presence and direction of small electric currents in a circuit."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q140",
+    "paperId": "GAT-2020",
+    "questionNumber": 140,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the largest composition in biogas?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Carbon dioxide"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Methane"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Hydrogen"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Hydrogen sulphide"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Biogas consists primarily of methane ($50\\% - 75\\%$)."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q141",
+    "paperId": "GAT-2020",
+    "questionNumber": 141,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The Sun appears reddish during sunrise and sunset. The phenomenon in optics which is responsible for this appearance of the Sun is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Reflection"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Total internal reflection"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Scattering"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Interference"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Scattering of light by atmospheric particles scatters away shorter blue wavelengths, leaving longer red wavelengths to reach our eyes at sunrise and sunset."
+    }
+  },
+  {
+    "questionId": "GAT-2020-Q142",
+    "paperId": "GAT-2020",
+    "questionNumber": 142,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "A lens has a power of $+2.0$ Dioptre. Which one of the following statements about the lens is true ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The lens is concave and has a focal length of $0.5$ metre"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The lens is convex and has a focal length of $2.0$ metre"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The lens is convex and has a focal length of $0.5$ metre"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The lens is concave and has a focal length of $2.0$ metre"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Power $P = +2.0\\text{ D}$. A positive power indicates a convex lens. Focal length $f = \\frac{1}{P} = \\frac{1}{+2.0} = 0.5\\text{ metre}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q143",
+    "paperId": "GAT-2020",
+    "questionNumber": 143,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "At nearly $70^\\circ\\text{C}$, sodium bicarbonate shows the property of gradually decomposing, which makes it usable in bakery products. The product of decomposition responsible for this use of sodium bicarbonate is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Carbon dioxide"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Hydrogen"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Water vapour"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Oxygen"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "When sodium bicarbonate ($NaHCO_3$) is heated, it decomposes to produce carbon dioxide gas ($CO_2$), which expands and causes bakery products to rise and become light and soft."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q144",
+    "paperId": "GAT-2020",
+    "questionNumber": 144,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Number of molecules of water of crystallization in copper sulphate, sodium carbonate and Gypsum are"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$5$, $10$ and $2$ respectively"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$10$, $2$ and $5$ respectively"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$5$, $2$ and $10$ respectively"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$2$, $5$ and $10$ respectively"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Copper sulphate has $5$ water molecules ($CuSO_4 \\cdot 5H_2O$), sodium carbonate has $10$ water molecules ($Na_2CO_3 \\cdot 10H_2O$), and Gypsum has $2$ water molecules ($CaSO_4 \\cdot 2H_2O$)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q145",
+    "paperId": "GAT-2020",
+    "questionNumber": 145,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the correct sequence of change in colours when a turmeric stain on white clothes is scrubbed by soap and then washed with water ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Yellow – pink – blue"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Yellow – reddish brown – yellow"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Yellow – reddish brown – blue"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Yellow – blue – pink"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Turmeric is naturally yellow. Soap is basic in nature, so scrubbing with soap turns the yellow stain reddish-brown. Washing with plenty of water removes the base, restoring the original yellow colour."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q146",
+    "paperId": "GAT-2020",
+    "questionNumber": 146,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements regarding Bleaching powder and D.D.T. is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Both are inorganic compounds"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Both are organic compounds"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both contain chlorine"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Both contain calcium"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Bleaching powder ($CaOCl_2$) is an inorganic compound containing chlorine. D.D.T. ($C_{14}H_9Cl_5$) is an organic compound also containing chlorine. Therefore, both compounds contain chlorine."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q147",
+    "paperId": "GAT-2020",
+    "questionNumber": 147,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the best example of desiccant ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Silica gel"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Polystyrene"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sodium chloride"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Sodium carbonate"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Silica gel is a porous form of silicon dioxide that effectively adsorbs water vapour and moisture, making it a widely used desiccant."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q148",
+    "paperId": "GAT-2020",
+    "questionNumber": 148,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following was the first mineral acid discovered ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sulphuric acid"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Hydrochloric acid"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Nitric acid"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Phosphoric acid"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Sulphuric acid (historically known as oil of vitriol) was the first mineral acid discovered, attributed to medieval alchemists such as Jabir ibn Hayyan."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q149",
+    "paperId": "GAT-2020",
+    "questionNumber": 149,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "The refractive index of fused quartz is $1.46$ and that of sapphire is $1.77$. If $v_q$ is the speed of light in quartz and $v_s$ is the speed of light in sapphire, then which one of the following relations is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$v_q > v_s$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$v_s > v_q$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$v_s = v_q$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$v_s = \\frac{v_q}{2}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The refractive index $n$ is inversely proportional to the speed of light $v$ in a medium ($n = c/v$). Since $n_{\\text{quartz}} = 1.46 < n_{\\text{sapphire}} = 1.77$, the speed of light in quartz $v_q$ is greater than the speed of light in sapphire $v_s$ ($v_q > v_s$)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT-2020-Q150",
+    "paperId": "GAT-2020",
+    "questionNumber": 150,
+    "section": "General Ability Test",
+    "question": {
+      "type": "latex",
+      "content": "In case of a concave mirror, if an object is kept between principal focus $F$ and pole $P$ of the mirror, then which one of the following statements about the image is NOT correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The image will be virtual"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The image will be enlarged or magnified"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The image will be formed at infinity"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The image will be erect"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "When an object is placed between the focus $F$ and pole $P$ of a concave mirror, the image formed is virtual, erect, enlarged, and formed behind the mirror. An image is formed at infinity when the object is placed exactly at the focus $F$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  }
+]
