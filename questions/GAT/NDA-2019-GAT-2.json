@@ -1,1 +1,5550 @@
-
+[
+  {
+    "questionId": "GAT(2)2019-Q1",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 1,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "He is always anxious."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "worried"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "dispassionate"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "sluggish"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "torpid"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Anxious' means experiencing worry, nervousness, or unease. Therefore, 'worried' is the nearest in meaning."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q2",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 2,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "The poems of Kabir are ecstatic in nature."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "efficacious"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "eerie"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "rapturous"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "reverential"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Ecstatic' means feeling or expressing overwhelming happiness or joyful excitement. 'Rapturous' is the synonym."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q3",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 3,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "Ravi loves seclusion. Therefore, he lives in the mountains."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "nature"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "scripture"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "seafaring"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "solitariness"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Seclusion' means the state of being private and away from other people, which corresponds to 'solitariness'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q4",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 4,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "Hitler was a despot."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "conservative"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "dictator"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "passionate"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "monstrous"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Despot' refers to a ruler or other person who holds absolute power, typically exercising it in a cruel or oppressive way, which is synonymous with 'dictator'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q5",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 5,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "The imagery used in the poem is vivid."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "lively"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "inert"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "ebullient"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "caustic"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Vivid' producing powerful feelings or strong, clear images in the mind; hence, 'lively' is closest in meaning."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q6",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 6,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "A human being is always vulnerable to other human beings."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "resilient"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "elastic"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "defenceless"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "crude"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Vulnerable' means exposed to the possibility of being attacked or harmed, which means 'defenceless'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q7",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 7,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "His language is political and vitriolic."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "imaginative"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "sprightly"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "vivacious"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "abusive"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Vitriolic' means filled with bitter criticism or malice, so 'abusive' is the closest synonym."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q8",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 8,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "The Managing Director of the company declared that he is broke and there is a need to seek support from the government."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "bankrupt"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "rich"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "making profit"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "having liabilities"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Broke' means having completely run out of money, i.e., 'bankrupt'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q9",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 9,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "He loves doing nasty things."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "nice"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "fastidious"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "foul"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "finicky"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Nasty' means very bad or unpleasant, corresponding to 'foul'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q10",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 10,
+    "section": "Synonyms",
+    "question": {
+      "type": "text",
+      "content": "He could not muster courage to speak the truth before his friend."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "injure"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "spoil"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "gather"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "maim"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Muster' means to assemble or collect, which corresponds to 'gather'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q11",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 11,
+    "section": "Antonyms",
+    "question": {
+      "type": "text",
+      "content": "His conversations are always absurd."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "farcical"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "foolish"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "preposterous"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "rational"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Absurd' means wildly unreasonable, illogical, or inappropriate. Its opposite is 'rational'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q12",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 12,
+    "section": "Antonyms",
+    "question": {
+      "type": "text",
+      "content": "The politician was a dissident."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "agitator"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "rebel"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "conformist"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "revolutionary"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Dissident' means a person who opposes official policy. Its opposite is 'conformist'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q13",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 13,
+    "section": "Antonyms",
+    "question": {
+      "type": "text",
+      "content": "He wrote an incisive article on corruption in politics."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "vague"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "penetrating"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "trenchant"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "precise"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Incisive' means intelligently analytical and clear-thinking. The opposite of clear and precise is 'vague'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q14",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 14,
+    "section": "Antonyms",
+    "question": {
+      "type": "text",
+      "content": "Rakesh is an eccentric prodigal."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "extravagant"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "profligate"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "wasteful"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "thrifty"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Prodigal' means spending money or resources freely and recklessly. The opposite is 'thrifty'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q15",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 15,
+    "section": "Antonyms",
+    "question": {
+      "type": "text",
+      "content": "Friendship is always reciprocal."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "mutual"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "one-sided"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "shared"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "corresponding"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Reciprocal' means given, felt, or done in return (mutual). The opposite is 'one-sided'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q16",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 16,
+    "section": "Antonyms",
+    "question": {
+      "type": "text",
+      "content": "The debate was highly stimulating."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "arousing"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "invigorating"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "boring"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "stirring"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Stimulating' means encouraging interest or enthusiasm; exciting. The opposite is 'boring'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q17",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 17,
+    "section": "Antonyms",
+    "question": {
+      "type": "text",
+      "content": "Malaria is a widespread disease."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "endemic"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "pervasive"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "common"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "rare"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Widespread' means found or distributed over a large area or number of people. Its antonym is 'rare'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q18",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 18,
+    "section": "Antonyms",
+    "question": {
+      "type": "text",
+      "content": "The bill received a vehement resistance from the opposition party in the Parliament."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "animated"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "apathetic"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "fervent"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "vigorous"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Vehement' means showing strong feeling; forceful, passionate, or intense. The opposite is 'apathetic'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q19",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 19,
+    "section": "Antonyms",
+    "question": {
+      "type": "text",
+      "content": "He has been obstinate since his childhood."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "stubborn"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "dogged"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "amenable"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "rigid"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Obstinate' means stubbornly refusing to change one's opinion or chosen course of action. Its antonym is 'amenable'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q20",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 20,
+    "section": "Antonyms",
+    "question": {
+      "type": "text",
+      "content": "Mahatma Gandhi was one of the most prominent leaders of his times."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "renowned"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "distinguishable"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "eminent"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "unknown"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Prominent' means famous or important. The opposite is 'unknown'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q21",
+    "paperId": "GAT_2019",
+    "questionNumber": 21,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "text",
+      "content": "Find out whether there is any error in any underlined part of the sentence: He had arrived at Cairo a few months before protests shook the Arab world."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "He had arrived at Cairo"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "a few months before"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "protests shook the Arab world."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The preposition 'in' should be used before large cities or countries instead of 'at'. Hence, it should be 'arrived in Cairo'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q22",
+    "paperId": "GAT_2019",
+    "questionNumber": 22,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "text",
+      "content": "Find out whether there is any error in any underlined part of the sentence: Most of us who are older competitive runners are not able to race anywhere at the same speed as we do when we were 30."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Most of us who are older competitive runners"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "are not able to race anywhere at the same speed"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "as we do when we were 30."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Since 'when we were 30' refers to past time, the past tense 'did' should be used instead of 'do'. Thus, it should be 'as we did when we were 30'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q23",
+    "paperId": "GAT_2019",
+    "questionNumber": 23,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "text",
+      "content": "Find out whether there is any error in any underlined part of the sentence: Work hard lest you do not fail."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Work hard"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "lest you do not"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "fail."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'Lest' expresses negative purpose ('for fear that') and is not followed by 'not'. It takes 'should' or subjunctive verb form. Thus, it should be 'lest you should fail' or 'lest you fail'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q24",
+    "paperId": "GAT_2019",
+    "questionNumber": 24,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "text",
+      "content": "Find out whether there is any error in any underlined part of the sentence: The Eastern Ghats are home of 2600 plant species and this habitat fragmentation can pose a serious threat to endemic plants."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "The Eastern Ghats are home of 2600 plant species"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "and this habitat fragmentation"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "can pose a serious threat to endemic plants."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The idiom is 'home to' species or wildlife rather than 'home of'. Hence, 'home to 2600 plant species' is correct."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q25",
+    "paperId": "GAT_2019",
+    "questionNumber": 25,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "text",
+      "content": "Find out whether there is any error in any underlined part of the sentence: Turbidity current is a fast-moving current that sweeps down submarine canyons, carrying sand and mud into the deep sea."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Turbidity current is a fast-moving current"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "that sweeps down submarine canyons,"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "carrying sand and mud into the deep sea."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "A singular countable noun requires an article. It should be 'A turbidity current is a fast-moving current'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q26",
+    "paperId": "GAT_2019",
+    "questionNumber": 26,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "text",
+      "content": "Find out whether there is any error in any underlined part of the sentence: Every one of the boys love to ride."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Every one"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "of the boys"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "love to ride."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The subject 'Every one' is singular, so it takes a singular verb 'loves' instead of 'love'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q27",
+    "paperId": "GAT_2019",
+    "questionNumber": 27,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "text",
+      "content": "Find out whether there is any error in any underlined part of the sentence: Neither praise nor blame seem to affect him."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Neither praise nor blame"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "seem"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "to affect him."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "When two singular subjects are joined by 'neither... nor', the verb should be singular. Thus, 'seem' should be replaced by 'seems'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q28",
+    "paperId": "GAT_2019",
+    "questionNumber": 28,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "text",
+      "content": "Find out whether there is any error in any underlined part of the sentence: Many a man has succumbed to this temptation."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Many a man"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "has succumbed"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "to this temptation."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The expression 'Many a man' takes a singular verb ('has succumbed'), which is grammatically correct. There is no error."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q29",
+    "paperId": "GAT_2019",
+    "questionNumber": 29,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "text",
+      "content": "Find out whether there is any error in any underlined part of the sentence: A time slot of fifteen minutes are allowed to each speaker."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "A time slot of fifteen minutes"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "are allowed"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "to each speaker."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The main subject of the sentence is singular ('A time slot'), so the verb must be singular ('is allowed')."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q30",
+    "paperId": "GAT_2019",
+    "questionNumber": 30,
+    "section": "Spotting Errors",
+    "question": {
+      "type": "text",
+      "content": "Find out whether there is any error in any underlined part of the sentence: He asked whether either of the brothers were at home."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "He asked"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "whether either of the brothers"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "were at home."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "No error"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Either' takes a singular verb. Therefore, 'were at home' should be replaced by 'was at home'."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q31",
+    "paperId": "GAT_2019",
+    "questionNumber": 31,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "text",
+      "content": "Be over the hill"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "To be on a mountain top"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "To travel in the jungle"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "To be too old to do things"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "To do something in the most complete way"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": " The idiom 'over the hill' means past one's prime or too old to do things effectively."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q32",
+    "paperId": "GAT_2019",
+    "questionNumber": 32,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "text",
+      "content": "Bite your tongue"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "To stop yourself from saying something because it would be better not to"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "To bite off your tongue while eating"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "To feel sorry"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "To ask someone something that you want"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "'Bite your tongue' means to refrain from expressing an opinion or saying something."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q33",
+    "paperId": "GAT_2019",
+    "questionNumber": 33,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "text",
+      "content": "Turn a blind eye"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "To run away"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "To begin to behave in a more positive manner"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "To change a situation"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "To choose to ignore behaviour that you know is wrong"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "'Turn a blind eye' means to pretend not to notice something bad or illegal."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q34",
+    "paperId": "GAT_2019",
+    "questionNumber": 34,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "text",
+      "content": "Yellow journalism"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Paid storytelling"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Government reports published on yellow coloured papers"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Writings in newspapers that try to influence people's opinion by using strong language and false information"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Journalism which agrees completely with the policies of the governments and capitalists"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "'Yellow journalism' refers to sensationalized or biased journalism that uses eye-catching headlines or exaggerated stories to sell newspapers or influence public opinion."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q35",
+    "paperId": "GAT_2019",
+    "questionNumber": 35,
+    "section": "Idioms and Phrases",
+    "question": {
+      "type": "text",
+      "content": "To be in seventh heaven"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "To fly in the air"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "To be extremely happy"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "To be completely alone"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "To visit a place which is in the list of the seven wonders of the world"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "'To be in seventh heaven' means to be in a state of extreme happiness or joy."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q36",
+    "paperId": "gat-2019",
+    "questionNumber": 36,
+    "section": "Ordering of words in a sentence",
+    "question": {
+      "type": "text",
+      "content": "P: closely monitor the situation Q: by the disturbing allegations R: we are deeply concerned S: and will continue to"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "R Q S P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "S P Q R"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "S P R Q"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "P R S Q"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The correct sequence that forms a grammatically correct sentence is R Q S P: 'We are deeply concerned by the disturbing allegations and will continue to closely monitor the situation.'"
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q37",
+    "paperId": "gat-2019",
+    "questionNumber": 37,
+    "section": "Ordering of words in a sentence",
+    "question": {
+      "type": "text",
+      "content": "P: relieve nausea, pain and stress Q: aromatherapy may also help R: using lavender oil on their skin S: but patients are cautioned against"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "R Q P S"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "S Q P R"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Q P S R"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "R P S Q"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The logically correct sentence structure is Q P S R: 'Aromatherapy may also help relieve nausea, pain and stress but patients are cautioned against using lavender oil on their skin.'"
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q38",
+    "paperId": "gat-2019",
+    "questionNumber": 38,
+    "section": "Ordering of words in a sentence",
+    "question": {
+      "type": "text",
+      "content": "P: without any mandate of law Q: the plea filed through the advocate R: online is illegal and S: submitted that the sale of drugs and prescription medicines"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "R Q S P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Q S R P"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Q R S P"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "P R S Q"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The meaningful order is Q S R P: 'The plea filed through the advocate submitted that the sale of drugs and prescription medicines online is illegal and without any mandate of law.'"
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q39",
+    "paperId": "gat-2019",
+    "questionNumber": 39,
+    "section": "Ordering of words in a sentence",
+    "question": {
+      "type": "text",
+      "content": "P: humans and machines have co-existed Q: dating back to the invention of R: the potter's wheel in ancient Mesopotamia S: at the physical level for millennia"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "R S P Q"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Q S P R"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Q R P S"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "P S Q R"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The correct logical order is P S Q R: 'Humans and machines have co-existed at the physical level for millennia dating back to the invention of the potter's wheel in ancient Mesopotamia.'"
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q40",
+    "paperId": "gat-2019",
+    "questionNumber": 40,
+    "section": "Ordering of words in a sentence",
+    "question": {
+      "type": "text",
+      "content": "P: a sell-off as US Treasury yields Q: surged to multi-year highs R: on robust economic data S: global markets also witnessed"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "R S Q P"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "P Q S R"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Q R P S"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "S P Q R"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The correct arrangement is S P Q R: 'Global markets also witnessed a sell-off as US Treasury yields surged to multi-year highs on robust economic data.'"
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q41",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 41,
+    "section": "Comprehension",
+    "question": {
+      "type": "text",
+      "content": "According to the author, why should one study ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "To gather information about the world"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "To pass the time in a creative way"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "For pleasure, enhanced capability and holistic growth"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "To become only worldly wise"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The passage states that studies serve for delight, ornament, and ability, which corresponds to pleasure, enhanced capability, and overall growth."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q42",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 42,
+    "section": "Comprehension",
+    "question": {
+      "type": "text",
+      "content": "Why does the author not recommend too much of studies ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Because it reflects idleness"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Because it requires too much money"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Because it is dangerous for the health of the mind"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Because it makes men crafty"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "According to the passage, 'To spend too much time in studies is sloth', where sloth implies idleness."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q43",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 43,
+    "section": "Comprehension",
+    "question": {
+      "type": "text",
+      "content": "According to the author, how can the studies be perfected ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "By reflection"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "By application"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "By conversation"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "By experience"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The author explicitly states that studies 'are perfected by experience'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q44",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 44,
+    "section": "Comprehension",
+    "question": {
+      "type": "text",
+      "content": "Which kind of human beings denounce studies ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Innocent"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Cunning"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Stupid"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Wise"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The text mentions 'Crafty men condemn studies', where crafty means cunning and condemn means denounce."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q45",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 45,
+    "section": "Comprehension",
+    "question": {
+      "type": "text",
+      "content": "According to the author, one should read to"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "only argue"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "only believe"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "evaluate and understand"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "preach and believe"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The passage advises to read 'but to weigh and consider', which means to evaluate and understand."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q46",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 46,
+    "section": "Fill in the blanks",
+    "question": {
+      "type": "text",
+      "content": "The Election Commission on Saturday ____________ that the Assembly elections in five States will be held from November 12 to December 7."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "pronounced"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "announced"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "promulgated"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "issued"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The appropriate word for official public declarations regarding election schedules is 'announced'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q47",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 47,
+    "section": "Fill in the blanks",
+    "question": {
+      "type": "text",
+      "content": "The victims were fruit vendors and they were going in an auto when they ____________ an accident on the way."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "met with"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "ran into"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "experienced"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "heard"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The correct verb phrase for being involved in an accident is 'met with'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q48",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 48,
+    "section": "Fill in the blanks",
+    "question": {
+      "type": "text",
+      "content": "Scores of villagers are ____________ a sit-in protest against the construction of a new underpass."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "performing"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "sitting"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "staging"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "standing"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The standard collocate used with 'a sit-in protest' is 'staging'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q49",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 49,
+    "section": "Fill in the blanks",
+    "question": {
+      "type": "text",
+      "content": "It is common for patients to stop ____________ medicine as soon as they start feeling better."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "eating"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "gulping"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "swallowing"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "taking"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The correct verb used for consuming medication is 'taking'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q50",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 50,
+    "section": "Fill in the blanks",
+    "question": {
+      "type": "text",
+      "content": "A four-year-old girl got a new lease of life after doctors at a hospital ____________ a cancerous tumour from one of her kidneys."
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "rejuvenated"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "removed"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "displaced"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "replaced"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Surgically extracting a tumour is correctly referred to as 'removed'."
+    },
+    "marks": 1,
+    "negativeMarks": 0.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q51",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 51,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "A thin disc and a thin ring, both have mass $M$ and radius $R$. Both rotate about axes through their center of mass and are perpendicular to their surfaces at the same angular velocity. Which of the following is true ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The ring has higher kinetic energy"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The disc has higher kinetic energy"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The ring and the disc have the same kinetic energy"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Kinetic energies of both the bodies are zero since they are not in linear motion"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Rotational kinetic energy is given by $K = \\frac{1}{2}I\\omega^2$. Since $I_{\\text{ring}} = MR^2$ and $I_{\\text{disc}} = \\frac{1}{2}MR^2$, the moment of inertia of the ring is greater than that of the disc. Therefore, at the same angular velocity, the ring has higher kinetic energy."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q52",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 52,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Let there be an object having some chemicals in it. It starts moving with a uniform velocity $v$ and a chemical reaction starts happening. In this case, which of the following statement/s is/are correct ?\n1. Chemical reactions happening in the system cannot change the velocity $v$ of the center of mass of the object.\n2. Chemical reactions happening in the system cannot change kinetic energy of the particles inside with respect to the center of mass of object.\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Chemical reactions involve internal forces. Internal forces cannot alter the motion of the center of mass, so statement 1 is correct. However, chemical reactions release or absorb energy, changing the relative kinetic energy of the internal particles, making statement 2 incorrect."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q53",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 53,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "In which of the following phenomena do heat waves travel along a straight line with the speed of light ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Thermal conduction"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Thermal convection"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Thermal radiation"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Both, thermal conduction and radiation"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Thermal radiation travels in the form of electromagnetic waves, which move in straight lines at the speed of light without requiring a material medium."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q54",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 54,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements regarding Ohm's law is *not* correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Ohm's law is an assumption that current through a conductor is always directly proportional to the potential difference applied to it."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A conducting device obeys Ohm's law when the resistance of a device is independent of magnitude and polarity of applied potential difference."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "A conducting material obeys Ohm's law when the resistance of material is independent of the magnitude and direction of applied electric field."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "All homogeneous materials obey Ohm's law irrespective of whether the field is within range or strong."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Ohm's law is an empirical law and is not universal. At very high electric fields or in non-ohmic homogeneous materials, Ohm's law fails due to heating effects or electrical breakdown."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q55",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 55,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "When a ball bounces off the ground, which of the following changes suddenly ?\n(Assume no loss of energy to the floor)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Its speed"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Its momentum"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Its kinetic energy"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Its potential energy"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Since momentum is a vector quantity ($p = mv$), when the ball bounces, its direction of velocity suddenly reverses. Thus, its momentum changes direction abruptly, while speed and kinetic energy remain constant."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q56",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 56,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following compounds does *not* exhibit a different oxidation number of the same element ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\text{Pb}_3\\text{O}_4$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\text{Fe}_3\\text{O}_4$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\text{Fe}_2\\text{O}_3$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\text{Mn}_3\\text{O}_4$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "$\\text{Fe}_2\\text{O}_3$ has iron in a single oxidation state (+3). The other compounds are mixed oxides: $\\text{Pb}_3\\text{O}_4$ contains $\\text{Pb(+2)}$ and $\\text{Pb(+4)}$, $\\text{Fe}_3\\text{O}_4$ contains $\\text{Fe(+2)}$ and $\\text{Fe(+3)}$, and $\\text{Mn}_3\\text{O}_4$ contains $\\text{Mn(+2)}$ and $\\text{Mn(+4)}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q57",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 57,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about glass is *not* correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Glass is often said to be a supercooled liquid."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Glass has no definite melting point."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Soda glass is harder than pyrex glass."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Boron is present in pyrex glass."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Pyrex glass (borosilicate glass) is harder and much more heat resistant than soda glass (soda-lime glass). Therefore, stating that soda glass is harder than pyrex glass is incorrect."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q58",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 58,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Both boiling and evaporation are surface phenomena."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Boiling is a surface phenomenon, but evaporation is a bulk phenomenon."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both boiling and evaporation are bulk phenomena."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Boiling is a bulk phenomenon, but evaporation is a surface phenomenon."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Evaporation takes place only at the exposed surface of a liquid at any temperature below its boiling point (surface phenomenon). Boiling occurs throughout the entire volume of the liquid when it reaches its boiling point (bulk phenomenon)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q59",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 59,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about diamond and graphite is *not* correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Diamond has a tetrahedral structure, whereas graphite has a hexagonal planar structure."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Both physical and chemical properties of diamond and graphite are different."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Graphite is soft but diamond is hard."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Graphite is a good conductor of electricity while diamond is not."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Diamond and graphite are allotropes of carbon. While their physical properties differ drastically, their chemical properties are essentially the same (e.g., both burn in oxygen to yield carbon dioxide)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q60",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 60,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "The raw materials used for the manufacture of Portland cement are"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Lime, silica and sulphur dioxide"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Lime, silica and carbon dioxide"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Lime, silica and alumina"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Lime, silica and boric acid"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Portland cement is principally manufactured from limestone (providing lime, $\\text{CaO}$), clay (providing silica, $\\text{SiO}_2$, and alumina, $\\text{Al}_2\\text{O}_3$), along with small amounts of iron oxide and gypsum."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q61",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 61,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about water is *not* true ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Hydrogen bonds are present in liquid water."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Water has a high boiling point."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Water has a high heat of fusion."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Water is a non-polar molecule."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Water ($\\text{H}_2\\text{O}$) is a polar molecule due to the significant difference in electronegativity between oxygen and hydrogen and its bent molecular geometry."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q62",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 62,
+    "section": "PART - B",
+    "question": {
+      "type": "latex",
+      "content": "A sample of 'soft soap' contains"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Caesium"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Potassium"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Calcium"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Magnesium"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Soft soaps are potassium salts of fatty acids (potassium soaps), which produce a softer lather than sodium salts (hard soaps)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q63",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 63,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "If an object moves at a non-zero constant acceleration for a certain interval of time, then the distance it covers in that time"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "depends on its initial velocity."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "is independent of its initial velocity."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "increases linearly with time."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "depends on its initial displacement."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "According to the second equation of motion, $s = ut + \\frac{1}{2}at^2$, distance covers $s$ explicitly depends on the initial velocity $u$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q64",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 64,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A solid disc and a solid sphere have the same mass and same radius. Which one has the higher moment of inertia about its centre of mass ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The disc"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The sphere"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both have the same moment of inertia"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The information provided is not sufficient to answer the question"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The moment of inertia of a solid disc is $I_{\\text{disc}} = \\frac{1}{2}MR^2 = 0.5MR^2$ and for a solid sphere is $I_{\\text{sphere}} = \\frac{2}{5}MR^2 = 0.4MR^2$. Therefore, the disc has a higher moment of inertia."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q65",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 65,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Two substances of densities $\\rho_1$ and $\\rho_2$ are mixed in equal volume and their relative density is 4. When they are mixed in equal masses, relative density is 3. The values of $\\rho_1$ and $\\rho_2$ respectively are"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "6, 2"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "3, 5"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "12, 4"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "9, 3"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Equal volume mixture: $\\frac{\\rho_1 + \\rho_2}{2} = 4 \\implies \\rho_1 + \\rho_2 = 8$. Equal mass mixture: $\\frac{2\\rho_1\\rho_2}{\\rho_1 + \\rho_2} = 3 \\implies \\rho_1\\rho_2 = 12$. Solving $\\rho_1 + \\rho_2 = 8$ and $\\rho_1\\rho_2 = 12$ gives densities 6 and 2."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q66",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 66,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A car starts from Bengaluru, goes 50 km in a straight line towards south, immediately turns around and returns to Bengaluru. The time taken for this round trip is 2 hours. The magnitude of the average velocity of the car for this round trip"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "is 0."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "is 50 km/hr."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "is 25 km/hr."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "cannot be calculated without knowing acceleration."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Average velocity is calculated as total displacement divided by total time. Since the car returns to its starting point, its total displacement is 0, so average velocity is 0."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q67",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 67,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "\"The sum of emf's and potential differences around a closed loop equals zero\" is a consequence of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Ohm's law."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Conservation of charge."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Conservation of momentum."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Conservation of energy."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "This statement is Kirchhoff's Voltage Law (KVL), which is a direct consequence of the law of conservation of energy."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q68",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 68,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A student measures certain lengths using a meter scale having least count equal to 1 mm. Which one of the following measurements is more precise ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "0.50 mm"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "29.07 cm"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "0.925 m"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "910 mm"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "0.925 m corresponds to 925 mm, which matches the resolution of 1 mm and has the maximum magnitude among valid measurements, giving the smallest fractional error and highest relative precision."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q69",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 69,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "If the work done on the system or by the system is zero, which one of the following statements for a gas kept at a certain temperature is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Change in internal energy of the system is equal to flow of heat in or out of the system."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Change in internal energy of the system is less than heat transferred."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Change in internal energy of the system is more than the heat flow."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Cannot be determined."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "By First Law of Thermodynamics, $\\Delta U = Q - W$. When $W = 0$, $\\Delta U = Q$, meaning change in internal energy equals the heat transferred."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q70",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 70,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following part of an electric circuit : 3 resistors ($2\\text{ ohm}$, $4\\text{ ohm}$, $8\\text{ ohm}$) in parallel connected in series with a $1\\text{ ohm}$ resistor. The total electrical resistance in the given part of the electric circuit is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\frac{15}{8}\\text{ ohm}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\frac{15}{7}\\text{ ohm}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$15\\text{ ohm}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{17}{3}\\text{ ohm}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Equivalent resistance of parallel combination $1/R_p = 1/2 + 1/4 + 1/8 = 7/8 \\implies R_p = 8/7\\text{ ohm}$. Total resistance = $R_p + 1 = 8/7 + 1 = 15/7\\text{ ohm}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q71",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 71,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements regarding lenses is *not* correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "A convex lens produces both real and virtual images."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "A concave lens produces both real and virtual images."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "A convex lens can produce images equal, greater and smaller than the size of the object."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "A concave lens always produces images smaller than the size of the object."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "A concave lens forms only virtual, erect, and diminished images for real objects. It cannot form real images."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q72",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 72,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "10 g of ice at $-10^\\circ\\text{C}$ is mixed with 10 g of water at $0^\\circ\\text{C}$. The amount of heat required to raise the temperature of mixture to $10^\\circ\\text{C}$ is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "400 cal"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "550 cal"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1050 cal"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1200 cal"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Heat to raise 10 g ice from $-10^\\circ\\text{C}$ to $0^\\circ\\text{C} = 10 \\times 0.5 \\times 10 = 50\\text{ cal}$. Heat to melt 10 g ice at $0^\\circ\\text{C} = 10 \\times 80 = 800\\text{ cal}$. Heat to raise 20 g water from $0^\\circ\\text{C}$ to $10^\\circ\\text{C} = 20 \\times 1 \\times 10 = 200\\text{ cal}$. Total heat required = $50 + 800 + 200 = 1050\\text{ cal}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q73",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 73,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following does *not* represent the salt, Calcium carbonate ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Lime water"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Limestone"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Chalk"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Marble"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Lime water is calcium hydroxide $\\text{Ca(OH)}_2$, whereas limestone, chalk, and marble are all forms of calcium carbonate $\\text{CaCO}_3$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q74",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 74,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Soaps clean surfaces on the principle based on"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Viscosity"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Floatation"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Elasticity"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Surface tension"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Soaps act as surfactants that decrease the surface tension of water, allowing it to wet surfaces and remove dirt."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q75",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 75,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following substances is *not* a mixture ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Tin"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Sea water"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Soil"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Air"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Tin (Sn) is a pure chemical element, whereas sea water, soil, and air are mixtures."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q76",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 76,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is termed as 'Dry ice' ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Ice present in ice-cream"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Solid water at Antarctica"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Solid state of carbon dioxide"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Solid water of ionosphere"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Dry ice is the common name for solid carbon dioxide ($\\text{CO}_2$)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q77",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 77,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Net movement of water from a dilute to a concentrated solution through a selectively permeable membrane is called"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Diffusion"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Dispersion"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Osmosis"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Absorption"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Osmosis is the net movement of solvent molecules (water) from a region of lower solute concentration (dilute) to a higher solute concentration through a selectively permeable membrane."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q78",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 78,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Blood is a type of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Epithelial tissue"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Muscular tissue"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Nervous tissue"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Connective tissue"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Blood is classified as a fluid connective tissue because it connects various body systems and transports nutrients, oxygen, and waste products throughout the body."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q79",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 79,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Mitochondria are able to produce their own"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Nucleus"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Proteins"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Chloroplasts"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Digestive enzymes"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Mitochondria possess their own circular DNA and 70S ribosomes, allowing them to synthesize some of their own proteins."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q80",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 80,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Xylem consists of tracheids, vessels, xylem parenchyma and xylem fibres."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Flexibility in plants is due to sclerenchyma."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Parenchyma have no intercellular spaces."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Xylem consists of sieve plate, sieve tube and companion cells."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Xylem is a complex permanent tissue composed of four types of elements: tracheids, vessels, xylem parenchyma, and xylem fibres."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q81",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 81,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following popularized the use of embryological characters in taxonomy ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Carl Linnaeus"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Panchanan Maheshwari"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Birbal Sahni"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Bentham and Hooker"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Panchanan Maheshwari was an Indian botanist who popularized the application of embryological characters in plant taxonomy."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q82",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 82,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Water is heated with a coil of resistance R connected to domestic supply. The rise of temperature of water will depend on\n1. Supply voltage.\n2. Current passing through the coil.\n3. Time for which voltage is supplied.\nSelect the correct answer from among the following :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2 and 3 only"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Heat produced is given by $H = V I t = I^2 R t = \\frac{V^2}{R} t$. Therefore, the heat generated (and thus rise in temperature) depends on supply voltage $V$, current $I$, and time $t$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q83",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 83,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A pendulum clock is lifted to a height where the gravitational acceleration has a certain value $g$. Another pendulum clock of same length but of double the mass of the bob is lifted to another height where the gravitational acceleration is $g/2$. The time period of the second pendulum would be : (in terms of period $T$ of the first pendulum)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\sqrt{2} T$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\frac{1}{\\sqrt{2}} T$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2\\sqrt{2} T$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$T$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Time period of a simple pendulum is $T = 2\\pi \\sqrt{\\frac{L}{g}}$, independent of the mass of the bob. For the second pendulum, gravitational acceleration is $g' = g/2$. So, $T' = 2\\pi \\sqrt{\\frac{L}{g/2}} = \\sqrt{2} \\cdot 2\\pi \\sqrt{\\frac{L}{g}} = \\sqrt{2} T$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q84",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 84,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "The loudness of sound depends upon the"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "velocity of sound waves in the medium."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "amplitude of the sound waves."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "frequency of the sound waves."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "frequency and velocity of the sound waves."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Loudness of sound is directly proportional to the square of the amplitude of the sound wave."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q85",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 85,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Two bodies of mass M each are placed R distance apart. In another system, two bodies of mass 2M each are placed $\\frac{R}{2}$ distance apart.\nIf F be the gravitational force between the bodies in the first system, then the gravitational force between the bodies in the second system will be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "16 F"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 F"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "4 F"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "None of the above"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "In the first system, $F = G \\frac{M \\cdot M}{R^2} = G \\frac{M^2}{R^2}$. In the second system, $F' = G \\frac{(2M)(2M)}{(R/2)^2} = G \\frac{4M^2}{R^2 / 4} = 16 G \\frac{M^2}{R^2} = 16 F$."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q86",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 86,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Light rays move in straight lines. But through an optical fibre, they can move in any type of zigzag path because"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "the holes through the fibre are extremely fine."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "light rays are absorbed at the entry end and relieved at the exit end of the fibre."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "scattering of light occurs inside the fibre."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "successive total internal reflections occur as a ray moves through the fibre."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Optical fibres transmit light signals through successive total internal reflections along the inner core boundaries."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q87",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 87,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements regarding cathode rays is not correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Cathode ray particles are electrons."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Cathode ray particles start from anode and move towards cathode."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "In the absence of electrical and magnetic fields, cathode rays travel in straight lines."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Television picture tubes are cathode ray tubes."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Cathode rays originate from the cathode (negative electrode) and move towards the anode (positive electrode)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q88",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 88,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "A very large volume of hydrogen can be accommodated by making"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "non-metallic hydrides."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "hydrogen peroxide."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "non-stoichiometric hydrides."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "alkali metal hydrides."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Transition metals form non-stoichiometric (interstitial) hydrides where hydrogen atoms occupy voids in the crystal lattice, accommodating a large volume of hydrogen gas."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q89",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 89,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is not a monatomic element ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Copper"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Helium"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Iodine"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Barium"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Iodine exists naturally as a diatomic molecule ($I_2$), whereas Copper, Helium, and Barium exist as monatomic elemental forms."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q90",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 90,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following represents the correct order of electron releasing tendency of metals ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$Zn > Cu > Ag$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$Ag > Cu > Zn$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$Cu > Zn > Ag$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$Cu > Ag > Zn$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "According to the electrochemical series, Zinc has the highest oxidation potential (tendency to lose electrons) among the three, followed by Copper, and then Silver ($Zn > Cu > Ag$)."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q91",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 91,
+    "section": "General Science",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the major constituent of biogas ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Carbon dioxide"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Nitrous oxide"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Methane"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Oxygen"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Methane ($CH_4$) constitutes about 55% to 75% of biogas, making it the major constituent."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q92",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 92,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Thyroid gland produces a hormone called \"Thyroxine\" which"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "controls blood glucose levels."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "controls ovulation."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "controls metabolic rate."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "maintains pregnancy."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Thyroxine, secreted by the thyroid gland, plays a key role in regulating the body's basal metabolic rate."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q93",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 93,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is a bacterium that causes disease in the human body ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Varicella zoster"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Trypanosoma gambiense"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Salmonella typhi"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Plasmodium falciparum"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Salmonella typhi is a pathogenic bacterium that causes typhoid fever in humans. Varicella zoster is a virus, while Trypanosoma gambiense and Plasmodium falciparum are protozoans."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q94",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 94,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements regarding viruses is not true ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Viruses need living cells to reproduce."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "All viruses are parasites."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Viruses can synthesize their food through photosynthesis."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Viruses are similar to chemical substances outside the host."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Viruses lack cellular machinery, chlorophyll, and enzymes necessary for metabolism or photosynthesis; hence they cannot synthesize their food."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q95",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 95,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following diseases may be caused by the deficiency of vitamin C ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Rickets"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Rabies"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Hepatitis"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Scurvy"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Deficiency of Vitamin C (ascorbic acid) causes scurvy, characterized by bleeding gums and poor wound healing."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q96",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 96,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Compared to audible sound waves, ultrasound waves have"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "higher speed."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "higher frequency."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "longer wavelength."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "both higher speed and frequency."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Ultrasound waves are defined as sound waves with frequencies higher than the upper audible limit of human hearing ($> 20\\text{ kHz}$). Speed depends on the medium, not the frequency."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q97",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 97,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "A rigid body of mass $2\\text{ kg}$ is dropped from a stationary balloon kept at a height of $50\\text{ m}$ from the ground. The speed of the body when it just touches the ground and the total energy when it is dropped from the balloon are respectively\n(acceleration due to gravity $= 9\\cdot 8\\text{ m/s}^2$)"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$980\\text{ m.s}^{-1}$ and $980\\text{ J}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\sqrt{980}\\text{ m.s}^{-1}$ and $\\sqrt{980}\\text{ J}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$980\\text{ m.s}^{-1}$ and $\\sqrt{980}\\text{ J}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\sqrt{980}\\text{ m.s}^{-1}$ and $980\\text{ J}$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Speed $v = \\sqrt{2gh} = \\sqrt{2 \\times 9.8 \\times 50} = \\sqrt{980}\\text{ m.s}^{-1}$. Total energy at initial height $E = mgh = 2 \\times 9.8 \\times 50 = 980\\text{ J}$."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q98",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 98,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "The temperature of a place on one sunny day is $113$ in Fahrenheit scale. The Kelvin scale reading of this temperature will be"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$318\\text{ K}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$45\\text{ K}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$62\\cdot 8\\text{ K}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$335\\cdot 8\\text{ K}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Celsius temperature $T_C = (113 - 32) \\times \\frac{5}{9} = 45^\\circ\\text{C}$. Kelvin temperature $T_K = 45 + 273.15 = 318.15\\text{ K} \\approx 318\\text{ K}$."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q99",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 99,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Radiations coming from the Sun are mostly in the form of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "light only."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "light and long wavelength infrared."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "light and short wavelength infrared."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "both short and long wavelength infrared."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Solar radiation reaching the Earth consists predominantly of visible light and short-wavelength infrared radiation (near infrared)."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q100",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 100,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following are the characteristics of electromagnetic waves ?\n1. They are elastic waves.\n2. They can also move in vacuum.\n3. They have electric and magnetic components which are mutually perpendicular.\n4. They move with a speed equal to 3 lakh meters per second.\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1, 2, 3 and 4"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1, 2 and 4 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3 and 4 only"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Electromagnetic waves are non-elastic, can travel through vacuum, and have mutually perpendicular electric and magnetic field components. Their speed in vacuum is $3 \\times 10^8\\text{ m/s}$ ($3$ lakh kilometers per second, not meters per second)."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q101",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 101,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is a non-metallic mineral ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Iron"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Mica"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Copper"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Bauxite"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Mica is a non-metallic mineral, whereas Iron, Copper, and Bauxite are metallic minerals."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q102",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 102,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is a Rabi crop in the Northern States of India ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Rice"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Bajra"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Barley"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Ragi"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Barley is sown in winter and harvested in spring, making it a Rabi crop in Northern India. Rice, Bajra, and Ragi are Kharif crops."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q103",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 103,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "The rivers of North-West Europe are good examples of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "parallel pattern of drainage."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "radial pattern of drainage."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "barbed pattern of drainage."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "trellis pattern of drainage."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Barbed drainage pattern occurs when tributaries flow in a direction opposite to that of the main stream, often due to river capture, characteristic of rivers in North-West Europe."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q104",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 104,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following ocean currents is a cold current ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "South Atlantic Drift"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Mozambique Current"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "East Australian Current"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Caribbean Current"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The South Atlantic Drift is a cold ocean current flowing eastward in the southern Atlantic Ocean."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q105",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 105,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Paradeep Port is located on the delta of river"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Rihand"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Ganga"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Mahanadi"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Baitarani"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Paradeep Port is a major natural deep-water port situated on the east coast of Odisha at the confluence of the Mahanadi river and the Bay of Bengal."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q106",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 106,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following hypothesis/theory explains the origin of the universe ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Nebular hypothesis"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Binary theory"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Big Bang theory"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Planetesimal hypothesis"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Big Bang theory is the prevailing cosmological model explaining the origin and expansion of the universe."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q107",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 107,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Which among the following struggles, based on Gandhi's philosophy of Satyagraha, involved the industrial working class ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Champaran"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Kheda"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Ahmedabad"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Bardoli"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Ahmedabad Mill Strike of 1918 involved industrial textile mill workers demanding a plague bonus and better working conditions."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q108",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 108,
+    "section": "General Studies",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements related to the Virashaiva tradition in Karnataka :\n1. The Virashaiva movement was led by a Brahmana named Basavanna, a minister in the court of the Kalachuri ruler in the twelfth century.\n2. The Virashaivas encouraged practices, approved by the Dharmashastras, like post-puberty marriages and remarriage of widows.\nWhich of the statement/s given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Statement 1 is correct. Statement 2 is incorrect because Virashaivas encouraged practices that were *disapproved* (not approved) by the Dharmashastras, such as post-puberty marriages and widow remarriages."
+    },
+    "marks": 4.0,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q109",
+    "paperId": "GAT_2019",
+    "questionNumber": 109,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements related to Wellesley's administration :\n1. In the six years of Wellesley's administration, the army accounted for $42.5$ percent of the Company's total expenditure.\n2. Wellesley's administrative measures were restricted to the affairs of the Company and had nothing to do with the commercial and military affairs of the Indian ruling families.\nWhich of the statement/s given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Lord Wellesley introduced the Subsidiary Alliance system, which interfered directly with the military and external affairs of Indian ruling families, making statement 2 incorrect. Statement 1 is also incorrect as military expenditure was even higher during his expansionist administration."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q110",
+    "paperId": "GAT_2019",
+    "questionNumber": 110,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements concerning the Russian Revolution :\n1. The Bolsheviks believed that in a repressive society like Tsarist Russia, the party should be disciplined and should control the number of its members.\n2. The Mensheviks believed that the party should be opened to all (as in Germany).\nWhich of the statement/s given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Both statements are correct. Vladimir Lenin led the Bolsheviks, advocating for a disciplined and cadre-based party, while Martov's Mensheviks wanted party membership open to all."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q111",
+    "paperId": "GAT_2019",
+    "questionNumber": 111,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which of the following was/were among the decisions taken by the First Continental Congress held in Philadelphia in September 1774 ?\n1. It rejected a plan for a colonial union under the British authority.\n2. It drew up a statement of grievances.\n3. It agreed upon a scheme to stop trade between the Colonies and England.\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "All three decisions were taken during the First Continental Congress held in Philadelphia in 1774."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q112",
+    "paperId": "GAT_2019",
+    "questionNumber": 112,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following land territories of Indonesia is not touched by the Equator ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sumatra"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Sulawesi"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Java"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Kalimantan"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Equator passes through Sumatra, Kalimantan, Sulawesi, and Halmahera in Indonesia, but lies north of Java."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q113",
+    "paperId": "GAT_2019",
+    "questionNumber": 113,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following sedimentary rocks is organically formed ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Shale"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Chert"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Halite"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Chalk"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Chalk is an organically formed sedimentary rock formed from the accumulation of microscopic calcite shells of marine organisms."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q114",
+    "paperId": "GAT_2019",
+    "questionNumber": 114,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "According to the Köppen climatic classification, the letter code Cfa denotes"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Tropical wet climate."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Humid subtropical climate."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Tundra climate."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Tropical wet and dry climate."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "In Köppen's scheme, Cfa stands for Humid Subtropical climate characterized by hot, humid summers and mild winters."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q115",
+    "paperId": "GAT_2019",
+    "questionNumber": 115,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "In which one of the following folds is the axial plane found to be virtually horizontal ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Isoclinal"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Anticlinal"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Recumbent"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Monoclinal"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "In a recumbent fold, intense compressional forces cause the axial plane to become essentially horizontal."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q116",
+    "paperId": "GAT_2019",
+    "questionNumber": 116,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "How many Ramsar conservation sites have been enlisted from India so far ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "16"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "27"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "62"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "At the time of this exam (2019), India had 27 designated Ramsar sites."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q117",
+    "paperId": "GAT_2019",
+    "questionNumber": 117,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The Munda language group belongs to which family ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Austric"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Dravidian"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sino-Tibetan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Indo-European"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Munda languages are a sub-family of the Austroasiatic (Austric) language family spoken in east and central India."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q118",
+    "paperId": "GAT_2019",
+    "questionNumber": 118,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements about the Suez Canal is not correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The Suez Canal was constructed in 1869."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "It links the Mediterranean Sea and the Red Sea."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "It has a six lock system and ships cross the different levels through these locks."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "It has given Europe a new gateway to the Indian Ocean."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Suez Canal is a sea-level canal without locks."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q119",
+    "paperId": "GAT_2019",
+    "questionNumber": 119,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which among the following statements is not correct about the Reign of Terror ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "The Jacobins dashed out the Girondists with the help of sans-culottes."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "The Jacobins were in league with the French clergy."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "The arrest for anti-revolutionary activities was by law restricted to the political class."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The Reign of Terror came to an end with the execution of Robespierre by guillotine in July 1794."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The Jacobins were anti-clerical and engaged in widespread de-Christianization campaigns, so they were not in league with the French clergy."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q120",
+    "paperId": "GAT_2019",
+    "questionNumber": 120,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following was the first Indian to qualify for the Indian Civil Service ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Satyendranath Tagore"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Surendranath Banerjee"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "R.C. Dutt"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Subhas Chandra Bose"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Satyendranath Tagore, elder brother of Rabindranath Tagore, became the first Indian to clear the ICS examination in 1863."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q121",
+    "paperId": "GAT_2019",
+    "questionNumber": 121,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which among the following was/were among the factors for England to experience the Industrial Revolution first ?\n1. The scientific inventions had paved the way for Industrial Revolution.\n2. It had favourable social and political structures in place.\n3. Navigable rivers had made inland transport easier.\n4. It had seen the ascendancy of capitalist practices.\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1, 3 and 4 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "4 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2, 3 and 4"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "All four listed factors contributed significantly to making England the birthplace of the Industrial Revolution."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q122",
+    "paperId": "GAT_2019",
+    "questionNumber": 122,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Article 46 of the Constitution of India refers to the promotion of educational and economic interests of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "religious minorities."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Scheduled Castes, Scheduled Tribes and other weaker sections."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "displaced persons from large irrigation projects."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "the economically deprived."
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Article 46 in the Directive Principles of State Policy provides for the promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes, and other weaker sections."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q123",
+    "paperId": "GAT_2019",
+    "questionNumber": 123,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who was the Education Minister in the first Cabinet of independent India ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Sarvepalli Radhakrishnan"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Sardar Vallabhbhai Patel"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Maulana Abul Kalam Azad"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Acharya Narendra Dev"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Maulana Abul Kalam Azad served as the first Minister of Education in independent India."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q124",
+    "paperId": "GAT_2019",
+    "questionNumber": 124,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Who among the following died in exile ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Rani Laxmibai"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Bahadur Shah Zafar"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Tantia Tope"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Nana Saheb"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The last Mughal Emperor, Bahadur Shah Zafar, was deported by the British to Rangoon (Burma) where he died in exile in 1862."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q125",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 125,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "The normal lapse rate of temperature of Earth's atmosphere drops to $0^\\circ\\text{C}$ at the"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "upper part of ionosphere."
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "upper boundary of the tropopause."
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "lower part of mesosphere."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "upper boundary of stratopause."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "At the stratopause, which is the boundary between the stratosphere and the mesosphere, the temperature reaches its local maximum, approximately $0^\\circ\\text{C}$."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q126",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 126,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "The headquarters of National Research Laboratory for Conservation of Cultural Property (NRLC) is located at"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "New Delhi"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Lucknow"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Kolkata"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Bhopal"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The National Research Laboratory for Conservation of Cultural Property (NRLC) is a subordinate office under the Ministry of Culture, Government of India, located in Lucknow."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q127",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 127,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Loktak lake is situated in the State of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Sikkim"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Manipur"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Odisha"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Mizoram"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Loktak Lake is the largest freshwater lake in Northeast India, famous for phumdis floating over it, located in Manipur."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q128",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 128,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Stalactite, stalagmite and pillars are the depositional landforms of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "running water."
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "wind."
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "glacier."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "underground water."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Stalactites, stalagmites, and pillars are characteristic depositional features created by underground water in karst topography."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q129",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 129,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "A deep valley characterized by steep step-like slope is known as"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "U-shaped valley."
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Blind valley."
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Gorge."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Canyon."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "A canyon is characterized by steep, step-like slopes and is usually deep and wide at the top compared to a gorge."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q130",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 130,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Which one of the following is a major plate?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Pacific Plate"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Cocos Plate"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Arabian Plate"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Philippine Plate"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Pacific Plate is one of the seven primary major tectonic plates on Earth. Cocos, Arabian, and Philippine plates are minor tectonic plates."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q131",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 131,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Lithosphere consists of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "upper and lower mantle."
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "crust and core."
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "crust and uppermost solid mantle."
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "mantle and core."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The lithosphere is the rigid, outermost shell of terrestrial planet that comprises the crust and the upper portion of the mantle."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q132",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 132,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "The principal component(s) of Nehru-Mahalanobis strategy of economic development was/were\n1. Restructuring economic dependency on metropolitan capitalism into independent economic development.\n2. Transition from semi-feudal agriculture to capitalist farming.\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The Nehru-Mahalanobis strategy emphasized self-reliance and heavy industrialization through public sector dominance to escape colonial economic dependency. It did not advocate for capitalist farming."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q133",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 133,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "The provisions of the Fifth Schedule of the Constitution of India shall not apply to the administration and control of the Scheduled Areas and Scheduled Tribes in\n1. Chhattisgarh, Jharkhand and Odisha\n2. Assam and Tripura\n3. Meghalaya and Mizoram\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The Fifth Schedule applies to administration of Scheduled Areas in states other than Assam, Meghalaya, Tripura, and Mizoram (which are governed under the Sixth Schedule)."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q134",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 134,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Consider the following statements related to Dayanand's idea of social reform :\n1. Dayanand's reform envisaged a social order, where different castes performed functions suitable to their status determined by merit.\n2. Dayanand's 'robust Vedic counterpart' challenged the masculine West that had enslaved the Aryavarta.\nWhich of the statement/s given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Swami Dayanand Saraswati advocated for a merit-based Varna system rather than birth-based caste identity and promoted Vedic revivalism to counter Western dominance."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q135",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 135,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Consider the following statements concerning the American War of Independence :\n1. The Americans raised the slogan, 'No taxation without representation'.\n2. The American merchants resorted to the boycott of the British products.\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Both statements are correct. 'No taxation without representation' was a main rally slogan, and non-importation agreements (boycotting British goods) were used extensively."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q136",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 136,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "The first UDAY (Utkrisht Double Decker Air-Conditioned Yatri) Express train runs between"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Delhi and Kalka"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Bengaluru and Coimbatore"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Chennai and Visakhapatnam"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Chennai and Bengaluru"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The first UDAY Express was flagged off between Coimbatore Junction and Bangalore City in June 2018."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q137",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 137,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Who among the following were selected for the Rajiv Gandhi Khel Ratna Award 2019 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Vijay Kumar and Yogeshwar Dutt"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Sakshi Malik and Jitu Rai"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Virat Kohli and Mirabai Chanu"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Bajrang Punia and Deepa Malik"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "In 2019, wrestler Bajrang Punia and para-athlete Deepa Malik were selected for the Rajiv Gandhi Khel Ratna Award."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q138",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 138,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "Betel leaf of which one of the following States has been accorded a GI tag recently ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Andhra Pradesh"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Madhya Pradesh"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Kerala"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Mizoram"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Tirur Betel leaf (Tirur Vettila) of Kerala received the Geographical Indication (GI) tag in 2019."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q139",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 139,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "SAMARTH is a flagship skill development scheme of which one of the following Ministries ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "Ministry of Textiles"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Ministry of Agriculture and Farmers Welfare"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Ministry of Skill Development and Entrepreneurship"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Ministry of Human Resource Development"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "SAMARTH (Scheme for Capacity Building in Textile Sector) is an initiative of the Ministry of Textiles."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q140",
+    "paperId": "GAT(2)2019",
+    "questionNumber": 140,
+    "section": "General Knowledge",
+    "question": {
+      "type": "text",
+      "content": "CORAS is a separate Commando Unit of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "text",
+        "content": "National Security Guard"
+      },
+      {
+        "label": "B",
+        "type": "text",
+        "content": "Central Industrial Security Force"
+      },
+      {
+        "label": "C",
+        "type": "text",
+        "content": "Railway Protection Force"
+      },
+      {
+        "label": "D",
+        "type": "text",
+        "content": "Central Reserve Police Force"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "CORAS (Commandos for Railway Security) is a dedicated commando unit of the Railway Protection Force (RPF), Indian Railways."
+    },
+    "marks": 4,
+    "negativeMarks": 1.33
+  },
+  {
+    "questionId": "GAT(2)2019-Q141",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 141,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following statements is not true about Ijarah system?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "It was a system of revenue farming."
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "It encouraged the role of middlemen."
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Under this system, land revenue was fixed for the peasant."
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "The ijaradar paid a fixed amount to the State treasury."
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Under the Ijarah system (revenue farming), land revenue was not fixed for the peasants. Revenue collection rights were auctioned to the highest bidder (ijaradar), who extracted as much as possible from the peasants."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q142",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 142,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "During the Swadeshi movement, a National College was started in Calcutta under the principalship of"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Rabindranath Tagore"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Aurobindo Ghosh"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Rajani Kant Sen"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Syed Abu Mohammad"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Bengal National College was founded in August 1906 during the Swadeshi movement, with Sri Aurobindo Ghosh as its first principal."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q143",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 143,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "The ruins of Vijayanagara (Hampi) were brought to public light in the year 1800 by the following British surveyor and engineer :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "James Prinsep"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Colin Mackenzie"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "James Rennell"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Charles Metcalfe"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The ruins at Hampi were brought to light in 1800 by Colonel Colin Mackenzie, an engineer and surveyor with the East India Company."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q144",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 144,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which country among the following was not a part of the Third Coalition against Napoleon?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Russia"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Prussia"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Sweden"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "France"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The Third Coalition was an alliance of Britain, Russia, Austria, Sweden, and other nations formed against Napoleon's French Empire. Thus, France was not part of the coalition formed against itself."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q145",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 145,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following pairs of travellers and their nationality is not correctly matched?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Ibn Battuta – Moroccan"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Duarte Barbosa – Portuguese"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Jean Baptiste Tavernier – Dutch"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Niccolao Manucci – Venetian"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Jean-Baptiste Tavernier was a 17th-century French gem merchant and traveller, not Dutch."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q146",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 146,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "World Humanitarian Day is celebrated on"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$26^{\\text{th}}$ June"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$17^{\\text{th}}$ July"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$19^{\\text{th}}$ August"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$27^{\\text{th}}$ September"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "World Humanitarian Day is celebrated internationally every year on 19 August."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q147",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 147,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is the name given to the lander of Chandrayaan-2 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Vigyan"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Anusandhan"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Pragyan"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Vikram"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The lander of Chandrayaan-2 was named Vikram, after Dr. Vikram A. Sarabhai. Pragyan was the name of the rover."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q148",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 148,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Along with Pranab Mukherjee, how many more persons were conferred the Bharat Ratna Award in the year 2019 ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "One"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Two"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Three"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Four"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "In 2019, the Bharat Ratna was conferred upon three individuals: Pranab Mukherjee, Nanaji Deshmukh (posthumously), and Bhupen Hazarika (posthumously). Thus, along with Pranab Mukherjee, two more persons received the award."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q149",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 149,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Aishwarya Pissay excels in which one of the following sports ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Badminton"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Boxing"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Motorsports"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Chess"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Aishwarya Pissay is an Indian circuit and off-road motorcycle racer who became the first Indian athlete to win a world title in motorsports."
+    }
+  },
+  {
+    "questionId": "GAT(2)2019-Q150",
+    "paperId": "BEM-U-TAG",
+    "questionNumber": 150,
+    "section": "General Knowledge",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following films was adjudged as the Best Feature Film in the $66^{\\text{th}}$ National Film Awards ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Bulbul Can Sing"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Hellaro"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Badhaai Ho"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Uri"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The Gujarati film 'Hellaro' won the Best Feature Film award at the 66th National Film Awards."
+    }
+  }
+]
