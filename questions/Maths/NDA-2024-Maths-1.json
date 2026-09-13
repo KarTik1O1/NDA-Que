@@ -1,1 +1,4434 @@
-
+[
+  {
+    "questionId": "maths(1)2024-Q1",
+    "paperId": "maths(1)2024",
+    "questionNumber": 1,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Let $A$ and $B$ be matrices of order $3 \\times 3$. If $|A| = \\frac{1}{2\\sqrt{2}}$ and $|B| = \\frac{1}{729}$, then what is the value of $|2B(adj(3A))|$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "27"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{27}{2\\sqrt{2}}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{27}{2}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Given $A$ and $B$ are $3 \\times 3$ matrices. Using properties of determinants:\n$|2B(adj(3A))| = 2^3 |B| |adj(3A)| = 8 |B| |adj(3A)|$.\nSince $|adj(M)| = |M|^{n-1} = |M|^2$ for $n=3$, we have $|adj(3A)| = |3A|^2 = (3^3 |A|)^2 = (27 |A|)^2 = 729 |A|^2$.\nSince $|A|^2 = \\left(\\frac{1}{2\\sqrt{2}}\\right)^2 = \\frac{1}{8}$, $|adj(3A)| = 729 \\times \\frac{1}{8}$.\nTherefore, $|2B(adj(3A))| = 8 \\times \\frac{1}{729} \\times 729 \\times \\frac{1}{8} = 1$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q2",
+    "paperId": "maths(1)2024",
+    "questionNumber": 2,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $z$ is any complex number and $iz^3 + z^2 - z + i = 0$, where $i = \\sqrt{-1}$, then what is the value of $(|z|+1)^2$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "81"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "121"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Factoring the equation $iz^3 + z^2 - z + i = 0$:\n$z^2(iz + 1) + i(iz + 1) = 0 \\implies (z^2 + i)(iz + 1) = 0$.\nThis gives $iz + 1 = 0 \\implies z = i \\implies |z| = 1$, or $z^2 + i = 0 \\implies |z^2| = |-i| = 1 \\implies |z| = 1$.\nThus, in all cases $|z| = 1$.\nHence, $(|z|+1)^2 = (1+1)^2 = 4$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q3",
+    "paperId": "maths(1)2024",
+    "questionNumber": 3,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is the sum of all four digit numbers formed by using all digits 0, 1, 4, 5 without repetition of digits?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "44440"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "46460"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "46440"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "64440"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The 4-digit numbers formed using 0, 1, 4, 5 without repetition cannot start with 0.\nThousands place can be 1, 4, or 5 (3 choices), each appearing $3! = 6$ times. Sum at thousands place = $(1+4+5) \\times 6 \\times 1000 = 60000$.\nHundreds, tens, and units places can be occupied by non-zero digits 1, 4, 5 exactly $2 \\times 2! = 4$ times each.\nSum at hundreds place = $(1+4+5) \\times 4 \\times 100 = 4000$.\nSum at tens place = $(1+4+5) \\times 4 \\times 10 = 400$.\nSum at units place = $(1+4+5) \\times 4 \\times 1 = 40$.\nTotal sum = $60000 + 4000 + 400 + 40 = 64440$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q4",
+    "paperId": "maths(1)2024",
+    "questionNumber": 4,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $x, y$ and $z$ are the cube roots of unity, then what is the value of $xy + yz + zx$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "0"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The cube roots of unity are $1, \\omega, \\omega^2$. Let $x=1, y=\\omega, z=\\omega^2$.\nThen $xy + yz + zx = 1\\cdot\\omega + \\omega\\cdot\\omega^2 + \\omega^2\\cdot 1 = \\omega + \\omega^3 + \\omega^2 = 1 + \\omega + \\omega^2 = 0$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q5",
+    "paperId": "maths(1)2024",
+    "questionNumber": 5,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "A man has 7 relatives (4 women and 3 men). His wife also has 7 relatives (3 women and 4 men). In how many ways can they invite 3 women and 3 men so that 3 of them are man's relatives and 3 of them are his wife's relatives?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "340"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "484"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "485"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "469"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Man's relatives: 4 W, 3 M. Wife's relatives: 3 W, 4 M.\nWe need 3 relatives from Man's side and 3 from Wife's side, total 3 Women and 3 Men.\nLet $x$ be women from Man's side (then $3-x$ are men from Man's side).\nThen $(3-x)$ are women from Wife's side and $x$ are men from Wife's side.\nPossible values of $x \\in \\{0, 1, 2, 3\\}$:\n1) $x=0$: $\\binom{4}{0}\\binom{3}{3} \\times \\binom{3}{3}\\binom{4}{0} = 1 \\times 1 = 1$\n2) $x=1$: $\\binom{4}{1}\\binom{3}{2} \\times \\binom{3}{2}\\binom{4}{1} = 12 \\times 12 = 144$\n3) $x=2$: $\\binom{4}{2}\\binom{3}{1} \\times \\binom{3}{1}\\binom{4}{2} = 18 \\times 18 = 324$\n4) $x=3$: $\\binom{4}{3}\\binom{3}{0} \\times \\binom{3}{0}\\binom{4}{3} = 4 \\times 4 = 16$\nTotal ways = $1 + 144 + 324 + 16 = 485$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q6",
+    "paperId": "maths(1)2024",
+    "questionNumber": 6,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "A triangle $PQR$ is such that 3 points lie on the side $PQ$, 4 points on $QR$ and 5 points on $RP$ respectively. Triangles are constructed using these points as vertices. What is the number of triangles so formed?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "205"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "206"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "215"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "220"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Total points = $3 + 4 + 5 = 12$.\nTotal ways to select 3 points from 12 = $\\binom{12}{3} = 220$.\nNumber of collinear triplets on $PQ$ = $\\binom{3}{3} = 1$.\nNumber of collinear triplets on $QR$ = $\\binom{4}{3} = 4$.\nNumber of collinear triplets on $RP$ = $\\binom{5}{3} = 10$.\nNumber of triangles formed = $220 - (1 + 4 + 10) = 220 - 15 = 205$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q7",
+    "paperId": "maths(1)2024",
+    "questionNumber": 7,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $\\log_b a = p$, $\\log_d c = 2p$ and $\\log_f e = 3p$, then what is $(ace)^{\\frac{1}{p}}$ equal to?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "bd^2f^3"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "bdf"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "b^3d^2f"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "b^2d^2f^2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "From the given equations:\n$a = b^p \\implies a^{1/p} = b$\n$c = d^{2p} \\implies c^{1/p} = d^2$\n$e = f^{3p} \\implies e^{1/p} = f^3$\nTherefore, $(ace)^{1/p} = a^{1/p} c^{1/p} e^{1/p} = b d^2 f^3$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q8",
+    "paperId": "maths(1)2024",
+    "questionNumber": 8,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $-\\sqrt{2}$ and $\\sqrt{3}$ are roots of the equation $a_0 + a_1 x + a_2 x^2 + a_3 x^3 + x^4 = 0$ where $a_0, a_1, a_2, a_3$ are integers, then which one of the following is correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "a_2 = a_3 = 0"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "a_2 = 0 \\text{ and } a_3 = -5"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "a_0 = 6, a_3 = 0"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "a_1 = 0 \\text{ and } a_2 = 5"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Since coefficients are integers, irrational roots occur in conjugate pairs. Thus, the roots are $\\pm\\sqrt{2}$ and $\\pm\\sqrt{3}$.\nThe polynomial equation is $(x^2 - 2)(x^2 - 3) = x^4 - 5x^2 + 6 = 0$.\nComparing with $x^4 + a_3 x^3 + a_2 x^2 + a_1 x + a_0 = 0$, we get:\n$a_3 = 0$, $a_2 = -5$, $a_1 = 0$, $a_0 = 6$.\nHence, $a_0 = 6, a_3 = 0$ is correct."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q9",
+    "paperId": "maths(1)2024",
+    "questionNumber": 9,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Let $z_1$ and $z_2$ be two complex numbers such that $\\left|\\frac{z_1 + z_2}{z_1 - z_2}\\right| = 1$, then what is $Re\\left(\\frac{z_1}{z_2}\\right) + 1$ equal to?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "-1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "0"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "5"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Given $|z_1 + z_2| = |z_1 - z_2|$.\nSquaring both sides: $|z_1 + z_2|^2 = |z_1 - z_2|^2 \\implies |z_1|^2 + |z_2|^2 + 2Re(z_1\\bar{z_2}) = |z_1|^2 + |z_2|^2 - 2Re(z_1\\bar{z_2})$.\nThis gives $4Re(z_1\\bar{z_2}) = 0 \\implies Re\\left(\\frac{z_1}{z_2}\\right) = 0$.\nThus, $Re\\left(\\frac{z_1}{z_2}\\right) + 1 = 0 + 1 = 1$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q10",
+    "paperId": "maths(1)2024",
+    "questionNumber": 10,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $26! = n 8^k$, where $k$ and $n$ are positive integers, then what is the maximum value of $k$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "9"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Note that $8^k = (2^3)^k = 2^{3k}$.\nThe exponent of 2 in $26!$ is $\\lfloor\\frac{26}{2}\\rfloor + \\lfloor\\frac{26}{4}\\rfloor + \\lfloor\\frac{26}{8}\\rfloor + \\lfloor\\frac{26}{16}\\rfloor = 13 + 6 + 3 + 1 = 23$.\nFor $2^{3k} \\mid 26!$, we require $3k \\le 23 \\implies k \\le \\frac{23}{3} \\approx 7.67$.\nThe maximum integer value of $k$ is 7."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q11",
+    "paperId": "maths(1)2024",
+    "questionNumber": 11,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements in respect of two non-singular matrices $A$ and $B$ of the same order $n$:\n1. $adj(AB) = (adj A)(adj B)$\n2. $adj(AB) = adj(BA)$\n3. $(AB)adj(AB) - |AB|I_n$ is a null matrix of order $n$\nHow many of the above statements are correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "None"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Only one statement"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Only two statements"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "All three statements"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "1. $adj(AB) = (adj B)(adj A)$, so statement 1 is incorrect.\n2. In general, $AB \\neq BA$, so $adj(AB) \\neq adj(BA)$, so statement 2 is incorrect.\n3. For any matrix $M$, $M \\cdot adj(M) = |M| I_n$. Substituting $M = AB$, we get $(AB) adj(AB) = |AB| I_n$, hence $(AB) adj(AB) - |AB| I_n = O$ (null matrix). Statement 3 is correct.\nTherefore, only one statement is correct."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q12",
+    "paperId": "maths(1)2024",
+    "questionNumber": 12,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements in respect of a non-singular matrix $A$ of order $n$:\n1. $A(\\text{adj} A^T) = A(\\text{adj} A)^T$\n2. If $A^2 = A$, then $A$ is identity matrix of order $n$\n3. If $A^3 = A$, then $A$ is identity matrix of order $n$\n\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Since $\\text{adj}(A^T) = (\\text{adj} A)^T$, statement 1 is true. Since $A$ is non-singular, $A^{-1}$ exists; thus $A^2 = A \\implies A = I$, so statement 2 is true. For statement 3, $A^3 = A \\implies A^2 = I$, which allows $A = -I \\neq I$, so statement 3 is false."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q13",
+    "paperId": "maths(1)2024",
+    "questionNumber": 13,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "How many four-digit natural numbers are there such that all of the digits are even?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "625"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "500"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "400"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "256"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The even digits are $\\{0, 2, 4, 6, 8\\}$. The first digit cannot be 0, giving 4 choices ($\\{2, 4, 6, 8\\}$). The remaining three digits can be any of the 5 even digits. Total numbers = $4 \\times 5 \\times 5 \\times 5 = 500$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q14",
+    "paperId": "maths(1)2024",
+    "questionNumber": 14,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $\\omega \\neq 1$ is a cube root of unity, then what are the solutions of $(z - 100)^3 + 1000 = 0$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$10(1-\\omega)$, $10(10-\\omega^2)$, $100$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$10(10-\\omega)$, $10(10-\\omega^2)$, $90$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$10(1-\\omega)$, $10(10-\\omega^2)$, $1000$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$(1+\\omega)$, $(10+\\omega^2)$, $-1$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Given $(z-100)^3 = -1000 = (-10)^3$. So $\\left(\\frac{z-100}{-10}\\right)^3 = 1$. The cube roots of unity are $1, \\omega, \\omega^2$. Thus, $z - 100 = -10, -10\\omega, -10\\omega^2 \\implies z = 90, 10(10-\\omega), 10(10-\\omega^2)$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q15",
+    "paperId": "maths(1)2024",
+    "questionNumber": 15,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is $(1 + i)^4 + (1 - i)^4$ equal to, where $i = \\sqrt{-1}$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "0"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "-4"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "-8"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "$(1+i)^2 = 2i \\implies (1+i)^4 = (2i)^2 = -4$. Similarly, $(1-i)^2 = -2i \\implies (1-i)^4 = (-2i)^2 = -4$. Sum = $-4 + (-4) = -8$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q16",
+    "paperId": "maths(1)2024",
+    "questionNumber": 16,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements in respect of a skew-symmetric matrix $A$ of order 3:\n1. All diagonal elements are zero.\n2. The sum of all the diagonal elements of the matrix is zero.\n3. $A$ is orthogonal matrix.\n\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "For a skew-symmetric matrix, $a_{ii} = -a_{ii} = 0$, so all diagonal entries are zero and their sum is zero (statements 1 and 2 are true). A skew-symmetric matrix is not necessarily orthogonal ($A^T A = I$ does not hold in general), so statement 3 is false."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q17",
+    "paperId": "maths(1)2024",
+    "questionNumber": 17,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Four digit numbers are formed by using the digits 1, 2, 3, 5 without repetition of digits. How many of them are divisible by 4?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "120"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "24"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "6"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "A number is divisible by 4 if its last two digits form a number divisible by 4. The possible two-digit combinations from $\\{1, 2, 3, 5\\}$ divisible by 4 are 12, 32, and 52 (3 choices). For each combination, the first two digits can be arranged in $2! = 2$ ways. Total count = $3 \\times 2 = 6$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q18",
+    "paperId": "maths(1)2024",
+    "questionNumber": 18,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is the remainder when $2^{120}$ is divided by 7?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "6"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "$2^3 = 8 \\equiv 1 \\pmod 7$. Thus, $2^{120} = (2^3)^{40} \\equiv 1^{40} \\equiv 1 \\pmod 7$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q19",
+    "paperId": "maths(1)2024",
+    "questionNumber": 19,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "For what value of $n$ is the determinant\n$$\\begin{vmatrix} C(9,4) & C(9,3) & C(10,n-2) \\\\ C(11,6) & C(11,5) & C(12,n) \\\\ C(m,7) & C(m,6) & C(m+1,n+1) \\end{vmatrix} = 0$$\nfor every $m > n$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "7"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Applying $C_1 \\to C_1 + C_2$ using Pascal's identity $C(n,k)+C(n,k-1)=C(n+1,k)$, the first column becomes $\\begin{pmatrix} C(10,4) \\\\ C(12,6) \\\\ C(m+1,7) \\end{pmatrix}$. For $C_1$ to be equal to $C_3$, we set $n-2 = 4 \\implies n=6$, which also gives $n=6$ and $n+1=7$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q20",
+    "paperId": "maths(1)2024",
+    "questionNumber": 20,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $ABC$ is a triangle, then what is the value of the determinant\n$$\\begin{vmatrix} \\cos C & \\sin B & 0 \\\\ \\tan A & 0 & \\sin B \\\\ 0 & \\tan(B+C) & \\cos C \\end{vmatrix} ?$$"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "-1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "0"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "3"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Since $A+B+C=\\pi$, we have $\\tan(B+C) = -\\tan A$. Expanding the determinant along the first row: $\\cos C(0 - \\sin B \\tan(B+C)) - \\sin B(\\tan A \\cos C - 0) = \\cos C \\sin B \\tan A - \\sin B \\tan A \\cos C = 0$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q21",
+    "paperId": "maths(1)2024",
+    "questionNumber": 21,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is the number of different matrices, each having 4 entries that can be formed using 1, 2, 3, 4 (repetition is allowed)?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "72"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "216"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "254"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "768"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "A matrix with 4 entries can have orders $1 \\times 4$, $4 \\times 1$, or $2 \\times 2$ (3 possible orders). For each order, there are $4^4 = 256$ different matrices. Total number of matrices = $3 \\times 256 = 768$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q22",
+    "paperId": "maths(1)2024",
+    "questionNumber": 22,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Let $A = \\{x \\in \\mathbb{R} : -1 < x < 1\\}$. Which of the following is/are bijective functions from $A$ to itself?\n1. $f(x) = x|x|$\n2. $g(x) = \\cos(\\pi x)$\n\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "$f(x) = x|x|$ is strictly increasing and maps $(-1, 1)$ one-to-one onto $(-1, 1)$, so it is bijective. $g(x) = \\cos(\\pi x)$ is not injective since $g(0.5) = g(-0.5) = 0$, so it is not bijective."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q23",
+    "paperId": "maths(1)2024",
+    "questionNumber": 23,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Let $R$ be a relation on the open interval $(-1, 1)$ and is given by $R = \\{(x, y) : |x + y| < 2\\}$. Then which one of the following is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$R$ is reflexive but neither symmetric nor transitive"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$R$ is reflexive and symmetric but not transitive"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$R$ is reflexive and transitive but not symmetric"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$R$ is an equivalence relation"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "For any $x, y \\in (-1, 1)$, we have $-1 < x < 1$ and $-1 < y < 1$, which implies $-2 < x + y < 2$, so $|x + y| < 2$ is always true. Thus $R$ is the universal relation on $(-1, 1)$, making it reflexive, symmetric, and transitive. Therefore, $R$ is an equivalence relation."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q24",
+    "paperId": "maths(1)2024",
+    "questionNumber": 24,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "For any three non-empty sets $A, B, C$, what is $(A \\cup B) - \\{(A - B) \\cup (B - A) \\cup (A \\cap B)\\}$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Null set"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$A$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$B$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$(A \\cup B) - (A \\cap B)$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The expression $(A - B) \\cup (B - A) \\cup (A \\cap B)$ covers all elements of $A \\cup B$. Thus, $(A \\cup B) - (A \\cup B) = \\emptyset$ (Null set)."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q25",
+    "paperId": "maths(1)2024",
+    "questionNumber": 25,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $a, b, c$ are the sides of triangle $ABC$, then what is $\\begin{vmatrix} a^2 & b \\sin A & c \\sin A \\\\ b \\sin A & 1 & \\cos A \\\\ c \\sin A & \\cos A & 1 \\end{vmatrix}$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Zero"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Area of triangle"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Perimeter of triangle"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$a^2 + b^2 + c^2$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Using the sine rule $b \\sin A = a \\sin B$ and $c \\sin A = a \\sin C$, factoring $a^2$ from the matrix yields $a^2 (\\sin^2 A - \\sin^2 B - \\sin^2 C + 2 \\sin B \\sin C \\cos A)$. By the cosine rule, this term vanishes to 0."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q26",
+    "paperId": "maths(1)2024",
+    "questionNumber": 26,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $a, b, c$ are in AP; $b, c, d$ are in GP; $c, d, e$ are in HP, then which of the following is/are correct ? 1. $a, c$ and $e$ are in GP 2. $\\frac{1}{a}, \\frac{1}{c}, \\frac{1}{e}$ are in GP Select the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "From AP, $2b = a + c$. From GP, $d = \\frac{c^2}{b} = \\frac{2c^2}{a+c}$. From HP, $d = \\frac{2ce}{c+e}$. Equating these gives $c^2 = ae$, so $a, c, e$ are in GP. Reciprocals of terms in a GP are also in GP."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q27",
+    "paperId": "maths(1)2024",
+    "questionNumber": 27,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is the number of solutions of $\\log_4(x - 1) = \\log_2(x - 3)$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Zero"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "One"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Two"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Three"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "For the logs to be defined, $x > 3$. Converting base gives $\\log_2(x - 1) = 2 \\log_2(x - 3) \\implies x - 1 = (x - 3)^2 \\implies x^2 - 7x + 10 = 0 \\implies x = 2, 5$. Since $x > 3$, only $x = 5$ is a valid solution."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q28",
+    "paperId": "maths(1)2024",
+    "questionNumber": 28,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "For $x \\ge y > 1$, let $\\log_x\\left(\\frac{x}{y}\\right) + \\log_y\\left(\\frac{y}{x}\\right) = k$, then the value of $k$ can never be equal to"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$-1$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$-\\frac{1}{2}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$0$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$1$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "$k = (1 - \\log_x y) + (1 - \\log_y x) = 2 - (t + \\frac{1}{t})$ where $t = \\log_x y$. Since $x \\ge y > 1$, $0 < t \\le 1$, so $t + \\frac{1}{t} \\ge 2$. Thus $k \\le 0$, meaning $k$ can never be equal to 1."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q29",
+    "paperId": "maths(1)2024",
+    "questionNumber": 29,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $A = \\begin{bmatrix} \\sin 2\\theta & 2\\sin^2\\theta - 1 & 0 \\\\ \\cos 2\\theta & 2\\sin\\theta\\cos\\theta & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}$, then which of the following statements is/are correct ? 1. $A^{-1} = \\text{adj} A$ 2. $A$ is skew-symmetric matrix 3. $A^{-1} = A^T$ Select the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1 and 2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 3"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "$A = \\begin{bmatrix} \\sin 2\\theta & -\\cos 2\\theta & 0 \\\\ \\cos 2\\theta & \\sin 2\\theta & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}$. Here $\\det(A) = 1$, so $A^{-1} = \\text{adj} A$. Also $A A^T = I \\implies A^{-1} = A^T$. $A$ is not skew-symmetric. Thus statements 1 and 3 are correct."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q30",
+    "paperId": "maths(1)2024",
+    "questionNumber": 30,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is the coefficient of $x^{10}$ in the expansion of $(1 - x^2)^{20} \\left(2 - x^2 - \\frac{1}{x^2}\\right)^{-5}$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$-1$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$1$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$10$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Coefficient of $x^{10}$ does not exist"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Since $\\left(2 - x^2 - \\frac{1}{x^2}\\right)^{-5} = -\\frac{x^{10}}{(1 - x^2)^{10}}$, the given product simplifies to $-x^{10}(1 - x^2)^{10}$. The coefficient of $x^{10}$ is the constant term of $-(1 - x^2)^{10}$, which is $-1$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q31",
+    "paperId": "maths(1)2024",
+    "questionNumber": 31,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If the 4th term in the expansion of $\\left(mx + \\frac{1}{x}\\right)^n$ is $\\frac{5}{2}$, then what is the value of $mn$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$-3$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$3$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$6$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$12$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "$T_4 = \\binom{n}{3} m^{n-3} x^{n-6} = \\frac{5}{2}$. Since $T_4$ is constant, $n - 6 = 0 \\implies n = 6$. Then $\\binom{6}{3} m^3 = 20 m^3 = \\frac{5}{2} \\implies m^3 = \\frac{1}{8} \\implies m = \\frac{1}{2}$. Thus $mn = 6 \\times \\frac{1}{2} = 3$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q32",
+    "paperId": "maths(1)2024",
+    "questionNumber": 32,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $a, b$ and $c\\ (a > 0, c > 0)$ are in GP, then consider the following in respect of the equation $ax^2 + bx + c = 0$ : 1. The equation has imaginary roots. 2. The ratio of the roots of the equation is $1 : \\omega$ where \\omega is a cube root of unity. 3. The product of roots of the equation is $\\left(\\frac{b^2}{a^2}\\right)$. Which of the statements given above are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Since $b^2 = ac$, $D = b^2 - 4ac = -3ac < 0$, giving imaginary roots. The roots are $\\frac{b}{a}\\omega$ and $\\frac{b}{a}\\omega^2$, with ratio $\\frac{1}{\\omega}$ ($1 : \\omega$). The product of roots is $\\frac{c}{a} = \\frac{b^2}{a^2}$. All 3 statements are correct."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q33",
+    "paperId": "ARRAN-B-MTH",
+    "questionNumber": 33,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $x^2 + mx + n$ is an integer for all integral values of $x$, then which of the following is/are correct ?\n1. $m$ must be an integer\n2. $n$ must be an integer\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "For $x = 0$, $0^2 + m(0) + n = n$, so $n$ must be an integer. For $x = 1$, $1 + m + n$ is an integer, which implies $m$ must also be an integer. Thus, both 1 and 2 are correct."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q34",
+    "paperId": "ARRAN-B-MTH",
+    "questionNumber": 34,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "In a binomial expansion of $(x + y)^{2n+1}(x - y)^{2n+1}$, the sum of middle terms is zero. What is the value of $\\left(\\frac{x^2}{y^2}\\right)$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "8"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The given expression simplifies to $(x^2 - y^2)^{2n+1}$. The middle terms are $T_{n+1}$ and $T_{n+2}$. Their sum being zero leads to $x^2 - y^2 = 0$, which gives $\\frac{x^2}{y^2} = 1$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q35",
+    "paperId": "ARRAN-B-MTH",
+    "questionNumber": 35,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Let $A = \\{1, 2, 3, 4, 5\\}$ and $B = \\{6, 7\\}$. What is the number of onto functions from $A$ to $B$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "20"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "30"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "32"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The total number of functions from set $A$ (with 5 elements) to set $B$ (with 2 elements) is $2^5 = 32$. Subtracting the 2 non-onto (constant) functions gives $32 - 2 = 30$ onto functions."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q36",
+    "paperId": "ARRAN-B-MTH",
+    "questionNumber": 36,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is $\\frac{\\sqrt{3}\\cos 10^\\circ - \\sin 10^\\circ}{\\sin 25^\\circ \\cos 25^\\circ}$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\sqrt{3}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "4"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Numerator: $2(\\frac{\\sqrt{3}}{2}\\cos 10^\\circ - \\frac{1}{2}\\sin 10^\\circ) = 2\\sin(60^\\circ - 10^\\circ) = 2\\sin 50^\\circ$. Denominator: $\\sin 25^\\circ \\cos 25^\\circ = \\frac{1}{2}\\sin 50^\\circ$. So the fraction is $\\frac{2\\sin 50^\\circ}{\\frac{1}{2}\\sin 50^\\circ} = 4$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q37",
+    "paperId": "ARRAN-B-MTH",
+    "questionNumber": 37,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is $(\\sin 9^\\circ - \\cos 9^\\circ)$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "-\\frac{\\sqrt{5-\\sqrt{5}}}{2}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "-\\frac{\\sqrt{5-\\sqrt{3}}}{2}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{\\sqrt{5-\\sqrt{5}}}{2}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\frac{\\sqrt{5-\\sqrt{5}}}{4}"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Since $9^\\circ < 45^\\circ$, $\\sin 9^\\circ < \\cos 9^\\circ$, so the value is negative. $(\\sin 9^\\circ - \\cos 9^\\circ)^2 = 1 - \\sin 18^\\circ = 1 - \\frac{\\sqrt{5}-1}{4} = \\frac{5-\\sqrt{5}}{4}$. Taking the negative square root yields $-\\frac{\\sqrt{5-\\sqrt{5}}}{2}$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q38",
+    "paperId": "ARRAN-B-MTH",
+    "questionNumber": 38,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If in a triangle $ABC$, $\\sin^3 A + \\sin^3 B + \\sin^3 C = 3\\sin A \\sin B \\sin C$, then what is the value of the determinant $\\begin{vmatrix} a & b & c \\\\ b & c & a \\\\ c & a & b \\end{vmatrix}$; where $a, b, c$ are sides of the triangle ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "a + b + c"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "ab + bc + ca"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "(a + b)(b + c)(c + a)"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "0"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "By sine rule, $a, b, c$ are proportional to $\\sin A, \\sin B, \\sin C$, so $a^3 + b^3 + c^3 = 3abc$. Since $a, b, c > 0$, this implies $a = b = c$. The value of the cyclic determinant $\\begin{vmatrix} a & b & c \\\\ b & c & a \\\\ c & a & b \\end{vmatrix} = -(a^3 + b^3 + c^3 - 3abc) = 0$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q39",
+    "paperId": "ARRAN-B-MTH",
+    "questionNumber": 39,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $\\cos^{-1}x = \\sin^{-1}x$, then which one of the following is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "x = 1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "x = \\frac{1}{2}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "x = \\frac{1}{\\sqrt{2}}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "x = \\frac{1}{\\sqrt{3}}"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Since $\\sin^{-1} x + \\cos^{-1} x = \\frac{\\pi}{2}$, we have $2\\sin^{-1} x = \\frac{\\pi}{2} \\implies \\sin^{-1} x = \\frac{\\pi}{4} \\implies x = \\frac{1}{\\sqrt{2}}$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q40",
+    "paperId": "ARRAN-B-MTH",
+    "questionNumber": 40,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is the number of solutions of $(\\sin\\theta - \\cos\\theta)^2 = 2$ where $-\\pi < \\theta < \\pi$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Only one"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "Only two"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Four"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "No solution"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "$(\\sin\\theta - \\cos\\theta)^2 = 1 - \\sin 2\\theta = 2 \\implies \\sin 2\\theta = -1$. In the range $-2\\pi < 2\\theta < 2\\pi$, $2\\theta = -\\frac{\\pi}{2}$ or $\\frac{3\\pi}{2}$, which gives $\\theta = -\\frac{\\pi}{4}, \\frac{3\\pi}{4}$. Thus, there are 2 solutions."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q41",
+    "paperId": "ARRAN-B-MTH",
+    "questionNumber": 41,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "$ABC$ is a triangle such that angle $C = 60^\\circ$, then what is $\\frac{\\cos A + \\cos B}{\\cos\\left(\\frac{A-B}{2}\\right)}$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\sqrt{2}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\frac{1}{\\sqrt{2}}"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "$\\cos A + \\cos B = 2\\cos\\left(\\frac{A+B}{2}\\right)\\cos\\left(\\frac{A-B}{2}\\right)$. Since $C = 60^\\circ$, $A+B = 120^\\circ \\implies \\frac{A+B}{2} = 60^\\circ$. So $\\frac{\\cos A + \\cos B}{\\cos\\left(\\frac{A-B}{2}\\right)} = 2\\cos 60^\\circ = 2 \\cdot \\frac{1}{2} = 1$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q42",
+    "paperId": "ARRAN-B-MTH",
+    "questionNumber": 42,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is $\\sqrt{15 + \\cot^2\\left(\\frac{\\pi}{4} - 2\\cot^{-1} 3\\right)}$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "16"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Let $\\alpha = \\cot^{-1} 3 \\implies \\tan\\alpha = 1/3$. Then $\\tan 2\\alpha = 3/4 \\implies \\cot 2\\alpha = 4/3$. $\\cot(\\frac{\\pi}{4} - 2\\alpha) = \\frac{\\cot 2\\alpha + 1}{\\cot 2\\alpha - 1} = \\frac{4/3 + 1}{4/3 - 1} = 7$. Thus, $\\sqrt{15 + 7^2} = \\sqrt{64} = 8$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q43",
+    "paperId": "ARRAN-B-MTH",
+    "questionNumber": 43,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is the value of $\\sin 10^\\circ \\cdot \\sin 50^\\circ + \\sin 50^\\circ \\cdot \\sin 250^\\circ + \\sin 250^\\circ \\cdot \\sin 10^\\circ$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "-\\frac{1}{4}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "-\\frac{3}{4}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{3\\sin 10^\\circ}{4}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "-\\frac{3\\cos 10^\\circ}{4}"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Using product-to-sum identity $\\sin x \\sin y = \\frac{1}{2}[\\cos(x-y) - \\cos(x+y)]$, the expression evaluates to $\\frac{1}{2}[-\\cos 60^\\circ - \\cos 300^\\circ + \\cos 240^\\circ] = \\frac{1}{2}[-1/2 - 1/2 - 1/2] = -\\frac{3}{4}$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q44",
+    "paperId": "ARRAN-B-MTH",
+    "questionNumber": 44,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is $\\tan^{-1}\\left(\\frac{a}{b}\\right) - \\tan^{-1}\\left(\\frac{a-b}{a+b}\\right)$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "-\\frac{\\pi}{4}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{\\pi}{4}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\tan^{-1}\\left(\\frac{a^2-b^2}{a^2+b^2}\\right)"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\tan^{-1}\\left(\\frac{2ab}{a^2+b^2}\\right)"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "$\\tan^{-1}\\left(\\frac{a-b}{a+b}\\right) = \\tan^{-1}\\left(\\frac{a/b - 1}{1 + a/b}\\right) = \\tan^{-1}\\left(\\frac{a}{b}\\right) - \\tan^{-1}(1) = \\tan^{-1}\\left(\\frac{a}{b}\\right) - \\frac{\\pi}{4}$. Thus the difference is $\\frac{\\pi}{4}$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q45",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 45,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Under which one of the following conditions does the equation $(\\cos\\beta - 1)x^2 + (\\cos\\beta)x + \\sin\\beta = 0$ in $x$ have a real root for $\\beta \\in [0, \\pi]$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$1 - \\cos\\beta < 0$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$1 - \\cos\\beta \\le 0$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$1 - \\cos\\beta > 0$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$1 - \\cos\\beta \\ge 0$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "For any $\\beta \\in [0, \\pi]$, $\\cos\\beta \\le 1$, which implies $1 - \\cos\\beta \\ge 0$ is always true. Under this condition, the discriminant $D = \\cos^2\\beta + 4(1 - \\cos\\beta)\\sin\\beta \\ge 0$, guaranteeing real roots."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q46",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 46,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "In a triangle $ABC$, $AB = 16\\text{ cm}$, $BC = 63\\text{ cm}$ and $AC = 65\\text{ cm}$. What is the value of $\\cos 2A + \\cos 2B + \\cos 2C$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$-1$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$0$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$1$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{76}{65}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Since $16^2 + 63^2 = 256 + 3969 = 4225 = 65^2$, triangle $ABC$ is right-angled at $B$ ($B = 90^\\circ$). Thus, $\\cos 2B = \\cos 180^\\circ = -1$ and $C = 90^\\circ - A \\implies \\cos 2C = -\\cos 2A$. Therefore, $\\cos 2A + \\cos 2B + \\cos 2C = \\cos 2A - 1 - \\cos 2A = -1$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q47",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 47,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $f(\\theta) = \\frac{1}{1 + \\tan\\theta}$ and $\\alpha + \\beta = \\frac{5\\pi}{4}$, then what is the value of $f(\\alpha) f(\\beta)$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$-\\frac{1}{2}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$1$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$2$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Since $\\alpha + \\beta = \\frac{5\\pi}{4}$, we have $\\tan(\\alpha + \\beta) = 1 \\implies \\frac{\\tan\\alpha + \\tan\\beta}{1 - \\tan\\alpha\\tan\\beta} = 1 \\implies (1 + \\tan\\alpha)(1 + \\tan\\beta) = 2$. Thus, $f(\\alpha) f(\\beta) = \\frac{1}{(1 + \\tan\\alpha)(1 + \\tan\\beta)} = \\frac{1}{2}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q48",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 48,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $\\tan\\alpha$ and $\\tan\\beta$ are the roots of the equation $x^2 - 6x + 8 = 0$, then what is the value of $\\cos(2\\alpha + 2\\beta)$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\frac{13}{75}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\frac{13}{85}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\frac{17}{85}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{19}{85}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Here $\\tan\\alpha + \\tan\\beta = 6$ and $\\tan\\alpha \\tan\\beta = 8$. Thus $\\tan(\\alpha + \\beta) = \\frac{6}{1 - 8} = -\\frac{6}{7}$. Then $\\cos(2\\alpha + 2\\beta) = \\frac{1 - \\tan^2(\\alpha + \\beta)}{1 + \\tan^2(\\alpha + \\beta)} = \\frac{1 - 36/49}{1 + 36/49} = \\frac{13}{85}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q49",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 49,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is the value of $\\tan 65^\\circ + 2\\tan 45^\\circ - 2\\tan 40^\\circ - \\tan 25^\\circ$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$0$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$1$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$2$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$4$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Using $\\tan 65^\\circ - \\tan 25^\\circ = \\tan(65^\\circ - 25^\\circ)(1 + \\tan 65^\\circ \\tan 25^\\circ) = 2\\tan 40^\\circ$. Hence, $\\tan 65^\\circ - \\tan 25^\\circ - 2\\tan 40^\\circ = 0$. The expression reduces to $2\\tan 45^\\circ = 2(1) = 2$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q50",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 50,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following statements :\n1. In a triangle $ABC$, if $\\cot A \\cdot \\cot B \\cdot \\cot C > 0$, then the triangle is an acute angled triangle.\n2. In a triangle $ABC$, if $\\tan A \\cdot \\tan B \\cdot \\tan C > 0$, then the triangle is an obtuse angled triangle.\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "For an acute angled triangle, all angles are $< 90^\\circ$, so all cotangents and tangents are positive, making both products $> 0$. Thus statement 1 is correct, but statement 2 incorrectly claims the triangle is obtuse when $\\tan A \\cdot \\tan B \\cdot \\tan C > 0$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q51",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 51,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $(a, b)$ is the centre and $c$ is the radius of the circle $x^2 + y^2 + 2x + 6y + 1 = 0$, then what is the value of $a^2 + b^2 + c^2$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$19$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$18$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$17$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$11$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Comparing $x^2 + y^2 + 2x + 6y + 1 = 0$ with $x^2 + y^2 + 2gx + 2fy + c' = 0$, we get centre $(a, b) = (-1, -3)$ and radius $c = \\sqrt{1^2 + 3^2 - 1} = 3$. Therefore, $a^2 + b^2 + c^2 = (-1)^2 + (-3)^2 + 3^2 = 1 + 9 + 9 = 19$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q52",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 52,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $(1, -1, 2)$ and $(2, 1, -1)$ are the end points of a diameter of a sphere $x^2 + y^2 + z^2 + 2ux + 2vy + 2wz - 1 = 0$, then what is $u + v + w$ equal to?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$-2$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$-1$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$1$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$2$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Equation of sphere is $(x-1)(x-2) + (y+1)(y-1) + (z-2)(z+1) = 0 \\implies x^2 + y^2 + z^2 - 3x - z - 1 = 0$. Comparing coefficients: $2u = -3, 2v = 0, 2w = -1$, so $u + v + w = -\\frac{3}{2} + 0 - \\frac{1}{2} = -2$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q53",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 53,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "The number of points represented by the equation $x = 5$ on the $xy$-plane is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "Zero"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "One"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Two"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Infinitely many"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "On the $xy$-plane, $x = 5$ represents a straight line parallel to the $y$-axis, which consists of infinitely many points of the form $(5, y)$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q54",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 54,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $\\langle l, m, n \\rangle$ are the direction cosines of a normal to the plane $2x - 3y + 6z + 4 = 0$, then what is the value of $49(7l^2 + m^2 - n^2)$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$0$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$1$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$3$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$71$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Direction ratios of normal are $\\langle 2, -3, 6 \\rangle$, so length $\\sqrt{2^2 + (-3)^2 + 6^2} = 7$. Thus $l^2 = \\frac{4}{49}$, $m^2 = \\frac{9}{49}$, $n^2 = \\frac{36}{49}$. Evaluating $49(7l^2 + m^2 - n^2) = 49\\left(7 \\cdot \\frac{4}{49} + \\frac{9}{49} - \\frac{36}{49}\\right) = 28 + 9 - 36 = 1$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q55",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 55,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "A line through $(1, -1, 2)$ with direction ratios $\\langle 3, 2, 2 \\rangle$ meets the plane $x + 2y + 3z = 18$. What is the point of intersection of line and plane?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$(4, 4, 1)$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$(2, 4, 1)$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$(4, 1, 4)$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$(3, 4, 7)$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The line is $\\frac{x-1}{3} = \\frac{y+1}{2} = \\frac{z-2}{2} = k$. Any point on the line is $(3k+1, 2k-1, 2k+2)$. Substituting into $x + 2y + 3z = 18$ gives $(3k+1) + 2(2k-1) + 3(2k+2) = 18 \\implies 13k + 5 = 18 \\implies k = 1$. The point of intersection is $(4, 1, 4)$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q56",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 56,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $p$ is the perpendicular distance from origin to the plane passing through $(1, 0, 0)$, $(0, 1, 0)$ and $(0, 0, 1)$, then what is $3p^2$ equal to?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$4$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$3$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$2$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$1$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The equation of the plane is $x + y + z = 1$. Perpendicular distance from origin $p = \\frac{|0+0+0-1|}{\\sqrt{1^2+1^2+1^2}} = \\frac{1}{\\sqrt{3}}$. Thus, $p^2 = \\frac{1}{3} \\implies 3p^2 = 1$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q57",
+    "paperId": "maths(1)2024",
+    "questionNumber": 57,
+    "section": "A",
+    "question": {
+      "type": "latex",
+      "content": "If the direction cosines $<l, m, n>$ of a line are connected by relation $l + 2m + n = 0$, $2l - 2m + 3n = 0$, then what is the value of $l^2 + m^2 - n^2$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\frac{1}{101}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{29}{101}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{41}{101}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\frac{92}{101}"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Solving $l + 2m + n = 0$ and $2l - 2m + 3n = 0$ gives $l = -\\frac{4}{3}n$ and $m = \\frac{1}{6}n$. Thus, $l : m : n = -8 : 1 : 6$. Using $l^2 + m^2 + n^2 = 1$, we get $k^2(64 + 1 + 36) = 1 \\implies k^2 = \\frac{1}{101}$. Hence, $l^2 + m^2 - n^2 = (64 + 1 - 36)k^2 = \\frac{29}{101}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q58",
+    "paperId": "maths(1)2024",
+    "questionNumber": 58,
+    "section": "A",
+    "question": {
+      "type": "latex",
+      "content": "If a variable line passes through the point of intersection of the lines $x + 2y - 1 = 0$ and $2x - y - 1 = 0$ and meets the coordinate axes in $A$ and $B$, then what is the locus of the mid-point of $AB$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "3x + y = 10xy"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "x + 3y = 10xy"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "3x + y = 10"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "x + 3y = 10"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Intersection point of given lines is $\\left(\\frac{3}{5}, \\frac{1}{5}\\right)$. Let the line intersect axes at $A(a,0)$ and $B(0,b)$. Then $\\frac{3/5}{a} + \\frac{1/5}{b} = 1 \\implies \\frac{3}{a} + \\frac{1}{b} = 5$. Since midpoint $M(h,k) = (a/2, b/2)$, we have $a=2h, b=2k$. Substituting gives $\\frac{3}{2h} + \\frac{1}{2k} = 5 \\implies h + 3k = 10hk$. The locus is $x + 3y = 10xy$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q59",
+    "paperId": "maths(1)2024",
+    "questionNumber": 59,
+    "section": "A",
+    "question": {
+      "type": "latex",
+      "content": "What is the equation to the straight line passing through the point $(-\\sin\\theta, \\cos\\theta)$ and perpendicular to the line $x\\cos\\theta + y\\sin\\theta = 9$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "x\\sin\\theta - y\\cos\\theta - 1 = 0"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "x\\sin\\theta - y\\cos\\theta + 1 = 0"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "x\\sin\\theta - y\\cos\\theta = 0"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "x\\cos\\theta - y\\sin\\theta + 1 = 0"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "A line perpendicular to $x\\cos\\theta + y\\sin\\theta = 9$ is of the form $x\\sin\\theta - y\\cos\\theta + k = 0$. Substituting $(-\\sin\\theta, \\cos\\theta)$ yields $(-\\sin\\theta)\\sin\\theta - (\\cos\\theta)\\cos\\theta + k = 0 \\implies -1 + k = 0 \\implies k = 1$. Thus, the equation is $x\\sin\\theta - y\\cos\\theta + 1 = 0$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q60",
+    "paperId": "maths(1)2024",
+    "questionNumber": 60,
+    "section": "A",
+    "question": {
+      "type": "latex",
+      "content": "Two points $P$ and $Q$ lie on line $y = 2x + 3$. These two points $P$ and $Q$ are at a distance 2 units from another point $R(1, 5)$. What are the coordinates of the points $P$ and $Q$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\left(1+\\frac{2}{\\sqrt{5}}, 5+\\frac{4}{\\sqrt{5}}\\right), \\left(1-\\frac{2}{\\sqrt{5}}, 5-\\frac{4}{\\sqrt{5}}\\right)"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\left(3+\\frac{2}{\\sqrt{5}}, 5+\\frac{4}{\\sqrt{5}}\\right), \\left(-1-\\frac{2}{\\sqrt{5}}, 5-\\frac{4}{\\sqrt{5}}\\right)"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\left(1-\\frac{2}{\\sqrt{5}}, 5+\\frac{4}{\\sqrt{5}}\\right), \\left(1+\\frac{2}{\\sqrt{5}}, 5-\\frac{4}{\\sqrt{5}}\\right)"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\left(3-\\frac{2}{\\sqrt{5}}, 5+\\frac{4}{\\sqrt{5}}\\right), \\left(-1+\\frac{2}{\\sqrt{5}}, 5-\\frac{4}{\\sqrt{5}}\\right)"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Point $R(1,5)$ lies on $y = 2x + 3$. For slope $m = 2$, $\\cos\\theta = \\frac{1}{\\sqrt{5}}$ and $\\sin\\theta = \\frac{2}{\\sqrt{5}}$. Points at distance $r = 2$ are $(1 \\pm r\\cos\\theta, 5 \\pm r\\sin\\theta) = \\left(1 \\pm \\frac{2}{\\sqrt{5}}, 5 \\pm \\frac{4}{\\sqrt{5}}\\right)$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q61",
+    "paperId": "maths(1)2024",
+    "questionNumber": 61,
+    "section": "A",
+    "question": {
+      "type": "latex",
+      "content": "If two sides of a square lie on the lines $2x + y - 3 = 0$ and $4x + 2y + 5 = 0$, then what is the area of the square in square units ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "6.05"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "6.15"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "6.25"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "6.35"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Rewrite $2x + y - 3 = 0$ as $4x + 2y - 6 = 0$. Distance between parallel lines $d = \\frac{|5 - (-6)|}{\\sqrt{4^2 + 2^2}} = \\frac{11}{\\sqrt{20}}$. Area of the square $a^2 = d^2 = \\frac{121}{20} = 6.05$ square units."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q62",
+    "paperId": "maths(1)2024",
+    "questionNumber": 62,
+    "section": "A",
+    "question": {
+      "type": "latex",
+      "content": "$ABC$ is a triangle with $A(3, 5)$. The mid-points of sides $AB, AC$ are at $(-1, 2), (6, 4)$ respectively. What are the coordinates of centroid of the triangle $ABC$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\left(\\frac{8}{3}, \\frac{11}{3}\\right)"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\left(\\frac{7}{3}, \\frac{7}{3}\\right)"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\left(2, \\frac{8}{3}\\right)"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\left(\\frac{8}{3}, 2\\right)"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Let $D(-1,2)$ be midpoint of $AB \\implies B = 2D - A = (-5, -1)$. Let $E(6,4)$ be midpoint of $AC \\implies C = 2E - A = (9, 3)$. Centroid $G = \\frac{A+B+C}{3} = \\left(\\frac{3 - 5 + 9}{3}, \\frac{5 - 1 + 3}{3}\\right) = \\left(\\frac{7}{3}, \\frac{7}{3}\\right)$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q63",
+    "paperId": "maths(1)2024",
+    "questionNumber": 63,
+    "section": "A",
+    "question": {
+      "type": "latex",
+      "content": "$ABC$ is an acute angled isosceles triangle. Two equal sides $AB$ and $AC$ lie on the lines $7x - y - 3 = 0$ and $x + y - 5 = 0$. If $\\theta$ is one of the equal angles, then what is $\\cot\\theta$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\frac{1}{3}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{1}{2}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{2}{3}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "2"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Angle $A$ between lines is $\\tan A = \\left|\\frac{7 - (-1)}{1 + 7(-1)}\\right| = \\frac{4}{3}$. In $\\triangle ABC$, $A + 2\\theta = 180^\\circ \\implies 2\\theta = 180^\\circ - A \\implies \\tan 2\\theta = -\\tan A = -\\frac{4}{3}$. Using $\\tan 2\\theta = \\frac{2\\tan\\theta}{1 - \\tan^2\\theta} = -\\frac{4}{3}$ gives $2\\tan^2\\theta - 3\\tan\\theta - 2 = 0 \\implies \\tan\\theta = 2$. Therefore, $\\cot\\theta = \\frac{1}{2}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q64",
+    "paperId": "maths(1)2024",
+    "questionNumber": 64,
+    "section": "A",
+    "question": {
+      "type": "latex",
+      "content": "In the parabola $y^2 = 8x$, the focal distance of a point $P$ lying on it is 8 units. Which of the following statements is/are correct ?\n1. The coordinates of $P$ can be $(6, 4\\sqrt{3})$.\n2. The perpendicular distance of $P$ from the directrix of parabola is 8 units.\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "For $y^2 = 8x$, $a = 2$. Focal distance $x + a = 8 \\implies x = 6$. So $y = \\pm\\sqrt{48} = \\pm 4\\sqrt{3}$. Statement 1 is correct. By definition of parabola, focal distance equals perpendicular distance to directrix (8 units), so statement 2 is also correct."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q65",
+    "paperId": "maths(1)2024",
+    "questionNumber": 65,
+    "section": "A",
+    "question": {
+      "type": "latex",
+      "content": "What is the eccentricity of the ellipse if the angle between the straight lines joining the foci to an extremity of the minor axis is $90^\\circ$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\frac{1}{3}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{1}{2}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{1}{\\sqrt{3}}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\frac{1}{\\sqrt{2}}"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Angle between foci $S(ae, 0)$, $S'(-ae, 0)$ and minor axis extremity $B(0,b)$ is $90^\\circ$. By symmetry, $\\tan 45^\\circ = \\frac{ae}{b} = 1 \\implies ae = b$. Using $b^2 = a^2(1 - e^2)$, we get $a^2 e^2 = a^2(1 - e^2) \\implies 2e^2 = 1 \\implies e = \\frac{1}{\\sqrt{2}}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q66",
+    "paperId": "maths(1)2024",
+    "questionNumber": 66,
+    "section": "A",
+    "question": {
+      "type": "latex",
+      "content": "Let $\\vec{a} = \\hat{i} - \\hat{j} + \\hat{k}$ and $\\vec{b} = \\hat{i} + 2\\hat{j} - \\hat{k}$. If $\\vec{a} \\times (\\vec{b} \\times \\vec{a}) = \\alpha\\hat{i} - \\beta\\hat{j} + \\gamma\\hat{k}$, then what is the value of $\\alpha + \\beta + \\gamma$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "$\\vec{a} \\times (\\vec{b} \\times \\vec{a}) = (\\vec{a} \\cdot \\vec{a})\\vec{b} - (\\vec{a} \\cdot \\vec{b})\\vec{a}$. Here $\\vec{a} \\cdot \\vec{a} = 3$ and $\\vec{a} \\cdot \\vec{b} = -2$. So $3\\vec{b} + 2\\vec{a} = 5\\hat{i} + 4\\hat{j} - \\hat{k}$. Comparing coefficients gives $\\alpha = 5, \\beta = 4, \\gamma = -1$, yielding $\\alpha + \\beta + \\gamma = 5 + 4 - 1 = 8$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q67",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 67,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If a vector of magnitude 2 units makes an angle $\\frac{\\pi}{3}$ with $2\\hat{i}$, $\\frac{\\pi}{4}$ with $3\\hat{j}$ and an acute angle $\\theta$ with $4\\hat{k}$, then what are the components of the vector ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$(1, \\sqrt{2}, 1)$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$(1, -\\sqrt{2}, 1)$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$(1, -\\sqrt{2}, -1)$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$(1, \\sqrt{2}, -1)$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The direction cosines are $\\cos\\alpha = \\cos(\\pi/3) = 1/2$, $\\cos\\beta = \\cos(\\pi/4) = 1/\\sqrt{2}$, and $\\cos\\gamma = \\sqrt{1 - (1/2)^2 - (1/\\sqrt{2})^2} = 1/2$ (since $\\theta$ is acute). The components are $r(\\cos\\alpha, \\cos\\beta, \\cos\\gamma) = 2(1/2, 1/\\sqrt{2}, 1/2) = (1, \\sqrt{2}, 1)$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q68",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 68,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following in respect of moment of a force : 1. The moment of force about a point is independent of point of application of force. 2. The moment of a force about a line is a vector quantity. Which of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "1. Moment about a point depends on the position vector of the point of application, so it is not independent. 2. Moment of a force about a line is a scalar quantity (component along that line). Thus, neither statement is correct."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q69",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 69,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "For any vector $\\vec{r}$, what is $(\\vec{r}\\cdot\\hat{i})(\\vec{r}\\times\\hat{i})+(\\vec{r}\\cdot\\hat{j})(\\vec{r}\\times\\hat{j})+(\\vec{r}\\cdot\\hat{k})(\\vec{r}\\times\\hat{k})$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\vec{0}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\vec{r}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$2\\vec{r}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$3\\vec{r}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Let $\\vec{r} = x\\hat{i} + y\\hat{j} + z\\hat{k}$. Then $(\\vec{r}\\cdot\\hat{i})(\\vec{r}\\times\\hat{i}) = x(z\\hat{j} - y\\hat{k})$. Summing across all three axes gives $(xz\\hat{j} - xy\\hat{k}) + (yx\\hat{k} - yz\\hat{i}) + (zy\\hat{i} - zx\\hat{j}) = \\vec{0}$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q70",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 70,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Let $\\vec{a}$ and $\\vec{b}$ are two vectors of magnitude 4 inclined at an angle $\\frac{\\pi}{3}$, then what is the angle between $\\vec{a}$ and $\\vec{a}-\\vec{b}$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\frac{\\pi}{2}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\frac{\\pi}{3}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\frac{\\pi}{4}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{\\pi}{6}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Since $|\\vec{a}| = |\\vec{b}| = 4$, $|\\vec{a}-\\vec{b}|^2 = 16 + 16 - 2(16)\\cos(\\pi/3) = 16 \\implies |\\vec{a}-\\vec{b}| = 4$. Thus $\\vec{a}, \\vec{b}, \\vec{a}-\\vec{b}$ form an equilateral triangle, making the angle between $\\vec{a}$ and $\\vec{a}-\\vec{b}$ equal to $\\frac{\\pi}{3}$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q71",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 71,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Let $y_1(x)$ and $y_2(x)$ be two solutions of the differential equation $\\frac{dy}{dx} = x$. If $y_1(0) = 0$ and $y_2(0) = 4$, then what is the number of points of intersection of the curves $y_1(x)$ and $y_2(x)$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "No point"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "One point"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Two points"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "More than two points"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "The general solution is $y = \\frac{x^2}{2} + C$. Here $y_1(x) = \\frac{x^2}{2}$ and $y_2(x) = \\frac{x^2}{2} + 4$. These curves are parallel parabolas and never intersect."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q72",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 72,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "The differential equation, representing the curve $y = e^x(a \\cos x + b \\sin x)$ where $a$ and $b$ are arbitrary constants, is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\frac{d^2 y}{dx^2} + 2y = 0$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\frac{d^2 y}{dx^2} + 2\\frac{dy}{dx} + 2y = 0$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\frac{d^2 y}{dx^2} - 2\\frac{dy}{dx} + 2y = 0$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{d^2 y}{dx^2} + y = 0$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The roots of the characteristic equation are $1 \\pm i$, giving $(m-1)^2 + 1 = 0 \\implies m^2 - 2m + 2 = 0$. Thus, the differential equation is $\\frac{d^2 y}{dx^2} - 2\\frac{dy}{dx} + 2y = 0$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q73",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 73,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $f(x) = ax - b$ and $g(x) = cx + d$ are such that $f(g(x)) = g(f(x))$, then which one of the following holds ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$f(d) = g(b)$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$f(b) + g(d) = 0$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$f(a) + g(c) = 2a$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$f(d) + g(b) = 2d$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "$f(g(x)) = a(cx+d)-b = acx + ad - b$ and $g(f(x)) = c(ax-b)+d = acx - bc + d$. Equating gives $ad - b = d - bc \\implies ad + bc = b + d$. Then $f(d) + g(b) = (ad - b) + (cb + d) = (ad + bc) + d - b = (b + d) + d - b = 2d$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q74",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 74,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is $\\int_{-1}^{1} (3\\sin x - \\sin 3x)\\cos^2 x dx$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$-\\frac{1}{4}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$0$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{1}{4}$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The integrand $f(x) = (3\\sin x - \\sin 3x)\\cos^2 x$ is an odd function because $f(-x) = -f(x)$. The integral of an odd function from $-1$ to $1$ is $0$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q75",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 75,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What are the order and degree respectively of the differential equation $\\left\\{2 - \\left(\\frac{dy}{dx}\\right)^2\\right\\}^{0.6} = \\frac{d^2 y}{dx^2}$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$2, 2$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$2, 3$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$5, 2$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$2, 5$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Raising both sides to the power $5$ yields $\\left\\{2 - \\left(\\frac{dy}{dx}\\right)^2\\right\\}^3 = \\left(\\frac{d^2 y}{dx^2}\\right)^5$. The order is the highest derivative, which is 2, and its degree is 5."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q76",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 76,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $\\frac{dy}{dx} = 2e^x y^3$, $y(0) = \\frac{1}{2}$ then what is $4y^2(2 - e^x)$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$1$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$2$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$3$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$4$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Separating variables: $y^{-3} dy = 2e^x dx \\implies -\\frac{1}{2y^2} = 2e^x + C$. Using $y(0) = 1/2$, $-2 = 2 + C \\implies C = -4$. So $\\frac{1}{2y^2} = 4 - 2e^x = 2(2-e^x) \\implies 4y^2(2-e^x) = 1$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q77",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 77,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Let $p = \\int_a^b f(x) dx$ and $q = \\int_a^b |f(x)| dx$. If $f(x) = e^{-x}$, then which one of the following is correct ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$p = 2q$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$p = -q$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$4p = q$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$p = q$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Since $f(x) = e^{-x} > 0$ for all real $x$, $|f(x)| = f(x)$. Hence $q = \\int_a^b f(x) dx = p$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q78",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 78,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is $\\int_0^{\\frac{\\pi}{2}} \\frac{a + \\sin x}{2a + \\sin x + \\cos x} dx$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\frac{\\pi}{4}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\frac{\\pi}{2}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$1$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$0$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Let $I = \\int_0^{\\pi/2} \\frac{a + \\sin x}{2a + \\sin x + \\cos x} dx$. Using property $\\int_0^a f(x)dx = \\int_0^a f(a-x)dx$, $I = \\int_0^{\\pi/2} \\frac{a + \\cos x}{2a + \\cos x + \\sin x} dx$. Adding both gives $2I = \\int_0^{\\pi/2} 1 dx = \\frac{\\pi}{2} \\implies I = \\frac{\\pi}{4}$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q79",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 79,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "The non-negative values of $b$ for which the function $\\frac{16x^3}{3} - 4bx^2 + x$ has neither maximum nor minimum in the range $x > 0$ is"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$0 < b < 1$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$1 < b < 2$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$b > 2$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$0 \\le b < 1$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "$f'(x) = 16x^2 - 8bx + 1$. For $f(x)$ to have no extrema, $f'(x)$ must not change sign. The discriminant $D = 64b^2 - 64 < 0 \\implies b^2 < 1 \\implies -1 < b < 1$. For non-negative values, $0 \\le b < 1$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q80",
+    "paperId": "maths(1)2024",
+    "questionNumber": 80,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Which one of the following is correct in respect of $f(x) = \\frac{1}{\\sqrt{|x|-x}}$ and $g(x) = \\frac{1}{\\sqrt{x-|x|}}$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$f(x)$ has some domain and $g(x)$ has no domain"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$f(x)$ has no domain and $g(x)$ has some domain"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$f(x)$ and $g(x)$ have the same domain"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$f(x)$ and $g(x)$ do not have any domain"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "For $f(x)$ to be defined, $|x|-x > 0 \\implies |x| > x$, which holds for all $x < 0$. Thus, $f(x)$ has domain $(-\\infty, 0)$. For $g(x)$ to be defined, $x-|x| > 0 \\implies x > |x|$, which is impossible for any real number. Thus, $g(x)$ has no domain."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q81",
+    "paperId": "maths(1)2024",
+    "questionNumber": 81,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow: Given that $\\int \\frac{3\\cos x + 4\\sin x}{2\\cos x + 5\\sin x} dx = \\frac{\\alpha x}{29} + \\frac{\\beta}{29} \\ln|2\\cos x + 5\\sin x| + c$. What is the value of $\\alpha$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "13"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "17"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "26"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Write $3\\cos x + 4\\sin x = A(2\\cos x + 5\\sin x) + B(-2\\sin x + 5\\cos x)$. Equating coefficients of $\\cos x$ and $\\sin x$ gives $2A + 5B = 3$ and $5A - 2B = 4$. Solving these equations gives $A = \\frac{26}{29}$ and $B = \\frac{7}{29}$. The integral evaluates to $\\frac{26}{29}x + \\frac{7}{29}\\ln|2\\cos x + 5\\sin x| + c$. Therefore, $\\alpha = 26$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q82",
+    "paperId": "maths(1)2024",
+    "questionNumber": 82,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow: Given that $\\int \\frac{3\\cos x + 4\\sin x}{2\\cos x + 5\\sin x} dx = \\frac{\\alpha x}{29} + \\frac{\\beta}{29} \\ln|2\\cos x + 5\\sin x| + c$. What is the value of $\\beta$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "13"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "17"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "26"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "From the equation $B = \\frac{7}{29}$ obtained in the previous solution, we get $\\beta = 7$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q83",
+    "paperId": "maths(1)2024",
+    "questionNumber": 83,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow: Let $f(x) = \\frac{x}{\\ln x}; (x > 1)$. Consider the following statements: 1. $f(x)$ is increasing in the interval $(e, \\infty)$ 2. $f(x)$ is decreasing in the interval $(1, e)$ 3. $9\\ln 7 > 7\\ln 9$. Which of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "$f'(x) = \\frac{\\ln x - 1}{(\\ln x)^2}$. For $x > e$, $f'(x) > 0$ so $f(x)$ is increasing. For $1 < x < e$, $f'(x) < 0$ so $f(x)$ is decreasing. Hence statements 1 and 2 are correct. For statement 3, the function $\\frac{\\ln x}{x}$ is strictly decreasing for $x > e$. Since $7 < 9$, $\\frac{\\ln 7}{7} > \\frac{\\ln 9}{9} \\implies 9\\ln 7 > 7\\ln 9$. Statement 3 is also correct."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q84",
+    "paperId": "maths(1)2024",
+    "questionNumber": 84,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow: Let $f(x) = \\frac{x}{\\ln x}; (x > 1)$. Consider the following statements: 1. $f''(e) = \\frac{1}{e}$ 2. $f(x)$ attains local minimum value at $x = e$ 3. A local minimum value of $f(x)$ is $e$. Which of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "$f''(x) = \\frac{2 - \\ln x}{x(\\ln x)^3}$. At $x = e$, $f''(e) = \\frac{1}{e} > 0$, confirming statement 1 and that $x = e$ is a local minimum (statement 2). The minimum value is $f(e) = \\frac{e}{\\ln e} = e$ (statement 3). All statements are correct."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q85",
+    "paperId": "maths(1)2024",
+    "questionNumber": 85,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow: Let $f(x)$ and $g(x)$ be two functions such that $g(x) = x - \\frac{1}{x}$ and $f \\circ g(x) = x^3 - \\frac{1}{x^3}$. What is $g[f(x) - 3x]$ equal to?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$x^3 - \\frac{1}{x^3}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$x^3 + \\frac{1}{x^3}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$x^2 - \\frac{1}{x^2}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$x^2 + \\frac{1}{x^2}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Since $x^3 - \\frac{1}{x^3} = (x - \\frac{1}{x})^3 + 3(x - \\frac{1}{x})$, we get $f(t) = t^3 + 3t$, so $f(x) = x^3 + 3x$. Then $f(x) - 3x = x^3$. Thus $g[f(x) - 3x] = g(x^3) = x^3 - \\frac{1}{x^3}$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q86",
+    "paperId": "maths(1)2024",
+    "questionNumber": 86,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow: Let $f(x)$ and $g(x)$ be two functions such that $g(x) = x - \\frac{1}{x}$ and $f \\circ g(x) = x^3 - \\frac{1}{x^3}$. What is $f''(x)$ equal to?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$-\\frac{2}{x^3}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$2x + \\frac{2}{x^3}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$6x + 3$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$6x$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "From $f(x) = x^3 + 3x$, taking derivatives gives $f'(x) = 3x^2 + 3$ and $f''(x) = 6x$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q87",
+    "paperId": "maths(1)2024",
+    "questionNumber": 87,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow: Let $f(x) = |x| + 1$ and $g(x) = [x] - 1$, where $[.]$ is the greatest integer function. Let $h(x) = \\frac{f(x)}{g(x)}$. Consider the following statements: 1. $f(x)$ is differentiable for all $x < 0$ 2. $g(x)$ is continuous at $x = 0.0001$ 3. The derivative of $g(x)$ at $x = 2.5$ is 1. Which of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 and 2 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 and 3 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1 and 3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "1. For $x < 0$, $f(x) = -x + 1$, which is linear and differentiable. 2. $g(x)$ is constant in $(0, 1)$, so it is continuous at $x = 0.0001$. 3. In $(2, 3)$, $g(x) = 1$, which is constant, so its derivative at $x = 2.5$ is 0, not 1. Thus, only statements 1 and 2 are correct."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q88",
+    "paperId": "maths(1)2024",
+    "questionNumber": 88,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow: Let $f(x) = |x| + 1$ and $g(x) = [x] - 1$, where $[.]$ is the greatest integer function. Let $h(x) = \\frac{f(x)}{g(x)}$. What is $\\lim_{x \\to 0-} h(x) + \\lim_{x \\to 0+} h(x)$ equal to?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$-\\frac{3}{2}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$-\\frac{1}{2}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{3}{2}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "$\\lim_{x \\to 0-} h(x) = \\frac{-0+1}{-1-1} = -\\frac{1}{2}$. $\\lim_{x \\to 0+} h(x) = \\frac{0+1}{0-1} = -1$. Sum = $-\\frac{1}{2} - 1 = -\\frac{3}{2}$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q89",
+    "paperId": "maths(1)2024",
+    "questionNumber": 89,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow: Let $\\phi(a) = \\int_{a}^{a+100\\pi} |\\sin x| dx$. What is $\\phi(a)$ equal to?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "0"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$a$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$100a$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "200"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Since $|\\sin x|$ is periodic with period $\\pi$, the integral over an interval of length $100\\pi$ is equal to $100 \\int_{0}^{\\pi} \\sin x dx = 100 \\times 2 = 200$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q90",
+    "paperId": "maths(1)2024",
+    "questionNumber": 90,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow: Let $\\phi(a) = \\int_{a}^{a+100\\pi} |\\sin x| dx$. What is $\\phi'(a)$ equal to?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "0"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\pi$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "100"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "200"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Since $\\phi(a) = 200$ is a constant function independent of $a$, its derivative $\\phi'(a) = 0$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q91",
+    "paperId": "maths_1_2024",
+    "questionNumber": 91,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow : A differentiable function $f(x)$ has a local maximum at $x = 0$. Let $y = 2f(x) + ax - b$. Which of the following is/are correct ? 1. $f'(0) = 0$ 2. $f''(0) < 0$ Select the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "Both 1 and 2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "Neither 1 nor 2"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Since $f(x)$ is differentiable and has a local maximum at $x = 0$, $f'(0) = 0$ must hold. However, $f''(0) < 0$ is not necessary (for example, $f(x) = -x^4$ has a local maximum at $x=0$ but $f''(0) = 0$), nor is $f(x)$ required to be twice differentiable."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q92",
+    "paperId": "maths_1_2024",
+    "questionNumber": 92,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "The function $y$ has a relative maxima at $x = 0$ for"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$a > 0, b = 0$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "for all $b$ and $a = 0$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "for all $b > 0$ only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "for all $a$ and $b = 0$"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "We have $y = 2f(x) + ax - b$. Differentiating gives $y' = 2f'(x) + a$. For $x = 0$ to be a stationary point, $y'(0) = 2f'(0) + a = 0 \\implies a = 0$. Since $b$ is a constant shift, $y$ has a relative maximum at $x=0$ for $a = 0$ and any value of $b$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q93",
+    "paperId": "maths_1_2024",
+    "questionNumber": 93,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow : Let $f(x) = |x - 1|$, $g(x) = [x]$ and $h(x) = f(x)g(x)$ where $[.]$ is greatest integer function. What is $\\int_{-1}^0 h(x)dx$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$-\\frac{3}{2}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$-1$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$0$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{1}{2}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "For $x \\in (-1, 0)$, $[x] = -1$ and $|x-1| = 1 - x$. Thus $h(x) = (1-x)(-1) = x - 1$. Integrating $\\int_{-1}^0 (x-1)dx = [\\frac{x^2}{2} - x]_{-1}^0 = 0 - (\\frac{1}{2} + 1) = -\\frac{3}{2}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q94",
+    "paperId": "maths_1_2024",
+    "questionNumber": 94,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is $\\int_0^2 h(x)dx$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$-\\frac{3}{2}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$-1$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$0$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{1}{2}$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "For $x \\in (0, 1)$, $[x] = 0 \\implies h(x) = 0$. For $x \\in (1, 2)$, $[x] = 1$ and $|x-1| = x-1 \\implies h(x) = x-1$. Thus $\\int_0^2 h(x)dx = \\int_0^1 0 dx + \\int_1^2 (x-1)dx = [\\frac{(x-1)^2}{2}]_1^2 = \\frac{1}{2}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q95",
+    "paperId": "maths_1_2024",
+    "questionNumber": 95,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow : Let $\\int \\frac{dx}{\\sqrt{x+1} - \\sqrt{x-1}} = \\alpha(x+1)^{\\frac{3}{2}} + \\beta(x-1)^{\\frac{3}{2}} + c$. What is the value of $\\alpha$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\frac{1}{3}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\frac{2}{3}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$1$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{4}{3}$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Rationalizing the denominator gives $\\frac{\\sqrt{x+1} + \\sqrt{x-1}}{2}$. Integrating this yields $\\frac{1}{3}(x+1)^{3/2} + \\frac{1}{3}(x-1)^{3/2} + c$. Hence $\\alpha = \\frac{1}{3}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q96",
+    "paperId": "maths_1_2024",
+    "questionNumber": 96,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is the value of $\\beta$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$-\\frac{2}{3}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$-\\frac{1}{3}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\frac{1}{3}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{2}{3}$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "From the integration result $\\frac{1}{3}(x+1)^{3/2} + \\frac{1}{3}(x-1)^{3/2} + c$, we get $\\beta = \\frac{1}{3}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q97",
+    "paperId": "maths_1_2024",
+    "questionNumber": 97,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow : The circle $x^2 + y^2 - 2x = 0$ is partitioned by line $y = x$ in two segments. Let $A_1, A_2$ be the areas of major and minor segments respectively. What is the value of $A_1$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\frac{\\pi - 2}{4}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\frac{\\pi + 2}{4}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\frac{3\\pi - 2}{4}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{3\\pi + 2}{4}$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "The circle has center $(1, 0)$ and radius $R = 1$. The line $y = x$ cuts a central angle of $\\frac{\\pi}{2}$. Minor segment area $A_2 = \\frac{1}{2}(1)^2(\\frac{\\pi}{2}) - \\frac{1}{2}(1)^2 = \\frac{\\pi - 2}{4}$. Major segment area $A_1 = \\pi R^2 - A_2 = \\pi - \\frac{\\pi - 2}{4} = \\frac{3\\pi + 2}{4}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q98",
+    "paperId": "maths_1_2024",
+    "questionNumber": 98,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is the value of $\\frac{2(A_1 + A_2)}{A_1 - 3A_2}$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\pi$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$1$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$-1$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$-\\pi$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Total area $A_1 + A_2 = \\pi$. $A_1 - 3A_2 = \\frac{3\\pi+2}{4} - 3\\frac{\\pi-2}{4} = 2$. Therefore, $\\frac{2(A_1 + A_2)}{A_1 - 3A_2} = \\frac{2\\pi}{2} = \\pi$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q99",
+    "paperId": "maths_1_2024",
+    "questionNumber": 99,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow : Let $3f(x) + f\\left(\\frac{1}{x}\\right) = \\frac{1}{x} + 1$. What is $f(x)$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\frac{1}{8x} - \\frac{x}{8} + \\frac{1}{4}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\frac{3}{8x} - \\frac{x}{8} + \\frac{3}{4}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\frac{3}{8x} + \\frac{x}{8} + \\frac{1}{4}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{3}{8x} - \\frac{x}{8} + \\frac{1}{4}$"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Given $3f(x) + f(1/x) = 1/x + 1$ (1) and $3f(1/x) + f(x) = x + 1$ (2). Multiplying (1) by 3 and subtracting (2) gives $8f(x) = \\frac{3}{x} - x + 2 \\implies f(x) = \\frac{3}{8x} - \\frac{x}{8} + \\frac{1}{4}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q100",
+    "paperId": "maths_1_2024",
+    "questionNumber": 100,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "What is $8\\int_1^2 f(x)dx$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\ln(8\\sqrt{e})$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\ln(4\\sqrt{e})$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\ln 2$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\ln 2 - 1$"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "$8\\int_1^2 f(x)dx = \\int_1^2 (\\frac{3}{x} - x + 2) dx = [3\\ln x - \\frac{x^2}{2} + 2x]_1^2 = 3\\ln 2 + \\frac{1}{2} = \\ln 8 + \\ln \\sqrt{e} = \\ln(8\\sqrt{e})$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q101",
+    "paperId": "maths_1_2024",
+    "questionNumber": 101,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "A bag contains 5 black and 4 white balls. A man selects two balls at random. What is the probability that both of these are of the same colour ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$\\frac{1}{6}$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$\\frac{5}{108}$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$\\frac{4}{9}$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$\\frac{5}{18}$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Total ways to choose 2 balls = $\\binom{9}{2} = 36$. Favorable ways = $\\binom{5}{2} + \\binom{4}{2} = 10 + 6 = 16$. Probability = $\\frac{16}{36} = \\frac{4}{9}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q102",
+    "paperId": "maths_1_2024",
+    "questionNumber": 102,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If a random variable $(x)$ follows binomial distribution with mean 5 and variance 4, and $5^{23}P(X = 3) = \\lambda 4^{\\lambda}$, then what is the value of $\\lambda$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "$3$"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "$5$"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "$23$"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "$25$"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Mean $np = 5$, variance $npq = 4 \\implies q = 4/5, p = 1/5, n = 25$. $P(X = 3) = \\binom{25}{3}(1/5)^3(4/5)^{22} = 2300 \\cdot \\frac{4^{22}}{5^{25}}$. Then $5^{23}P(X = 3) = 2300 \\cdot \\frac{4^{22}}{25} = 92 \\cdot 4^{22} = 23 \\cdot 4^{23}$. Comparing with $\\lambda 4^{\\lambda}$ gives $\\lambda = 23$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q103",
+    "paperId": "maths_2024",
+    "questionNumber": 103,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "From data $(-4, 1)$, $(-1, 2)$, $(2, 7)$ and $(3, 1)$, the regression line of $y$ on $x$ is obtained as $y = a + bx$, then what is the value of $2a + 15b$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "11"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "17"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "21"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Given data points: $(-4, 1), (-1, 2), (2, 7), (3, 1)$. Here $N = 4$.\n$\\sum x = -4 - 1 + 2 + 3 = 0 \\implies \\bar{x} = 0$.\n$\\sum y = 1 + 2 + 7 + 1 = 11 \\implies \\bar{y} = \\frac{11}{4}$.\n$\\sum x^2 = 16 + 1 + 4 + 9 = 30$.\n$\\sum xy = -4 - 2 + 14 + 3 = 11$.\n\nSlope $b = \\frac{\\sum xy - N\\bar{x}\\bar{y}}{\\sum x^2 - N\\bar{x}^2} = \\frac{11 - 0}{30 - 0} = \\frac{11}{30}$.\nIntercept $a = \\bar{y} - b\\bar{x} = \\frac{11}{4}$.\nThen $2a + 15b = 2\\left(\\frac{11}{4}\\right) + 15\\left(\\frac{11}{30}\\right) = \\frac{11}{2} + \\frac{11}{2} = 11$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q104",
+    "paperId": "maths_2024",
+    "questionNumber": 104,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Let $x + 2y + 1 = 0$ and $2x + 3y + 4 = 0$ are two lines of regression computed from some bivariate data. If $\\theta$ is the acute angle between them, then what is the value of $488 \\tan 3\\theta$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "191"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "161"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "131"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "121"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "Slopes of the given lines are $m_1 = -\\frac{1}{2}$ and $m_2 = -\\frac{2}{3}$.\n$\\tan \\theta = \\left| \\frac{-\\frac{1}{2} - (-\\frac{2}{3})}{1 + (-\\frac{1}{2})(-\\frac{2}{3})} \\right| = \\left| \\frac{\\frac{1}{6}}{\\frac{4}{3}} \\right| = \\frac{1}{8}$.\nUsing the triple angle formula:\n$\\tan 3\\theta = \\frac{3\\tan\\theta - \\tan^3\\theta}{1 - 3\\tan^2\\theta} = \\frac{3(\\frac{1}{8}) - (\\frac{1}{8})^3}{1 - 3(\\frac{1}{8})^2} = \\frac{\\frac{191}{512}}{\\frac{61}{64}} = \\frac{191}{488}$.\nThus, $488 \\tan 3\\theta = 191$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q105",
+    "paperId": "maths_2024",
+    "questionNumber": 105,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If two random variables $X$ and $Y$ are connected by relation\n$\\frac{2X - 3Y}{5X + 4Y} = 4$ and $X$ follows Binomial distribution with parameters $n = 10$ and $p = \\frac{1}{2}$, then what is the variance of $Y$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\frac{810}{361}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{9}{19}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{21}{361}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\frac{121}{361}"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "From $\\frac{2X - 3Y}{5X + 4Y} = 4$, we get $2X - 3Y = 20X + 16Y \\implies 19Y = -18X \\implies Y = -\\frac{18}{19}X$.\nTherefore, $V(Y) = \\left(-\\frac{18}{19}\\right)^2 V(X) = \\frac{324}{361} V(X)$.\nSince $X \\sim B(10, 1/2)$, $V(X) = np(1-p) = 10 \\times \\frac{1}{2} \\times \\frac{1}{2} = \\frac{5}{2}$.\nHence, $V(Y) = \\frac{324}{361} \\times \\frac{5}{2} = \\frac{810}{361}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q106",
+    "paperId": "maths_2024",
+    "questionNumber": 106,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If $a, b, c$ are in HP, then what is\n$\\frac{1}{b-a} + \\frac{1}{b-c}$ equal to?\n1. $\\frac{2}{b}$\n2. $\\frac{1}{a} + \\frac{1}{c}$\n3. $\\frac{1}{2}\\left(\\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c}\\right)$\n\nSelect the correct answer using the code given below :"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "1 only"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "2 only"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "3 only"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1, 2 and 3"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Since $a, b, c$ are in HP, $b = \\frac{2ac}{a+c}$ and $\\frac{2}{b} = \\frac{1}{a} + \\frac{1}{c}$.\nNow, $\\frac{1}{b-a} + \\frac{1}{b-c} = \\frac{2b - a - c}{b^2 - (a+c)b + ac}$.\nSubstituting $ac = \\frac{b(a+c)}{2}$, the denominator becomes $b\\left(b - \\frac{a+c}{2}\\right) = \\frac{b(2b - a - c)}{2}$.\nThus, $\\frac{1}{b-a} + \\frac{1}{b-c} = \\frac{2}{b} = \\frac{1}{a} + \\frac{1}{c}$.\nBoth statements 1 and 2 are equal to the given expression."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q107",
+    "paperId": "maths_2024",
+    "questionNumber": 107,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "An edible oil is sold at the rates 150, 200, 250, 300 rupees per litre in four consecutive years. Assuming that an equal amount of money is spent on oil by a family in every year during these years, what is the average price of oil in rupees (approximately) per litre?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "210"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "220"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "230"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "240"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "When equal money is spent each year, the average price is given by the Harmonic Mean of the rates:\n$HM = \\frac{4}{\\frac{1}{150} + \\frac{1}{200} + \\frac{1}{250} + \\frac{1}{300}} = \\frac{4}{\\frac{20 + 15 + 12 + 10}{3000}} = \\frac{4 \\times 3000}{57} = \\frac{4000}{19} \\approx 210.526 \\approx 210$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q108",
+    "paperId": "maths_2024",
+    "questionNumber": 108,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "If the letters of the word \"TIRUPATI\" are written down at random, then what is the probability that both Ts are always consecutive?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\frac{1}{2}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{1}{4}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{1}{7}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\frac{1}{14}"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "The word TIRUPATI has 8 letters: T(2), I(2), R(1), U(1), P(1), A(1).\nTotal permutations = $\\frac{8!}{2!2!}$.\nTreating the two Ts as one block (TT), we have 7 entities: (TT), I, I, R, U, P, A.\nFavorable permutations = $\\frac{7!}{2!}$.\nProbability = $\\frac{7!/2!}{8!/(2!2!)} = \\frac{2!}{8} = \\frac{1}{4}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q109",
+    "paperId": "maths_2024",
+    "questionNumber": 109,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Let $m = 77^n$. The index $n$ is given a positive integral value at random. What is the probability that the value of $m$ will have 1 in the units place?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\frac{1}{2}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{1}{3}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{1}{4}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\frac{1}{n}"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The unit digit of $77^n$ depends on $7^n$, which has a cyclicity of 4: $7, 9, 3, 1$.\nThe unit digit is 1 when $n$ is a multiple of 4 ($n = 4k$).\nTherefore, out of every 4 consecutive integral powers, exactly 1 has unit digit 1.\nProbability = $\\frac{1}{4}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q110",
+    "paperId": "maths_2024",
+    "questionNumber": 110,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Three different numbers are selected at random from the first 15 natural numbers. What is the probability that the product of two of the numbers is equal to third number?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\frac{1}{91}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{2}{455}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{1}{65}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\frac{6}{455}"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Total ways to choose 3 numbers from 15 natural numbers = $\\binom{15}{3} = 455$.\nFavorable triplets $(a, b, c)$ where $a \\times b = c$ with distinct $a, b, c \\in \\{1, 2, \\dots, 15\\}$:\n- $2 \\times 3 = 6 \\implies \\{2, 3, 6\\}$\n- $2 \\times 4 = 8 \\implies \\{2, 4, 8\\}$\n- $2 \\times 5 = 10 \\implies \\{2, 5, 10\\}$\n- $2 \\times 6 = 12 \\implies \\{2, 6, 12\\}$\n- $2 \\times 7 = 14 \\implies \\{2, 7, 14\\}$\n- $3 \\times 4 = 12 \\implies \\{3, 4, 12\\}$\n- $3 \\times 5 = 15 \\implies \\{3, 5, 15\\}$\nThere are 7 such triplets.\nProbability = $\\frac{7}{455} = \\frac{1}{65}$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q111",
+    "paperId": "maths_2024",
+    "questionNumber": 111,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow :\n\nLet $A$ and $B$ be two events such that $P(A \\cup B) \\ge 0.75$ and $0.125 \\le P(A \\cap B) \\le 0.375$.\n\nWhat is the minimum value of $P(A) + P(B)$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "0.625"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "0.750"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "0.825"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "0.875"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "$P(A) + P(B) = P(A \\cup B) + P(A \\cap B)$.\nTo minimize $P(A) + P(B)$, we take the minimum values of $P(A \\cup B)$ and $P(A \\cap B)$.\nMinimum value = $0.75 + 0.125 = 0.875$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q112",
+    "paperId": "maths_2024",
+    "questionNumber": 112,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow :\n\nLet $A$ and $B$ be two events such that $P(A \\cup B) \\ge 0.75$ and $0.125 \\le P(A \\cap B) \\le 0.375$.\n\nWhat is the maximum value of $P(A) + P(B)$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "0.75"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "1.125"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "1.375"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1.625"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "$P(A) + P(B) = P(A \\cup B) + P(A \\cap B)$.\nTo maximize $P(A) + P(B)$, we take the maximum possible value for $P(A \\cup B)$ (which is 1) and maximum value for $P(A \\cap B)$ (which is 0.375).\nMaximum value = $1 + 0.375 = 1.375$."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q113",
+    "paperId": "maths_2024",
+    "questionNumber": 113,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow :\n\n$A, B$ and $C$ are three events such that $P(A) = 0.6, P(B) = 0.4, P(C) = 0.5, P(A \\cup B) = 0.8, P(A \\cap C) = 0.3$ and $P(A \\cap B \\cap C) = 0.2$ and $P(A \\cup B \\cup C) \\ge 0.85$.\n\nWhat is the minimum value of $P(B \\cap C)$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "0.1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "0.2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "0.35"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "0.45"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "$P(A \\cap B) = P(A) + P(B) - P(A \\cup B) = 0.6 + 0.4 - 0.8 = 0.2$.\nBy Inclusion-Exclusion:\n$P(A \\cup B \\cup C) = P(A) + P(B) + P(C) - P(A \\cap B) - P(B \\cap C) - P(A \\cap C) + P(A \\cap B \\cap C)$\n$= 0.6 + 0.4 + 0.5 - 0.2 - P(B \\cap C) - 0.3 + 0.2 = 1.2 - P(B \\cap C)$.\nSince $P(A \\cup B \\cup C) \\le 1 \\implies 1.2 - P(B \\cap C) \\le 1 \\implies P(B \\cap C) \\ge 0.2$.\nThus, the minimum value of $P(B \\cap C)$ is 0.2."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q114",
+    "paperId": "maths_2024",
+    "questionNumber": 114,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow :\n\n$A, B$ and $C$ are three events such that $P(A) = 0.6, P(B) = 0.4, P(C) = 0.5, P(A \\cup B) = 0.8, P(A \\cap C) = 0.3$ and $P(A \\cap B \\cap C) = 0.2$ and $P(A \\cup B \\cup C) \\ge 0.85$.\n\nWhat is the maximum value of $P(B \\cap C)$?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "0.1"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "0.2"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "0.35"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "0.45"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "From $P(A \\cup B \\cup C) = 1.2 - P(B \\cap C)$ and $P(A \\cup B \\cup C) \\ge 0.85$:\n$1.2 - P(B \\cap C) \\ge 0.85 \\implies P(B \\cap C) \\le 0.35$.\nThus, the maximum value of $P(B \\cap C)$ is 0.35."
+    },
+    "marks": 2.5,
+    "negativeMarks": 0.83
+  },
+  {
+    "questionId": "maths(1)2024-Q115",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 115,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow : An unbiased coin is tossed $n$ times. The probability of getting at least one tail is $p$ and the probability of at least two tails is $q$ and $p - q = \\frac{5}{32}$. What is the value of $n$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "7"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "Let $X$ be the number of tails. $p = P(X \\ge 1) = 1 - P(X = 0)$ and $q = P(X \\ge 2) = 1 - P(X = 0) - P(X = 1)$. Thus, $p - q = P(X = 1) = \\binom{n}{1} \\left(\\frac{1}{2}\\right)^n = \\frac{n}{2^n}$. Given $p - q = \\frac{5}{32} = \\frac{5}{2^5}$, comparing both sides gives $n = 5$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q116",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 116,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow : An unbiased coin is tossed $n$ times. The probability of getting at least one tail is $p$ and the probability of at least two tails is $q$ and $p - q = \\frac{5}{32}$. What is the value of $p + q$ ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\frac{57}{32}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{53}{32}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{51}{32}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "1"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "explanation": "For $n = 5$, $p = 1 - \\frac{1}{32} = \\frac{31}{32}$ and $q = 1 - \\frac{1}{32} - \\frac{5}{32} = \\frac{26}{32}$. Therefore, $p + q = \\frac{31}{32} + \\frac{26}{32} = \\frac{57}{32}$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q117",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 117,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow : $x_i$: 1, 2, 3, ..., $n$; $f_i$: 1, $2^{-1}$, $2^{-2}$, ..., $2^{-(n-1)}$. What is $\\sum_{i}^n x_i f_i$ equal to ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\frac{2^{n+1}-n+2}{2^{n-1}}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{2^{n+1}-n-2}{2^{n-1}}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{2^{n+1}+n+2}{2^{n-1}}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\frac{2^{n+1}-n-2}{2^n}"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "explanation": "$\\sum_{i=1}^n x_i f_i = 1 + 2 \\cdot 2^{-1} + 3 \\cdot 2^{-2} + \\dots + n \\cdot 2^{-(n-1)}$. Using the arithmetico-geometric series summation method, $S = \\frac{2^{n+1}-n-2}{2^{n-1}}$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q118",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 118,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow : $x_i$: 1, 2, 3, ..., $n$; $f_i$: 1, $2^{-1}$, $2^{-2}$, ..., $2^{-(n-1)}$. What is the mean of the distribution ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "\\frac{2^{n+1}-n+2}{2^n-1}"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "\\frac{2^{n+1}-n-2}{2^{n-1}}"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "\\frac{2^{n+1}-n-2}{2^n-1}"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "\\frac{2^{n+1}-n+2}{2^n}"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "Total frequency $N = \\sum_{i=1}^n f_i = 1 + 2^{-1} + 2^{-2} + \\dots + 2^{-(n-1)} = \\frac{1 - 2^{-n}}{1 - 1/2} = \\frac{2^n - 1}{2^{n-1}}$. The mean is $\\frac{\\sum x_i f_i}{\\sum f_i} = \\frac{\\frac{2^{n+1}-n-2}{2^{n-1}}}{\\frac{2^n-1}{2^{n-1}}} = \\frac{2^{n+1}-n-2}{2^n-1}$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q119",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 119,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow : The marks obtained by 10 students in a Statistics test are 24, 47, 18, 32, 19, 15, 21, 35, 50 and 41. What is the mean deviation of the largest five observations ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "4.8"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "5.5"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "7.5"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "explanation": "The largest five observations are 32, 35, 41, 47, 50. Mean $\\bar{x} = \\frac{32 + 35 + 41 + 47 + 50}{5} = \\frac{205}{5} = 41$. Mean deviation about mean = $\\frac{|32-41| + |35-41| + |41-41| + |47-41| + |50-41|}{5} = \\frac{9 + 6 + 0 + 6 + 9}{5} = \\frac{30}{5} = 6$."
+    }
+  },
+  {
+    "questionId": "maths(1)2024-Q120",
+    "paperId": "RRAN-B-MTH",
+    "questionNumber": 120,
+    "section": "Mathematics",
+    "question": {
+      "type": "latex",
+      "content": "Consider the following for the next two (02) items that follow : The marks obtained by 10 students in a Statistics test are 24, 47, 18, 32, 19, 15, 21, 35, 50 and 41. What is the variance of the largest five observations ?"
+    },
+    "options": [
+      {
+        "label": "A",
+        "type": "latex",
+        "content": "14.6"
+      },
+      {
+        "label": "B",
+        "type": "latex",
+        "content": "21.8"
+      },
+      {
+        "label": "C",
+        "type": "latex",
+        "content": "25.2"
+      },
+      {
+        "label": "D",
+        "type": "latex",
+        "content": "46.8"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "explanation": "Mean $\\bar{x} = 41$. Sum of squared deviations = $(32-41)^2 + (35-41)^2 + (41-41)^2 + (47-41)^2 + (50-41)^2 = 81 + 36 + 0 + 36 + 81 = 234$. Variance = $\\frac{234}{5} = 46.8$."
+    }
+  }
+]
